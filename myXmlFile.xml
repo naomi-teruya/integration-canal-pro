@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
+  <Header>
+    <Provider>Naomi Teruya</Provider>
+    <Email>kelly.teruya@superbid.net</Email>
+    <ContactName>Superbid Exchange</ContactName>
+    <PublishDate>2023-09-06T17:47:57</PublishDate>
+    <Telephone>11-96456 0535</Telephone>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>2881356</ListingID>
+      <Title>Casa, Ocupado, 209.0 m2, Salto / SP (41% abaixo da avaliação)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2881356</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img1" primary="true">https://ms.sbwebservices.net/photos/e735670a-d62e-45eb-b773-eb87f2c1fa7f.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4fb5a30c-586a-4c12-8b0c-d3f5d4ac871c.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d3d14087-acb7-4e44-b16a-351eb945aa7b.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/83881485-8763-47d5-98b5-21305f32487a.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/7e86e7aa-4e49-4962-87ca-a853e7e66d3a.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/efa00ebf-f5c1-4695-b651-3ba04d2c2206.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/37a17c04-0fce-4351-8e65-6e8d5dc81a9d.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/3cdef288-1de3-4302-9a39-2bd89bb5f572.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/b77b92ce-dbec-4bb7-b464-d8f3341cc965.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/e8fb570f-6d76-4e45-aaad-ff76c56f58eb.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/707485c3-96a4-4186-a7cb-6f5d99c12c1c.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/6bab78b7-b4b8-440b-80d9-fcebc0d5d876.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/56423831-4360-4c3a-ad32-ca037af440da.jpg</Item>
+        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/56423831-4360-4c3a-ad32-ca037af440da.jpg</Item>
+        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/e845419a-71d7-4a81-b0e0-b039f590aac8.jpg</Item>
+        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/4f01adfd-437f-4d45-8261-09855d299ae4.jpg</Item>
+        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/b768c13e-6c94-42d6-83a5-f2b72c0d8a49.jpg</Item>
+        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/63ebecf7-300c-492e-82ad-72467d186b83.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, Padrão, Ocupado. Área(s): 209 m² de área total, 165,54 m² de área construída. Matrícula(s): 3.352. Cartório: CRI DE SALTO. Inscrição da Prefeitura: 01.04.0090.0180.0001.]]></Description>
+        <ListPrice currency="BRL">220080</ListPrice>
+        <LivingArea unit="square metres">209</LivingArea>
+        <PropertyAdministrationFee currency="BRL">980</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">568</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">Sao Paulo</State>
+        <City>São Paulo</City>
+        <Zone>Zona Leste</Zone>
+        <Neighborhood>Nossa Senhora Do Monte Serrat</Neighborhood>
+        <Address>Rua Dos Estudantes</Address>
+        <StreetNumber>69</StreetNumber>
+        <PostalCode>13323-333</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Imobiliaria Feliz</Name>
+        <Email>contato@imobiliariafeliz.com.br</Email>
+        <Website>http://www.imobiliariafeliz.com.br</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>
