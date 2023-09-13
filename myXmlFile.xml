@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-13T10:04:35</PublishDate>
+      <PublishDate>2023-09-13T10:05:55</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -15,12 +15,13 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>http://www.superbid.net/oferta/2908761</DetailViewUrl>
       <Media>
-      	<Item medium="image" caption="img01" primary="true">https://ms.sbwebservices.net/photos/54da93eb-5117-41c2-b9ae-a14edeb33f37.jpg</Item>
-	<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3f39c346-009f-4a5d-95d0-c091e88bd6b2.jpg</Item>
-	<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5ffd8827-56bf-4eee-bd7d-049db315d091.jpg</Item>
-	<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8f11d4d3-915b-4c34-8302-a8d447072d55.jpg</Item>
-	<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/b6dab692-0b97-48e5-9478-127eae27bb90.jpg</Item>
-</Media>
+    <Item medium="image" caption="img01" primary="true">https://ms.sbwebservices.net/photos/54da93eb-5117-41c2-b9ae-a14edeb33f37.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3f39c346-009f-4a5d-95d0-c091e88bd6b2.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5ffd8827-56bf-4eee-bd7d-049db315d091.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8f11d4d3-915b-4c34-8302-a8d447072d55.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/b6dab692-0b97-48e5-9478-127eae27bb90.jpg</Item>
+
+  </Media>
       <Details>
           <UsageType>Residential</UsageType>
           <PropertyType>Residential / Home</PropertyType>
@@ -53,12 +54,13 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>http://www.superbid.net/oferta/2910620</DetailViewUrl>
       <Media>
-      	<Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3204b0e3-f7e2-443b-a09c-6cf4257834fc.jpg</Item>
-	<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f66a7df9-ebfc-478a-bac3-ec444b41aa75.jpg</Item>
-	<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4b58997e-a888-4850-9a39-84eb86cedf20.jpg</Item>
-	<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/eb3f2640-9528-4db4-8016-87ee45602fd5.jpg</Item>
-	<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/774d541b-6cb0-4e68-b752-e0b3269f2781.jpg</Item>
-</Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3204b0e3-f7e2-443b-a09c-6cf4257834fc.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f66a7df9-ebfc-478a-bac3-ec444b41aa75.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4b58997e-a888-4850-9a39-84eb86cedf20.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/eb3f2640-9528-4db4-8016-87ee45602fd5.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/774d541b-6cb0-4e68-b752-e0b3269f2781.jpg</Item>
+
+  </Media>
       <Details>
           <UsageType>Residential</UsageType>
           <PropertyType>Residential / Home</PropertyType>
@@ -91,36 +93,37 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>http://www.superbid.net/oferta/2917490</DetailViewUrl>
       <Media>
-      	<Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c4dd6a89-057d-4473-9c21-d45419fa3817.jpg</Item>
-	<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/cad90d44-46cf-437e-bf29-9e7b4d843241.jpg</Item>
-	<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b7ddeadb-a052-430f-83e1-3a11f274ddac.jpg</Item>
-	<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d5d44c0a-524e-4a80-a9c2-852373743269.jpg</Item>
-	<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/65519e0e-45dc-468b-956e-aa994c3af881.jpg</Item>
-	<Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/52ed0309-dfd7-49a7-93e1-15e71279821c.jpg</Item>
-	<Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/f9d60ffa-33e2-4615-ab41-948534e89aea.jpg</Item>
-	<Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/1ecff8c5-64d7-42ca-b716-536a4a752112.jpg</Item>
-	<Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/cd03ab90-f298-45a4-b6eb-829652d90983.jpg</Item>
-	<Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/83afa4d1-ab0a-45e5-a1a4-94c452f99a10.jpg</Item>
-	<Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/5b9de73e-63db-4518-a84d-1dbe32170860.jpg</Item>
-	<Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/af0cf31a-11f8-4bf9-8ad9-c8c549abad83.jpg</Item>
-	<Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/d09879d9-ca05-4017-a10c-3821006ddfab.jpg</Item>
-	<Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/d74233a5-0619-4412-b63d-8ac16b4248bc.jpg</Item>
-	<Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/e5798f43-6bbe-4dc9-ae44-2c5ec5877269.jpg</Item>
-	<Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/1ed81100-1522-4062-8efa-4d49aa9f0dd9.jpg</Item>
-	<Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/f22ef5f9-1ab2-4e5b-8ad7-5c0a695751ce.jpg</Item>
-	<Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/b4a7a39f-89b3-4958-826a-04e4565be29a.jpg</Item>
-	<Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/c653e1b4-6891-49f6-a30d-4f2157267637.jpg</Item>
-	<Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/e6099bfc-3bb6-43fe-b810-86d3e8f80911.jpg</Item>
-	<Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/d694694f-b3e6-41d3-ac23-11660ecac6e6.jpg</Item>
-	<Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/cef5870f-2fae-42ea-aac6-562f443de90e.jpg</Item>
-	<Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/c53631ef-9da4-454b-85ad-3ab3463a93bb.jpg</Item>
-	<Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/9e2b2eb1-4643-483f-acdf-2c8763e7d7d7.jpg</Item>
-	<Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/79559aa3-e1a7-426e-a0ba-1195c1d8c539.jpg</Item>
-	<Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/8bcd4c07-4e00-4965-8eaa-8a636544f336.jpg</Item>
-	<Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/73e5eb54-07d2-48ae-aef1-ad635eacfaa1.jpg</Item>
-	<Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/9c5125de-e5ac-46df-ad43-74064f23d1f9.jpg</Item>
-	<Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/a58819ee-66ba-4e18-9702-bd4b0b373a5b.jpg</Item>
-</Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c4dd6a89-057d-4473-9c21-d45419fa3817.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/cad90d44-46cf-437e-bf29-9e7b4d843241.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b7ddeadb-a052-430f-83e1-3a11f274ddac.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d5d44c0a-524e-4a80-a9c2-852373743269.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/65519e0e-45dc-468b-956e-aa994c3af881.jpg</Item>
+<Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/52ed0309-dfd7-49a7-93e1-15e71279821c.jpg</Item>
+<Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/f9d60ffa-33e2-4615-ab41-948534e89aea.jpg</Item>
+<Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/1ecff8c5-64d7-42ca-b716-536a4a752112.jpg</Item>
+<Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/cd03ab90-f298-45a4-b6eb-829652d90983.jpg</Item>
+<Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/83afa4d1-ab0a-45e5-a1a4-94c452f99a10.jpg</Item>
+<Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/5b9de73e-63db-4518-a84d-1dbe32170860.jpg</Item>
+<Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/af0cf31a-11f8-4bf9-8ad9-c8c549abad83.jpg</Item>
+<Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/d09879d9-ca05-4017-a10c-3821006ddfab.jpg</Item>
+<Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/d74233a5-0619-4412-b63d-8ac16b4248bc.jpg</Item>
+<Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/e5798f43-6bbe-4dc9-ae44-2c5ec5877269.jpg</Item>
+<Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/1ed81100-1522-4062-8efa-4d49aa9f0dd9.jpg</Item>
+<Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/f22ef5f9-1ab2-4e5b-8ad7-5c0a695751ce.jpg</Item>
+<Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/b4a7a39f-89b3-4958-826a-04e4565be29a.jpg</Item>
+<Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/c653e1b4-6891-49f6-a30d-4f2157267637.jpg</Item>
+<Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/e6099bfc-3bb6-43fe-b810-86d3e8f80911.jpg</Item>
+<Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/d694694f-b3e6-41d3-ac23-11660ecac6e6.jpg</Item>
+<Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/cef5870f-2fae-42ea-aac6-562f443de90e.jpg</Item>
+<Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/c53631ef-9da4-454b-85ad-3ab3463a93bb.jpg</Item>
+<Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/9e2b2eb1-4643-483f-acdf-2c8763e7d7d7.jpg</Item>
+<Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/79559aa3-e1a7-426e-a0ba-1195c1d8c539.jpg</Item>
+<Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/8bcd4c07-4e00-4965-8eaa-8a636544f336.jpg</Item>
+<Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/73e5eb54-07d2-48ae-aef1-ad635eacfaa1.jpg</Item>
+<Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/9c5125de-e5ac-46df-ad43-74064f23d1f9.jpg</Item>
+<Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/a58819ee-66ba-4e18-9702-bd4b0b373a5b.jpg</Item>
+
+  </Media>
       <Details>
           <UsageType>Residential</UsageType>
           <PropertyType>Residential / Home</PropertyType>
