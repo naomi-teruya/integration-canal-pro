@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
-      <Header>
-        <Provider>Naomi Teruya</Provider>
-        <Email>kelly.teruya@superbid.net</Email>
-        <ContactName>Superbid Exchange</ContactName>
-        <PublishDate>2023-09-13T09:33:34</PublishDate>
-        <Telephone>11-3296 7555</Telephone>
-      </Header>
-      <Listings>
-        <Listing>
+  <ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
+    <Header>
+      <Provider>Naomi Teruya</Provider>
+      <Email>kelly.teruya@superbid.net</Email>
+      <ContactName>Superbid Exchange</ContactName>
+      <PublishDate>2023-09-13T09:34:24</PublishDate>
+      <Telephone>11-3296 7555</Telephone>
+    </Header>
+    <Listings>
+      <Listing>
       <ListingID>2908761</ListingID>
       <Title>Apto. 54m² no Espinheiros, Itajaí/SC</Title>
       <TransactionType>For Sale</TransactionType>
@@ -147,5 +147,5 @@
       </ContactInfo>
     </Listing>
 
-      </Listings>
-    </ListingDataFeed>
+    </Listings>
+  </ListingDataFeed>
