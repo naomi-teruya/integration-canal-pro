@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-14T16:26:10</PublishDate>
+      <PublishDate>2023-09-14T16:30:20</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -2989,6 +2989,45 @@
           <Address>Avenida Iguassú</Address>
           <StreetNumber>nº 331</StreetNumber>
           <PostalCode>90470-430</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2917886</ListingID>
+      <Title>Apto. 87m², 2 vagas no Jardim Tupanci, Barueri/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2917886</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/bdef5ab9-2829-4744-86d1-c19495610bd5.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/693231cf-5b11-4d9f-82aa-019101305d6a.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a2d04a2c-c8a8-48c6-b7b1-ffdc8e8c8f07.jpg</Item>
+<Item medium="image" caption="img04" primary="true">https://ms.sbwebservices.net/photos/790aa461-88a1-4a64-ba7a-9b1696c56b3f.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/64423315-8ea0-4d87-9232-3400b6321503.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apto. 87m², 2 vagas no Jardim Tupanci, Barueri/SP Apartamento - no Jardim Tupanci  Localização: R. Werner Goldberg, nº 157, Cond. Reserva do Alto, apto. 221, Jardim Tupanci, Barueri/SP, 06414-025  Área Privativa: 87m² Área Comum: 93m² 2 vagas  Matrícula: nº 178.315 RGI: Cartório de Registro de Imóveis de Barueri/SP Inscrição Prefeitura: 24453.43.09.0001.04.173-2  DOSSIÊ: 20208  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 23/Out/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 868.903,20.  2ª Praça: Abertura: 23/Out/2023 a partir das 09h31 Fechamento: 24/Out/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 400.089,04.                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 54% de deságio sobre o valor de avaliação.  Sold Imóveis - Santander - Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">868903.2</ListPrice>
+          <LivingArea unit="square metres">87</LivingArea>
+          <Bedrooms>1</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Suites>1</Suites>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">São Paulo</State>
+          <City>Barueri - SP</City>
+          <Address>R. Werner Goldberg</Address>
+          <StreetNumber>nº 157</StreetNumber>
+          <PostalCode>06414-025</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
