@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-14T16:25:04</PublishDate>
+      <PublishDate>2023-09-14T16:26:10</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -2951,6 +2951,44 @@
           <Address>Rua 17 casa nº 06</Address>
           <StreetNumber>Setor B</StreetNumber>
           <PostalCode>78089-648</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2893543</ListingID>
+      <Title>Apto 96m², Ocupado, 1 Vaga no Petrópolis em Porto Alegre/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2893543</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/84a21fe0-b56e-4013-a772-32252ed087f0.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/815f7829-ae83-41e0-b658-2095097e7dbd.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/fffe1c38-0a89-476a-ba7c-cc180ae64a94.jpg</Item>
+<Item medium="image" caption="img04" primary="true">https://ms.sbwebservices.net/photos/5145618f-f875-4f84-9602-46c2e60e92f7.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apto 96m², Ocupado, 1 Vaga no Petrópolis em Porto Alegre/RS Apto 96m², Ocupado, 1 Vaga no Petrópolis em Porto Alegre/RS - O Apartamento nº 303 do Edifício Residencial Vivendas Iguaçu, sito na Avenida Iguassú, nº 331, localizado no 2º andar ou 3º pavimento, com terraço, de fundos e a esquerda de quem de frente olha o edifício, com a área real privativa de 74,9131m², área real total de 96,5283m², correspondendo-lhe a fração ideal de 0,020926 no condomínio e no terreno onde assenta construção, melhor descrito na matricula do imóvel. Matrícula nº 183.604 do Cartório de Registro de Imóveis da 1ª Zona de Porto Alegre/RS. Cadastrado na Prefeitura Municipal sob n°: 11522801. E o Box simples e coberto nº 37 do Edifício Residencial Vivendas Iguaçu, sito na Avenida Iguassú, nº 331, localizado no 1º andar ou 2º pavimento, de centro, com acesso pela rampa a esquerda da Av. Iguassu, sendo o 1º a direita de quem entra pela circulação de veículos, com a área real privativa de 12,9789m², área real total de 15,4331m², correspondendo-lhe a fração ideal de 0,002376 no condomínio e no terreno onde assenta construção, melhor descrito na matricula do imóvel. Matrícula nº 183.673 do Cartório de Registro de Imóveis da 1ª Zona de Porto Alegre/RS. Cadastrado na Prefeitura Municipal sob n°: 11523565.  Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 06/Set/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 585.255,60.  2ª Praça:  Abertura: 06/Set/2023 a partir das 09h01 Fechamento: 15/Set/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 243.795,61.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 58% de deságio sobre o valor de avaliação. 1 Sold Imóveis - Creditas - Leilão de Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">243795.61</ListPrice>
+          <LivingArea unit="square metres">74</LivingArea>
+          <Bedrooms>1</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Suites>1</Suites>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="no">Rio Grande do Sul</State>
+          <City>Porto Alegre - RS</City>
+          <Address>Avenida Iguassú</Address>
+          <StreetNumber>nº 331</StreetNumber>
+          <PostalCode>90470-430</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
