@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-21T16:15:23</PublishDate>
+      <PublishDate>2023-09-21T16:16:28</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3560,6 +3560,44 @@
           <Address>Rua 204</Address>
           <StreetNumber>122</StreetNumber>
           <PostalCode>61910125</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2916952</ListingID>
+      <Title>Casa 162m², Ocupado, Bosque Jambalaia, em Magé/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2916952</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01" primary="true">https://ms.sbwebservices.net/photos/4abba49a-fc67-4592-8bdd-e758c98a10cf.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/cbdd8c15-b3fd-41a2-8c84-df4eb9cba0e9.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/e7098d4f-f47f-4ca5-9827-0ac5d84734f0.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/ed6af955-1c0a-468f-aea0-b8b0e8197fdc.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Casa 162m², Ocupado, Bosque Jambalaia, em Magé/RJ Casa 162m², Ocupado, Bosque Jambalaia, em Magé/RJ  Localização: Rua Projetada, nº 1.389, Lote 20 da Quadra 05, Bosque Jambalaia, em Magé/RJ  -  CEP:  25903-775  área de terreno: 19.372,00m² área construída: 162,25m²  Matrículas: 15.747 do Cartório do 2º Ofício de Magé/RJ - Ofícios e Atos do Registro de Imóveis Inscrição Prefeitura: 114824  DOSSIÊ: 20128  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/09/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.264.000,00  2ª Praça: Abertura: 21/09/2023 a partir das 09h31 Fechamento: 22/09/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 1.048.912,36                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 17% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">1048912.36</ListPrice>
+          <LivingArea unit="square metres">19371</LivingArea>
+          <Bedrooms>1</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Suites>1</Suites>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="no">Rio de Janeiro</State>
+          <City>Magé - RJ</City>
+          <Address>Rua Projetada</Address>
+          <StreetNumber>nº 1.389</StreetNumber>
+          <PostalCode>25903-775</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
