@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-21T16:16:28</PublishDate>
+      <PublishDate>2023-09-22T09:48:38</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -1464,7 +1464,7 @@
       <Location displayAddress="All">
           <Country abbreviation="BR">Brasil</Country>
           <State abbreviation="no">Rio Grande do Sul</State>
-          <City>Gravataí - RS</City>
+          <City>Porto Alegre - RS</City>
           <Address>Rua Sao Carlos</Address>
           <StreetNumber>247</StreetNumber>
           <PostalCode>94060020</PostalCode>
@@ -3598,6 +3598,45 @@
           <Address>Rua Projetada</Address>
           <StreetNumber>nº 1.389</StreetNumber>
           <PostalCode>25903-775</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2918931</ListingID>
+      <Title>Apto 139m², 2 Vagas, Ocupado, Pereira Barreto/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2918931</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/86319402-19ab-4a75-9dc0-b15ebc18e4dd.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/039bbffe-77cc-468d-9573-03ff17855da2.jpg</Item>
+<Item medium="image" caption="img03" primary="true">https://ms.sbwebservices.net/photos/636e576e-d085-4a1e-bfd8-bc2bde28967e.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/7c689466-efe5-4905-a8b6-4d985d4443d0.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/404b0ef2-ae86-447c-bba4-8c78417b42b7.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apto 139m², 2 Vagas, Ocupado, Pereira Barreto/SP Apto 139m², 2 Vagas, Ocupado, Pereira Barreto/SP  Localização: Rua Atlântico, nº 884, Apto D14, Torre D, Condomínio Residencial ¿The River¿, Pereira Barreto/SP  -  CEP:  15370-622  área privativa total real de divisão não proporcional: 139,25m² área de uso comum coberta real de divisão proporcional: 44,71m² área total: 161,46m² 2 vagas na garagem  Matrículas: 30.464 do Cartório de Registro de Imóveis de Pereira Barreto/SP Inscrição Prefeitura: 2090901  DOSSIÊ: 20291  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  =====================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/09/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 292.185,88  2ª Praça: Abertura: 21/09/2023 a partir das 10h01 Fechamento: 22/09/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 231.005,44                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 21% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">231005.44</ListPrice>
+          <LivingArea unit="square metres">161</LivingArea>
+          <Bedrooms>1</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Suites>1</Suites>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">São Paulo</State>
+          <City>Pereira Barreto - SP</City>
+          <Address>Rua Atlântico</Address>
+          <StreetNumber>nº 884</StreetNumber>
+          <PostalCode>15370-622</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
