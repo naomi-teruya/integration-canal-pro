@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-22T17:14:20</PublishDate>
+      <PublishDate>2023-09-22T17:15:35</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3789,6 +3789,46 @@
           <Address>Rua Delfina Dias Ferraz</Address>
           <StreetNumber>110</StreetNumber>
           <PostalCode>92511410</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2918414</ListingID>
+      <Title>Apto 69m², Ocupado, 1 Vaga no Jardim do Lago em Jundiaí/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2918414</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0e689eb1-8718-4cf0-affe-18378e204008.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/0e0f21f9-5111-4a88-a90c-e3a53dc42ad7.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b82ecb1b-8b27-4be5-8291-3ce7a52f0d7c.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/5fabfb7f-fb7c-474a-abac-1f491a9e1617.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/154325e8-bcdf-4090-93d3-981e3d9ab187.jpg</Item>
+<Item medium="image" caption="img06" primary="true">https://ms.sbwebservices.net/photos/6f2c7825-b608-4c43-8179-88b5deecf00f.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apto 69m², Ocupado, 1 Vaga no Jardim do Lago em Jundiaí/SP Apartamento nº 67, tipo 1, Torre A, localizado no 6º pavimento, do empreendimento residencial denominado Condomínio Residencial Magnólia, situado nesta cidade de Jundiai, na Rua Três, lote 04, quadra B, do loteamento residencial Nova Cidade Jardim, Vila Esperança, bairro Rio das Pedras; com a área real privativa principal de 48,0000m², área privativa acessória de 12,0000m², área comum de 9,9199m², encerrando a área total de 69,9199m², correspondendo a fração ideal no terreno e demais coisas de uso comum do condomínio de 0,39411% ou 38,7613m², com direito ao uso de uma vaga de garagem nº 136, descoberta, a qual é inalienável, indivisível, acessória e indissoluvelmente ligada ao apartamento. Conforme Av.04, o imóvel também faz frente para a Rua Dois. Conforme Av.05, a Rua Dois deste imóvel passou a denominar-se Rua Elízia Machado Benassi e a Rua Três passou a denominar-se Rua Vitor Marcelo de Castro. Conforme Av.06, a Rua Elízia Machado Benassi recebeu o nº 333. Matrícula nº 151.870 do 2º Cartório Oficial de Registral de Imóveis de Jundiai/SP. Cadastrado na Prefeitura Municipal sob n°: 25.047.0825.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ==================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 25/09/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 253.521,66   2ª Praça: Abertura: 25/09/2023 a partir das 09h31 Fechamento: 29/09/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 145.596,57                                                                                                                                                                                                                                                                              Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602  Percentual de desconto: 42% de deságio sobre o valor de avaliação. Sold Imóveis - Creditas - Leilão de Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">253521.66</ListPrice>
+          <LivingArea unit="square metres">48</LivingArea>
+          <Bedrooms>1</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+          <Suites>1</Suites>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">São Paulo</State>
+          <City>Jundiaí - SP</City>
+          <Address>Rua Elízia Machado Benassi</Address>
+          <StreetNumber>nº 333</StreetNumber>
+          <PostalCode>undiaí/SP</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
