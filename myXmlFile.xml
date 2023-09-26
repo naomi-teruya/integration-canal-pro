@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-26T12:22:04</PublishDate>
+      <PublishDate>2023-09-26T12:23:20</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3812,6 +3812,42 @@
           <Address>Rua B</Address>
           <StreetNumber>(conhecida como VIDAL BRASIL) nº 137</StreetNumber>
           <PostalCode>94075-030</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2925044</ListingID>
+      <Title>Apto 74m²,  Ocupado, Candeias, Jaboatão dos Guararapes/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2925044</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/022219b9-e0cd-46b9-a72e-6c599d6f81da.jpg</Item>
+<Item medium="image" caption="img02" primary="true">https://ms.sbwebservices.net/photos/06c24f94-1756-4ab0-b188-af7cacea9e8a.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/de52dab6-3e51-4071-a4d1-3c5caf8ffdb9.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apto 74m²,  Ocupado, Candeias, Jaboatão dos Guararapes/PE Apto 74m²,  Ocupado, Candeias, Jaboatão dos Guararapes/PE  Localização: Avenida Ulisses Montarroyos, nº 5.034, Apto. nº 501, Candeias, Jaboatão dos Guararapes/PE  -  CEP: 54430-070  área útil: 74,34m² área comum: 31,79m²  área total de 106,13m²  Matrículas: 49.363 do 1º Serviço Registral de Jaboatão dos Guararapes/PE Inscrição Prefeitura: 1.3105.117.01.0409.0021.0  DOSSIÊ: 20147  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 28/09/2023 a partir das 09h20 com Valor Mínimo de Venda de R$ 339.888,28  2ª Praça: Abertura: 28/09/2023 a partir das 09h21 Fechamento: 29/09/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 280.937,50                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 17% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+          <ListPrice currency="BRL">339888.28</ListPrice>
+          <LivingArea unit="square metres">106</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">Pernambuco</State>
+          <City>Jaboatão dos Guararapes - PE</City>
+          <Address>Avenida Ulisses Montarroyos</Address>
+          <StreetNumber>nº 5.034</StreetNumber>
+          <PostalCode>54430-070</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
