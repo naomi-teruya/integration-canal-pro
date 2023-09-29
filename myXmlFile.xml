@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-09-29T12:21:20</PublishDate>
+      <PublishDate>2023-09-29T12:22:52</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3943,6 +3943,62 @@
           <Address>Avenida Sallum</Address>
           <StreetNumber>1201</StreetNumber>
           <PostalCode>13574-280</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2887763</ListingID>
+      <Title>Imóvel, A.T. 472m², A.C. 400m², Santa Terezinha</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2887763</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01" primary="true">https://ms.sbwebservices.net/photos/828c574c-3822-4321-b155-65f5ad374599.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Imóvel, A.T. 472m², A.C. 400m², Santa Terezinha  1 terreno irregular, sem benfeitorias, designado como área D, situado à rua Floriano Peixoto, na cidade de Ibaté, objeto da matrícula 21943. 
+
+   
+
+  Matrícula 21943:  IMÓVEL: UM TERRENO IRREGULAR, sem benfeitorias, designado como ÁREA D, situado a rua Floriano Peixoto, na cidade de Ibaté, deste Estado, do lado par da numeração, entre as ruas Angelo Perussi e João Rossito, das quais dista 25,00 metros e 51,00 metros e com as seguintes medidas e confrontações: 11,46 metros de frente para a rua Floriano Peixoto; 27,30 metros da frente aos fundos, do lado esquerdo de quem da rua olha para o terreno, confrontando com propriedade de Onofre Boni ou sucessores; do lado direito, em linha quebrada, mede 16,50 metros e 14,30 metros confrontando com propriedade de Orlando Sabino Donatoni, Patrocinio Lucias Rodrigues e José Ubaldo Buzo; e, nos fundos mede 18,60 metros, confrontando com propriedade de Da. Maria de Lourdes Buzo Soares e s. marido, abrangendo uma área superficial de 472,02 metros quadrados. 
+
+   
+
+  Conforme informações constantes do laudo de avaliação de fls. 763/779:  2. FINALIDADE: A finalidade do presente parecer é determinado do valor de mercado para VENDA do imóvel situado Rua Floriano Peixoto, nº 992 na cidade de Ibaté-SP, em propriedade de Antônio Irineu Buzo, imóvel este descrito nos termos da matrícula nº 21.943 do Cartório de Registro de Imóveis de São Carlos-SP e devidamente cadastrado junto à Prefeitura do Município de Ibaté-SP, como contribuinte municipal nº 01-0061-016-00 (fica observado que nesta inscrição municipal consta também o terreno ao lado do imóvel avaliado, desta forma foi utilizado a metragem do terreno constante da matrícula 21.943). 7. VISTORIA: A vistoria do imóvel avaliando foi realizada no dia 02/03/2020 no período da tarde. ¿in loco¿. Trata-se de um imóvel, com área total de 400,51m² de área construída e 472,02 de área de terreno. 
+
+   
+
+  ÔNUS:  AV.04, Av.06 e Av.08 (PENHORA) Imóvel penhorado nestes autos. AV.05 (PENHORA) Execução Trabalhista nº 0011688-35.2016.5.15.0137 da 3ª Vara do Trabalho de Piracicaba/SP, movida por EDISON BOMFIM OLIVEIRA. AV.07 (INDISPONIBILIDADE) Processo 0011233-07.2015.5.15.0137 da 3ª Vara do Trabalho de Piracicaba/SP, movida por LORIVALDO DE SOUZA SANTOS, que foi determinada a indisponibilidade dos bens de MIRIAN APARECIDA CAMPANER BUZO. 
+
+ AV.09 (PENHORA) Execução Civil nº 0001043-64.2014.8.26.0233 da Vara Distrital de Ibaté, movida por BANCO DE LAGE LANDEN BRASIL S/A. 
+
+   
+
+  Débitos imobiliários:  R$ 2.306,99, conforme consulta realizada em 11/07/2023. 
+
+   
+
+ Valor da avaliação em 09/02/2020: R$ 509.946,46 (quinhentos e nove mil novecentos e quarenta e seis reais e quarenta e seis centavos). Valor da avaliação atualizado pelo índice de correção monetária do TJ/SP em JUN/2023: R$ 643.784,23 (seiscentos e quarenta e três mil, setecentos e oitenta e quatro reais e vinte e três centavos).  Gaplan Administradora de Bens Ltda Transportadora Marca de Ibaté Ltda e outros Antônio Irineu Buzo e Mirian Aparecida Campaner Buzo NI Vara Única de Ibaté/SP 0001085-79.2015.8.26.0233]]></Description>
+          <ListPrice currency="BRL">321892.12</ListPrice>
+          <LivingArea unit="square metres">100</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">São Paulo</State>
+          <City>Ibaté - SP</City>
+          <Address>undefined</Address>
+          <StreetNumber>992</StreetNumber>
+          <PostalCode>14815-000</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
