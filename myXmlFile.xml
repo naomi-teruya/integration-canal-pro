@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-10-02T14:57:15</PublishDate>
+      <PublishDate>2023-10-02T14:57:56</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3424,6 +3424,49 @@ Um tanque vertical 12 em aço carbono de 4m de diâmetro e 5m de altura, totaliz
           <Address>Almirante Brasil</Address>
           <StreetNumber>380</StreetNumber>
           <PostalCode>11730000</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2934323</ListingID>
+      <Title>Apartamento, Ocupado, Curitiba / PR (32% abaixo da avaliação)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2934323</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/15823fd0-9a0c-450d-91f7-04e7de3603fa.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/26f66bda-85fa-4b08-b9c6-443be46f8930.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b64bd60e-0a5d-4eee-9b3d-e2c1189acfe7.jpg</Item>
+<Item medium="image" caption="img04" primary="true">https://ms.sbwebservices.net/photos/a37ca459-c568-4cb4-898b-0ff6e284812a.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f1874aa4-438e-4af0-9d17-55bc8bc6cb24.jpg</Item>
+<Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/675f4cf7-3ca4-4af1-b22e-31f8bc674f5e.jpg</Item>
+<Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/20b90dda-9b04-4f4b-a162-1c87ef7bb836.jpg</Item>
+<Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/ca119add-632d-468f-9d36-943a546df16e.jpg</Item>
+<Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/d92ecb71-6551-40e4-921c-11930edc71fa.jpg</Item>
+<Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/c21969b4-23dd-455b-8750-f45185f9b208.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apartamento, Ocupado, Curitiba / PR (32% abaixo da avaliação)  Endereço Completo  Rua José Izidoro Biazetto, 281, Apartamento 606 Torre 2 - Residencial Chatêu Belvedere, Campo Comprido, Curitiba, PR, CEP: 81200240   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 52,07 de área construída, 52,07 de área privativa, 32,55 de área comum. Matrícula(s): 216.572. Cartório: 8º CRI DE CURITIBA. Inscrição da Prefeitura: 45.2.0001.0264.00-5 Sublote 0093.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  20127   Área Privativa:  52.07 m2  Área Comum:  32.55 m2  Composição Interna/Vagas:  Vagas de Garagem: 1   Matrícula:  216.572  Cartório de Registro:  8º CRI DE CURITIBA  Inscrição na Prefeitura:  45.2.0001.0264.00-5 Sublote 0093  IPTU Anual:  R$ 846,41  Condomínio Mensal:  R$ 623,67   Valor Avaliado:  R$ 395.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   Vaga nº 94  IMOVEL NAO POSSUI LAUDO INTERNO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  216696 Sold Imóveis - Oportunidade Santander - 04.10.23]]></Description>
+          <ListPrice currency="BRL">269472</ListPrice>
+          <LivingArea unit="square metres">52.07</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="no">Paraná</State>
+          <City>Curitiba - PR</City>
+          <Address>Rua Jos&eacute; Izidoro Biazetto</Address>
+          <StreetNumber>281</StreetNumber>
+          <PostalCode>81200240</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
