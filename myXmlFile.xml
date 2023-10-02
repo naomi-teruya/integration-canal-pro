@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-10-02T14:59:12</PublishDate>
+      <PublishDate>2023-10-02T15:01:09</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3507,6 +3507,42 @@ Um tanque vertical 12 em aço carbono de 4m de diâmetro e 5m de altura, totaliz
           <Address>Rua Kurt Ramtour</Address>
           <StreetNumber>330</StreetNumber>
           <PostalCode>88070190</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2937487</ListingID>
+      <Title>Sala 27m2, 1 vaga em Brotas, Salvador/BA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2937487</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c11e1e10-096e-410e-b9d2-c024d76ae804.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/045f015d-5d50-4922-b389-189550eac40d.jpg</Item>
+<Item medium="image" caption="img03" primary="true">https://ms.sbwebservices.net/photos/5fb1f505-7f3f-42b1-84e6-a3ca8786d7a6.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Sala 27m2, 1 vaga em Brotas, Salvador/BA Sala Comercial - no Edifício Profissional Center  Localização: Av. Antonio Carlos Magalhaes, nº 2501, Ed. Profissional Center, sala 1.408, Brotas, Salvador/BA, 40280-901  Área Privativa: 27m² Área Comum: 24m² Área Total: 52m² 1 vaga  Matrícula: nº 60.864 RGI: 3º Ofício de Registro de Imóveis de Salvador/BA Inscrição Prefeitura: 8030518-47.2022.8.05.0001  DOSSIÊ: 20468  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  =============  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 05/Out/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 97.121,03  2ª Praça: Abertura: 05/Out/2023 a partir das 09h31 Fechamento: 06/Out/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 101.017,82                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Sold Imóveis - Santander - AF]]></Description>
+          <ListPrice currency="BRL">97121.03</ListPrice>
+          <LivingArea unit="square metres">27</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="na">Bahia</State>
+          <City>Salvador - BA</City>
+          <Address>Av. Antonio Carlos Magalhaes</Address>
+          <StreetNumber>nº 2501</StreetNumber>
+          <PostalCode>40280-901</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
