@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-10-02T15:50:57</PublishDate>
+      <PublishDate>2023-10-02T15:55:08</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3631,6 +3631,44 @@ Um tanque vertical 12 em aço carbono de 4m de diâmetro e 5m de altura, totaliz
           <Address>Rua Silva Pinto</Address>
           <StreetNumber>449</StreetNumber>
           <PostalCode>01126-010</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2942360</ListingID>
+      <Title>Terreno 4.673m² DESOCUPADO no Alto Santana em Paranaíba/MS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2942360</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/597b4cff-fb11-4233-8525-f9b015405a71.jpg</Item>
+<Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8527c539-4d3d-4113-be09-cbae18a73a7f.jpg</Item>
+<Item medium="image" caption="img03" primary="true">https://ms.sbwebservices.net/photos/a44051ce-8b58-447e-ae48-b696e49c5a8d.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/e02f76e9-4c83-4a3c-8a53-a76ef4e8c5c1.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/8f07f4ab-c7f0-4816-acec-888802049ff9.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Terreno 4.673m² DESOCUPADO no Alto Santana em Paranaíba/MS Um lote de terreno, denominado Lote 01, com a área de 4.673,52m² (quatro mil, seiscentos e setenta e três metros e cinquenta e dois decímetros quadrados), localizado no imóvel Córrego Fundo, neste município de Paranaíba/MS, na margem da Estrada Municipal que vai para a Fazenda Mocunjá, com as seguintes metragens e confrontações: ao Norte, 97,00 metros com o lote 02; ao Sul, 97,73 metros com a Escola Municipal de 1º Grau Gerônimo Rodrigues de Freitas; ao Nascente 48,00 metros com Henrique Alves Ferreira; e, ao Poente, 48,00 metros com a Estrada Municipal que vai para a Fazenda Mocunjá.  Imóvel devidamente matriculado sob o nº 20.212 do Cartório de Registro de Imóveis de Paranaíba/MS. Inscrição Imobiliária n° 6.7048.000.001.  Imóvel próximo à comércios. Localização: A 30 min do Centro de Paranaíba/MS.  Principal via de acesso: Rodovia MS-310  Venda Condicional (venda sob aprovação do vendedor).  O imóvel será entregue livre de quaisquer débitos de IPTU até a Lavratura da Escritura. Valor aproximado de IPTU anual: R$ 402,00.  - Imóvel desocupado.  Informações Relevantes:  1 - Condições de Pagamento do Leilão: À vista. 2 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"). 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado. 5 - Sobre o terreno consta uma construção de aproximadamente 3m² não averbada na matrícula do imóvel. (A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções). Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.  Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602  Percentual de desconto: 75% de deságio sobre o valor de avaliação. Sold Imóveis - Algar - 03.11.23 - 15h00]]></Description>
+          <ListPrice currency="BRL">40000</ListPrice>
+          <LivingArea unit="square metres">4.673</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="no">Mato Grosso do Sul</State>
+          <City>Paranaíba - MS</City>
+          <Address>Lote 01</Address>
+          <StreetNumber>QD 7048</StreetNumber>
+          <PostalCode>79500-000</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
