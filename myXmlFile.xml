@@ -4,7 +4,7 @@
       <Provider>Naomi Teruya</Provider>
       <Email>kelly.teruya@superbid.net</Email>
       <ContactName>Superbid Exchange</ContactName>
-      <PublishDate>2023-10-02T14:57:56</PublishDate>
+      <PublishDate>2023-10-02T14:59:12</PublishDate>
       <Telephone>11-3296 7555</Telephone>
     </Header>
     <Listings>
@@ -3467,6 +3467,46 @@ Um tanque vertical 12 em aço carbono de 4m de diâmetro e 5m de altura, totaliz
           <Address>Rua Jos&eacute; Izidoro Biazetto</Address>
           <StreetNumber>281</StreetNumber>
           <PostalCode>81200240</PostalCode>
+      </Location>
+      <ContactInfo>
+          <Name>Superbid Webservices LTDA</Name>
+          <Email>kelly.teruya@superbid.net</Email>
+          <Website>http://www.superbid.net</Website>
+          <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+<Listing>
+      <ListingID>2934322</ListingID>
+      <Title>Apartamento, Ocupado, Florianópolis / SC (32% abaixo da avaliação)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2934322</DetailViewUrl>
+      <Media>
+    <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/629a1725-6dbb-411d-a947-7cdf80a65ea0.jpg</Item>
+<Item medium="image" caption="img02" primary="true">https://ms.sbwebservices.net/photos/595fe50c-4b43-47c9-9132-942dc3ab99d0.jpg</Item>
+<Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d7735432-8d2f-4a02-a10e-cff7f0c36da6.jpg</Item>
+<Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/2d6fb73e-2832-4af4-94dc-c81b14a32128.jpg</Item>
+<Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/a9421c00-b832-453c-9cab-25d1138f53c2.jpg</Item>
+<Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/fbd5ff11-9c86-41b5-ba83-8fd74b3b70bb.jpg</Item>
+<Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/8ca64dbd-4fbb-4dad-93d9-55e0fc13d6f1.jpg</Item>
+
+  </Media>
+      <Details>
+          <UsageType>Residential</UsageType>
+          <PropertyType>Residential / Home</PropertyType>
+          <Description><![CDATA[Apartamento, Ocupado, Florianópolis / SC (32% abaixo da avaliação)  Endereço Completo  Rua Kurt Ramtour, 330, Apartamento 202 Bloco A - Condomínio Residencial Chamonix, Capoeiras, Florianópolis, SC, CEP: 88070190   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 63,98 de área construída, 63,98 de área privativa, 39,8 de área comum. Matrícula(s): 31.466,31.492,31.452. Cartório: 3º CRI DE FLORIANÓPOLIS. Inscrição da Prefeitura: 51.33.017.0268.079.204 / 51.33.017.0268.036.904 / 51.33.017.0268.050.486.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  20073   Área Privativa:  63.98 m2  Área Comum:  39.8 m2  Composição Interna/Vagas:  Vagas de Garagem: 2   Matrícula:  31.466,31.492,31.452  Cartório de Registro:  3º CRI DE FLORIANÓPOLIS  Inscrição na Prefeitura:  51.33.017.0268.079.204 / 51.33.017.0268.036.904 / 51.33.017.0268.050.486  IPTU Anual:  R$ 2.450,00   Valor Avaliado:  R$ 375.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   VAGA DE GARAGEM 11 - MATRÍCULA 31.466  VAGA DE GARAGEM 35 -MATRÍCULA 31.452    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  216693 Sold Imóveis - Oportunidade Santander - 04.10.23]]></Description>
+          <ListPrice currency="BRL">255552</ListPrice>
+          <LivingArea unit="square metres">63.98</LivingArea>
+          <Bedrooms>3</Bedrooms>
+          <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+          <Country abbreviation="BR">Brasil</Country>
+          <State abbreviation="em">Santa Catarina</State>
+          <City>Florianópolis - SC</City>
+          <Address>Rua Kurt Ramtour</Address>
+          <StreetNumber>330</StreetNumber>
+          <PostalCode>88070190</PostalCode>
       </Location>
       <ContactInfo>
           <Name>Superbid Webservices LTDA</Name>
