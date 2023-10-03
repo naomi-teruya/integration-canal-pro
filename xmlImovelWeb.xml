@@ -1,13 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao><![CDATA[1695404959]]></dataModificacao> <!-- Current Unix Timestamp -->
+  <dataModificacao><![CDATA[1695404959]]></dataModificacao>
+  <!-- Current Unix Timestamp -->
   <Imoveis>
     <Imovel>
-      <codigoAnuncio><![CDATA[2924381]]></codigoAnuncio> <!-- Offer ID -->
-      <codigoReferencia><![CDATA[2924381]]></codigoReferencia> <!-- Offer ID -->
-      <titulo><![CDATA[Casa 200m² No Jardins, São Gonçalo Do Amarante/RN]]></titulo> <!-- Offer title: product.shortDesc-->
-      <descricao>
-      <![CDATA[
-        Casa - no Bairro Jardins
+      <codigoAnuncio><![CDATA[2924381]]></codigoAnuncio>
+      <!-- Offer ID -->
+      <codigoReferencia><![CDATA[2924381]]></codigoReferencia>
+      <!-- Offer ID -->
+      <titulo><![CDATA[Casa 200m² No Jardins, São Gonçalo Do Amarante/RN]]></titulo>
+      <!-- Offer title: product.shortDesc-->
+      <descricao><![CDATA[Casa - no Bairro Jardins
 
         Localização: R. Maria Ducarmo da Cunha e Silva, nº 198, Jardins, São Gonçalo do Amarante/RN, 59294-012
 
@@ -41,76 +44,708 @@
 
         Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
 
-        Percentual de desconto: 22% de deságio sobre o valor de avaliação.
-        ]]>
-        </descricao><!-- Offer description: product.detailedDescription -->
-        <tipoPropriedade>
-          <idTipo><![CDATA[1]]></idTipo>
-          <idSubTipo><![CDATA[5]]></idSubTipo>
-          <tipo><![CDATA[Casa]]></tipo>
-          <subTipo><![CDATA[Padrão]]></subTipo>
-        </tipoPropriedade>
-        <caracteristicas>
-          <caracteristica>
-            <id><![CDATA[CFT3]]></id>
-            <nome><![CDATA[BANHEIRO]]></nome>
-            <valor><![CDATA[2]]></valor>
-          </caracteristica>
-          <caracteristica>
-            <id><![CDATA[CFT3]]></id>
-            <nome><![CDATA[BANHEIRO]]></nome>
-            <valor><![CDATA[2]]></valor>
-          </caracteristica>
-          <caracteristica>
-            <id><![CDATA[CFT2]]></id>
-            <nome><![CDATA[QUARTO]]></nome>
-            <valor><![CDATA[3]]></valor>
-          </caracteristica>
-          <caracteristica>
-            <id><![CDATA[CFT100]]></id>
-            <nome><![CDATA[AREA_TOTAL]]></nome>
-            <valor><![CDATA[200]]></valor>
-            <idValor><![CDATA[M2]]></idValor>
-          </caracteristica>
-        </caracteristicas>
-        <precos>
-          <preco>
-            <quantidade>180000</quantidade>
-            <moeda><![CDATA[BRL]]></moeda>
-            <operacao><![CDATA[VENTA]]></operacao>
-          </preco>
-        </precos>
-        <multimidia>
-          <imagens>
-            <imagem>
-              <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2312a661-07b4-4999-ba4a-90106b4240ab.jpg]]></urlImagem>
-            </imagem>
-            <imagem>
-              <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca4a9e2c-ceec-4a93-ae4e-d4217d305f1f.jpg]]></urlImagem>
-            </imagem>
-            <imagem>
-              <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e8d234cf-86cc-4d15-ad1a-f1bf933bc257.jpg]]></urlImagem>
-            </imagem>
-          </imagens>
-        </multimidia>
-        <localizacao>
-          <endereco><![CDATA[R. Maria Ducarmo da Cunha e Silva, nº 198]]></endereco>
-          <localidade><![CDATA[Jardins, São Gonçalo do Amarante, Rio Grande do Norte, Brasil]]></localidade>
-          <codigoPostal><![CDATA[59294-012]]></codigoPostal>
-          <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-          <longitude>-35.31864612115675</longitude>
-          <latitude>-5.744121469632839</latitude>
-        </localizacao>
-        <publicador>
-          <codigoImobiliaria>47235565</codigoImobiliaria>
-          <emailUsuario>kelly.teruya@superbid.net</emailUsuario>
-          <emailContato>imoveis.sac@superbid.net</emailContato>
-          <nomeContato>Sold Leilões</nomeContato>
-          <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-        </publicador>
-        <publicacao>
-          <tipoPublicacao><![CDATA[SIMPLE]]></tipoPublicacao>
-        </publicacao>
+        Percentual de desconto: 22% de deságio sobre o valor de avaliação.]]></descricao>
+      <!-- Offer description: product.detailedDescription -->
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>180000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2312a661-07b4-4999-ba4a-90106b4240ab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca4a9e2c-ceec-4a93-ae4e-d4217d305f1f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e8d234cf-86cc-4d15-ad1a-f1bf933bc257.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Maria Ducarmo da Cunha e Silva, nº 198]]></endereco>
+        <localidade><![CDATA[Jardins, São Gonçalo do Amarante, Rio Grande do Norte, Brasil]]></localidade>
+        <codigoPostal><![CDATA[59294-012]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-35.31864612115675</longitude>
+        <latitude>-5.744121469632839</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>kelly.teruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicacao><![CDATA[SIMPLE]]></tipoPublicacao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917469</codigoAnuncio>
+      <codigoReferencia>2917469</codigoReferencia>
+      <titulo>Casa, Ocupado, 360.0 m2, Campinas / SP (46% abaixo da avaliação)</titulo>
+      <descricao>Casa, Ocupado, 360.0 m2, Campinas / SP (46% abaixo da avaliação)  Endereço Completo  Rua Erico Verissimo, 155, Vila Brandina, Campinas, SP, CEP: 13092557   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 360 m² de área total, 360 m² de área terreno, 246,6 m² de área construída. Matrícula(s): 17.971. Cartório: 1 CRI DE CAMPINAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  18567   Área Total:  360.0 m2  Área Terreno:  360.0 m2  Composição Interna/Vagas:  Banheiros: 1, Vagas de Garagem: 1   Matrícula:  17.971  Cartório de Registro:  1 CRI DE CAMPINAS  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 2.789,60   Valor Avaliado:  R$ 739.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * OCUPADO * ACAO JUDICIAL - INDENIZATORIA - PROC. No 1007314-65.2019.8.26.0114 EM TRAMITE NA 10a VARA CIVEL DE CAMPINAS/SP. * FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE. * O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL. * OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  105464 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            360
+            M2</caracteristicas>
+      <precos>395640
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/a4aabd38-2a5b-4055-9110-b1510f077a19.jpg
+      
+
+        https://ms.sbwebservices.net/photos/7aeac762-4947-4b38-b3f6-31cac49a523d.jpg
+      
+
+        https://ms.sbwebservices.net/photos/e69d3183-23fb-4a4b-92f8-62188498441a.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ed997ca2-0706-4a50-9610-5cdc93909419.jpg
+      
+
+        https://ms.sbwebservices.net/photos/eacc9d99-9184-424c-9133-5a3ac8b82b7e.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2786fd63-7180-4f95-a97d-bc28356ad31d.jpg</multimidia>
+      <localizacao>Rua Erico Verissimo, 155
+           Campinas, SP
+          13092557
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917419</codigoAnuncio>
+      <codigoReferencia>2917419</codigoReferencia>
+      <titulo>Casa, Ocupado, 200.0 m2, Petrolina / PE (38% abaixo da avaliação)</titulo>
+      <descricao>Casa, Ocupado, 200.0 m2, Petrolina / PE (38% abaixo da avaliação)  Endereço Completo  Rua Vinte E Um, 101, Rua Maria Jose Mangabeira Gonzaga (Lote 14, Quadra 65), Loteamento Recife, Petrolina, PE, CEP: 56320811   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 200 m² de área total, 200 m² de área terreno, 104,7 m² de área construída. Matrícula(s): 9.843. Cartório: 4 CRI DE PORTO ALEGRE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  19110   Área Total:  200.0 m2  Área Terreno:  200.0 m2  Composição Interna/Vagas:  Dormitórios: 3, Banheiros: 2, Vagas de Garagem: 2, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1   Matrícula:  9.843  Cartório de Registro:  4 CRI DE PORTO ALEGRE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 514,63   Valor Avaliado:  R$ 402.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  123195 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            200
+            M2</caracteristicas>
+      <precos>247800
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/ee8cc906-9879-4e4e-b2cd-cdaef7d8231f.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2358d5dc-35bf-47af-8cb3-9abd5197088e.jpg
+      
+
+        https://ms.sbwebservices.net/photos/c427c8bf-23a1-4153-8ec6-e48d2e56f7e3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ba7afc5e-68b6-44b6-af37-214b491b7867.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f477ebcf-82d5-4ab6-badb-13b849c53b25.jpg
+      
+
+        https://ms.sbwebservices.net/photos/46c7a0d0-80e7-442f-9d17-0ede2279cb27.jpg
+      
+
+        https://ms.sbwebservices.net/photos/3faf506a-9ed2-40f8-97b8-68d7a4378b98.jpg
+      
+
+        https://ms.sbwebservices.net/photos/3dd70f37-6a0c-43ca-9c31-edf5498d0e34.jpg
+      
+
+        https://ms.sbwebservices.net/photos/06c45da8-7a01-4dd6-b4e3-c099081155f8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ec1d4610-64c2-4f33-8f2a-2224fd1ea610.jpg
+      
+
+        https://ms.sbwebservices.net/photos/81c1cdbc-7e2a-403f-a12a-67e87f0d412b.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b8077f37-a755-4c2b-9438-f350dc5c7693.jpg
+      
+
+        https://ms.sbwebservices.net/photos/4354163f-50e8-4458-a4d9-66d87040bf52.jpg</multimidia>
+      <localizacao>Rua Vinte E Um, 101
+           Quadra 65), Loteamento Recife, Petrolina, PE
+          56320811
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917495</codigoAnuncio>
+      <codigoReferencia>2917495</codigoReferencia>
+      <titulo>Casa, Desocupado, 200.0 m2, Guaxupé / MG (41% abaixo da avaliação)</titulo>
+      <descricao>Casa, Desocupado, 200.0 m2, Guaxupé / MG (41% abaixo da avaliação)  Endereço Completo  Rua Conceicao De Aparecida, 210, Parque Dos Municipios Ii, Guaxupé, MG, CEP: 37800000   Características do Imóvel:    Descrição:  Casa, Padrão, Desocupado, 1 vaga(s) de garagem. Área(s): 200 m² de área total, 200 m² de área terreno, 68,36 m² de área construída. Matrícula(s): 23.599. Cartório: 1 CRI DE GUAXUPE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  19424   Área Total:  200.0 m2  Área Terreno:  200.0 m2  Composição Interna/Vagas:  Dormitórios: 3, Banheiros: 2, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1, Varandas: 1   Matrícula:  23.599  Cartório de Registro:  1 CRI DE GUAXUPE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 498,70   Valor Avaliado:  R$ 270.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * DESOCUPADO* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  146446 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            200
+            M2</caracteristicas>
+      <precos>158760
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/b26484e8-34a7-4a47-8efe-e7e96da33f65.jpg
+      
+
+        https://ms.sbwebservices.net/photos/cc1e74d1-5c8e-44f6-b9b3-e5e0bebeb0af.jpg
+      
+
+        https://ms.sbwebservices.net/photos/77736658-1ed4-45ec-96ce-aee7476dabbf.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2dd25a9c-e57a-491a-a341-468182a1ce63.jpg
+      
+
+        https://ms.sbwebservices.net/photos/a8b141de-1073-41b2-8000-391b5abc473f.jpg
+      
+
+        https://ms.sbwebservices.net/photos/7aa8b2ad-bbc5-47aa-9e4f-4862de78ebe3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/df5a26e4-776e-47f5-906c-0cb649dcceb8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/89583d8f-b710-49b2-910f-07e1e0fc4f5f.jpg
+      
+
+        https://ms.sbwebservices.net/photos/8df628be-7afd-497e-b290-a4b93db28ce1.jpg
+      
+
+        https://ms.sbwebservices.net/photos/8c8433f5-7cf7-4e7a-9927-cb57adceda48.jpg
+      
+
+        https://ms.sbwebservices.net/photos/c97df790-58ed-4e50-8970-29780366a123.jpg
+      
+
+        https://ms.sbwebservices.net/photos/46dcdbd8-740d-4afb-a039-62bac39b2e34.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9c19fcf5-5d1f-441f-97c8-77640df585d2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/69cfc812-fd9a-46d8-8aff-567b85be9089.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f5839055-6496-4cc7-8811-4adbc3017ce2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2d1f84be-e2ca-4f6f-81f0-214dbef4c0c6.jpg
+      
+
+        https://ms.sbwebservices.net/photos/3f3d4a49-d657-45e4-a746-18c031cf13eb.jpg
+      
+
+        https://ms.sbwebservices.net/photos/5eb7af00-f66b-4fc9-9e4e-9e8eab33c35e.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b737797d-d557-4b6d-b7ba-bf26414cd818.jpg
+      
+
+        https://ms.sbwebservices.net/photos/e7de656a-98dd-4d2d-aa46-5e9f5e7e1e79.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9db0d6f1-a242-471f-a0ad-3e8946b162b3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/d04f516c-27c4-4243-b270-3da7d54a45b6.jpg
+      
+
+        https://ms.sbwebservices.net/photos/1c5d2f32-bcc2-45fe-8e8d-c50a508a23c6.jpg
+      
+
+        https://ms.sbwebservices.net/photos/a9144169-576e-4a5a-8f3f-b4fb2e87b067.jpg
+      
+
+        https://ms.sbwebservices.net/photos/8b6a549a-5f87-4328-8d34-c6c1081cad1c.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9313372a-cd05-4f8d-8c03-3aa743791c57.jpg
+      
+
+        https://ms.sbwebservices.net/photos/243d1a19-da10-4dfe-a1f3-6d27a987066c.jpg
+      
+
+        https://ms.sbwebservices.net/photos/01a8222e-7d25-4f28-be55-acf824250677.jpg
+      
+
+        https://ms.sbwebservices.net/photos/88b81cd5-4461-4a2c-924f-b82f30cbbee8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/67d91b99-4a36-4127-aab6-a45a92c90069.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9498a26e-1bd3-4ca5-858c-e842161770f2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/97404717-aaa6-493e-88eb-ce5d7e039fd6.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ca829932-966c-49e1-b8aa-190307c71c01.jpg
+      
+
+        https://ms.sbwebservices.net/photos/7dfc4f6f-b829-485a-9f7e-89869cbdff82.jpg
+      
+
+        https://ms.sbwebservices.net/photos/767b2b74-d7b9-4510-b453-6da31dd9baad.jpg</multimidia>
+      <localizacao>Rua Conceicao De Aparecida, 210
+           Guaxupé;, MG
+          37800000
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917412</codigoAnuncio>
+      <codigoReferencia>2917412</codigoReferencia>
+      <titulo>Apartamento, Ocupado, Campina Grande / PB (37% abaixo da avaliação)</titulo>
+      <descricao>Apartamento, Ocupado, Campina Grande / PB (37% abaixo da avaliação)  Endereço Completo  Rua Jesse Barbosa De Menezes, 137, Apto 203, 01 Vaga De Garagem, Edificio Renato, Alto Branco, Campina Grande, PB, CEP: 58401682   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 66,3 m² de área terreno, 49 m² de área privativa, 17,3 m² de área comum, 49 m² de área útil. Matrícula(s): 17.216. Cartório: 1 CRI CAMPINA GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  17369   Área Util:  49.0 m2  Área Privativa:  49.0 m2  Área Terreno:  66.3 m2  Área Comum:  17.3 m2  Composição Interna/Vagas:  Dormitórios: 2, Banheiros: 2, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1   Matrícula:  17.216  Cartório de Registro:  1 CRI CAMPINA GRANDE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 317,22  Condomínio Mensal:  R$ 480,00   Valor Avaliado:  R$ 85.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  49709 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            49
+            M2</caracteristicas>
+      <precos>53550
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/68ee93a1-4a01-42af-92a4-d0a821a63737.jpg
+      
+
+        https://ms.sbwebservices.net/photos/afeeaa2b-b30c-4b97-9ce1-7f012e28b340.jpg
+      
+
+        https://ms.sbwebservices.net/photos/dcd743d2-8752-4575-9224-2686ea29e2bb.jpg
+      
+
+        https://ms.sbwebservices.net/photos/357d33fa-3db4-4ecb-9449-a5d72bfa724d.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f963ad83-498d-4cb3-9782-ced90dda5689.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b8a904b9-895f-4d45-9efc-b771cb078462.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2ae21e4e-c5cb-483d-a3be-ad7cf163a6ca.jpg
+      
+
+        https://ms.sbwebservices.net/photos/eca1c26b-6792-4a11-bb4c-707e45ead9bb.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ee10ee10-fa40-40c1-921c-f5667a7982c0.jpg
+      
+
+        https://ms.sbwebservices.net/photos/e357a657-90d8-41d4-ba90-1e028f987e31.jpg
+      
+
+        https://ms.sbwebservices.net/photos/feca1556-c66b-4ae1-bf7c-c409462cbccc.jpg
+      
+
+        https://ms.sbwebservices.net/photos/846572be-434b-4b01-8cc9-63a00ced8cd0.jpg
+      
+
+        https://ms.sbwebservices.net/photos/967bb2d3-a100-42b9-9c30-566d5566596d.jpg
+      
+
+        https://ms.sbwebservices.net/photos/66b4ac72-e16c-40c7-8286-8cb4a6701be0.jpg
+      
+
+        https://ms.sbwebservices.net/photos/8647cab4-c0c9-417a-ae9c-7fce96969fc4.jpg
+      
+
+        https://ms.sbwebservices.net/photos/0957f215-6857-4f60-afcf-c3b25d5a520c.jpg
+      
+
+        https://ms.sbwebservices.net/photos/6fe82fbc-7569-455d-b539-e979b6f10994.jpg
+      
+
+        https://ms.sbwebservices.net/photos/67d88277-afc2-4402-a84b-f5e8e8b18151.jpg
+      
+
+        https://ms.sbwebservices.net/photos/4c6bf341-b331-4cde-820d-377e14b4751e.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b824ff5c-b6aa-444f-95bc-dd0cca10d539.jpg
+      
+
+        https://ms.sbwebservices.net/photos/20699f23-4d63-405b-94da-d82436b3ffd2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/525ba6d7-ed3f-416f-baa1-cd5fd0f55c3c.jpg</multimidia>
+      <localizacao>Rua Jesse Barbosa De Menezes, 137
+           01 Vaga De Garagem, Edificio Renato, Alto Branco, Campina Grande, PB
+          58401682
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917514</codigoAnuncio>
+      <codigoReferencia>2917514</codigoReferencia>
+      <titulo>Casa, Ocupado, 125.0 m2, Porto Alegre / RS (30% abaixo da avaliação)</titulo>
+      <descricao>Casa, Ocupado, 125.0 m2, Porto Alegre / RS (30% abaixo da avaliação)  Endereço Completo  Rua Liberdade, 57, Rio Branco, Porto Alegre, RS, CEP: 90420090   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 125 m² de área total, 125 m² de área terreno, 153 m² de área construída. Matrícula(s): 20.868. Cartório: 1 CRI PORTO ALEGRE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  19179   Área Total:  125.0 m2  Área Terreno:  125.0 m2  Composição Interna/Vagas:  Dormitórios: 3, Escritórios: 1, Banheiros: 3, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1   Matrícula:  20.868  Cartório de Registro:  1 CRI PORTO ALEGRE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 2.538,48   Valor Avaliado:  R$ 1.130.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * OCUPADO* ACAO JUDICIAL - INDENIZATORIA - PROC. No 5004312-52.2023.8.21.0038 EM TRAMITE NA 2a VARA CIVEL DE VACARIA/RS.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  148571 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            125
+            M2</caracteristicas>
+      <precos>791000
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/26fb81e3-9284-46e7-a385-a6698700f11d.jpg
+      
+
+        https://ms.sbwebservices.net/photos/05cb4524-24ce-465d-aaf6-d26a668fdc8a.jpg
+      
+
+        https://ms.sbwebservices.net/photos/62943c2e-456c-4bb3-9da8-ec333f754337.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2e1ff0bc-3940-440b-9229-74009af023d1.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f2753053-6b67-4363-a7e2-7f53f13fe22c.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f7aa1d1f-bd50-4e55-ae61-865e9d50dd55.jpg
+      
+
+        https://ms.sbwebservices.net/photos/c37a1229-a499-4ea3-9ab0-392fe259f513.jpg
+      
+
+        https://ms.sbwebservices.net/photos/0009a62e-5e9d-4757-8950-c65f39a8d2ef.jpg
+      
+
+        https://ms.sbwebservices.net/photos/2a97daca-c992-41f7-8bae-e367e893a8cb.jpg
+      
+
+        https://ms.sbwebservices.net/photos/26acd7a9-468a-4abf-a8d7-9cd877af61e7.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9af713bd-8c12-44c6-9254-e65ad3625abc.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b46f63e5-dca5-4cbb-8062-04eba2ee691d.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9d63a52c-6569-4274-bc89-4527a7acb635.jpg
+      
+
+        https://ms.sbwebservices.net/photos/3dcb51a7-7e84-4b81-9e47-e35f3fdc1f50.jpg
+      
+
+        https://ms.sbwebservices.net/photos/63e21ed9-2d72-4228-9629-d3b17e210fc8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f81e5605-b124-4697-9592-4d2b0721fc01.jpg
+      
+
+        https://ms.sbwebservices.net/photos/fbfb1fb1-855c-4e10-bcd9-19190b0f7a3a.jpg
+      
+
+        https://ms.sbwebservices.net/photos/785c2c5b-e273-487a-ad09-146a1a8fc6d3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/cb5bb55a-2c7d-4b96-a433-1a6fc48979da.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f4cac1b4-9fd3-4fa1-9b2b-68fd94a82ade.jpg
+      
+
+        https://ms.sbwebservices.net/photos/a573d457-7717-48e5-9101-0f26ad9e2422.jpg
+      
+
+        https://ms.sbwebservices.net/photos/54bffb73-9356-478e-b4ef-644b6ee676c3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/34791473-dda1-4761-88df-aebdbc01460e.jpg
+      
+
+        https://ms.sbwebservices.net/photos/9c286f7f-741f-42d6-af20-abccab40096c.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b5a4ab41-bb6e-4917-ba41-d36f1d0efe3a.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ca23662c-f618-4bba-a2bf-cb810746303f.jpg
+      
+
+        https://ms.sbwebservices.net/photos/081da9c9-cbf9-4e32-b892-ef7f048add76.jpg</multimidia>
+      <localizacao>Rua Liberdade, 57
+           Porto Alegre, RS
+          90420090
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917411</codigoAnuncio>
+      <codigoReferencia>2917411</codigoReferencia>
+      <titulo>Casa, Ocupado, 180.0 m2, São Gonçalo / RJ (45% abaixo da avaliação)</titulo>
+      <descricao>Casa, Ocupado, 180.0 m2, São Gonçalo / RJ (45% abaixo da avaliação)  Endereço Completo  Rua Monsenhor Pizarro, 302, Camarao, São Gonçalo, RJ, CEP: 24436750   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 180 m² de área total, 180 m² de área terreno, 80 m² de área construída. Matrícula(s): 27.156. Cartório: 2 DE SAO GONCALO. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  16238   Área Total:  180.0 m2  Área Terreno:  180.0 m2  Composição Interna/Vagas:  Dormitórios: 2, Banheiros: 2, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Despensas: 1, Áreas de Serviço: 1   Matrícula:  27.156  Cartório de Registro:  2 DE SAO GONCALO  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 883,92   Valor Avaliado:  R$ 300.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  42539 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            180
+            M2</caracteristicas>
+      <precos>163800
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/981a445f-9b5f-42fb-b6ef-f253d8a3bda3.jpg
+      
+
+        https://ms.sbwebservices.net/photos/b2a14c0e-4d8f-4d13-9afb-c2173d2a8b05.jpg
+      
+
+        https://ms.sbwebservices.net/photos/d5f653de-0d11-4350-bb00-0a3e4eb4c2b5.jpg
+      
+
+        https://ms.sbwebservices.net/photos/86a97a1f-f757-426c-a98d-59442d555017.jpg
+      
+
+        https://ms.sbwebservices.net/photos/255cfe3b-5905-44c4-838a-b98c14a07756.jpg
+      
+
+        https://ms.sbwebservices.net/photos/af269428-9840-4c20-82bf-ceeabaea0650.jpg
+      
+
+        https://ms.sbwebservices.net/photos/17e8dfba-2be5-4316-8951-75eae8aee8bb.jpg
+      
+
+        https://ms.sbwebservices.net/photos/a98fb6b6-8ce9-46f8-a139-fab14f8260cc.jpg
+      
+
+        https://ms.sbwebservices.net/photos/893b4acb-1d92-48f4-b078-5c793d468928.jpg
+      
+
+        https://ms.sbwebservices.net/photos/8ac87170-597b-4193-8c87-7638b6db6430.jpg</multimidia>
+      <localizacao>Rua Monsenhor Pizarro, 302
+           S&amp;atilde;o Gon&amp;ccedil;alo, RJ
+          24436750
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio>2917413</codigoAnuncio>
+      <codigoReferencia>2917413</codigoReferencia>
+      <titulo>Casa, Ocupado, 150.0 m2, Tatuí / SP (41% abaixo da avaliação)</titulo>
+      <descricao>Casa, Ocupado, 150.0 m2, Tatuí / SP (41% abaixo da avaliação)  Endereço Completo  Rua Izaltino Campos Vieira, 402, Parte Do Lote 03, Da Quadra ?O?, Vila Angelica, Tatuí, SP, CEP: 18280170   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado. Área(s): 150 m² de área total, 150 m² de área terreno, 62 m² de área construída. Matrícula(s): 48.681. Cartório: CRI TATUI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  18558   Área Total:  150.0 m2  Área Terreno:  150.0 m2  Composição Interna/Vagas:  Dormitórios: 3, Banheiros: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 2   Matrícula:  48.681  Cartório de Registro:  CRI TATUI  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 250,00   Valor Avaliado:  R$ 148.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  88203 Sold Imóveis - Oportunidade Santander - 06.10.23 - 15h00</descricao>
+      <tipoPropriedade>1
+          5
+          Casa
+          Padrão</tipoPropriedade>
+      <caracteristicas>CFT3
+            BANHEIRO
+            2
+          
+          
+            CFT2
+            QUARTO
+            3
+          
+          
+            CFT100
+            AREA_TOTAL
+            150
+            M2</caracteristicas>
+      <precos>87360
+            BRL
+            VENTA</precos>
+      <multimidia>https://ms.sbwebservices.net/photos/8a208ce3-7059-48fe-aa93-0071a4e3f308.jpg
+      
+
+        https://ms.sbwebservices.net/photos/5df6cbea-bf4c-41ec-b1fc-499155e00e54.jpg
+      
+
+        https://ms.sbwebservices.net/photos/58839353-dd56-4814-a8be-284e8ecdbf11.jpg
+      
+
+        https://ms.sbwebservices.net/photos/d8f6439c-1aa7-4e4d-9c6d-9debeb839872.jpg
+      
+
+        https://ms.sbwebservices.net/photos/f5494a1b-809e-4fb0-ba94-fbc483452403.jpg
+      
+
+        https://ms.sbwebservices.net/photos/ec7974dd-05b2-4c3e-9208-5298d0546756.jpg
+      
+
+        https://ms.sbwebservices.net/photos/da9cde2a-d205-4b00-811b-d53275fb6bc8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/601ce487-2512-4116-8e27-438eb44eea77.jpg
+      
+
+        https://ms.sbwebservices.net/photos/1b64e92b-d6ea-49e6-888b-a41364334a3f.jpg
+      
+
+        https://ms.sbwebservices.net/photos/64fdd1fe-aede-4931-b582-cd47a1f20bf2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/937743bb-91fc-40bb-bd7d-698a1b0a0505.jpg
+      
+
+        https://ms.sbwebservices.net/photos/33806713-f21d-461a-aad7-70b57c0d71e0.jpg
+      
+
+        https://ms.sbwebservices.net/photos/bb1abf1d-7546-4061-93cd-e0221c98fb88.jpg
+      
+
+        https://ms.sbwebservices.net/photos/1b4406e2-fea6-4587-a024-12565c7b00e2.jpg
+      
+
+        https://ms.sbwebservices.net/photos/3db49fb9-8615-44b7-b995-007c7e6497b8.jpg
+      
+
+        https://ms.sbwebservices.net/photos/83b75fdf-26a6-4be0-905a-59e83c85a15f.jpg</multimidia>
+      <localizacao>Rua Izaltino Campos Vieira, 402
+           Da Quadra ?O?, Vila Angelica, Tatu&amp;iacute;, SP
+          18280170
+          EXACTO</localizacao>
+      <publicador>47235565
+          kelly.teruya@superbid.net
+          imoveis.sac@superbid.net
+          Sold Leilões
+          +55 (11) 3296-7581</publicador>
+      <publicacao>SIMPLE</publicacao>
     </Imovel>
   </Imoveis>
 </OpenNavent>
+
