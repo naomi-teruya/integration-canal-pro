@@ -39,5 +39,23 @@
     2 - FORMA DE PAGAMENTO: À vista.
     3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.]]></Description>
+    <ListPrice currency="BRL">737884.55</ListPrice>
+    <LivingArea unit="square metres">100</LivingArea>
+    <Bedrooms>3</Bedrooms>
+    <Bathrooms>1</Bathrooms>
   </Details>
+  <Location displayAddress="All">
+    <Country abbreviation="BR">Brasil</Country>
+    <State abbreviation="RS">Rio Grande do Sul</State>
+    <City>Porto Alegre</City>
+    <Address>R. Coronel André Belo</Address>
+    <StreetNumber>476</StreetNumber>
+    <PostalCode>90110-020</PostalCode>
+  </Location>
+  <ContactInfo>
+    <Name>Superbid Webservices LTDA</Name>
+    <Email>kelly.teruya@superbid.net</Email>
+    <Website>http://www.superbid.net</Website>
+    <Telephone>(11) 3150-4646</Telephone>
+  </ContactInfo>
 </Listing>
