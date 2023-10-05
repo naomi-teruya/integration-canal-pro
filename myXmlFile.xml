@@ -8215,6 +8215,75 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2936117</ListingID>
+      <Title>Casa 290m² na Vila Nova Mazzei, São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2936117</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/35c52d3f-116b-46a7-b4cd-ba19253137ab.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f8fe4fa4-b495-4aea-9c81-003dd8095c62.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/54718fac-fe18-45e3-8976-b62130496b33.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 290m² na Vila Nova Mazzei, São Paulo/SP Casa - na Vila Nova Mazzei
+
+Localização: Rua dos Jacarandas Mimosos, 183, Vila Nova Mazzei, São Paulo/SP, 02312-090
+
+Área Terreno: 290m²
+Área Construída: 107m² (Conforme Laudo)
+
+Matrícula: nº 43.629
+RGI: 15º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 070.033.0072-9
+
+DOSSIÊ: 20265
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+=================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 05/Out/2023 a partir das 10h10 com Valor Mínimo de Venda de R$ 822.075,47.
+
+2ª Praça:
+Abertura: 05/Out/2023 a partir das 10h11
+Fechamento: 06/Out/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 430.000,00.
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 48% de deságio sobre o valor de avaliação.
+ Sold Imóveis - Santander - AF]]></Description>
+        <ListPrice currency="BRL">430000</ListPrice>
+        <LivingArea unit="square metres">290</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo - SP</City>
+        <Address>Rua dos Jacarandas Mimosos</Address>
+        <StreetNumber>183</StreetNumber>
+        <PostalCode>02312-090</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
