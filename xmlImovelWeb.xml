@@ -2082,6 +2082,74 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2836240]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel residencial com 358m² em Perdizes - São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Imóvel residencial com 358m² em Perdizes - São Paulo/SP 
+Imóvel: Um Prédio assobradado, de dois pavimentos, situado na Rua Joazeiro, nº 249, no 19º Subdistrito Perdizes, e seu respectivo terreno (lote nº 03-B da quadra 21, no bairro de Sumaré), medindo 12,00m de frente para a Rua Joazeiro, no lado direito, de quem desta rua olha para o imóvel, mede 26,31m, no lado esquerdo mede 29,36m, fechando nos fundos com 14,00m, encerrando a área de 358,00m², confinando de um, lado com o lote 3-A, de outro lado com o lote 04 e nos fundos com o lote 29, todos da quadra nº 21 e de propriedade da Companhia Paulista de Terrenos e Construções Sumaré. Matrícula nº: 91.707 do 2ºCRI de São Paulo SP. Nº do Contribuinte: 011.016.0051-9 Valor de Avaliação: R$ 2.211.338,00 (Abril 2016) Valor de Avaliação Atualizado: R$ 3.194.749,25 (junho 2023) Tabela Prática do TJSP. Débitos/ Ônus IPTU: Os valores são válidos até junho de 2022, podendo ser alterados posteriormente. Valor total de débitos em aberto: *Exercício atual: R$ 16.720,40 - planilha anexa *Exercícios anteriores: R$ 447.433,65 - planilha anexa Débito da Demanda: O débito da demanda perfaz o montante de R$1.866.401,58., conforme fls 1442/1443. Matrícula: Consta da matrícula a seguinte averbação: em "Av.01" de 04/06/1998 a Servidão de passagem de encanamentos e escoamento de água pluviais, constituída por Companhia Paulista de Terrenos e Construções Sumaré Ltda.
+ Claudete Gebara José Callegaro,  Cássio José Callegaro, Ciro José Callegaro, Carina Callegaro, Antonio Gebara José e outros Soraia Gebara José Executada Fabio Bauab Boschi 2ª Vara Cível do Foro Central da Capital/SP - 10h 0213446-10.2005.8.26.0100
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>3194749.25</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/391bd27a-aeca-4fe9-aae0-83e1564b2d83.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/83afda44-826e-4e99-83b5-817cd2803f55.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Joazeiro, 249]]></endereco>
+        <localidade><![CDATA[Sumaré, São Paulo - SP]]></localidade>
+        <codigoPostal><![CDATA[01253-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-46.67751</longitude>
+        <latitude>-23.54621</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
