@@ -457,6 +457,101 @@ Condições de Pagamento
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2936212]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2936212]]></codigoReferencia>
+      <titulo><![CDATA[Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado
+
+Localização: Avenida Roque Stilhano, nº 194, Bairro do Caputera, em Mogi das Cruzes/SP - CEP: 08725-730
+
+Área construída: 112,00m²
+Área total: 150,00m²
+
+Matrícula: nº 55.366 
+RGI: 2º Oficial de Registro de Imóveis de Mogi das Cruzes/SP
+Inscrição Prefeitura: 47.017.015.000-0
+
+DOSSIÊ: 20120
+
+Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 10/outubro/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 405.761,48
+
+2ª Praça:
+Abertura: 10/outubro/2023 a partir das 09h41
+Fechamento: 11/outubro/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 336.571,54
+                     
+Informações Relevantes: 
+1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+
+Percentual de desconto: 17% de deságio sobre o valor de avaliação.
+
+Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>405761.48</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/11e0ff73-d653-4680-bd9f-5491e0f3960c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Roque Stilhano, 194]]></endereco>
+        <localidade><![CDATA[Mogi das Cruzes, Mogi das Cruzes - SP]]></localidade>
+        <codigoPostal><![CDATA[08725-730]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-46.18633</longitude>
+        <latitude>-23.55283</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
