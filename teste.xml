@@ -271,6 +271,73 @@ Condições de Pagamento
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2936212</ListingID>
+      <Title>Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2936212</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/11e0ff73-d653-4680-bd9f-5491e0f3960c.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado Casa 112m² no Caputera em Mogi das Cruzes/SP - Ocupado
+
+Localização: Avenida Roque Stilhano, nº 194, Bairro do Caputera, em Mogi das Cruzes/SP - CEP: 08725-730
+
+Área construída: 112,00m²
+Área total: 150,00m²
+
+Matrícula: nº 55.366 
+RGI: 2º Oficial de Registro de Imóveis de Mogi das Cruzes/SP
+Inscrição Prefeitura: 47.017.015.000-0
+
+DOSSIÊ: 20120
+
+Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 10/outubro/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 405.761,48
+
+2ª Praça:
+Abertura: 10/outubro/2023 a partir das 09h41
+Fechamento: 11/outubro/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 336.571,54
+                     
+Informações Relevantes: 
+1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+
+Percentual de desconto: 17% de deságio sobre o valor de avaliação.
+
+Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">405761.48</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Mogi das Cruzes - SP</City>
+        <Address>Avenida Roque Stilhano</Address>
+        <StreetNumber>194</StreetNumber>
+        <PostalCode>08725-730</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
