@@ -472,6 +472,76 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2941345</ListingID>
+      <Title>Apto. 104m², 1 vaga no Candeias, Jaboatão dos Guararapes/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2941345</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2ba13697-4ded-4cd2-9ed3-008a5c0f3c09.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/71f8a65a-4536-4960-8d56-42a99754483b.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a544c5f3-6ea0-4175-9660-de306d7f3b3c.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Apto. 104m², 1 vaga no Candeias, Jaboatão dos Guararapes/PE Apartamento - no Candeias
+
+Localização: Av. Ulisses Montarroyos nº 808, Ed. Summer Ville Residence, apto. 606, Candeias, Jaboatão dos Guararapes/PE, 54430-070
+
+Área Privativa: 66m²
+Área Comum: 38m²
+Área Total: 104m²
+1 vaga
+Descrição Interna: (01 varanda, 01 sala para dois ambientes (estar/jantar), 01 circulação, 02 quartos sociais, sendo 01 quarto suíte, 01 quarto reversível, 01 BWC social, 01 BWC da suíte, 01 cozinha, 01 área de serviço e uma vaga de estacionamento sob o nº 105)
+
+Matrícula: nº 72.875
+RGI: 1º Cartório de Registro de Imóveis de Jaboatão dos Guararapes/PE
+Inscrição Prefeitura: 1.3105.115.02.0224.0036.2 e Sequencial nº 15150429
+
+DOSSIÊ: 19267
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+============
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 11/Out/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 393.027,55
+
+2ª Praça:
+Abertura: 11/Out/2023 a partir das 09h41
+Fechamento: 13/Out/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 376.906,74
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+ Sold Imóveis - Santander - AF]]></Description>
+        <ListPrice currency="BRL">393027.55</ListPrice>
+        <LivingArea unit="square metres">66</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PE">Pernambuco</State>
+        <City>Jaboatão dos Guararapes - PE</City>
+        <Address>Avenida Ulisses Montarroyos</Address>
+        <StreetNumber>606</StreetNumber>
+        <PostalCode>54430-231</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
