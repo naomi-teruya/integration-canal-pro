@@ -1338,6 +1338,42 @@ Imóvel: Unidade autônoma designada por Apartamento Tipo n° 136 (cento e trint
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2836240</ListingID>
+      <Title>Imóvel residencial com 358m² em Perdizes - São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2836240</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/391bd27a-aeca-4fe9-aae0-83e1564b2d83.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/83afda44-826e-4e99-83b5-817cd2803f55.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Imóvel residencial com 358m² em Perdizes - São Paulo/SP 
+Imóvel: Um Prédio assobradado, de dois pavimentos, situado na Rua Joazeiro, nº 249, no 19º Subdistrito Perdizes, e seu respectivo terreno (lote nº 03-B da quadra 21, no bairro de Sumaré), medindo 12,00m de frente para a Rua Joazeiro, no lado direito, de quem desta rua olha para o imóvel, mede 26,31m, no lado esquerdo mede 29,36m, fechando nos fundos com 14,00m, encerrando a área de 358,00m², confinando de um, lado com o lote 3-A, de outro lado com o lote 04 e nos fundos com o lote 29, todos da quadra nº 21 e de propriedade da Companhia Paulista de Terrenos e Construções Sumaré. Matrícula nº: 91.707 do 2ºCRI de São Paulo SP. Nº do Contribuinte: 011.016.0051-9 Valor de Avaliação: R$ 2.211.338,00 (Abril 2016) Valor de Avaliação Atualizado: R$ 3.194.749,25 (junho 2023) Tabela Prática do TJSP. Débitos/ Ônus IPTU: Os valores são válidos até junho de 2022, podendo ser alterados posteriormente. Valor total de débitos em aberto: *Exercício atual: R$ 16.720,40 - planilha anexa *Exercícios anteriores: R$ 447.433,65 - planilha anexa Débito da Demanda: O débito da demanda perfaz o montante de R$1.866.401,58., conforme fls 1442/1443. Matrícula: Consta da matrícula a seguinte averbação: em "Av.01" de 04/06/1998 a Servidão de passagem de encanamentos e escoamento de água pluviais, constituída por Companhia Paulista de Terrenos e Construções Sumaré Ltda.
+ Claudete Gebara José Callegaro,  Cássio José Callegaro, Ciro José Callegaro, Carina Callegaro, Antonio Gebara José e outros Soraia Gebara José Executada Fabio Bauab Boschi 2ª Vara Cível do Foro Central da Capital/SP - 10h 0213446-10.2005.8.26.0100]]></Description>
+        <ListPrice currency="BRL">3194749.25</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Rua Joazeiro</Address>
+        <StreetNumber>249</StreetNumber>
+        <PostalCode>01253-030</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
