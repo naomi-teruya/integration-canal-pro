@@ -647,6 +647,101 @@ Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.ne
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2916501]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2916501]]></codigoReferencia>
+      <titulo><![CDATA[Terreno, A.T. 954m², Vila Barth]]></titulo>
+      <descricao><![CDATA[Terreno, A.T. 954m², Vila Barth 
+Imóvel da matrícula n° 71.861, do CRI de Itapetininga/SP, a seguir descrito: Um terreno urbano, de formato irregular, constituído pelo lote trinta e três (33), da quadra sete (7), do loteamento denominado Vila Barth, na cidade e comarca de Itapetininga, medindo dezenove (19) metros e setenta e cinco (75) centímetros de frente para a Rua Érico Veríssimo; do lado direito, de quem da frente olha para o imóvel, formando ângulo interno de 89° 30&#39; 56&#39;&#39;, em relação a via pública, e ângulo interno de 85° 27&#39; 30&#39;&#39;, em relação aos fundos, mede quarenta e nove (49) metros e setenta (70) centímetros, confrontando com o lote trinta e quatro (34); do lado esquerdo, formando ângulo interno de 90°, em relação a via pública, e ângulo interno de 95° 01&#39; 34&#39;&#39;, em relação aos fundos, mede quarenta e oito (48) metros, confrontando com os lotes vinte e sete a trinta e dois (32); e, nos fundos, medindo dezenove (19) metros e quarenta (40) centímetros, confronta com o lote vinte e sete (27), encerrando a área de novecentos e cinquenta e quatro (954) metros e setenta (70) decímetros quadrados. Inscrição Municipal: 01.11.041.0068.001.
+
+
+
+ 
+
+
+
+Ônus e gravames: de acordo com matrícula atualizada, consta na AV.10 PENHORA nos autos da Execução Trabalhista nº 0000007-41.2013.5.15.0041, perante a Vara do Trabalho de Itapetininga/SP, movida por Luis Fernando Ragazzi de Toledo e Sindicato dos Professores de Sorocaba/SP; consta na AV.12 PENHORA de 2,23% do imóvel nos autos da Execução Civil processo nº 0005735-85.2020.8.26.0269, perante o 3º Ofício Cível de Itapetininga/SP, movida por Hugo Nalini Neto; consta na AV.13 PENHORA nos autos da Execução Civil processo nº 269, perante o 1º Ofício Cível de Itapetininga/SP, movida por Leonardo Vaz de Oliveira; consta na AV.14 PENHORA nos autos da Execução Civil processo nº 269, perante o 3º Ofício Cível de Itapetininga/SP, movida por Frederico Augusto de Almeida Prado Tosin; consta na AV.15 PENHORA do imóvel objeto desta matrícula nos autos da presente ação. Conforme consulta realizada junto aos órgãos competentes, sobre o imóvel não constam débitos relativos a tributos imobiliários ou inscritos em dívida ativa referentes ao imóvel objeto desta matrícula até julho de 2023.
+
+
+
+ 
+
+
+
+Valor da Avaliação: R$ 670.000,00 (seiscentos e setenta mil reais) em agosto de 2020.
+
+
+
+
+Valor da Avaliação Atualizado: R$ 839.879,23 (oitocentos e trinta e nove mil, oitocentos e setenta e nove reais e vinte e três centavos) até julho de 2023, segundo a tabela oficial aplicável nos cálculos judiciais do TJSP.
+
+
+
+
+ 
+
+
+
+ 
+ Vanessa Bianchi Oliveira Fundação Karnig Bazarian Fundação Karnig Bazarian Réu: Tarissa Giselle Espinosa Dal Medico; Autor: Mariana Pereira Giriboni Costa 3ª Vara Cível da Comarca de Itapetininga/SP 0010623-34.2019.8.26.0269
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>503927.53</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/678c5672-db6f-4461-a445-44eed83f1545.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Érico Veríssimo, 50]]></endereco>
+        <localidade><![CDATA[Vila Barth, Itapetininga - SP]]></localidade>
+        <codigoPostal><![CDATA[18205-570]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-48.05093</longitude>
+        <latitude>-23.59695</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
