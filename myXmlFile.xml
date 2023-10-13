@@ -698,6 +698,76 @@ Percentual de desconto: 21% de deságio sobre o valor de avaliação. Sold Imóv
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2947345</ListingID>
+      <Title>Apto. 34m², 1 vaga no Portão, Curitiba/PR</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2947345</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/dcad9689-a2f2-4f0f-92f5-a82b3689d7e8.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/859816c6-cbd3-4f4d-9d9b-ffa6880ff888.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/adfb57c4-65d5-4930-b96a-390fa202c1fa.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Apto. 34m², 1 vaga no Portão, Curitiba/PR Apartamento - no Edifício San Marco
+
+Localização: R. Ponta Grossa, nº 356, Ed. San Marco, Apto. 31, Portão, Curitiba/PR, 80610-160
+
+Área Construída Privativa: 34m²
+Área Comum: 11m²
+1 vaga
+
+Matrícula: nº 55.547
+RGI: Cartório de Registro de Imóveis, 5ª Circunscrição de Curitiba/PR
+Inscrição Prefeitura: 27.0.0034.0056.00-5
+
+DOSSIÊ: 20528
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+============
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 17/Out/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 248.947,14
+
+2ª Praça:
+Abertura: 17/Out/2023 a partir das 09h51
+Fechamento: 18/Out/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 181.737,42
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 27% de deságio sobre o valor de avaliação.
+ Sold Imóveis - Santander - Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">248947.14</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PR">Paraná</State>
+        <City>Matinhos</City>
+        <Address>Rua Ponta Grossa</Address>
+        <StreetNumber>356</StreetNumber>
+        <PostalCode>83260-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
