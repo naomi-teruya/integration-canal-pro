@@ -630,6 +630,74 @@ Valor da Avaliação: R$ 466.000,00 (quatrocentos e sessenta e seis mil reais) e
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2944609</ListingID>
+      <Title>Casa 301m², Ocupada, em Baião/PA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2944609</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e97c1d93-0967-4237-bc07-9aec7097f864.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/fea1dfb5-1aa9-4a30-9849-dca5c174be39.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5ce6faee-a016-4ae0-a971-791ba28e81b0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 301m², Ocupada, em Baião/PA Casa 301m², Ocupada, em Baião/PA
+
+Localização: Rua Rui Barbosa, nº 43, Cidade Nova, Baião/PA  -  CEP: 68.465-000
+
+área de terreno: 172,20m²
+área construída: 301,00m²
+
+Matrículas: 1.298 do Cartório de Registro de Imóveis de Baião/PA
+Inscrição Prefeitura: 4902
+
+DOSSIÊ: 20280
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+========================================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 17/10/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 257.115,14
+
+2ª Praça:
+Abertura: 17/10/2023 a partir das 09h41
+Fechamento: 18/10/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 204.113,22
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 21% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">257115.14</ListPrice>
+        <LivingArea unit="square metres">172</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PA">Pará</State>
+        <City>Baião</City>
+        <Address>Rua Rui Barbosa</Address>
+        <StreetNumber>43</StreetNumber>
+        <PostalCode>68465-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
