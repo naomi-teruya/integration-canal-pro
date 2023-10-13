@@ -768,6 +768,73 @@ Percentual de desconto: 27% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2945800</ListingID>
+      <Title>Casa 275m² no Tatuapé em São Paulo/SP - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2945800</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ac86a9ad-1ea7-442e-af20-708f242a656d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 275m² no Tatuapé em São Paulo/SP - Ocupado Casa 275m² no Tatuapé em São Paulo/SP - Ocupado
+
+Localização: Rua Paulínia, nº 36, Tatuapé em São Paulo/SP - CEP: 03432-030
+
+Área construída: 275,00m²
+Área total: 296,00m²
+
+Matrícula: nº 96.320
+RGI: 9º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 055.132.0024-4
+
+DOSSIÊ: 20207
+
+Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+====================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 18/outubro/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.973.011,62
+
+2ª Praça:
+Abertura: 18/outubro/2023 a partir das 09h31
+Fechamento: 19/outubro/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 1.549.579,10
+                     
+Informações Relevantes: 
+1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+
+Percentual de desconto: 21% de deságio sobre o valor de avaliação.
+
+Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">1973011.62</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Rua Paulínia</Address>
+        <StreetNumber>36</StreetNumber>
+        <PostalCode>03432-030</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
