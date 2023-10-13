@@ -2141,6 +2141,220 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2568274]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2568274]]></codigoReferencia>
+      <titulo><![CDATA[Prédio Comercial 5.264m² Desocupado em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Prédio Comercial 5.264m² Desocupado em São Paulo/SP 
+Prédio Comercial com 51 vagas de garagem
+
+CARACTERÍSTICAS:
+Ano da Construção: 2021
+
+Área do terreno: 4.553,52m2
+Área construída: 5.264,10m2
+51 vagas de automóveis
+
+Cadastrado na Prefeitura Municipal de São Paulo/SP sob o número: 010.035.0033-1
+
+CÓD. P531
+
+Prédio Comercial bem localizado proximo à Av. 9 de julho, Fácil acesso, Grandes comércios no entorno.
+                                                                                                                                                                                                                          Informações Relevantes:
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").
+2 - Acesso à documentação do imóvel: mediante solicitação prévia pelo e-mail imoveis.sac@superbid.net - Importante: necessário indicar código do imóvel constante na descrição.
+3 - Vendedor analisará propostas com pagamento parcelado.
+
+Para agendamento de visitação, informações e dúvidas por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. 54 Sold Imóveis - Venda Direta]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>45000000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/992f7767-d440-4465-9485-14a2a1c9473a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb15b3ec-ee70-4b17-9acb-eb3fe9e7c8fc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f98238a-305d-47b8-98fe-4c0c2360864f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6a28a305-e85a-42f1-8aaf-18861881eff3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6960e397-1eba-43e9-a384-2086ddc80eeb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8bede83d-591b-4031-b1f9-892913879928.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4e292b0c-ab01-4a94-a5d5-edc05ec78e5b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/34c82af0-8825-4c53-aa9f-6c8fb51286bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/da5ccd0b-8d0b-4602-9acb-c7bd295c5bec.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c8668618-a122-470d-a0e2-64c94a9a93f9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c940ffb7-b36a-4009-a238-11525bfbc495.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/556b2186-6190-4f05-ae71-939525af43e9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dca21c03-65d3-46a7-ba96-1cdc76e485a5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6fb1d421-0031-4439-ba9d-ee46c59fc028.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c67ab957-1d9b-4af9-b02a-9f4191731554.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a19d8375-b1a4-4293-9b83-b439d7fcff3c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70d074e1-5727-4a1c-b390-ef3d7830ed87.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4744b25c-fb9e-4f42-b765-30b5b6421076.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b1e4825-9a7b-4243-9874-5e9e208e1df5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d8df5f75-f453-40fd-ab1b-0b4d840067ed.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/420de5c9-14bd-4534-8d08-1095fef0a7b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2e42919c-6e64-4c0f-9a2e-2666c443a9f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/145cfe0c-115e-4352-a79c-5ccbbdc67793.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d3440202-6aac-4718-9590-783f22de5e63.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44e67638-eddf-4476-be99-cb1740eb4a2e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7072c6c2-9451-435c-a47c-8dc6e645ef08.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bdf519a5-7165-40b4-85cd-1996518b1f55.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91871ff2-bfd1-4d2e-be06-6094adda14cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c16e0339-a17a-4359-87c5-46f41dba9107.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/86cd9454-96af-45a2-960d-96bced1c86d2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e6b2493d-394d-4d73-99b8-e067044e3010.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba9edecf-4bcf-408b-ba8a-904aa857c342.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23f77e3f-ef01-4d6c-a176-400b21fb2604.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0d1a556-694f-43b4-a1cd-e4e1699f174e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b5122b0-38b3-42a7-9d15-5be7a0ca4dc5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/28138f3e-4db7-442a-ad69-2b0d016c98a2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4a9c7958-4344-4e79-bebd-6f42fb3e1fc7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/650eaad1-8fc9-4a04-8271-38753044a8d2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/151d6756-ccde-4294-9ee3-444143775073.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/662ce362-c7a7-4ad6-8fd3-5f795202e680.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/368b68ed-4cf1-4209-9025-3b49daeb6841.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f651a618-ba16-47d9-9c78-8ce39a75d94b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b1ac1db-4d18-453f-b675-f0e1ecee31b1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/63bcf72b-7c56-4906-850e-0ce31c0ce536.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/111943cc-647e-4c4a-98b9-c19fe5f01c11.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Doutor Penaforte Mendes, 160]]></endereco>
+        <localidade><![CDATA[Bela Vista, São Paulo, SP]]></localidade>
+        <codigoPostal><![CDATA[01308-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-46.6516</longitude>
+        <latitude>-23.55466</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
