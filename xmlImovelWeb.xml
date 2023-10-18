@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697547267</dataModificacao>
+  <dataModificacao>1697634401</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -8679,6 +8679,107 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-47.04083</longitude>
         <latitude>-22.90677</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2911522]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2911522]]></codigoReferencia>
+      <titulo><![CDATA[Casa 184m², Ocupada no Grande Terceiro em Cuiabá/MT]]></titulo>
+      <descricao><![CDATA[Casa 184m², Ocupada no Grande Terceiro em Cuiabá/MT Casa 184m², Ocupada no Grande Terceiro em Cuiabá/MT - Casa tipo MT-6.I.4.55, edificada no lote nº 16 da quadra 07, do conjunto Habitacional Grande Terceiro, contendo: 04 quartos, sala, cozinha e banheiro, com os seguintes limites e confrontações: medindo 10,00m de frente para a Rua J; 10,00m de fundos com o lote 14; 25,00m do lado direito com o lote 17; 25,00m do lado esquerdo com o lote 15, com a área total de 250,00m². Matrícula nº 64.182 do 5º Serviço Notarial e Registro de Imóveis da 2ª Circunscrição de Cuiabá/MT. Cadastrado na Prefeitura Municipal sob n° 012440420423001.
+
+Código do Imóvel: 11651.
+
+Imóvel Ocupado, a desocupação correrá por conta do arrematante.
+
+O imóvel será entregue livre de quaisquer débitos de IPTU, exceto se o arrematante for o ex-mutuário ou o atual ocupante do imóvel, caso em que, os débitos deverão ser pagos no mesmo prazo para pagamento à vista ou do sinal, conforme edital.
+
+Valor aproximado do IPTU: R$ 697,37.
+
+Informações Relevantes:
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - Condição de Pagamento: À vista (sem desconto) - condições completas vide Edital.
+3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).
+4 - Conforme IPTU, o imóvel esta localizado na Rua Rio Jurema e difere da matricula como Rua J. Caberá ao arrematante a respectiva verificação, regularização juntos aos órgãos competente.
+5 - Conforme Laudo, consta uma área construída total de 184,82m² não averbada na matricula do imóvel. Caberá ao arrematante a respectiva verificação, regularização juntos aos órgãos competente.
+
+Valor de avaliação: R$ 330.000,00 - percentual de desconto: 40% de deságio sobre o valor de avaliação.
+
+Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602. 10 Sold Imóveis - Poupex - 09.10.23 - 14h00]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>198000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/61e2fdcb-6ded-4aae-b273-caca082673f4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acc37d31-2e65-4db3-9055-b8583621f2c4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9b037d60-7349-4228-90a4-54ca5840fd9d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37db3d20-4fd7-4b26-9c8f-7ceeccfd848f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3ca9d68-9372-47b3-b7a5-d27aabe5408a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/30eca225-97b6-4175-849b-dac793ce0a53.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Rio Juruena, 16]]></endereco>
+        <localidade><![CDATA[Grande Terceiro, Cuiabá, MT, Brasil]]></localidade>
+        <codigoPostal><![CDATA[78065-690]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-56.08272</longitude>
+        <latitude>-15.62443</latitude>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
