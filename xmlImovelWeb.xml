@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697658895</dataModificacao>
+  <dataModificacao>1697658965</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -22725,6 +22725,114 @@ Condições de Pagamento
         <endereco><![CDATA[Avenida Santa Tereza De Jesus, 280]]></endereco>
         <localidade><![CDATA[Jarinu, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[13240000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2957850]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2957850]]></codigoReferencia>
+      <titulo><![CDATA[Apto 54m², 1 Vaga dupla, Ocupado, em Ribeirão Preto/SP]]></titulo>
+      <descricao><![CDATA[Apto 54m², 1 Vaga dupla, Ocupado, em Ribeirão Preto/SP Apto 54m², 1 Vaga dupla, Ocupado, em Ribeirão Preto/SP
+
+Localização: Rua João Batista Santanna, nº 215, Apto nº 306, Bloco 11, Reserva Sul Resort Condomínio,  Ribeirão Preto/SP  -  CEP: 14022-320
+
+área privativa: 54,010m²
+área de uso comum de divisão proporcional: 94,458m²
+área total: 148,468m²
+
+Matrículas: 166.248 do 2º Oficial de Registro de Imóveis de Ribeirão Preto/SP
+Inscrição Prefeitura: 302.830
+
+DOSSIÊ: 20570
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 19/10/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 199.000,00
+
+2ª Praça:
+Abertura: 19/10/2023 a partir das 09h51
+Fechamento: 20/10/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 117.235,80
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 41% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>199000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bbf0dde2-15c5-4306-af99-99af10a24eed.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/47f669b8-4a1d-425d-8477-d2a622852033.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2b664aa8-aaa3-4f50-b56e-06edd2827399.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/74ed4c77-94c2-4eff-92aa-4ec3b1a34fe7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua João Batista Santanna, nº 215]]></endereco>
+        <localidade><![CDATA[Bloco 11, Reserva Sul Resort Condomínio, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14022-320]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
