@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697658965</dataModificacao>
+  <dataModificacao>1697659064</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -22833,6 +22833,108 @@ Percentual de desconto: 41% de deságio sobre o valor de avaliação. Sold Imóv
         <endereco><![CDATA[Rua João Batista Santanna, nº 215]]></endereco>
         <localidade><![CDATA[Bloco 11, Reserva Sul Resort Condomínio, Brasil]]></localidade>
         <codigoPostal><![CDATA[14022-320]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2945801]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2945801]]></codigoReferencia>
+      <titulo><![CDATA[Casa 275m² no Tatuapé em São Paulo/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 275m² no Tatuapé em São Paulo/SP - Ocupado Casa 275m² no Tatuapé em São Paulo/SP - Ocupado
+
+Localização: Rua Paulínia, nº 36, Tatuapé em São Paulo/SP - CEP: 03432-030
+
+Área construída: 275,00m²
+Área total: 296,00m²
+
+Matrícula: nº 96.320
+RGI: 9º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 055.132.0024-4
+
+DOSSIÊ: 20207
+
+Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+====================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 18/outubro/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.973.011,62
+
+2ª Praça:
+Abertura: 18/outubro/2023 a partir das 09h31
+Fechamento: 19/outubro/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 1.549.579,10
+                     
+Informações Relevantes: 
+1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+
+Percentual de desconto: 21% de deságio sobre o valor de avaliação.
+
+Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1549579.1</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/431970dc-665d-4807-9c4d-5be8928344e6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/de53ac50-3f1d-483a-8de0-3d0424666bdc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Paulínia, nº 36]]></endereco>
+        <localidade><![CDATA[Rua Paulínia, nº 36, Brasil]]></localidade>
+        <codigoPostal><![CDATA[Paulo/SP]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
