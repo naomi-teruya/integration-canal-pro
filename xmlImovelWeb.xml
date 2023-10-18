@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697650728</dataModificacao>
+  <dataModificacao>1697650815</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -8475,6 +8475,142 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-47.04083</longitude>
         <latitude>-22.90677</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2944703]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2944703]]></codigoReferencia>
+      <titulo><![CDATA[Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG]]></titulo>
+      <descricao><![CDATA[Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG. Imóvel acima, denominado gleba nº I, componente da gleba nº 119, da Fazenda Mosquito, município de Janaúba-MG, com os seguintes limites: começam no marco cravado à margem da Rede Ferroviária Federal (EFCB); daí segue rumo 58°30¿NO, e distância de 457 metros, limitando com Santos Barbosa, até outro marco; daí segue limitando com Mariano José da Silva até outro marco, numa distância de 240 metros; daí, voltando a esquerda, no rumo de 76º45¿SO, e distância de 320 metros, limitando com terras dos doadores e que estão sendo doadas aos filhos destes, até encontrar outro marco, daí, defletindo a esquerda, segue de rumo L, numa distância de 670 metros limitando ainda com os doadores até outro marco; daí, defletindo ainda a esquerda segue dividindo com os mesmos doares, numa distância de 490 metros, até outro marco; daí, defletindo a direita, segue ainda dividindo com os doadores, numa distância de 210 metros, até encontrar um marco cravado na margem da Rede Ferroviária Federal (EFCB) e por esta abaixo até o ponto inicial desta descrição. Imóvel devidamente matriculado sob o nº 12.317 do Cartório de Registro de Imóveis de Janaúba/MG. Contribuinte n° 406.104.001.953-0. NIRF nº 0.696.555-5.Vocação: Gado, plantio, projeto fotovoltaico.
+Localização: A 7km do centro de Janaúba, Terreno plano
+
+Venda Condicional (valor de venda sob aprovação do vendedor).
+
+- Imóvel DESOCUPADO. 
+
+Informações Relevantes: 
+1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista.
+2 - Os débitos de ITR serão quitados pelo vendedor até a data do leilão.
+3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").
+4 - Percentual de desconto: 15% de deságio sobre o valor de avaliação. 
+5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc), não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.
+6 - Foi detectada uma diferença entre a área do imóvel rural declarada conforme documentação comprobatória de propriedade/posse/concessão [40,1444 hectares] e a área do imóvel rural identificada em representação gráfica [40,0108hectares]  (A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções). Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.
+
+Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602 Sold Imóveis - Demetrio - 03/11/2023 - 16h00]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>510000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9632fc1-ae8f-4c95-8576-485190102cac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/882754bd-740d-44b4-ae89-58dc2a260cf2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4af3e47e-2b08-4b4e-89d0-41b14e43b064.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/30a445e3-96e2-46de-8f75-b1ee978f4013.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/744f90a0-27dd-4b7e-abcf-3360d62a620a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44d2cc8c-cf3c-45f6-bb43-fa5d26edf20b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/82bd7768-c5ea-4f1e-82a3-fa77d17ae379.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d149c641-8730-48f4-be34-a6b2f5037013.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3880f2ff-10e2-46cd-9eb0-40d1ee4a3b4b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d7329c1-0217-4952-bcf8-28f7642161ae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/863cd9d5-0fdc-44b5-982f-6f1aeb3f25b6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c82f0452-f5a0-4a4c-9151-55857df4ea82.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2666e609-9506-4323-be5f-f5d780e3a08e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/13f2a727-5d7c-487f-937e-36de080e72ef.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/801c1962-ead8-47a6-8e20-89ad27c809be.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/55c1f2fd-aff5-4fe4-9824-c76e2e7b26eb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7974c738-76fa-4743-a0a2-70b427873386.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dcb1882a-aaa0-4a54-bb37-82af7ab76c33.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c6f0adea-b652-4703-90dd-f4367617d375.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada Baixa Para Pedra Petra, undefined]]></endereco>
+        <localidade><![CDATA[undefined, Janaúba, MG, Brasil]]></localidade>
+        <codigoPostal><![CDATA[39440-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+        <longitude>-43.32209</longitude>
+        <latitude>-15.83992</latitude>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
