@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697661789</dataModificacao>
+  <dataModificacao>1697662112</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -5057,99 +5057,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-40.29356</longitude>
         <latitude>-20.30548</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2882224]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2882224]]></codigoReferencia>
-      <titulo><![CDATA[Edifício Comercial 881m² DESOCUPADO no Rio de Janeiro/RJ]]></titulo>
-      <descricao><![CDATA[Edifício Comercial 881m² DESOCUPADO no Rio de Janeiro/RJ Edifício Comercial
-
-CARACTERÍSTICAS:
-Ano da construção 1938
-Área do terreno: 206 m²
-Área construída: 881 m²
-
-Matricula nº 27.136 ¿ 7º RGI ¿ RJ
-IPTU nº 0.456.271-6
-
-CÓD. P308
-
-Próximo a Av. Pres. Vargas e Av. Rio Branco;
-Localização com grande polo comercial;
-
-Informações Relevantes:
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus")
-2 - Acesso à documentação do imóvel: mediante solicitação prévia pelo e-mail imoveis.sac@superbid.net - Importante: necessário indicar código do imóvel constante na descrição.
-3 - Vendedor analisará propostas com pagamento parcelado
-
-Para agendamento de visitação, informações e dúvidas por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. 62 Sold Imóveis - Venda Direta]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT7]]></id>
-          <nome><![CDATA[VAGA]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>5067000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4a22b768-3af1-4cd5-a3ea-ea8a50a6bd77.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3186841e-3d07-4b7f-978f-088e11c2b362.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/681a76e6-c0a5-45f6-99fb-1d426a2bbfbc.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua da Alfandega, 21]]></endereco>
-        <localidade><![CDATA[Funchal, Funchal, undefined, Portugal]]></localidade>
-        <codigoPostal><![CDATA[9000-059]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-16.90875</longitude>
-        <latitude>32.64748</latitude>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
