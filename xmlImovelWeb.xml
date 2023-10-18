@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697654453</dataModificacao>
+  <dataModificacao>1697654837</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -19950,6 +19950,2879 @@ Condições de Pagamento
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-46.3575</longitude>
         <latitude>-14.07754</latitude>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063431]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063431]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação) 
+Endereço Completo
+
+Rua Ronaldo De Souza Goncalves, LOTE 27, Lote 27 Quadra 06, Residencial Portal Do Moinho, Sete Lagoas, MG, CEP: 35700885
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 500 m² de área total, 500 m² de área terreno. Matrícula(s): 36.936. Cartório: CRI DE SETE LAGOAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 16357
+
+
+Área Total:
+ 500.0 m2
+
+Área Terreno:
+ 500.0 m2
+
+
+Matrícula:
+ 36.936
+
+Cartório de Registro:
+ CRI DE SETE LAGOAS
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 2.260,00
+
+
+Valor Avaliado:
+ R$ 89.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42555 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>42000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f17175d9-91a8-4075-9b5f-297d6f32f8fb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7ae8007a-1bf1-468c-8dbf-02c91f934b38.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3caa410-ad62-447d-9bed-e61de83c0194.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/881fdbde-35eb-42b4-826b-affe42f16854.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Ronaldo De Souza Goncalves,  LOTE 27]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[35700885]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063408]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063408]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 4292.92 m2, Barueri / SP (30% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 4292.92 m2, Barueri / SP (30% abaixo da avaliação) 
+Endereço Completo
+
+Avenida Sao Paulo, 894/938, Lotes N0 05 E 06, Quadra 20, Fazenda Tambore Residencial, Residencial Tambore, Barueri, SP, CEP: 06458080
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Em condomínio, Ocupado, 14 vaga(s) de garagem. Área(s): 4292,92 m² de área total, 4292,92 m² de área terreno, 1140,89 m² de área construída. Matrícula(s): 171.066. Cartório: CRI DE BARUERI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 17952
+
+
+Área Total:
+ 4292.92 m2
+
+Área Terreno:
+ 4292.92 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 6, Escritórios: 1, Banheiros: 14, Lavabos: 1, Vagas de Garagem: 14, Salas: 7, Cozinhas: 1, Copas: 1
+
+
+Matrícula:
+ 171.066
+
+Cartório de Registro:
+ CRI DE BARUERI
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 5.807,34
+
+Condomínio Mensal:
+ R$ 7.773,39
+
+
+Valor Avaliado:
+ R$ 10.049.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* IMOVEL FOREIRO A UNIAO. RIP 6213 0002403-86. VER ITEM 4.9, INCISO V DO EDITAL DE LEILAO* ACAO JUDICIAL - ANULATORIA - PROC. NO 1005762-04.2022.8.26.0068 EM TRAMITE NA 4A VARA CIVEL DE BARUERI/SP.* ACAO JUDICIAL - ANULATORIA - PROC. NO 1011853-13.2022.8.26.0068 EM TRAMITE NA 5A VARA CIVEL DE BARUERI/SP.* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 52870 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>7034300</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8b82b7a0-f2b3-40e4-b0b9-7b472fbccff9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e940cf50-2b67-4b6a-8f14-0e743cf64bee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/40341dc0-16b4-446c-bb75-65fc35c8b7f5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81660b23-c394-43b7-9989-3c5913ad946e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79ad99c8-6c8c-4c03-a8dd-807cbc04784e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/135c9543-d709-4633-a2aa-aa825167ae19.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/714c7c4a-73a1-4af9-9361-1717f88e6903.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1ad37e2-39d0-431b-a21f-a929bac4d2ea.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b23280ea-26dd-49ea-b9e1-6785f5900915.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b72fcd1-50eb-4950-84f6-5edfea47edb1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a148ab64-fb34-45db-83dd-00382c8a07a2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b287b2a5-6c8f-46f9-99a1-5dc21424fbf8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/168a85bb-9509-48a6-9c7d-756b9ac5362c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/079b22c6-cb2e-4a7e-b4fe-9b22377ecd21.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5ea209fe-9c84-4a4d-8e6e-c9e57ffa3023.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5ffabb10-1b61-41d8-aac4-a1e1f04cb32f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d8c08e4-ea27-4f0e-8b6e-c6fc74405245.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d4c23ca0-01ed-46da-b022-2dee6d3d0c81.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5f65173c-af77-4847-b63e-648aa79dad94.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4396c4b3-8436-4e27-ab64-c4585b6a0ae9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/43ac4d5e-fbf3-44b0-a5b0-ed602d01300d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24fab297-9099-4fd3-8c13-b586fdc755e3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24bacc70-ecd7-4a0f-a16e-80255cff9ea0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24737458-42df-4b1d-a77f-64ba8f9ce04d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f3e9e38-9584-4620-b594-1d848a93ea07.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d97d0a12-74d7-4f89-b77c-2bcbc4d61cd0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1ee026cf-2e93-4fc3-8967-49133ac23868.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f9aa7ab7-133a-406a-9b04-2b1d0dab58e8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/473b539e-9b9d-47e1-87c9-92e5d1c8fede.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1bb0aae-d84f-4886-b22b-f69b6a361c39.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e766eeb7-650d-431e-82bf-08212c206ed6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d376c3c1-d0b5-46ec-90e2-dc8deb872583.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae98824a-bb05-486f-9583-c570fdb40dca.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e6deb4be-2194-43ce-b2c8-aab8887303c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b2c64235-d125-4ce4-a720-8e93bf858b76.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8b943b87-ee82-4a92-8fa2-375bc4ff1916.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/412b4c2e-f71d-4fd3-8449-bda5039019e1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2d5a382d-26ec-49cc-a529-6099e5a7e2ef.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e69d777a-b378-4d6d-9685-56fa75813f85.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/206e7415-6039-4ba7-aba3-ea636a83dcd8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/318f0e47-5a1c-49bf-9120-3d72347e521b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/af121b88-a13b-47dd-8f89-27dd156dce00.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/915b3b71-8486-4fc6-8ff5-64743e58efd3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2b83d67f-6dad-4647-a005-18e97cb60ad3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/057fb5dc-9154-43cb-8b93-df977afb1a4d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2df256a8-0d24-48a8-acc9-f6f836fbaf4a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/428b31ac-7f83-4af0-a7c9-c3eb26ef6802.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe5814cb-5633-4228-bb8e-0af4b0fba390.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/219bf369-a0a5-46da-86a1-c56757e98e04.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b40da214-18b1-4435-9554-83126ad0800d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e0311e38-46d4-4a2c-915b-4c6984bb5705.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1554ebb7-0cab-4887-adb9-81af03c9ecad.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/21eb35af-c76f-4aa7-a99c-9eea9f13365a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e5678664-be34-44f9-8bdd-04cfc59cec71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/39cfc069-1d9d-463e-bc40-98d251187ed1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b78b077-1d33-4a21-8c79-174fc52524e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1129feee-8b8e-4670-bf6d-12426615a5d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5bbf91f8-b399-4924-8728-eb73eb99d88a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a03e2b62-94f5-4f36-9166-096de35fd80e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/41bfb49e-3763-49b9-a069-c86b6ea58b6d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ddb0e5fb-dca5-4dcd-a7a6-9f4a87ae27c7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cf0e3707-f482-4193-8423-83852f2d81c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7a7029b-9107-4203-a3a5-d7015dda8e6f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aa6c64ce-aaf4-4981-876f-b9879f5d58aa.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00a3d65f-8c9e-4a25-8811-e7a47a21388d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0864eae2-4894-400f-8310-0237c97e0877.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5299ea7b-d1b3-4c2e-bc96-a7c210d1baaf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7abfa0c4-5793-4ef6-8318-bfbbb85d8c39.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e5ac475-52dd-4647-ac3d-3e9bbc450bea.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad256736-aa90-4ee8-ab53-24ce0c3c2ddb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6e584303-8952-4bd0-babf-e7ffe9f49ad7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/191b938e-19f6-443a-b1a9-b79b77f95114.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2e1c2095-409e-441f-afb9-0df5a3973154.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/65e90a02-15e3-437b-9539-c6327a36d7f6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c67bf773-89de-4339-8192-7870f371ad89.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ab572bef-4981-4312-b48a-413743a69962.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/58be0bba-c90d-4a74-80bf-51a3c1e343bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4e8a3057-7c8d-41df-9085-75b12f3658ce.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Sao Paulo,  894/938]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06458080]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063441]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063441]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Desocupado, 907.63 m2, Embu-Guaçu / SP (28% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Desocupado, 907.63 m2, Embu-Guaçu / SP (28% abaixo da avaliação) 
+Endereço Completo
+
+Rua Granada, 619, Unidade 02 - 04308 Fazenda Da Ilha, Lagoa Grande, Embu-Guaçu, SP, CEP: 06900000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Em condomínio, Desocupado, 1 vaga(s) de garagem. Área(s): 907,63 m² de área total, 907,63 m² de área terreno, 478,84 m² de área construída. Matrícula(s): 126.865. Cartório: CRI DE ITAPECERICA DA SERRA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 16959
+
+
+Área Total:
+ 907.63 m2
+
+Área Terreno:
+ 907.63 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 3, Banheiros: 2, Lavabos: 2, Vagas de Garagem: 1, Salas: 2, Cozinhas: 1, Despensas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 126.865
+
+Cartório de Registro:
+ CRI DE ITAPECERICA DA SERRA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 4.764,32
+
+Condomínio Mensal:
+ R$ 654,50
+
+
+Valor Avaliado:
+ R$ 1.319.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO* ACAO JUDICIAL - REINTEGRACAO DE POSSE - PROC. NO 1000503-89.2022.8.26.0177 EM TRAMITE NA VARA UNICA DE ENBU GUACU/SP.PARA DESOCUPACAO DO IMOVEL.* ACAO JUDICIAL - REVISIONAL - PROC. NO 1005949-47.2021.8.26.0100 EM TRAMITE NA 26A VARA CIVEL DE SAO PAULO/SP.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL. * OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 42680 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>923300</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/47173a8e-4214-4c3a-ac0b-f4407e31f49a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/caf0eccf-00ea-4431-9578-de0a541ffd56.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7f970343-bafa-42f4-93c4-9a933f43a49b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ffb4bf8d-f7e0-4aff-987a-acf2d31f54af.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/80f8605b-e8fd-49e1-8323-2e5514fca9bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed49978e-43d7-42b0-9aeb-c7f2b8458e95.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad5eca6a-5312-460e-b0a5-ef7abd0c6e10.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1caaad0-383b-4830-b1b8-fd7d2b662580.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3e1f3a0-589e-4312-b819-ff5d2c77c030.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca33d1d8-9ab7-4153-97d6-cecd7fab63f1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b2c1bd1-aa9b-42af-9e96-8ac8c504c369.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ecb4627f-e66f-4da9-9888-8996ab179f63.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/57369689-f95e-420e-af25-dfc6c95bf496.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c593366f-23fc-4672-b450-7816835aedb3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e6bdeed-fde1-462e-a6c9-6c1c54a04676.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Granada,  619]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06900000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063422]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063422]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 300.0 m2, Caraguatatuba / SP (41% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 300.0 m2, Caraguatatuba / SP (41% abaixo da avaliação) 
+Endereço Completo
+
+Alameda Dos Pindas, 87, Pontal De Santa Marina, Caraguatatuba, SP, CEP: 11672360
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 3 vaga(s) de garagem. Área(s): 300 m² de área total, 300 m² de área terreno, 187,27 m² de área construída. Matrícula(s): 38.530. Cartório: CRI CARAGUATATUBA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18285
+
+
+Área Total:
+ 300.0 m2
+
+Área Terreno:
+ 300.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 5, Banheiros: 3, Vagas de Garagem: 3, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 38.530
+
+Cartório de Registro:
+ CRI CARAGUATATUBA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.777,12
+
+
+Valor Avaliado:
+ R$ 600.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 98770 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>351960</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00badf35-d1e5-4293-b45f-c057b4b5931a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9bda750a-f4f6-40de-af64-5d6eca3ebb17.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/15e4a1da-1267-4cc0-bff3-ed30a05524ce.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9c421aeb-1b32-4f66-852f-241b962faaeb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2296687b-5232-4e3a-8a4b-9a97db00217b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/60f66599-d0a8-40d2-877e-1c03ffe0165e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a51771d5-7e37-46cc-b5b8-c0bdcf9d3cbf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1336d315-a965-4e58-8c5b-dda15713ef87.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/569a885b-289e-47ab-b23f-ce3cedb20a12.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f955e4a-698b-4ac9-8615-0c8ad6b082a9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e61a64c5-e644-4324-ba96-79068aa174a7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/64fa7870-2464-4071-a335-396946163e16.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/14e8fea3-d192-43de-826c-4c20eeb20d2f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Alameda Dos Pindas,  87]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11672360]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063387]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063387]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 5325.0 m2, Camaçari / BA (59% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 5325.0 m2, Camaçari / BA (59% abaixo da avaliação) 
+Endereço Completo
+
+Loteamento Parque Nascente Do Capivara, S/N, Lote 05, Qd 3 A, Espaco Alpha, Camaçari, BA, CEP: 42800000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 5325 m² de área total, 5325 m² de área terreno. Matrícula(s): 22.588. Cartório: 2 CRI DE CAMACARI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 9292
+
+
+Área Total:
+ 5325.0 m2
+
+Área Terreno:
+ 5325.0 m2
+
+
+Matrícula:
+ 22.588
+
+Cartório de Registro:
+ 2 CRI DE CAMACARI
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.364,06
+
+
+Valor Avaliado:
+ R$ 695.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO..* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42155 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>284760</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba0623a1-e0e3-4c91-a256-dc9ec7c236e2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6f4c12f6-bb55-4135-bb56-68633fd82775.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f0b8034-58a0-40c8-8c2d-600915aeda3f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a5fc325a-e89d-4f80-88fb-141d2d845ef9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0541d1f-6cb6-4db0-bd69-ba0b7ccb7639.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c9cb0d6c-283f-44e5-a52a-3715a5efc581.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Loteamento Parque Nascente Do Capivara,  S/N]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42800000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063403]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063403]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Brasília / DF (41% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Brasília / DF (41% abaixo da avaliação) 
+Endereço Completo
+
+Quadra Qi 24, Lotes Nso 14 A 27, S/N, Apartamento 810, Torre D, Vaga De Garagem 1295 Condominio Top Life, Setor Industrial De Taguatinga, Brasília, DF, CEP: 72135903
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 85,18 m² de área terreno, 50,52 m² de área privativa, 0,43 m² de área comum, 50,52 m² de área útil. Matrícula(s): 312.972. Cartório: 3 CRI DE BRASILIA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 19458
+
+
+Área Util:
+ 50.52 m2
+
+Área Privativa:
+ 50.52 m2
+
+Área Terreno:
+ 85.18 m2
+
+Área Comum:
+ 0.43 m2
+
+Composição Interna/Vagas:
+ Vagas de Garagem: 1
+
+
+Matrícula:
+ 312.972
+
+Cartório de Registro:
+ 3 CRI DE BRASILIA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.720,00
+
+Condomínio Mensal:
+ R$ 590,00
+
+
+Valor Avaliado:
+ R$ 246.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+CONSIDERACAOES:* OCUPADO* ACAO JUDICIAL - CAUTELAR - PROC. NO 0711893-51.2023.8.07.0007 EM TRAMITE NA 4A VARA CIVEL DE TAGUARINGA/SP.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 154758 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>144480</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/860385c6-a68c-4e11-9bcb-1a64c320288d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eed3c0ad-f8da-40d0-847f-8bb6eb27282b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7eb6693-9fb3-4950-aa03-853c3b73151a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dad01181-4fe8-4a7f-8335-be733d5b22ac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/beadc998-1385-4b67-9bab-c054327c0f3b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/95afc2cb-da8f-46f4-95cb-5c699b3757dd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9b992a6-95ad-4b45-8cc9-09d29656198a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a717a732-f9d3-4622-947d-b1b9ef243c34.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6ccf7941-67f6-4d9d-a65b-40ee52bb38bf.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Quadra Qi 24,  Lotes Nso 14 A 27]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[72135903]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063382]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063382]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 5325.0 m2, Camaçari / BA (59% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 5325.0 m2, Camaçari / BA (59% abaixo da avaliação) 
+Endereço Completo
+
+Loteamento Parque Nascente Do Capivara, S/N, Lote 04, Qd 3a, Espaco Alpha, Camaçari, BA, CEP: 42800970
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 5325 m² de área total, 5325 m² de área terreno. Matrícula(s): 22.587. Cartório: 2 CRI DE CAMACARI. Inscrição da Prefeitura: NC_MIGRACAO. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 9291
+
+
+Área Total:
+ 5325.0 m2
+
+Área Terreno:
+ 5325.0 m2
+
+
+Matrícula:
+ 22.587
+
+Cartório de Registro:
+ 2 CRI DE CAMACARI
+
+Inscrição na Prefeitura:
+ NC_MIGRACAO
+
+IPTU Anual:
+ R$ 1.261,08
+
+
+Valor Avaliado:
+ R$ 695.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO..* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42161 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>284760</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2078f6e5-b046-4b88-b445-75c9f8368a5c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d178166b-96fb-45ad-b017-3454ec47cc7f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6a837bd9-10d4-4c81-8e9e-fbb3c80d3d4f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d874870b-d1b8-4d9a-a07f-ef66113c55e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cd8a9f74-4e7c-4d6f-81ce-01b6424eec77.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/31e3bc2a-ad10-47f6-9eb2-f5ac410983ac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1efec785-38a8-4267-8e92-7f40ef9e9879.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Loteamento Parque Nascente Do Capivara,  S/N]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42800970]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063436]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063436]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 597.5 m2, Pérola / PR (21% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 597.5 m2, Pérola / PR (21% abaixo da avaliação) 
+Endereço Completo
+
+Rua Minas Gerais, 137, Lote 02 Da Qudra 05, Parque Residencial Viva, Pérola, PR, CEP: 87540000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 597,5 m² de área total, 597,5 m² de área terreno. Matrícula(s): 12.312 ,12.312. Cartório: CRI DE PEROLA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 11533
+
+
+Área Total:
+ 597.5 m2
+
+Área Terreno:
+ 597.5 m2
+
+
+Matrícula:
+ 12.312 ,12.312
+
+Cartório de Registro:
+ CRI DE PEROLA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 100,00
+
+
+Valor Avaliado:
+ R$ 123.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO. * OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DA VENDA.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42249 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>68040</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f624d340-a95b-49c4-9bd8-68520d87c57d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c400a972-a89d-41d1-8231-6f33d839d521.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9f482dd-a2e7-420c-904a-a96657a3cd9d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c64ce3cb-a0e0-4de2-a1f9-de6768af8284.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42d1279e-fa77-4ad4-91cc-3892775f60b1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9e7d75b0-a591-4f94-8c6f-b679e2a9e90a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c29e63b-409e-49b7-ad98-8d727690caa3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/415153fc-7554-462b-82e7-e1a9ecba4815.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5db14956-373f-4b8e-b943-118a21dcfc9c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7075ad8d-75ba-42c9-a153-ce79eb5925ee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6cf9e092-7f1c-406d-a89a-3cd84f6d8b83.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/56b037ce-99c6-4a2e-9877-3c4a6b12974d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2558af17-9d2a-4d43-aa3e-79441c0dde8b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dca691b4-c7c4-4bf8-9e38-91378b284b44.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2179c322-03d7-476d-8604-147db5e6b4c2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a3b35636-e730-45a9-b1c4-9a9dd6ba4ebb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/34b55703-8291-42b7-aa38-1a77f00a610c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7fd5def8-4c5e-4460-a693-3f0d5fe8df98.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1f39525-e038-4e97-aacd-baac0d44bcb8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d95ca664-f347-42de-9c9f-9e70bb5ba92a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/173ad4ae-b498-4e6a-a01d-b2bee2c49093.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba7492a6-c1c1-4820-a012-cdfa9c4d02cd.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Minas Gerais,  137]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[87540000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063400]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063400]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Estância Velha / RS (40% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Estância Velha / RS (40% abaixo da avaliação) 
+Endereço Completo
+
+Rua Osvaldo Aranha, 895, Floresta, Estância Velha, RS, CEP: 93601390
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado. Área(s): 360 de área terreno, 220,25 de área construída. Matrícula(s): 19.303. Cartório: CRI DE ESTANCIA VELHA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 19472
+
+
+Área Terreno:
+ 360.0 m2
+
+
+Matrícula:
+ 19.303
+
+Cartório de Registro:
+ CRI DE ESTANCIA VELHA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+
+Valor Avaliado:
+ R$ 592.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+A. OCUPADO  B. ACAO JUDICIAL - ANTECIPACAO DE TUTELA CAUTELAR - PROC. Nº 5003743-74.2023.8.21.0095 EM TRÂMITE NA COMARCA DE ESTANCIA VELHA/RS.  C. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS: (I) À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA AÇÃO JUDICIAL EM TRÂMITE.  D. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.  E. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 186553 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>355656</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ff36568e-8e4c-4ed5-9ef8-6592694b864c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba6dcab3-43de-48a8-9b2c-474c6f5c33d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/09d43682-e348-4b33-a83f-13614e407397.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/639cea17-625d-4a0b-8458-ee68f8fd4574.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b46b8f8-7053-44b3-857c-4129ceb57f44.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0f05bc4c-a41d-4349-95e6-4a52fbdfc68e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d67ffa2-c4b0-4672-8544-f55cf5d332d8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c5c7a676-994c-4274-a19c-8a625a68d2ed.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/053eff7e-19b8-40f8-b963-e0fd2ebe1990.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e94e5f4-70d5-4edb-9495-121d133b271b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5f36e2f5-cf3e-4c63-8c7d-478a297b830b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c7dd113-f0e8-44da-9647-c607211e7920.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Osvaldo Aranha,  895]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[93601390]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063438]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063438]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação) 
+Endereço Completo
+
+Rua Geraldo De Paula Abreu, LOTE 05, Lote 05 Quadra 06, Residencial Portal Do Moinho, Sete Lagoas, MG, CEP: 35700883
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 500 m² de área total, 500 m² de área terreno. Matrícula(s): 36.907. Cartório: CRI DE SETE LAGOAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 16353
+
+
+Área Total:
+ 500.0 m2
+
+Área Terreno:
+ 500.0 m2
+
+
+Matrícula:
+ 36.907
+
+Cartório de Registro:
+ CRI DE SETE LAGOAS
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 2.260,00
+
+
+Valor Avaliado:
+ R$ 89.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A REGULARIZACAO DO IMOVEL, NOTADAMENTE A AVERBACAO/RETIFICACAO DA AREA CONSTRUIDA/AREA DO TERRENO, PERANTE OS ORGAOS COMPETENTES.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42553 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>42000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e21cfd3d-d38c-497b-8176-5d446049483e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1b9ab25-4d0d-41da-b8d1-33a868320cc7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/21870b5d-ee0a-4205-bb35-545d2d557e5c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8287325-9dd7-40a8-bbbf-5d4a5d32c7b4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6bd51f9d-6a8c-415d-9481-00a507237560.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1c7a4049-8502-4686-bd5f-03b36669c09b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea76ca23-6b82-4916-8a5f-e6102d9bd6f7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Geraldo De Paula Abreu,  LOTE 05]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[35700883]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063429]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063429]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 433.48 m2, Cianorte / PR (10% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 433.48 m2, Cianorte / PR (10% abaixo da avaliação) 
+Endereço Completo
+
+Rua Suzuka Usuy, 305, Parque Industrial E Comercial Abrao Nacles, Cianorte, PR, CEP: 87200000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 433,48 m² de área total, 433,48 m² de área terreno. Matrícula(s): 20.349. Cartório: 2 CRI DE CIANORTE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 16299
+
+
+Área Total:
+ 433.48 m2
+
+Área Terreno:
+ 433.48 m2
+
+
+Matrícula:
+ 20.349
+
+Cartório de Registro:
+ 2 CRI DE CIANORTE
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 2.375,04
+
+
+Valor Avaliado:
+ R$ 213.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:*DESOCUPADO.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42548 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>134400</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed224fe3-215c-428d-86f9-b8c269733759.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d88be975-f76c-45e9-ac72-0826fbaa4b3e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/857caf40-69b7-4d76-a19c-97d3de9336a9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Suzuka Usuy,  305]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[87200000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063439]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063439]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 300.0 m2, Rio Grande / RS (17% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 300.0 m2, Rio Grande / RS (17% abaixo da avaliação) 
+Endereço Completo
+
+Rua Vereador Paulo Rocha Guimaraes, 109, Vila Maria Jose, Rio Grande, RS, CEP: 96203080
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 300 m² de área total, 300 m² de área terreno, 96,54 m² de área construída, 96,54 m² de área privativa. Matrícula(s): 39.109. Cartório: CRI DE RIO GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 12759
+
+
+Área Total:
+ 300.0 m2
+
+Área Privativa:
+ 96.54 m2
+
+Área Terreno:
+ 300.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 1, Banheiros: 1, Vagas de Garagem: 1
+
+
+Matrícula:
+ 39.109
+
+Cartório de Registro:
+ CRI DE RIO GRANDE
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 247,25
+
+
+Valor Avaliado:
+ R$ 260.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* O VENDEDOR JA INICIOU O PROCESSO PARA DESOCUPACAO - PROC. NO 5000173-44.2019.8.21.0023 EM TRAMITE NA 3A VARA CIVEL DE RIO GRANDE/RS.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO MEDIANTE A SUB-ROGACAO NA ACAO PROPOSTA PELO VENDEDOR CONFORME ITENS 4.14. 4.14.2 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 42285 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>151200</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/572f0d12-f8dc-453b-85f5-af9bdbee69f5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8dd960e0-6017-4c37-9525-eca56b0d0116.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/35d0bc52-1838-4283-ac6b-95ad11109411.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb812177-b047-4957-b3a9-c2071e696eee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eaf650cf-8e44-480c-a5f9-80a509de4b5c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9fa90dbd-f54c-47cc-aea2-fff92b4255bd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a0a900ba-ab9c-4518-8eab-f83ce0a2285b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3753c8c-7ebc-4731-bdaa-eabbb1e6fa4b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/46088f2b-31b6-4c48-8798-ea0111d8f171.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef292849-e6a6-453d-905b-26ccd76e7d46.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Vereador Paulo Rocha Guimaraes,  109]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[96203080]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063415]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063415]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 200.0 m2, Maracaju / MS (10% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 200.0 m2, Maracaju / MS (10% abaixo da avaliação) 
+Endereço Completo
+
+Rua Tucano, 110, Lote 12, Quadra B, Bairro Inacinha Rocha, Maracaju, MS, CEP: 79150000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 200 m² de área total, 200 m² de área terreno, 168,09 m² de área construída. Matrícula(s): 5.556. Cartório: 1 CRI MARACAJU. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18490
+
+
+Área Total:
+ 200.0 m2
+
+Área Terreno:
+ 200.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 5, Banheiros: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 5.556
+
+Cartório de Registro:
+ 1 CRI MARACAJU
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 2.630,00
+
+
+Valor Avaliado:
+ R$ 349.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 105041 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>219240</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d4322dad-6d9c-4b16-80ab-8f9edbdd2d4d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d5c7b9c-dab4-4eff-a9ce-b042ecee729d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8d5e393d-fb10-4995-bf8f-ceb4d2215986.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/df764b67-594c-4235-b6a4-5d37d24f3860.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fca97ab2-f1ad-42d5-aae2-7d9d625142f9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Tucano,  110]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79150000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063437]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063437]]></codigoReferencia>
+      <titulo><![CDATA[Sala comercial, Desocupado, Rio De Janeiro / RJ (7% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Sala comercial, Desocupado, Rio De Janeiro / RJ (7% abaixo da avaliação) 
+Endereço Completo
+
+Avenida Rio Branco, 156, Salas 1.721, 1.722, 1.723, 1.724, - Condominio Do Edificio Avenida Central, Centro, Rio De Janeiro, RJ, CEP: 20040901
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Sala comercial, Sala comercial, Desocupado. Área(s): 149 m² de área terreno, 149 m² de área privativa, 149 m² de área útil. Matrícula(s): 5.183, 5.182 , 5.181 ,5.184 ,5.181À5.184,5.,5.183,5.182,5.181,5.184. Cartório: 7 CRI DO RIO DE JANEIRO. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Sala comercial
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 12901
+
+
+Área Util:
+ 149.0 m2
+
+Área Privativa:
+ 149.0 m2
+
+Área Terreno:
+ 149.0 m2
+
+Composição Interna/Vagas:
+ Escritórios: 2, Banheiros: 4, Cozinhas: 2
+
+
+Matrícula:
+  5.183, 5.182 , 5.181 ,5.184 ,5.181À5.184,5.,5.183,5.182,5.181,5.184
+
+Cartório de Registro:
+ 7 CRI DO RIO DE JANEIRO
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 4.674,00
+
+Condomínio Mensal:
+ R$ 640,00
+
+
+Valor Avaliado:
+ R$ 286.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:*DESOCUPADO*OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 42293 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>353514</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a0130faa-e7ce-4de6-9cf3-9d56406861c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8967a740-4c32-4538-8179-0ca07e36af24.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/815c5343-0620-4a5e-b598-87038dc11d3b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/62c5fdec-fae8-46e9-87de-0023a8ae6b37.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c20a2603-af0a-474c-ab20-851bf69f8ee6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/630e0046-a5c5-49a1-b0a2-5c730182b83f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bf12395-0529-485b-ab36-e2fd8c131d03.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0692a05-a507-480d-8734-0a129c8650dc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9d7cf2c9-abf9-4216-ba9c-ea0818b87881.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7c70f344-c776-4481-9ede-8a5f2b762c56.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/05eb0418-775a-41bf-bb0d-4d21b3e61a5f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38ed9d1e-1eb9-4446-ac1b-26e288dbb740.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3f9d5d70-f217-4af9-ba8e-009d64fa28d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c4fd1f2c-1a13-4a32-b8e2-d3290bdbb6bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/05690c34-491d-4815-a285-985578efbed8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d936306b-7a5c-4b87-b83e-a7d84851cd41.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/52facd59-a5e3-456c-bcf5-f5e0d11821d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c45e08f2-4034-40c5-b664-c7314d016828.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/339b03a9-ccf3-41ac-b677-109fb6755196.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/779f4b43-89f4-4569-9d63-c332409157ac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7d2c2a9-63bc-4f4e-8007-c742be283172.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8447d915-59e4-455e-80d1-723d1b390a25.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d74678ce-f93d-41f4-86f9-2bf4b54794cb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cbdf51c-f6be-475f-8ebd-38dc002db0e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dece7b96-16fe-49ca-8953-6aa6ee20837b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b2dab452-0bee-4558-8217-2ad0dbbc1d04.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cf1df93-a51d-465f-a1ba-aa99f3c52aef.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/845384a2-5048-4d48-80aa-7775ac2cd022.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53a7e176-9089-4838-b644-cc57a12ce888.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe1c9a5d-4964-4943-a783-09fd4c10bf01.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/096739ca-0606-4015-ae8a-7f7410453a68.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ea51a1f-a35f-422d-9f54-f8e9c646a3fe.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00cff3ea-aac6-46e9-ab7a-c7f19ceeb6fb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3bc7c1c-997b-414a-a581-f711d93bbf68.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0e6fd166-5710-4a2f-89ef-af06eec0667f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ff9ec595-c750-436e-809b-157442a7872c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29a153e0-80f8-42d6-8f39-d7e492497a71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0bf71a10-7ebb-4525-9d1b-f52d83e37dc5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91867dcf-504b-4bc2-9b79-bfbdc114f224.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a2ca7a78-745e-4253-8fd3-2c16ef392100.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ee3ce64-f1f1-4f01-a47b-0d023904f7e8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Rio Branco,  156]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[20040901]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063414]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063414]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 11.995 m2, Jarinu / SP (30% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 11.995 m2, Jarinu / SP (30% abaixo da avaliação) 
+Endereço Completo
+
+Avenida Santa Tereza De Jesus, 280, 1 Vaga De Garagem Determinada, Caiocara, Jarinu, SP, CEP: 13240000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 11,995 m² de área total, 12 m² de área terreno, 513,8 m² de área construída. Matrícula(s): 85.787. Cartório: CRI DE ATIBAIA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18024
+
+
+Área Total:
+ 11.995 m2
+
+Área Terreno:
+ 12.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 5, Banheiros: 5, Vagas de Garagem: 1, Piscinas: 1, Salas: 1, Cozinhas: 2, Copas: 1, Varandas: 1
+
+
+Matrícula:
+ 85.787
+
+Cartório de Registro:
+ CRI DE ATIBAIA
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 8.494,32
+
+
+Valor Avaliado:
+ R$ 1.309.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 49712 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>916300</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3120a64-de93-40ee-88b4-198b85c7af69.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/60b4ed46-1a42-4842-86fc-85241718a1cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5bbc5ab9-a0c6-4543-8b7d-1bdda7754116.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0f309b1-9740-436a-b1d6-5bc87611fab3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53957596-e29f-4ed6-8fd1-da39d8afd923.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/72e5e310-394b-4d69-b6b6-b8a70b271ffd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/30ba1e0e-a1c0-465f-9937-5563b0f4b1e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d767447c-c7b3-4cdb-8437-a42176611642.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acc97dac-18a7-4e3e-90d0-98324c3f9a20.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bb5881d-8028-4883-bf81-e90a0e1a3078.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eaf1b63c-3759-4d3a-8189-e36824b98693.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d2d1c307-836b-48f9-bfe1-9916afa7c339.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/57f44541-fc49-4699-86da-14d6416db095.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9f0d1e0b-6b76-41ac-846f-b45ed86b8942.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9788fa0-888f-411b-b7c4-1fa5bb93e794.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/08db43b4-6b88-4b20-a717-79dc205dba0d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6300ade7-6677-404e-be9a-96446f22238f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/461fd630-445d-4005-9138-605a537df195.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb0458b7-68a7-43bc-822c-0f7d76dd2270.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/71eb1290-5f18-457a-87fe-759cd6336acc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/786fb8ea-9ed1-4808-8438-117865aa5b96.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/39a37f46-a715-44b4-b0a5-998f137118bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/507f5983-fa28-4e80-b159-e293c579be33.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ff37fd6-07e4-4152-b54d-21d1c20c612b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f33ae1f2-7024-464c-b983-e7653325a5b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4fcb4829-9775-42e0-a882-265f8d5e2c92.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/72cf59ec-2067-454c-b98c-376776702335.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/56cb0c72-5db7-4a90-8d69-8a114647ffe3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/da05c391-29e2-4c7b-b925-b4eda02792c3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b84574dd-d1f7-40b0-92d6-e9fdaca0a6cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bf6acb48-53bf-4cb9-a1d3-1ff51618604c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1458b042-dbf8-4f2d-902a-701ed00ff731.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/af75ec04-3b01-42f0-bf39-8f819f637cd2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/73593b1d-67e4-4d69-8065-745c942c46cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bd8522b0-095f-4bc1-98c0-d7d62d9357f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/da107472-83c1-4d73-92dc-e10db850772d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5f918c25-3fa4-4087-87b9-ab9483a337a3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7ee92238-9a00-47da-9433-e99a3cbc15cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bac704e0-735d-4d9b-ac00-f593c15dfb09.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6cea6c09-c024-44c3-9001-743beb43f622.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/864a61af-e566-49af-b7e6-b334b5564832.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dc2167d3-a9fb-4a0a-a5a5-f6c770f88127.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Santa Tereza De Jesus,  280]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13240000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063433]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063433]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 500.0 m2, Sete Lagoas / MG (33% abaixo da avaliação) 
+Endereço Completo
+
+Rua Geraldo De Paula Abreu, LOTE 12, Lote 12 Quadra 06, Residencial Portal Do Moinho, Sete Lagoas, MG, CEP: 35700883
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Lote, Padrão, Desocupado. Área(s): 500 m² de área total, 500 m² de área terreno. Matrícula(s): 36.914. Cartório: CRI DE SETE LAGOAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Lote
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 16354
+
+
+Área Total:
+ 500.0 m2
+
+Área Terreno:
+ 500.0 m2
+
+
+Matrícula:
+ 36.914
+
+Cartório de Registro:
+ CRI DE SETE LAGOAS
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 2.260,00
+
+
+Valor Avaliado:
+ R$ 89.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A REGULARIZACAO DO IMOVEL, NOTADAMENTE A AVERBACAO/RETIFICACAO DA AREA CONSTRUIDA/AREA DO TERRENO, PERANTE OS ORGAOS COMPETENTES.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+Somente à vista.
+ 42547 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT7]]></id>
+          <nome><![CDATA[VAGA]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>42000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9c6db39-1de2-45b9-b8b1-c9e7515ae488.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/27e4bf10-3541-43de-bf37-66ead194eec0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/63f0d2a0-744b-4089-a5f1-effab0db9da8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Geraldo De Paula Abreu,  LOTE 12]]></endereco>
+        <localidade><![CDATA[undefined, undefined, Brasil]]></localidade>
+        <codigoPostal><![CDATA[35700883]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
