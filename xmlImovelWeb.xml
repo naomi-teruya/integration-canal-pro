@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1697838186</dataModificacao>
+  <dataModificacao>1697838292</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -23519,6 +23519,103 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Miguel Damha, 1000]]></endereco>
         <localidade><![CDATA[Damha, São José do Rio Preto, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[15061-699]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2910863]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2910863]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro 
+Imóvel objeto da matrícula 13.146, do S.R.I local, através do sistema ARISP, a seguir descrito: Um terreno, constituído por parte do lote n° 04, da quadra n° 19, situado no perímetro urbano desta Cidade de Presidente Venceslau, Estado de São Paulo, Centro, situado na esquina da Rua Carlos Gomes n° 773, com a Rua Padre Anchieta n° 135, com a área de 243,00 metros quadrados, com o seguinte perímetro: uma área de terras, localizada no lado ímpar do logradouro (Rua Carlos Gomes e Rua Padre Anchieta), dentro das seguintes divisas, metragens e confrontações: começam as divisas, medindo 13,50 metros de frente para a Rua Carlos Gomes n° 773; daí deflete à direita e segue medindo 18,00 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues, e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 13,50 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 18,00 metros confrontando com a Rua Padre Anchieta, até o ponto de partida da presente descrição, contendo como benfeitoria, uma casa residencial em alvenaria de tijolos, sob n° 773, da Rua Carlos Gomes, com 110,96 metros quadrados de construção.
+
+
+
+Obs.: segundo avaliação de fls. 38-40, a casa residencial em alvenaria de tijolos, com 110,96 m² de área construída, contém, quarto, sala, copa/cozinha, varanda coberta e um quarto pequeno nos fundos, pintura em péssimo estado de conservação, sem rachaduras nas paredes.
+
+
+
+Imóvel matriculado sob n° 13.146, do Oficial de Registro de Imóveis de Presidente Venceslau-SP.
+
+
+
+Valor da Avaliação: R$ 250.000,00 (duzentos e cinquenta mil reais) em julho de 2022.
+ Andreia Medeiros de Araujo Levy Feriani João Rafael Correia Andretta João Rafael Correia Andretta JECC de Presidente Venceslau/SP 0002511-45.2021.8.26.0483
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>175000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0122ef3d-01f8-4f4d-a4c1-eef35767f3e8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8c1aba7-f232-4259-a8eb-86599c2602e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2bc2d7bc-c851-46dc-8e7d-088ab7f64e44.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67e582f9-c1b6-48ee-880a-28497999737a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e65f7024-dd02-4c46-ac56-854ccc9af8ec.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae6cbe2b-5315-45bb-a916-7556ec040952.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6267a1f2-6e00-45e0-9e37-301ba3398773.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7b98e1e-f70c-48e0-9eea-1c90d53e30a6.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Carlos Gomes, 773]]></endereco>
+        <localidade><![CDATA[Presidente Venceslau, Presidente Venceslau, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[19400-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
