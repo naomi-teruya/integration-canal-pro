@@ -14079,6 +14079,60 @@ IMÓVEL: RESIDÊNCIA TÉRREA, designada como UNIDADE 434 (SETOR 25), a ser const
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>2910863</ListingID>
+      <Title>Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/2910863</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0122ef3d-01f8-4f4d-a4c1-eef35767f3e8.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a8c1aba7-f232-4259-a8eb-86599c2602e5.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/2bc2d7bc-c851-46dc-8e7d-088ab7f64e44.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/67e582f9-c1b6-48ee-880a-28497999737a.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/e65f7024-dd02-4c46-ac56-854ccc9af8ec.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/ae6cbe2b-5315-45bb-a916-7556ec040952.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/6267a1f2-6e00-45e0-9e37-301ba3398773.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/c7b98e1e-f70c-48e0-9eea-1c90d53e30a6.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro 
+Imóvel objeto da matrícula 13.146, do S.R.I local, através do sistema ARISP, a seguir descrito: Um terreno, constituído por parte do lote n° 04, da quadra n° 19, situado no perímetro urbano desta Cidade de Presidente Venceslau, Estado de São Paulo, Centro, situado na esquina da Rua Carlos Gomes n° 773, com a Rua Padre Anchieta n° 135, com a área de 243,00 metros quadrados, com o seguinte perímetro: uma área de terras, localizada no lado ímpar do logradouro (Rua Carlos Gomes e Rua Padre Anchieta), dentro das seguintes divisas, metragens e confrontações: começam as divisas, medindo 13,50 metros de frente para a Rua Carlos Gomes n° 773; daí deflete à direita e segue medindo 18,00 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues, e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 13,50 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 18,00 metros confrontando com a Rua Padre Anchieta, até o ponto de partida da presente descrição, contendo como benfeitoria, uma casa residencial em alvenaria de tijolos, sob n° 773, da Rua Carlos Gomes, com 110,96 metros quadrados de construção.
+
+
+
+Obs.: segundo avaliação de fls. 38-40, a casa residencial em alvenaria de tijolos, com 110,96 m² de área construída, contém, quarto, sala, copa/cozinha, varanda coberta e um quarto pequeno nos fundos, pintura em péssimo estado de conservação, sem rachaduras nas paredes.
+
+
+
+Imóvel matriculado sob n° 13.146, do Oficial de Registro de Imóveis de Presidente Venceslau-SP.
+
+
+
+Valor da Avaliação: R$ 250.000,00 (duzentos e cinquenta mil reais) em julho de 2022.
+ Andreia Medeiros de Araujo Levy Feriani João Rafael Correia Andretta João Rafael Correia Andretta JECC de Presidente Venceslau/SP 0002511-45.2021.8.26.0483]]></Description>
+        <ListPrice currency="BRL">175000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Presidente Venceslau</City>
+        <Address>Rua Carlos Gomes</Address>
+        <StreetNumber>773</StreetNumber>
+        <PostalCode>19400-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
