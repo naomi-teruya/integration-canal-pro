@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698173404</dataModificacao>
+  <dataModificacao>1698173836</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -23603,6 +23603,144 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Cesário Travassos, undefined]]></endereco>
         <localidade><![CDATA[undefined, São João da Boa Vista, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[13872-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3064439]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3064439]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, A.U. 51m², A.T. 80m², Cond. Residencial Pq. das Orquídeas, Vila Suzana]]></titulo>
+      <descricao><![CDATA[Apartamento, A.U. 51m², A.T. 80m², Cond. Residencial Pq. das Orquídeas, Vila Suzana 
+
+Lote 01 - Imóvel:
+ APARTAMENTO Nº 81, localizado no 8º andar, do bloco 34, integrante do CONDOMÍNIO RESIDENCIAL PARQUE DAS ORQUÍDEAS, na Estrada dos Mirandas, nº 210, Rua Jaracatiá, nº 431 e Estrada do Campo Limpo, nº 6.056, antigo nº 2.200 no 29º Subdistrito - Santo Amaro, com área útil de 51.715375m² e área comum de 29.180971m², na qual acha-se incluída a área referente a 01 vaga indeterminada no estacionamento coletivo, localizado a nível do térreo do conjunto, destinada a guarda de 01 automóvel de passeio, perfazendo a área total de 80.896346m², correspondendo-lhe uma fração ideal de 0,03434066% no terreno condominial. Referido empreendimento foi submetido ao regime de condomínio conforme o registro feito sob nº 2764 na Matrícula nº 162.637 deste Serviço Registral.
+
+
+
+Matrícula nº 394.602 do 11º CRI de São Paulo/SP Cadastro Municipal nº : 169.009.1616-2 em área maior.
+
+
+
+Avaliação: R$ R$ 275.000,00 - para novembro de 2021. fls 173
+
+Avaliação atualizada: R$ 304.191,13- para setembro de 2023 - pela Tabela Prática do TJSP, conforme extrato anexo. A avaliação será atualizada até a data das praças.
+
+
+
+
+
+Constam do laudo de avaliação as informações:
+
+
+
+O apartamento possui a seguinte distribuição: 2quartos, sala, varanda, banheiro, cozinha e lavanderia.
+
+
+
+Constam na área comum do residencial: 2 academias, Quadra, 4 playgrounds, 4 salões de jogos, 4 churrasqueiras, 2 quadras, 8salões de festas e 1 salão de estudos. As garagens encontram-se situadas no pavimento térreo, onde a unidade condominial possui 1 vaga indeterminada.
+
+
+
+O condomínio onde se encontra o referido edifício possui guarita, sistema de interfones, recuos, sistema de alarme e alamedas ajardinadas.
+
+
+
+Foi usado como referência o apartamento nº 104 situado no bloco 40 do mesmo condomínio.
+
+
+
+Constam da matrícula as seguintes averbações: Av.04 - de 25/06/2021 - Penhora exequenda.
+
+
+
+
+DÉBITOS DE IPTU: 
+Os débitos de IPTU não puderem ser pesquisados, em razão de constar dos autos somente o número de contribuinte em área maior, conforme extrato anexo.
+
+
+
+
+DÉBITO EXEQUENDO DE CONDOMÍNIO: 
+Os débitos exequendo de condomínio perfazem o montante de R$15.568,31. Válidos para março de 2022, conforme fls 233 dos autos. Referido valor será atualizado até a data das praças. Assim que disponível, a atualização será inserida em destaque na página do lote.
+ Condomínio Residencial Parque das Orquídeas Maria Barreto do Amaral Executada Réu: Tamiris Lima de Oliveira(adv. Dativa); Autor: Diego Gomes Basse 6ª V.C do Foro Reg. de Santo Amaro - S. Paulo/SP 1031998-65.2020.8.26.0002
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>304191.13</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bcea1b6-8966-4e9f-8194-95ea78b1d8ed.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae6a6493-d1b3-469e-9b8e-24238390f574.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae40b9bd-dc3e-48db-8376-e429a9306c21.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a6aa7df8-6295-4b0f-9335-28f109042a7e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ed61737-5a37-4964-bcfb-396609e9eb8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f179c5b-f794-4692-99f2-299a843c6183.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c188f684-4b63-44bb-a85a-ee3b5a58a123.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79e95098-fbb4-4462-8215-5e034887ef95.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24dd5a31-5f2d-45b4-b956-7d90254375cc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada dos Mirandas, 210]]></endereco>
+        <localidade><![CDATA[Campo Limpo, São Paulo, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[05752-001]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
