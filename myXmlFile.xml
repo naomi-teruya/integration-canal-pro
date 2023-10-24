@@ -14167,6 +14167,75 @@ Condições de Pagamento
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3068512</ListingID>
+      <Title>Casa 61m², 1 vaga no Aeroporto, Francisco Beltrão/PR</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3068512</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/17a9b448-fb85-4caf-97f8-b4bb7115df20.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9c316d1d-7667-4349-bde4-fe15473934d0.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/9026ba6e-c880-426e-9603-f78fa11ae08f.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/337cdd01-af05-4e59-ad30-23416b008311.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 61m², 1 vaga no Aeroporto, Francisco Beltrão/PR 
+Casa - Bairro Aeroporto
+
+Localização: Rua Vergina Della Betta, nº 385, Un. 01, Aeroporto, Francisco Beltrão/PR, 85603-894
+
+Área Privativa: 61m²
+Área Construída: 36m²
+Área Comum: 29m²
+Descrição Interna: (sala de estar/jantar, cozinha, varanda, banheiro, quarto, área de serviço e vaga de garagem descoberta livre 03, acessória)
+
+Matrícula: nº 40.665
+RGI: Registro de Imóveis 1º Ofício de Francisco Beltrão/PR
+Inscrição Prefeitura: 02.24.000.01679.000003.001
+
+DOSSIÊ: 20562
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 31/Out/2023 a partir das 11h00 com Valor Mínimo de Venda de R$ 195.000,00.
+
+2ª Praça:
+Abertura: 31/Out/2023 a partir das 11h01
+Fechamento: 01/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 181.260,25
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+ 20562 Santander AF - D.20562-11h]]></Description>
+        <ListPrice currency="BRL">195000</ListPrice>
+        <LivingArea unit="square metres">61</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Francisco Beltrão/PR">Sem sigla</State>
+        <City>Aeroporto</City>
+        <Address>Rua Vergina Della Betta</Address>
+        <StreetNumber>nº 385</StreetNumber>
+        <PostalCode>85603-894</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
