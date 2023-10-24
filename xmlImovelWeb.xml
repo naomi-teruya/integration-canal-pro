@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698149450</dataModificacao>
+  <dataModificacao>1698149495</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -22596,6 +22596,107 @@ Percentual de desconto: 25% de deságio sobre o valor de avaliação.
         <endereco><![CDATA[Rua Gustavo Zimmermann, nº 2088]]></endereco>
         <localidade><![CDATA[Itoupava Central, Blumenau/SC, Brasil]]></localidade>
         <codigoPostal><![CDATA[89062-101]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3066889]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3066889]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 111m², Candeias, Jaboatão dos Guararapes/PE]]></titulo>
+      <descricao><![CDATA[Apto. 111m², Candeias, Jaboatão dos Guararapes/PE 
+Apartamento - no Candeias
+
+Localização: Rua Coronel Kleber de Andrade, nº 612, Apto. 301, Candeias, Jaboatão dos Guararapes/PE, 54450-160
+
+Área Construída: 111m²
+Descrição Interna: (1 sala, 2 varandas, 2 quartos sociais, sendo 1 suíte, 1 w.c.b. social, cozinha, área de serviço, quarto e w.c.b. de empregada)
+
+Matrícula: nº 16.378
+RGI: 1º Serviço Registral de Jaboatão dos Guararapes/PE
+Inscrição Prefeitura: 1.3115.021.03.0269.0005.6
+
+DOSSIÊ: 17623
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+*Recai sobre o imóvel as ações: Processo nº 0003820-04.2021.8.17.8227, Processo nº 0001712-20.2022.8.17.2810 e Processo nº 0001946-81.2021.8.17.8227*
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 31/Out/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 341.041,95.
+
+2ª Praça:
+Abertura: 31/Out/2023 a partir das 09h51
+Fechamento: 01/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 177.717,04
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 48% de deságio sobre o valor de avaliação.
+ 17623 Santander AF - D.17623 -09:50h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>341041.95</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/faa687d4-552e-4945-836a-643d3e313862.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67b8f6f8-b721-462e-b44a-580ffee01255.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/96ae4af3-acac-4273-80f6-dfc4f4577bd5.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Coronel Kleber de Andrade, nº 612]]></endereco>
+        <localidade><![CDATA[Candeias, Jaboatão dos Guararapes/PE, Brasil]]></localidade>
+        <codigoPostal><![CDATA[54450-160]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
