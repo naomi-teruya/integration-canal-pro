@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698173836</dataModificacao>
+  <dataModificacao>1698174261</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -23741,6 +23741,161 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Estrada dos Mirandas, 210]]></endereco>
         <localidade><![CDATA[Campo Limpo, São Paulo, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[05752-001]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3065439]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3065439]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, A.U 58m², A.T 97m² e vaga, Vila Universitária, Bauru/SP]]></titulo>
+      <descricao><![CDATA[Apartamento, A.U 58m², A.T 97m² e vaga, Vila Universitária, Bauru/SP 
+IMÓVEL: 0 APARTAMENTO, sob nº 33 localizado no 3º andar tipo, do Edifício Residencial Araguaia, situado na rua Machado de Assis, no 15-50, nesta cidade, município, comarca e 1ª Circunscrição Imobiliária de Bauru, com a área útil de 58,14m², área comum de 39,852m², área total de 97,992m², e a correspondente fração ideal no terreno de 22,055 m² ou 3,216%, contendo: salas de jantar, de estar e varanda conjugadas, 02 dormitórios, hall de distribuição, banheiro social, cozinha e área de serviços conjugadas, confrontando pela frente, com área de circulação de pedestres no pavimento térreo que intermedeia parte com a guarita e parte com muro do edifício que divisa com o alinhamento da rua Machado de Assis pelos fundos, com parede do edifício que divisa parte com escada, parte com duto de prumada e parte com hall de entrada/saída de elevador; pelo lado direito, com parede do edifício que divisa com o apartamento-tipo nº 31 pelo lado esquerdo, com área de circulação de veículos/pedestres no pavimento térreo que intermedeia com muro do edifício que divisa com terreno formado pelo lote 6 e parte dos lotes 5 e 7 da quadra H do Jardim Nasralla e pelo lote único da quadra da Vila Santa Teresa. MATRÍCULA N° 54.434 - 1º CRI DE BAURU/SP
+
+
+
+ 
+
+
+
+IMÓVEL: A UNIDADE AUTÔNOMA, designada por garagem nº 26, localizada no térreo, do EDIFÍCIO RESIDENCIAL ARAGUAIA, situado na Rua machado de Assis, nº 10.50, na cidade, município, comarca e 1ª Circunscrição Imobiliária de Bauru, medindo 2,50m de frente e de fundos, por 5,00m de cada lado, da frente aos fundos, perfazendo a área útil de 12,50m², área comum de 4,398m², área total de 16,898m²e a correspondente fração ideal no terreno de 2,434m² ou 0,355%, confrontando pela frente com a área de circulação de veículos/pedestres, nos fundos, com espaço sem destinação específica que intermedeia com a lateral esquerda da vaga-tipo nº 24, no lado direito, com espaço sem destinação específica que intermedeia com a lateral esquerda da vaga-tipo nº 25, no lado esquerdo com espaço sem destinação específica que intermedeia parte com dois pilares de sustentação do edifício, parte com a lateral direita da vaga-tipo nº 27. MATRÍCULA N° 54.435 - 1º CRI DE BAURU/SP
+
+
+
+ 
+
+
+
+O imóvel é constituído de salas de jantar, de estar e varanda conjugadas, 02dormitórios, hall de distribuição, banheiro social, cozinha e área de serviço conjugadas, confrontando pela frente, com área de circulação.
+
+
+
+AVALIAÇÃO:
+
+
+
+ 
+
+
+
+Apto 33 ¿ Matricula 54.434 R$ 135.000,00 + Vaga 26 ¿ Matricula 54.435 R$ 22.800,00
+
+
+
+Avaliação Total: R$ 157.800,00
+
+
+
+Avaliação Atualizada: R$ 163.958,55, - Atualizada pela Tabela do TJSP conforme extrato anexo
+
+
+
+ 
+
+
+
+ 
+
+
+
+DÉBITO/ÔNUS
+
+
+
+R.03/54.434 - hipoteca em favor do Banco do Brasil S/A
+
+
+
+Av.04/54.434 - penhora em favor do Banco do Brasil nos presentes autos
+
+
+
+Av.03/ 54.435 - penhora em favor do Banco do Brasil nos presentes autos
+
+
+
+.
+ Banco do Brasil S/A Edomae Sushi Bar Limitada e Heloisa Cristina Honda Executada Eduardo Janzon Avallone Nogueira 3ª Vara Cível da Comarca de Bauru/SP 1026535-32.2020.8.26.0071
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>163958.55</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8cf7ed4-fd8f-4fe2-8f54-e3d54593c6bd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2a22c948-0855-4a51-b8af-7d32a305fb5c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6312e880-7faa-4768-a858-9ef3708241c9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/581da235-83ca-4655-a785-be2d55f55f86.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4366da33-9b6d-4805-aaea-9865d07d94f1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/feee9c3c-56ff-4543-8857-11b5414742e7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/215bb974-6b8c-4c1f-97a9-f766717f0f9c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e645e1ac-ed1f-42cd-b838-ef55ece535b3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/842e2296-f5bb-4f16-81e3-163f71491f52.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dbb39b3a-167d-4a5a-9897-fcab3365b9d9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Machado de Assis, undefined]]></endereco>
+        <localidade><![CDATA[Vila Mesquita, Bauru, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[17014-038]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
