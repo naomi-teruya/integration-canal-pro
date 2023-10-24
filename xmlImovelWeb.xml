@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698149758</dataModificacao>
+  <dataModificacao>1698166375</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2881463]]></codigoAnuncio>
@@ -23678,6 +23678,108 @@ Condições de Pagamento
         <endereco><![CDATA[Avenida Edmundo Amaral, 3935]]></endereco>
         <localidade><![CDATA[Osasco, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[06230150]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3068512]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3068512]]></codigoReferencia>
+      <titulo><![CDATA[Casa 61m², 1 vaga no Aeroporto, Francisco Beltrão/PR]]></titulo>
+      <descricao><![CDATA[Casa 61m², 1 vaga no Aeroporto, Francisco Beltrão/PR 
+Casa - Bairro Aeroporto
+
+Localização: Rua Vergina Della Betta, nº 385, Un. 01, Aeroporto, Francisco Beltrão/PR, 85603-894
+
+Área Privativa: 61m²
+Área Construída: 36m²
+Área Comum: 29m²
+Descrição Interna: (sala de estar/jantar, cozinha, varanda, banheiro, quarto, área de serviço e vaga de garagem descoberta livre 03, acessória)
+
+Matrícula: nº 40.665
+RGI: Registro de Imóveis 1º Ofício de Francisco Beltrão/PR
+Inscrição Prefeitura: 02.24.000.01679.000003.001
+
+DOSSIÊ: 20562
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 31/Out/2023 a partir das 11h00 com Valor Mínimo de Venda de R$ 195.000,00.
+
+2ª Praça:
+Abertura: 31/Out/2023 a partir das 11h01
+Fechamento: 01/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 181.260,25
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+ 20562 Santander AF - D.20562-11h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>195000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/17a9b448-fb85-4caf-97f8-b4bb7115df20.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9c316d1d-7667-4349-bde4-fe15473934d0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9026ba6e-c880-426e-9603-f78fa11ae08f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/337cdd01-af05-4e59-ad30-23416b008311.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Vergina Della Betta, nº 385]]></endereco>
+        <localidade><![CDATA[Aeroporto, Francisco Beltrão/PR, Brasil]]></localidade>
+        <codigoPostal><![CDATA[85603-894]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
