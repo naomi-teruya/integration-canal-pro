@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698173078</dataModificacao>
+  <dataModificacao>1698173404</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -23464,6 +23464,145 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Giovanni Gronchi, 4864]]></endereco>
         <localidade><![CDATA[Vila Andrade, São Paulo, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[05724-002]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3023458]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3023458]]></codigoReferencia>
+      <titulo><![CDATA[Galpão, A.T. 17.157m², A.C. 1.245m²]]></titulo>
+      <descricao><![CDATA[Galpão, A.T. 17.157m², A.C. 1.245m² 
+Imóvel objeto da matrícula nº 13.973 do Cartório de Registro de Imóveis de São Joao da Boa Vista.
+
+&nbsp;
+
+
+Matrícula:
+&nbsp;Imóvel: - TERRENO com frente para a rua Cesário Travassos com a área exata de 17.157 metros quadrados, ou 1h, 71ª, e 57e, ou ainda 0,625 alqueires mais 2.032 metros quadrados com a seguinte demarcação e características: - ''Tem princípio no marco 0 (zero), colocado junto a ponte sobre o rio Jaguary e rua Cesário Travassos; daí seguindo pela rua Cesário Travassos acima, com cento e um metros, vae ao marco 1, esquina com a rua Cel. Domingos Teodoro; deste, volta à esquerda e pela rua Cel. Domingos Theodoro, com cento e vinte e quatro metros e cinquenta centímetros, vae ao marco 2, em divisas com terras de sucessores de Samuel Ferreira; deste, volta à esquerda, azimute rumo 191º, com quarenta e sete metros, vae ao marco 3, junto à margem esquerda do rio Jaguary, divide até aqui com terras dos sucessores de Samuel Ferreira; daí volta a esquerda e pelo rio Jaguary abaixo, azimute rumo médio 60º com 180 metros, vae ao marco zero (0) onde teve princípio e fim desta demarcação, dividindo neste trecho com o rio Jaguary, existindo neste terreno as seguintes benfeitorias: - O prédio para a fábrica de tecidos com frente para a rua Cesário Travassos esquina da rua Domingos Teodoro, e mais sete prédios nas ruas Cesário Travassos nº 27 e fundos; nº 47 e fundos; Domingos Teodoro nº 79, Prédios de dois pavimentos: térreo e 1º andar, com depósito, loja e sanitários; prédio onde funciona a fábrica, constante de andar inferior: - Departamento pessoal, tinturaria e centrífuga; entrada da fábrica, escritório geral, W.C., vestiário das mulheres. Andar superior: - Diretoria, contabilidade, arquivo, tesouraria, salão com balcão e guichê para atendimento ao público, sala de espera; aumento de uma cabine para transformador que dá para a rua Domingos Teodoro.'' Av.41/13.973 (SERVIDÃO) A presente servidão destina-se a implantação do Coletor Tronco CT III - Cadastro: 1005/344, parte integrante do Sistema de Esgotos Sanitários de São João da Boa Vista, sobre uma área de 493,45m².
+
+&nbsp;
+
+
+Conforme informações constantes do laudo de avaliação de fls. 1.602/1.611:
+&nbsp;DAS PECULIARIDADES DO IMÓVEL: O imóvel encontra-se em regular estado de conservação no geral, possuindo edificações em mau estado, e outras em bom estado. Possui área total de 17.157,00 metros quadrados de terreno, 1.245,20 metros quadrados de edificações, e área total de 6.599,94 metros quadrados dos barracões. A construção data de 1.943, apesar de haver sido reformada posteriormente, adequando-se à sua situação e atividade empresarial atual, sendo certo que a última reforma data de janeiro de 2.010, conforme informações cadastrais fornecidas pela Prefeitura Municipal local. Localiza-se em região central provida de todos os melhoramentos públicos necessários, inclusive rua asfaltada, margeando o Rio Jaguari Mirim.
+
+&nbsp;
+
+
+Ônus:&nbsp;
+R.10/13.973 (PENHORA 1/5) Carta Precatória nº 897/2001 da 1ª Vara Cível de São João da Boa Vista/SP (oriunda da 19ª Vara Cível de São Paulo/SP, extraída dos autos da Ação de Execução de Título Extrajudicial nº 000.00.515852-4 (Processo 0515852-04.2000.8.26.0100)), Partes: P2W ADMINISTRAÇÃO, EMPREENDIMENTOS E PARTICIPAÇÕES LTDA contra PAULO ROBERTO SIBIN. R.53, Av.54, Av.55, Av.56, Av.57, Av.58, Av.59 e Av.60/13.973 (HIPOTECA 4/5) Imóvel dado em Hipoteca Cedular de 1º GRAU à BANCO BRADESCO S/A. Av.61/13.973 (INDISPONIBILIDADE) Processo (Processo 0002183-48.2010.5.15.0034) TRT 15 da Vara do Trabalho de São João da Boa Vista/SP, foi determinada a indisponibilidade de bens de propriedade de Antônio Sérgio Sibin, João Olivio Sibin, Luiz Silvestre Sibin, José Gilberto Sibin e Paulo Roberto Sibin .&nbsp;Av.62/13.973 (DISTRIBUIÇÃO DE AÇÃO) Ação de Execução de Título Extrajudicial - Crédito Rural nº 1002119-71.2014.8.26.0568 da 1ª Vara Cível de São João da Boa Vista/SP, Partes: COOPERCITRUS COOPERATIVA DE PRODUTORES RURAIS contra PAULO ROBERTO SIBIN, LUIZ SILVESTRE SIBIN, ANTÔNIO SERGIO SIBIN, JOSÉ GILBERTO SIBIN, JOÃO OLIVIO SIBIN. Av.63 e Av.64/13.973 (PENHORA) Ação de Execução de Título Extrajudicial - Crédito Rural nº 1002131-85.2014.8.26.0568 da 1ª Vara Cível de São João da Boa Vista/SP, Partes: COOPERCITRUS COOPERATIVA DE PRODUTORES RURAIS contra PAULO ROBERTO SIBIN, LUIZ SILVESTRE SIBIN, DENISE ISABER MIRACCA SIBIN, ANTÔNIO SERGIO SIBIN, MARIA ESTELA MORANDI MURAD SIBIN, JOSÉ GILBERTO SIBIN, JOÃO OLIVIO SIBIN, REGINA SOARES SIBIN. Av.65/13.973 (DISTRIBUIÇÃO DE AÇÃO) Ação de Execução de Título Extrajudicial - Contratos Bancários nº 1001152-89.2015.8.26.0568 da 2ª Vara Cível de São João da Boa Vista/SP, Partes: BANCO DE LAGE LANDEN BRASIL S/A contra ANTÔNIO SERGIO SIBIN. Av.66/13.973 (DISTRIBUIÇÃO DE AÇÃO) Ação de Execução de Título Extrajudicial - Nota Promissória nº 1082995-59.2014.8.26.0100 da 37ª Vara Cível de São Paulo/SP, Partes: CREDIT BRASIL FOMENTO MERCANTIL S/A contra SÃO JOÃO ABRASIVOS E MINÉRIOS LTDA, JOÃO OLIVIO SIBIN, JOSÉ GILBERTO SIBIN, ANTÔNIO SERGIO SIBIN. Av.68/13.973 (DISTRIBUIÇÃO DE AÇÃO) Ação de Execução de Título Extrajudicial nº 1000083-85.2016.8.26.0568 da 3ª Vara Cível de São João da Boa Vista/SP, Partes: BANCO DE LAGE LANDEN BRASIL S.A. contra ANTÔNIO SERGIO SIBIN e ESPÓLIO DE PAULO ROBERTO SIBIN. Av.69/13.973 (INDISPONIBILIDADE) Processo 034 (Processo 0011808-96.2016.5.15.0034) TRT 15 da Vara do Trabalho de São João da Boa Vista/SP, foi determinada a indisponibilidade de bens de propriedade de Antônio Sérgio Sibin, João Olivio Sibin, Luiz Silvestre Sibin, José Gilberto Sibin e Paulo Roberto Sibin. Av.71/13.973 (PENHORA) Execução Trabalhista nº 0010492-19.2014.5.15.0034 (Processo 0010492-19.2014.5.15.0034) da Vara do Trabalho de São João da Boa Vista/SP, Partes: MOACIR CAMPEZI ALVES e outros contra EMIGRAN EMPRESA DE MINERAÇÃO DE GRANITOS, JOSÉ GILBERTO SIBIN, JOÃO OLIVIO SIBIN, LUIZ SILVESTRE SIBIN, ANTONIO SERGIO SIBIN, PAULO ROBERTO SIBIN, JOSÉ GILBERTO SIBIN. Av.74/13.973 Imóvel penhorado nestes autos. Av.75/13.973 (INDISPONIBILIDADE) Processo 568 (Processo 0004821-80.2009.8.26.0568) 1º Ofício Judicial de São João da Boa Vista/SP, foi determinada a indisponibilidade de bens de propriedade de Paulo Roberto Sibin. Av.76/13.973 (INDISPONIBILIDADE) Processo 196 (Processo 0001639-62.2015.5.05.0196), Tribunal Regional do Trabalho da 5ª Região de Salvador/BA, foi determinada a indisponibilidade de bens de propriedade de Paulo Roberto Sibin.
+
+&nbsp;
+
+
+
+Observação:
+
+&nbsp;Conforme ofício da Prefeitura Municipal de São João da Boa Vista/SP, juntado as fls. 1.925/1.927, o imóvel situado na Rua Cesário Travassos n°s 21/23/25/27 esquina com a Rua Coronel Domingos Teodoro n°s 18/34/118/120/120-A, na Vila Conceição, neste município, está em estudo de tombamento pelo Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental de São João da Boa Vista, através do Processo nº 4887/2011-5, ainda em trâmite.&nbsp;
+
+
+
+
+&nbsp;
+
+
+Débitos:
+&nbsp;Contribuição Iluminação: R$ 48.320,64; IPTU: R$ 315.914,86; ISS - Construção Civil: R$ 14.013,36, total: R$ 378.065,86, atualizados até 15/09/2023.
+
+&nbsp;
+
+Valor da Avaliação em 29/10/2021: R$ 5.960.000,00 (cinco milhões, novecentos e sessenta mil reais). Valor da avaliação atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em SET/2023: R$ 6.669.125,74 (seis milhões, seiscentos e sessenta e nove mil, cento e vinte e cinco reais e setenta e quatro centavos).
+ COOPERCITRUS COOPERATIVA DE PRODUTORES RURAIS ESPOLIO DE PAULO ROBERTO SIBIN representado por LUIZA ZERBETTO SIBIN, LUIZ SILVESTRE SIBIN, ANTONIO SERGIO SIBIN, JOSÉ GILBERTO SIBIN, JOÃO OLÍVIO SIBIN LUIZ SILVESTRE SIBIN; ANTONIO SERGIO SIBIN; JOSÉ GILBERTO SIBIN; JOÃO OLÍVIO SIBIN e ESPOLIO DE PAUL 1ª Vara Cível de São João da Boa Vista/SP 1002119-71.2014.8.26.0568
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>6669125.74</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2f40e11a-2837-4a7c-8eb4-8b0e5adcead8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/50b54f79-963e-4fe2-9a0f-713500c92b75.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29b8cc2d-3c54-4b28-b90f-bf404fb7bf51.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b6f32a3-688e-4fea-b213-7b83e09cb717.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b4aeb3f-b5b3-49c9-b6c2-adba50e2f022.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/68585065-87c8-4fb4-986b-cbe098c3ec7c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a04e3539-0794-4980-b183-0ef5775802b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad8186b9-305c-4e58-9c81-53e98cd97bb0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8f6e1c4-1fe1-460c-b0ff-05d1e60eb1b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/927fca37-763c-4cc4-92c1-2b65a77caf74.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/03cace20-53bd-46bd-93a3-21fee40a8569.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bc4f5631-63ae-4392-8138-a1fa27e237ea.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7966f1f6-6a2b-453d-8704-adf6b9bec3aa.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Cesário Travassos, undefined]]></endereco>
+        <localidade><![CDATA[undefined, São João da Boa Vista, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13872-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
