@@ -13417,6 +13417,76 @@ Percentual de desconto: 25% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3066889</ListingID>
+      <Title>Apto. 111m², Candeias, Jaboatão dos Guararapes/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3066889</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/faa687d4-552e-4945-836a-643d3e313862.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/67b8f6f8-b721-462e-b44a-580ffee01255.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/96ae4af3-acac-4273-80f6-dfc4f4577bd5.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 111m², Candeias, Jaboatão dos Guararapes/PE 
+Apartamento - no Candeias
+
+Localização: Rua Coronel Kleber de Andrade, nº 612, Apto. 301, Candeias, Jaboatão dos Guararapes/PE, 54450-160
+
+Área Construída: 111m²
+Descrição Interna: (1 sala, 2 varandas, 2 quartos sociais, sendo 1 suíte, 1 w.c.b. social, cozinha, área de serviço, quarto e w.c.b. de empregada)
+
+Matrícula: nº 16.378
+RGI: 1º Serviço Registral de Jaboatão dos Guararapes/PE
+Inscrição Prefeitura: 1.3115.021.03.0269.0005.6
+
+DOSSIÊ: 17623
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+*Recai sobre o imóvel as ações: Processo nº 0003820-04.2021.8.17.8227, Processo nº 0001712-20.2022.8.17.2810 e Processo nº 0001946-81.2021.8.17.8227*
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 31/Out/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 341.041,95.
+
+2ª Praça:
+Abertura: 31/Out/2023 a partir das 09h51
+Fechamento: 01/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 177.717,04
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 48% de deságio sobre o valor de avaliação.
+ 17623 Santander AF - D.17623 -09:50h]]></Description>
+        <ListPrice currency="BRL">341041.95</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Jaboatão dos Guararapes/PE">Sem sigla</State>
+        <City>Candeias</City>
+        <Address>Rua Coronel Kleber de Andrade</Address>
+        <StreetNumber>nº 612</StreetNumber>
+        <PostalCode>54450-160</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
