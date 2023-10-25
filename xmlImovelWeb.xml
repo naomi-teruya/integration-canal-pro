@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698258118</dataModificacao>
+  <dataModificacao>1698258166</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -23920,6 +23920,119 @@ Percentual de desconto: 64% de deságio sobre o valor de avaliação. Sold Imóv
         <endereco><![CDATA[Rua Paes de Andrade, nº 327]]></endereco>
         <localidade><![CDATA[nº 327, Bairro Nova Rússia, Brasil]]></localidade>
         <codigoPostal><![CDATA[84053-380]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3071547]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3071547]]></codigoReferencia>
+      <titulo><![CDATA[Apto 139m², 2 Vagas, Ocupado, em  Pereira Barreto/SP]]></titulo>
+      <descricao><![CDATA[Apto 139m², 2 Vagas, Ocupado, em  Pereira Barreto/SP Apto 139m², 2 Vagas, Ocupado, em  Pereira Barreto/SP
+
+Localização:  Rua Atlântico, nº 884, Apto D21, Torre D,  Condomínio Residencial ¿The River¿,  Pereira Barreto/SP   CEP 15370-622
+
+área privativa total real de divisão não proporcional: 139,25m²
+(duas vagas de garagem descobertas localizadas no térreo)
+área de uso comum coberta real de divisão proporcional: 44,71m²
+Totalizando 161,46m²
+
+Matrícula: 30.465 do Cartório de Registro de Imóveis de Pereira Barreto/SP
+Inscrição Prefeitura: 2091001
+
+DOSSIÊ: 20575
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 392.357,12
+
+2ª Praça:
+Abertura: 01/11/2023 a partir das 10h01
+Fechamento: 03/11/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 236.224,15
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 40% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>392357.12</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f7d6480-585f-45b6-8359-a455e059d89f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/06ec3d97-d10f-4386-888b-2d0e970303af.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a163ae8e-e5fc-46db-a515-a0f1c8278a80.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8e91cec4-4773-4737-ba7d-21289e2acbd9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/04907d4c-0e97-47d4-9dbe-e528e39314ff.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7459bdc6-dbd3-49ab-be2d-658ff52f24e4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/633ee1c1-1ee9-4251-93dc-34475e5b41ed.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Atlântico, nº 884]]></endereco>
+        <localidade><![CDATA[Torre D, Condomínio Residencial “The River”, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15370-622]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
