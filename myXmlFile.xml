@@ -14496,6 +14496,79 @@ Percentual de desconto: 41% de deságio sobre o valor de avaliação. Sold Imóv
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3072200</ListingID>
+      <Title>Apto 58m², 1 Vaga, em  Guarujá/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3072200</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d47e9c00-c205-4958-b17c-db9ca134a0cc.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f42f1667-ff96-45be-8a1f-eb6338ba33c6.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/3949520b-5627-4717-b236-ba09c03b02a2.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/28ffc6e3-882a-46ed-b2f6-668703fc8496.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/869a7faa-03d7-4d18-a8a0-da0b6cf64d9d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 58m², 1 Vaga, em  Guarujá/SP Apto 58m², 1 Vaga, em  Guarujá/SP 
+
+Localização: Rua Iracema, nº 277, Apto nº 53,  Edifício Ilha de Santorini, Loteamento João Batista Julião, Guarujá/SP  -  CEP: 11443-400
+
+área útil: 58,557m²
+área comum de garagem: 11,000m²
+área comum: 47,519m²
+área total construída: 117,076m²
+
+Matrícula: 84.677 do Cartório de Registro de Imóveis de Guarujá/SP
+Inscrição Prefeitura: 3-0451-009-019
+
+DOSSIÊ: 19420
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+=============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 11h10 com Valor Mínimo de Venda de R$ 447.236,15
+
+2ª Praça:
+Abertura: 01/11/2023 a partir das 11h11
+Fechamento: 03/11/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 483.690,36
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+5 - Recai sobre o imóvel Ação: Processo nº 1012166-57.2023.8.26.0223
+
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+ Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">447236.15</ListPrice>
+        <LivingArea unit="square metres">117</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Loteamento João Batista Julião">Sem sigla</State>
+        <City>Edifício Ilha de Santorini</City>
+        <Address>Rua Iracema</Address>
+        <StreetNumber>nº 277</StreetNumber>
+        <PostalCode>11443-400</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
