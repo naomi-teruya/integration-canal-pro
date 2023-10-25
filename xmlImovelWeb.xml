@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698258335</dataModificacao>
+  <dataModificacao>1698258399</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24340,6 +24340,105 @@ Para maiores informações, dúvidas relativas ao edital, por gentileza entre em
         <endereco><![CDATA[Rua Iracema, nº 277]]></endereco>
         <localidade><![CDATA[Edifício Ilha de Santorini, Loteamento João Batista Julião, Brasil]]></localidade>
         <codigoPostal><![CDATA[11443-400]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3072810]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3072810]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 101m², 1 vaga no Nova Petrópolis, São Bernardo do Campo/SP]]></titulo>
+      <descricao><![CDATA[Apto. 101m², 1 vaga no Nova Petrópolis, São Bernardo do Campo/SP 
+Apartamento - Nova Petropolis
+
+Localização: Rua Lamartine Ventura, nº 55, Apto. 51, Nova Petrópolis, São Bernardo do Campo/SP, 09770-470
+
+Área Privativa: 69m²
+Área Comum: 32m²
+Área Total Construída: 101m²
+Descrição Interna: (dois dormitórios, sala de estar, cozinha, banheiro, área de serviço e lavabo)
+1 vaga
+
+Matrícula: nº 68.660
+RGI: 1º Cartório de Registro de Imóveis de São Bernardo do Campo/SP
+Inscrição Prefeitura: 004.114.011.009
+
+DOSSIÊ: 20567
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/Nov/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 287.778,82.
+
+2ª Praça:
+Abertura: 01/Nov/2023 a partir das 09h51
+Fechamento: 03/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 226.661,93
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 21% de deságio sobre o valor de avaliação.
+ 20567 Santander AF - D.20567-09:50h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>287778.82</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f878d2bd-fc6f-43c7-9d1f-a9fd353d2f23.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb008886-4607-4818-b051-a86a7a7613d7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Lamartine Ventura, nº 55]]></endereco>
+        <localidade><![CDATA[Nova Petrópolis, São Bernardo do Campo/SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09770-470]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
