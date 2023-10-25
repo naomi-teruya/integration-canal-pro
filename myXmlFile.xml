@@ -45,56 +45,6 @@ Imóvel: Um Prédio assobradado, de dois pavimentos, situado na Rua Joazeiro, n�
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>2932646</ListingID>
-      <Title>Casa 132m², Ocupada no Jardim Godoy em Bauru/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>http://www.superbid.net/oferta/2932646</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2ea9b3d5-a5d5-4f9f-8d86-e53b855aa940.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7c7e80a4-81f9-4f8a-b792-bf105c8f940e.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a2756626-e496-454d-8802-359c9663d49d.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/402b1caa-1a32-41fa-afa2-3009287f09e3.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 132m², Ocupada no Jardim Godoy em Bauru/SP Um terreno situado no lado ímpar, quarteirão 8, da rua João Batini, distante 13,00 metros da esquina com a Alameda Flor do Amor, correspondente a parte do lote 4 na quadra 1 do Parque Novo São Geraldo, desta cidade de Bauru, cadastrado na Prefeitura sob nº 4/985/4, com a área de 132m², medindo 12,00 metros de frente e de fundos, por 11,00 metros de cada lado, da frente aos fundos, confrontando pela frente com a citada rua João Batini; pelo lado direito, de quem da rua olha para o terreno, divide com o lote 3, onde se localiza o prédio nº 8-31 da mesma rua; pelo lado esquerdo, divide com parte deste mesmo lote 4; e pelos fundos, divide com o lote 5, onde se localiza o prédio nº 12-16 da Alameda Flor do Amor. Conforme Av.3 consta a construção de um prédio residencial em alvenaria de tijolos, térreo com 65,37m² de área construída, contendo os seguintes cômodos: 1 abrigo para autos, 1 sala, 1 cozinha, 1 área de serviços, 1 circulação, 1 banheiro social e 2 dormitórios, que recebeu o nº 8-19 pela rua João Batini. Matrícula nº 38.345 do 02º Cartório de Registro de Imóveis e Anexos de Bauru/SP. Cadastrado na Prefeitura Municipal sob n° 040985004. 
-
-Imóvel Ocupado, a desocupação correrá por conta do arrematante.
-
-O imóvel será entregue livre de quaisquer débitos de IPTU.
-Valor aproximado de IPTU: R$ 360,40
-
-Informações Relevantes:
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.
-3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).
-
-Valor de avaliação: R$ 230.000,00 - percentual de desconto: 21% de deságio sobre o valor de avaliação.
-
-Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602. Sold Imóveis - Creditas - 24.10.23 - 15h00]]></Description>
-        <ListPrice currency="BRL">182376.84</ListPrice>
-        <LivingArea unit="square metres">132</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Bauru</City>
-        <Address>Rua João Batini</Address>
-        <StreetNumber>4-8</StreetNumber>
-        <PostalCode>17021-360</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>2934671</ListingID>
       <Title>Casa 162m², Ocupada no Piracicamirim, Piracicaba/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -14322,6 +14272,78 @@ Av.03/ 54.435 - penhora em favor do Banco do Brasil nos presentes autos...]]></D
         <Address>Rua Machado de Assis</Address>
         <StreetNumber />
         <PostalCode>17014-038</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3071480</ListingID>
+      <Title>Casa residencial 132m², Ocupada,  em Ponta Grossa/P</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3071480</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/738c0236-cd68-465d-84b6-881335d06862.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9c4e19c0-9b9c-426e-995f-d075ad30a616.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4c4a448e-ff0a-4605-84a6-1039844e4abb.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/e8306537-dd58-4bc6-92de-ab44c6321f97.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f304dceb-83b0-4b71-8012-ff1433496a8a.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/b7938ee3-53ab-458b-8a6f-818f19c19481.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa residencial 132m², Ocupada,  em Ponta Grossa/P Casa residencial 132m², Ocupada,  em Ponta Grossa/PR
+
+Localização:  Rua Paes de Andrade, nº 327, Bairro Nova Rússia, Ponta Grossa/PR   CEP 84053-380
+
+área Terreno: 429,00m²
+área construída: 132,37m²
+
+Matrícula: 11.310 do Registro de Imóveis, 1ª Circunscrição de Ponta Grossa/PR.
+Inscrição Prefeitura: 08-6-17-17-0027-001
+
+DOSSIÊ: 20526
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 603.036,86
+
+2ª Praça:
+Abertura: 01/11/2023 a partir das 09h41
+Fechamento: 03/11/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 215.000,00
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+5- Recai sobre o imóvel Ação: processo nº 0019178-51.2023.8.16.0019 em andamento na 4ª Vara Cível de Ponta Grossa-PR
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 64% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">603036.86</ListPrice>
+        <LivingArea unit="square metres">429</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Bairro Nova Rússia">Sem sigla</State>
+        <City>nº 327</City>
+        <Address>Rua Paes de Andrade</Address>
+        <StreetNumber>nº 327</StreetNumber>
+        <PostalCode>84053-380</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
