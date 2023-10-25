@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698258399</dataModificacao>
+  <dataModificacao>1698258465</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24439,6 +24439,106 @@ Percentual de desconto: 21% de deságio sobre o valor de avaliação.
         <endereco><![CDATA[Rua Lamartine Ventura, nº 55]]></endereco>
         <localidade><![CDATA[Nova Petrópolis, São Bernardo do Campo/SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[09770-470]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3072904]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3072904]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 134m², 1 vaga na Vila Garcia, Pato de Minas/MG]]></titulo>
+      <descricao><![CDATA[Apto. 134m², 1 vaga na Vila Garcia, Pato de Minas/MG 
+Apartamento - Vila Garcia
+
+Localização: Rua Getulho Borges, nº 126, Apto. 502, Vila Garcia, Pato de Minas/MG, 38703-176
+
+Área Privativa Coberta: 77m²
+Área Comum Descoberta: 22m²
+Área Comum Coberta: 33m²
+Área Total Coberta: 134m²
+1 vaga
+
+Matrícula: nº 6.857
+RGI: 2º Ofício de Registro de Imóveis de Patos de Minas/MG
+Inscrição Prefeitura: 02.015.0580.000.050
+
+DOSSIÊ: 20317
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/Nov/2023 a partir das 10h10 com Valor Mínimo de Venda de R$ 313.538,65.
+
+2ª Praça:
+Abertura: 01/Nov/2023 a partir das 10h11
+Fechamento: 03/Nov/2023 a partir das 13h10 com Valor Mínimo de Venda de R$ 307.890,99
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+ 20317 Santander AF  - D.20317 -10:10h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>313538.65</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e156b4b3-9e2e-4f09-84cc-4b6386f4b89e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8556c6e9-9751-4f9d-b98e-975ea9c39099.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a4212a94-4ccf-4265-833f-585c3b9643ea.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Getulho Borges, nº 126]]></endereco>
+        <localidade><![CDATA[Vila Garcia, Pato de Minas/MG, Brasil]]></localidade>
+        <codigoPostal><![CDATA[38703-176]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
