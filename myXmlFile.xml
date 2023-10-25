@@ -14426,6 +14426,76 @@ Percentual de desconto: 40% de deságio sobre o valor de avaliação. Sold Imóv
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3071768</ListingID>
+      <Title>Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3071768</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/29d642d4-5e10-4f8a-a5d3-21d0758bfe64.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c78440c2-4cf5-4690-adc6-0365bf46421b.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/6d4a87b7-6d9f-4fe2-96e8-54409e0016da.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d2349442-cb57-4e47-bf13-fff37f34e594.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO
+
+Localização: Rua CV-14, lote nº 25, quadra 17, no Residencial Center Ville, em Goiânia/GO  CEP: 74369-034
+
+área construída total de 251,91m²
+área de terreno de 360,00m²
+
+Matrícula: 207.365 do Cartório de Registro de Imóveis da 1ª Circunscrição de Goiânia/GO
+Inscrição Prefeitura: 349.017.0361.0001
+
+DOSSIÊ: 17672
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+=====================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 10h20 com Valor Mínimo de Venda de R$ 1.000.572,95
+
+2ª Praça:
+Abertura: 01/11/2023  a partir das 10h21
+Fechamento: 03/11/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 595.140,04
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão
+5-  Conforme Av.09, consta a Indisponibilidade de Bens, o Juízo da 9ª Vara do Trabalho de Goiânia/GO, processo nº 009. Conforme Av.10, consta a Indisponibilidade de Bens, o Juízo da 2ª Vara do Trabalho de Goiânia/GO, processo nº 002   
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 41% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">1000572.95</ListPrice>
+        <LivingArea unit="square metres">360</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="no Residencial Center Ville">Sem sigla</State>
+        <City>quadra 17</City>
+        <Address>Rua CV-14</Address>
+        <StreetNumber>lote nº 25</StreetNumber>
+        <PostalCode>74369-034</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
