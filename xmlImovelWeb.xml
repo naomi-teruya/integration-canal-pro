@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698174261</dataModificacao>
+  <dataModificacao>1698258118</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -59,91 +59,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-46.67751</longitude>
         <latitude>-23.54621</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2932646]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2932646]]></codigoReferencia>
-      <titulo><![CDATA[Casa 132m², Ocupada no Jardim Godoy em Bauru/SP]]></titulo>
-      <descricao><![CDATA[Casa 132m², Ocupada no Jardim Godoy em Bauru/SP Um terreno situado no lado ímpar, quarteirão 8, da rua João Batini, distante 13,00 metros da esquina com a Alameda Flor do Amor, correspondente a parte do lote 4 na quadra 1 do Parque Novo São Geraldo, desta cidade de Bauru, cadastrado na Prefeitura sob nº 4/985/4, com a área de 132m², medindo 12,00 metros de frente e de fundos, por 11,00 metros de cada lado, da frente aos fundos, confrontando pela frente com a citada rua João Batini; pelo lado direito, de quem da rua olha para o terreno, divide com o lote 3, onde se localiza o prédio nº 8-31 da mesma rua; pelo lado esquerdo, divide com parte deste mesmo lote 4; e pelos fundos, divide com o lote 5, onde se localiza o prédio nº 12-16 da Alameda Flor do Amor. Conforme Av.3 consta a construção de um prédio residencial em alvenaria de tijolos, térreo com 65,37m² de área construída, contendo os seguintes cômodos: 1 abrigo para autos, 1 sala, 1 cozinha, 1 área de serviços, 1 circulação, 1 banheiro social e 2 dormitórios, que recebeu o nº 8-19 pela rua João Batini. Matrícula nº 38.345 do 02º Cartório de Registro de Imóveis e Anexos de Bauru/SP. Cadastrado na Prefeitura Municipal sob n° 040985004. 
-
-Imóvel Ocupado, a desocupação correrá por conta do arrematante.
-
-O imóvel será entregue livre de quaisquer débitos de IPTU.
-Valor aproximado de IPTU: R$ 360,40
-
-Informações Relevantes:
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.
-3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).
-
-Valor de avaliação: R$ 230.000,00 - percentual de desconto: 21% de deságio sobre o valor de avaliação.
-
-Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602. Sold Imóveis - Creditas - 24.10.23 - 15h00]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>182376.84</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2ea9b3d5-a5d5-4f9f-8d86-e53b855aa940.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7c7e80a4-81f9-4f8a-b792-bf105c8f940e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a2756626-e496-454d-8802-359c9663d49d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/402b1caa-1a32-41fa-afa2-3009287f09e3.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua João Batini, 4-8]]></endereco>
-        <localidade><![CDATA[Jardim Godoy, Bauru, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[17021-360]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-49.07617</longitude>
-        <latitude>-22.3031</latitude>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
@@ -23896,6 +23811,115 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Machado de Assis, undefined]]></endereco>
         <localidade><![CDATA[Vila Mesquita, Bauru, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[17014-038]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3071480]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3071480]]></codigoReferencia>
+      <titulo><![CDATA[Casa residencial 132m², Ocupada,  em Ponta Grossa/P]]></titulo>
+      <descricao><![CDATA[Casa residencial 132m², Ocupada,  em Ponta Grossa/P Casa residencial 132m², Ocupada,  em Ponta Grossa/PR
+
+Localização:  Rua Paes de Andrade, nº 327, Bairro Nova Rússia, Ponta Grossa/PR   CEP 84053-380
+
+área Terreno: 429,00m²
+área construída: 132,37m²
+
+Matrícula: 11.310 do Registro de Imóveis, 1ª Circunscrição de Ponta Grossa/PR.
+Inscrição Prefeitura: 08-6-17-17-0027-001
+
+DOSSIÊ: 20526
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 603.036,86
+
+2ª Praça:
+Abertura: 01/11/2023 a partir das 09h41
+Fechamento: 03/11/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 215.000,00
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
+5- Recai sobre o imóvel Ação: processo nº 0019178-51.2023.8.16.0019 em andamento na 4ª Vara Cível de Ponta Grossa-PR
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 64% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>603036.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/738c0236-cd68-465d-84b6-881335d06862.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9c4e19c0-9b9c-426e-995f-d075ad30a616.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4c4a448e-ff0a-4605-84a6-1039844e4abb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e8306537-dd58-4bc6-92de-ab44c6321f97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f304dceb-83b0-4b71-8012-ff1433496a8a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7938ee3-53ab-458b-8a6f-818f19c19481.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Paes de Andrade, nº 327]]></endereco>
+        <localidade><![CDATA[nº 327, Bairro Nova Rússia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84053-380]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
