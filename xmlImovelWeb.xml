@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698258166</dataModificacao>
+  <dataModificacao>1698258211</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24033,6 +24033,109 @@ Percentual de desconto: 40% de deságio sobre o valor de avaliação. Sold Imóv
         <endereco><![CDATA[Rua Atlântico, nº 884]]></endereco>
         <localidade><![CDATA[Torre D, Condomínio Residencial “The River”, Brasil]]></localidade>
         <codigoPostal><![CDATA[15370-622]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3071768]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3071768]]></codigoReferencia>
+      <titulo><![CDATA[Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO]]></titulo>
+      <descricao><![CDATA[Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO Casa 251m², Ocupado, no Residencial Center Ville, Goiânia/GO
+
+Localização: Rua CV-14, lote nº 25, quadra 17, no Residencial Center Ville, em Goiânia/GO  CEP: 74369-034
+
+área construída total de 251,91m²
+área de terreno de 360,00m²
+
+Matrícula: 207.365 do Cartório de Registro de Imóveis da 1ª Circunscrição de Goiânia/GO
+Inscrição Prefeitura: 349.017.0361.0001
+
+DOSSIÊ: 17672
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+=====================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 01/11/2023 a partir das 10h20 com Valor Mínimo de Venda de R$ 1.000.572,95
+
+2ª Praça:
+Abertura: 01/11/2023  a partir das 10h21
+Fechamento: 03/11/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 595.140,04
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante
+4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão
+5-  Conforme Av.09, consta a Indisponibilidade de Bens, o Juízo da 9ª Vara do Trabalho de Goiânia/GO, processo nº 009. Conforme Av.10, consta a Indisponibilidade de Bens, o Juízo da 2ª Vara do Trabalho de Goiânia/GO, processo nº 002   
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 41% de deságio sobre o valor de avaliação. Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1000572.95</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29d642d4-5e10-4f8a-a5d3-21d0758bfe64.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c78440c2-4cf5-4690-adc6-0365bf46421b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6d4a87b7-6d9f-4fe2-96e8-54409e0016da.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d2349442-cb57-4e47-bf13-fff37f34e594.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua CV-14, lote nº 25]]></endereco>
+        <localidade><![CDATA[quadra 17, no Residencial Center Ville, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74369-034]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
