@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698335700</dataModificacao>
+  <dataModificacao>1698335757</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24539,6 +24539,206 @@ Para maiores informações, dúvidas relativas ao edital, por gentileza entre em
         <endereco><![CDATA[Rua Getulho Borges, nº 126]]></endereco>
         <localidade><![CDATA[Vila Garcia, Pato de Minas/MG, Brasil]]></localidade>
         <codigoPostal><![CDATA[38703-176]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2879074]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2879074]]></codigoReferencia>
+      <titulo><![CDATA[Casa Espetacular 1106 M2 Alto da Boa Vista - SP]]></titulo>
+      <descricao><![CDATA[Casa Espetacular 1106 M2 Alto da Boa Vista - SP 
+Casa Espetacular 1100 M2, Alto da Boa Vista - SP, 4 suítes e 4 vagas. O imóvel possui armários embutidos, sala para 3 ambiente, área de serviço e wo para empregada. Além de ser um bairro familiar e arborizado, possui ótima localização, próxima às Avenidas Vereador José Diniz e Washington Luís. A estação Borba Gato do metrô está aproximadamente a 1,6 KM de distância do imóvel. A região ainda conta com grande oferta de restaurantes, supermercados, farmácias e escolas.
+ 1626600 Casa Espetacular]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>5000000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f20b200-9d4d-40e5-9be4-e55209667852.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f20b200-9d4d-40e5-9be4-e55209667852.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4ec99803-d8fd-4b79-a434-f389473d1719.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/241daa40-7962-4530-b175-f1bbf3723c07.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/241daa40-7962-4530-b175-f1bbf3723c07.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0a472592-1ed5-4392-868f-40034e495c4f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0a472592-1ed5-4392-868f-40034e495c4f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f302ac45-8f2f-4100-8d58-64ace30769d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f302ac45-8f2f-4100-8d58-64ace30769d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/87063751-a33e-4de9-a139-b2e4d83c0c3e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/87063751-a33e-4de9-a139-b2e4d83c0c3e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/589e9d69-af95-4a74-85c6-8bee6eb30143.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/589e9d69-af95-4a74-85c6-8bee6eb30143.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54171363-bf45-4d64-8c7b-18cefef15899.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54171363-bf45-4d64-8c7b-18cefef15899.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb093458-0844-4b60-81de-367dec43ef8c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb093458-0844-4b60-81de-367dec43ef8c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b53fb15f-7c6b-4c17-98e0-a43eb60f1fd3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25793fa3-1df6-4f54-9f3f-da450131e4b2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25793fa3-1df6-4f54-9f3f-da450131e4b2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b0ceb9d7-25d3-41ab-92d7-d33ed12422a9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b0ceb9d7-25d3-41ab-92d7-d33ed12422a9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94b70f23-b1a5-4e47-af2e-0470ec90076c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94b70f23-b1a5-4e47-af2e-0470ec90076c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/522afd30-cd8e-402d-afdb-dfd2c146ead9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/522afd30-cd8e-402d-afdb-dfd2c146ead9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2bab4621-faad-4faf-a326-4b72c72c5f97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2bab4621-faad-4faf-a326-4b72c72c5f97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d44c692a-7f5a-4723-8675-e03bf405c54a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d44c692a-7f5a-4723-8675-e03bf405c54a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/74c34c29-5d70-45bb-b97f-650e59ae354a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/74c34c29-5d70-45bb-b97f-650e59ae354a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/58f36592-5b9c-495d-abbe-050a3516cacb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/58f36592-5b9c-495d-abbe-050a3516cacb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117df93f-6670-41b7-8884-c658c4d7269e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117df93f-6670-41b7-8884-c658c4d7269e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/adfd5211-cbdc-48bc-b023-72aa1a99cc1f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/adfd5211-cbdc-48bc-b023-72aa1a99cc1f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa757677-4e94-4101-9d66-792fd5d20f6f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa757677-4e94-4101-9d66-792fd5d20f6f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/675703eb-c923-4137-b44a-681b10542a40.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/675703eb-c923-4137-b44a-681b10542a40.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/320dec9a-3f2e-4d24-bd46-3b8e29369929.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/320dec9a-3f2e-4d24-bd46-3b8e29369929.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9c742cb-553b-45e3-b233-645b2d86119d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9c742cb-553b-45e3-b233-645b2d86119d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b10e8cfa-0b36-45aa-b885-228ef965527b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Miranda Guerra, 40]]></endereco>
+        <localidade><![CDATA[Santo Amaro, São Paulo, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04640-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
