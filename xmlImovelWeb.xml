@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698348217</dataModificacao>
+  <dataModificacao>1698348363</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24301,6 +24301,113 @@ Casa Espetacular 1100 M2, Alto da Boa Vista - SP, 4 suítes e 4 vagas. O imóvel
         <endereco><![CDATA[Rua Miranda Guerra, 40]]></endereco>
         <localidade><![CDATA[Santo Amaro, São Paulo, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[04640-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3075983]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3075983]]></codigoReferencia>
+      <titulo><![CDATA[Casa 54m², 1 Vaga, Ocupado, em  Praia Grande/SP]]></titulo>
+      <descricao><![CDATA[Casa 54m², 1 Vaga, Ocupado, em  Praia Grande/SP Casa 54m², 1 Vaga, Ocupado, em  Praia Grande/SP
+
+Localização: Rua José da Costa Monteiro n° 1162, Casa n°05, Residencial Vila de Sagres, Praia Grande/SP  -  CEP: 11722-040
+
+área útil de 54,0750m²
+área comum de 7,8856m²
+área total de 61,9606m²
+
+Matrícula: 209.836 do Registro de Imóveis de Praia Grande/SP
+Inscrição Prefeitura: 2.03.32.005.008.0005
+
+DOSSIÊ: 18899
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+=====================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 07/11/2023 a partir das 09h50 com Valor Mínimo de Venda de R$  320.331,82
+
+2ª Praça:
+Abertura: 07/11/2023 a partir das 09h51
+Fechamento: 08/11/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 202.528,76
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 37% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>320331.82</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e68f257a-54d4-44f5-aeca-b3eedfc9e133.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7e023e14-80ab-4055-9fe5-c147fd24708e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c8231d53-ddeb-47bc-9cd4-77c68e8ace96.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9dd150e9-6537-4120-be53-65353f835b75.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91d776ba-ffc2-4d8f-bad4-cce2c980487f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José da Costa Monteiro n° 1162, Casa n°05]]></endereco>
+        <localidade><![CDATA[Casa n°05, Residencial Vila de Sagres, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11722-040]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
