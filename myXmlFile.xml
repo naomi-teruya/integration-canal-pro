@@ -13729,8 +13729,8 @@ Conforme informações constantes do laudo de avaliação de fls. 1.602/1.611:
 R.10/13.973 (...]]></Description>
         <ListPrice currency="BRL">6669125.74</ListPrice>
         <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Bathrooms>0</Bathrooms>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
