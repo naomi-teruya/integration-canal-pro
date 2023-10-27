@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698351403</dataModificacao>
+  <dataModificacao>1698431815</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -24515,6 +24515,1212 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Giovanni Gronchi, 4864]]></endereco>
         <localidade><![CDATA[Vila Andrade, São Paulo, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[05724-002]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076800]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076800]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Curitiba / PR (26% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Curitiba / PR (26% abaixo da avaliação) 
+Endereço Completo
+
+Rua Ponta Grossa, 356, Apartamento 31 - Edifício San Marco, Portão, Curitiba, PR, CEP: 80610160
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 33,9 de área construída, 27,91 de área privativa, 11,55 de área comum. Matrícula(s): 55.547. Cartório: 5º CRI DE CURITIBA. Inscrição da Prefeitura: 63.049.010.008-7/27.0.0034.0056.00-5. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20528
+
+
+Área Privativa:
+ 27.91 m2
+
+Área Comum:
+ 11.55 m2
+
+Composição Interna/Vagas:
+ Vagas de Garagem: 1
+
+
+Matrícula:
+ 55.547
+
+Cartório de Registro:
+ 5º CRI DE CURITIBA
+
+Inscrição na Prefeitura:
+ 63.049.010.008-7/27.0.0034.0056.00-5
+
+IPTU Anual:
+ R$ 210,00
+
+Condomínio Mensal:
+ R$ 310,32
+
+
+Valor Avaliado:
+ R$ 195.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243053 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>144000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/143527e6-2c9c-4bcd-9a66-03be127d2b76.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9777934d-92b6-4da8-803b-645477eb3c09.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa5d4c66-ef83-4b11-9c91-af998e471ae8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8cd4ddae-c5fa-4271-97ac-b25cbc5bf872.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cf4e1c65-bb50-4e01-8291-f7a11b098174.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Ponta Grossa, 356]]></endereco>
+        <localidade><![CDATA[Curitiba, PR, Brasil]]></localidade>
+        <codigoPostal><![CDATA[80610160]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076806]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076806]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Salvador / BA (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Salvador / BA (33% abaixo da avaliação) 
+Endereço Completo
+
+Rua Manuel Suarez, 240, Casa Nº 02, Stella Maris, Itapoan, Salvador, BA, CEP: 41600620
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado. Área(s): 398,5 de área terreno, 60,28 de área construída, 60,28 de área privativa, 51,75 de área comum. Matrícula(s): 16.436. Cartório: 7º CRI DE SALVADOR. Inscrição da Prefeitura: 486703-3. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20349
+
+
+Área Privativa:
+ 60.28 m2
+
+Área Terreno:
+ 398.5 m2
+
+Área Comum:
+ 51.75 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 1, Suítes: 2, Banheiros: 2, Lavabos: 1, Salas: 1, Cozinhas: 1, Copas: 1, Despensas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 16.436
+
+Cartório de Registro:
+ 7º CRI DE SALVADOR
+
+Inscrição na Prefeitura:
+ 486703-3
+
+IPTU Anual:
+ R$ 1.100,00
+
+
+Valor Avaliado:
+ R$ 342.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243039 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>229440</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0aac32bc-3edd-45ef-974c-0046de3b1a5c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3c3f17c3-fccf-41cc-9303-2f48d46193f9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ceff6090-f6e2-4260-ae45-712e4a9196e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/90711bd2-03ad-4daa-b8dc-865af1d03f63.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38625e64-2186-4e85-adec-4cd4871ab097.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Manuel Suarez, 240]]></endereco>
+        <localidade><![CDATA[Salvador, BA, Brasil]]></localidade>
+        <codigoPostal><![CDATA[41600620]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076801]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076801]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Mogi Das Cruzes / SP (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Mogi Das Cruzes / SP (33% abaixo da avaliação) 
+Endereço Completo
+
+Avenida Roque Stilhano, 194, Lote 15, Quadra 04, Jardim Nathalie, Mogi Das Cruzes, SP, CEP: 08725730
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 150 de área terreno, 112 de área construída, 112 de área privativa. Matrícula(s): 55.366. Cartório: 02° CRI DE MOGI DAS CRUZES. Inscrição da Prefeitura: 47.017.015.000-0. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20120
+
+
+Área Privativa:
+ 112.0 m2
+
+Área Terreno:
+ 150.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Suítes: 1, Banheiros: 1, Lavabos: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 55.366
+
+Cartório de Registro:
+ 02° CRI DE MOGI DAS CRUZES
+
+Inscrição na Prefeitura:
+ 47.017.015.000-0
+
+IPTU Anual:
+ R$ 1.375,90
+
+
+Valor Avaliado:
+ R$ 408.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243046 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>273600</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d7e6cdf-1795-4544-994e-3639f23f68d1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/35bbe93a-c60c-4474-8a5f-c753f710f0ab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2d5d5e05-365e-4941-87e4-4d854404957e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Roque Stilhano, 194]]></endereco>
+        <localidade><![CDATA[Mogi Das Cruzes, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[08725730]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076807]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076807]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Goiânia / GO (20% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Goiânia / GO (20% abaixo da avaliação) 
+Endereço Completo
+
+Rua 13, 145, Apto 2602 - Condomínio The One Exclusive Life - Box 167, 158 E 158a, Jardim Goias, Goiânia, GO, CEP: 74810170
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 3 vaga(s) de garagem. Área(s): 275,54 de área terreno, 161,81 de área construída, 170,22 de área privativa, 105,32 de área comum. Matrícula(s): 88.740,88.591,88.735. Cartório: 4º CRI DE GOIÂNIA. Inscrição da Prefeitura: 203.060.0503.1352 APTO / 203.060.0503..3134 BOX167 / 203.060.0503..3045 BOX158. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20620
+
+
+Área Privativa:
+ 170.22 m2
+
+Área Terreno:
+ 275.54 m2
+
+Área Comum:
+ 105.32 m2
+
+Composição Interna/Vagas:
+ Suítes: 3, Banheiros: 1, Lavabos: 1, Vagas de Garagem: 3, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1, Varandas: 1, Dormitórios de Empregada: 1, Banheiros de Empregada: 1
+
+
+Matrícula:
+ 88.740,88.591,88.735
+
+Cartório de Registro:
+ 4º CRI DE GOIÂNIA
+
+Inscrição na Prefeitura:
+ 203.060.0503.1352 APTO / 203.060.0503..3134 BOX167 / 203.060.0503..3045 BOX158
+
+IPTU Anual:
+ R$ 2.810,00
+
+
+Valor Avaliado:
+ R$ 2.507.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243042 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2005600</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cb6fa96-d224-4477-9235-c8af0f9d3c94.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca4af0c1-c97a-42e4-9f0d-eb152fd93e18.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f6a9e2d-bdad-424f-b167-b351c65a2438.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7bcc5a9-6ae5-4889-8182-596e0fae3017.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua 13, 145]]></endereco>
+        <localidade><![CDATA[Goiânia, GO, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74810170]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076802]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076802]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Campina Grande / PB (30% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Campina Grande / PB (30% abaixo da avaliação) 
+Endereço Completo
+
+Rua Quintino De Freitas, 191, Tipo Pb 15 I, Bodocongo, Campina Grande, PB, CEP: 58430280
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado. Área(s): 207,47 de área terreno, 119,25 de área construída. Matrícula(s): 53.766. Cartório: 1º CRI CAMPINA GRANDE. Inscrição da Prefeitura: 1. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20465
+
+
+Área Terreno:
+ 207.47 m2
+
+
+Matrícula:
+ 53.766
+
+Cartório de Registro:
+ 1º CRI CAMPINA GRANDE
+
+Inscrição na Prefeitura:
+ 1
+
+IPTU Anual:
+ R$ 343,10
+
+
+Valor Avaliado:
+ R$ 251.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+ 243029 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>176640</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e59e0f14-0004-4cc0-8ab3-c1d7adde2216.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b07f4b34-4a6f-4519-b572-388597527876.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dcd0dd60-9da5-46be-92d7-1c53560366a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb18a4b3-ef5d-444e-af96-8ffaffe40a5c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Quintino De Freitas, 191]]></endereco>
+        <localidade><![CDATA[Campina Grande, PB, Brasil]]></localidade>
+        <codigoPostal><![CDATA[58430280]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076803]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076803]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Santo André / SP (37% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Santo André / SP (37% abaixo da avaliação) 
+Endereço Completo
+
+Rua Adelmar Tavares, 261, Apartamento 1 Do Edificio Praia De Maresias Conjunto Residencial Caminho Do Mar, Vila Tibiriça, Santo André, SP, CEP: 09130190
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 60,89 de área terreno, 55,91 de área construída, 55,91 de área privativa, 4,98 de área comum. Matrícula(s): 56.532. Cartório: 1° CRI SANTO ANDRÉ/SP. Inscrição da Prefeitura: 23.101.099. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20159
+
+
+Área Privativa:
+ 55.91 m2
+
+Área Terreno:
+ 60.89 m2
+
+Área Comum:
+ 4.98 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Banheiros: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 56.532
+
+Cartório de Registro:
+ 1° CRI SANTO ANDRÉ/SP
+
+Inscrição na Prefeitura:
+ 23.101.099
+
+IPTU Anual:
+ R$ 1.580,00
+
+Condomínio Mensal:
+ R$ 1.654,87
+
+
+Valor Avaliado:
+ R$ 242.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243022 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>151680</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2ebbb32-03db-4c7f-a980-df4c249bac2d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9cca188f-cd35-4078-9e14-ff480a6c8724.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81e954ff-cfc0-4678-bbe8-504d21e54d50.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Adelmar Tavares, 261]]></endereco>
+        <localidade><![CDATA[Santo André, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09130190]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076805]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076805]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Sao Paulo / SP (35% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Sao Paulo / SP (35% abaixo da avaliação) 
+Endereço Completo
+
+Rua Jorge Tibirica, 229, Apartamento 71, Andar 7 Do Edificio Vila De Vitoria, Vila Mariana, Sao Paulo, SP, CEP: 04126000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 101,99 de área construída, 73,03 de área privativa, 28,96 de área comum. Matrícula(s): 1375. Cartório: 14° CRI DE SÃO PAULO. Inscrição da Prefeitura: 042.055.0124-2. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20225
+
+
+Área Privativa:
+ 73.03 m2
+
+Área Comum:
+ 28.96 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Suítes: 1, Banheiros: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 1375
+
+Cartório de Registro:
+ 14° CRI DE SÃO PAULO
+
+Inscrição na Prefeitura:
+ 042.055.0124-2
+
+IPTU Anual:
+ R$ 641,17
+
+Condomínio Mensal:
+ R$ 1.088,13
+
+
+Valor Avaliado:
+ R$ 540.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 243025 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>351360</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e814818f-3e14-4739-8cd6-55232683accf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/28fb1038-02e2-489f-a343-3ae571a1a505.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c2a4008d-8c17-4653-b35f-62491e247561.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Jorge Tibirica, 229]]></endereco>
+        <localidade><![CDATA[Sao Paulo, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04126000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076804]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076804]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, São Paulo / SP (20% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, São Paulo / SP (20% abaixo da avaliação) 
+Endereço Completo
+
+Rua Paulinia, 36, Tatuapé - Vila Santa Isabel, São Paulo, SP, CEP: 03432030
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado. Área(s): 296 de área terreno, 275 de área construída. Matrícula(s): 96.320. Cartório: 9° CRI DE SÃO PAULO. Inscrição da Prefeitura: 055.132.0024-4. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20207
+
+
+Área Terreno:
+ 296.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Suítes: 1, Escritórios: 1, Banheiros: 1, Lavabos: 2, Salas: 1, Cozinhas: 1, Copas: 1, Despensas: 1, Áreas de Serviço: 1, Varandas: 2
+
+
+Matrícula:
+ 96.320
+
+Cartório de Registro:
+ 9° CRI DE SÃO PAULO
+
+Inscrição na Prefeitura:
+ 055.132.0024-4
+
+IPTU Anual:
+ R$ 9.371,20
+
+
+Valor Avaliado:
+ R$ 1.000.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+ 243024 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>800000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c45e9be4-0ae7-4497-b8a8-30eb447fd38a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ddab21c6-406a-4523-8560-bbd4a6ae1f6d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d00765b6-f3f7-42e5-8027-8588fbfd91ab.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Paulinia, 36]]></endereco>
+        <localidade><![CDATA[São Paulo, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[03432030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3076799]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3076799]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Desocupado, Fortaleza / CE (34% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Desocupado, Fortaleza / CE (34% abaixo da avaliação) 
+Endereço Completo
+
+Rua Carlos Studart, 301, Maraponga, Fortaleza, CE, CEP: 60711180
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Desocupado. Área(s): 160,2 de área terreno. Matrícula(s): 81.961. Cartório: 6º CRI FORTALEZA. Inscrição da Prefeitura: 2567857. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 20428
+
+
+Área Terreno:
+ 160.2 m2
+
+
+Matrícula:
+ 81.961
+
+Cartório de Registro:
+ 6º CRI FORTALEZA
+
+Inscrição na Prefeitura:
+ 2567857
+
+IPTU Anual:
+ R$ 400,00
+
+
+Valor Avaliado:
+ R$ 205.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. DESOCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: ASSUNÇÃO DOS RISCOS, PROVIDÊNCIAS E CUSTAS NECESSÁRIAS À REGULARIZAÇÃO DO IMÓVEL, NOTADAMENTE A AVERBAÇÃO/RETIFICAÇÃO DA ÁREA CONSTRUÍDA/ÁREA DO TERRENO, PERANTE OS ÓRGÃOS COMPETENTES, MAS NÃO EXCLUSIVAMENTE NO REGISTRO DE IMÓVEIS E NA PREFEITURA.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+ 243027 Sold Imóveis - Santander Oportunidades - 07/11/23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>135360</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c41785ab-150a-4ca7-8e70-5659641532e4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b31da895-709f-4d34-a246-7464d7c5c238.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d01a1f81-a0a8-4fd7-b0e5-a10d1b4dbaeb.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Carlos Studart, 301]]></endereco>
+        <localidade><![CDATA[Fortaleza, CE, Brasil]]></localidade>
+        <codigoPostal><![CDATA[60711180]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
