@@ -15595,6 +15595,60 @@ Condições de Pagamento
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3078235</ListingID>
+      <Title>Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3078235</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/136c3d55-04db-4961-82b6-75eef884ef45.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/627f125b-c66b-4bbe-b685-7e0aace26882.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/f0bc1851-7ff6-4c7b-b393-f4770d6b88b8.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/24ae5328-8418-47c1-83d3-09283ebf6a9e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP O apartamento nº 161, localizado no 16º andar, do Edifício Village sito à Rua Padre Manoel de Paiva, nº 78, esquina com a Rua das Monções, nesta cidade de Santo André/SP, possuindo a área útil de 270,46m², área comum de 104,72m² (estando nesta incluída a área correspondente aos boxes de garagem nºs 05 e 18), perfazendo uma área total construída de 375,18m², correspondendo-lhe uma fração ideal no todo do terreno e nas demais coisas de uso comum do condomínio igual a 0,0551228 ou 66,15m². Imóvel devidamente matriculado sob o nº 54.289 do 01º Cartório de Registro de Imóveis de Santo André/SP. Inscrição Imobiliária n° 03.061.041. 
+
+Imóvel próximo à Comércios, Shopping e restaurantes.
+
+- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.
+
+O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio até a data da venda.
+Valor aproximado de IPTU Anual: R$ 5.073,62.
+Valor aproximado de Condomínio: R$ 2.481,18
+
+Informações Relevantes: 
+1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista;
+2 - Os débitos de IPTU e condomínio serão quitados pelo vendedor até a data do leilão.
+3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").
+4 - Percentual de desconto: 19% de deságio sobre o valor de avaliação. 
+5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.
+6 - Venda Condicional (venda sob aprovação do vendedor).
+
+Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602. Sold Imóveis - 27/11/2023 - 14h00]]></Description>
+        <ListPrice currency="BRL">935590</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Santo André</City>
+        <Address>Rua Padre Manoel de Paiva</Address>
+        <StreetNumber>78</StreetNumber>
+        <PostalCode>09070-230</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
