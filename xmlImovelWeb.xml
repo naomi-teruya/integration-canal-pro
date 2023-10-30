@@ -22343,12 +22343,12 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT3]]></id>
           <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
+          <valor><![CDATA[1]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT2]]></id>
           <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
+          <valor><![CDATA[2]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
@@ -22810,17 +22810,17 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT3]]></id>
           <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
+          <valor><![CDATA[1]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT2]]></id>
           <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
+          <valor><![CDATA[2]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
+          <valor><![CDATA[80]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
@@ -22962,17 +22962,17 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT3]]></id>
           <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
+          <valor><![CDATA[1]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT2]]></id>
           <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
+          <valor><![CDATA[2]]></valor>
         </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
+          <valor><![CDATA[97]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
