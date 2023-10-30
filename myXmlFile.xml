@@ -15884,6 +15884,74 @@ Percentual de desconto: 19% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3079839</ListingID>
+      <Title>Casa 125m² no Jardim Bela Vista, Guarulhos/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3079839</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/cc84d9e8-499d-4de1-a632-b95d087a4973.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/74d8eccc-1b4f-4d52-8450-d706a7f184d1.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/12398186-e383-4131-a40c-1fc97cdb881a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 125m² no Jardim Bela Vista, Guarulhos/SP 
+Casa - Jardim Bela Vista
+
+Localização: Rua Araraquara, nº 106, Jardim Bela Vista, Guarulhos/SP, 07132-300
+
+Área Terreno: 125m²
+Área Construída: 90m²
+
+Matrícula: nº 160.035
+RGI: 2º Cartório de Registro de Imóveis de Guarulhos/SP
+Inscrição Prefeitura: 082.30.15.0092.00.000
+
+DOSSIÊ: 20356
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 10h30 com Valor Mínimo de Venda de R$ 689.695,43.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 10h31
+Fechamento: 10/Nov/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 403.491,21
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 41% de deságio sobre o valor de avaliação.
+ 20356 Santander AF - D.20356-10:30h]]></Description>
+        <ListPrice currency="BRL">689695.43</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Guarulhos/SP">Sem sigla</State>
+        <City>Jardim Bela Vista</City>
+        <Address>Rua Araraquara</Address>
+        <StreetNumber>nº 106</StreetNumber>
+        <PostalCode>07132-300</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
