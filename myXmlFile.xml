@@ -16020,6 +16020,76 @@ Percentual de desconto: 13% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3079966</ListingID>
+      <Title>Casa 97m² no Felicia, Vitoria da Conquista/BA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3079966</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/64f3a59b-50dd-4fe7-95c9-8cd0bae3fe24.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7d31c116-3f1a-421f-9c12-845719549f1e.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/53cb3548-7de3-4495-b305-718057bc4c93.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 97m² no Felicia, Vitoria da Conquista/BA 
+Casa - Felicia
+
+Localização: Rua Jose Ferreira Rocha, nº 470, Felicia, Vitoria da Conquista/BA, 45055-485
+
+Área Privativa: 97m²
+Área Total Construída: 115m²
+
+Matrícula: nº 96.078
+RGI: 1º Ofício de Registro de Imóveis de Vitória da Conquista/BA
+Inscrição Prefeitura: 01.13.743.0200.001
+
+DOSSIÊ: 20441
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+*Recai sobre o imóvel ação: Processo nº 8015346-22.2022.8.05.0274*
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 690.669,18.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 09h41
+Fechamento: 10/Nov/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 343.988,03
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 50% de deságio sobre o valor de avaliação.
+ 20441 Santander AF - D.20441-09:40h]]></Description>
+        <ListPrice currency="BRL">690669.18</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Vitoria da Conquista/BA">Sem sigla</State>
+        <City>Felicia</City>
+        <Address>Rua Jose Ferreira Rocha</Address>
+        <StreetNumber>nº 470</StreetNumber>
+        <PostalCode>45055-485</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
