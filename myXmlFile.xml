@@ -15952,6 +15952,74 @@ Percentual de desconto: 41% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3077855</ListingID>
+      <Title>Casa 70m², 1 vaga no Americanópolis, São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3077855</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ef8bc1cc-cdb8-47fc-a78d-e5a9aaa82a5d.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/df92b58c-79ca-4fb9-92ba-9370817c3805.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/3656046d-a6fc-4a07-9fe9-aabd05da2ae7.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 70m², 1 vaga no Americanópolis, São Paulo/SP 
+Casa - Americanópolis
+
+Localização: Rua Maria Gay, nº 25, Americanópolis, São Paulo/SP, 04411-100
+
+Área Construída: 70m²
+Área Terreno: 68m²
+
+Matrícula: nº 228.594
+RGI: 11º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 172.177.0067-0
+
+DOSSIÊ: 20385
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 405.348,75.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 09h51
+Fechamento: 10/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 351.720,78
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 13% de deságio sobre o valor de avaliação.
+ 20385 Santander AF - D.20385 -09:50h]]></Description>
+        <ListPrice currency="BRL">405348.75</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="São Paulo/SP">Sem sigla</State>
+        <City>Americanópolis</City>
+        <Address>Rua Maria Gay</Address>
+        <StreetNumber>nº 25</StreetNumber>
+        <PostalCode>04411-100</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
