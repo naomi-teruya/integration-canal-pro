@@ -16215,6 +16215,112 @@ Condições de Pagamento
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3080806</ListingID>
+      <Title>Casa, Ocupado, 250.0 m2, Brodowski / SP (44% abaixo da avaliação)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3080806</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/1b2bee71-b6c3-468f-9be8-b8d6d4ae22b2.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f4d9193a-49be-4998-b2ef-37deb9bc7612.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/00bae2d2-8ba2-41cf-add4-6b26373b2d6b.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/49ff9ce1-0f1d-47ef-9f4d-ef62a50a3762.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/38f2014a-656f-49b0-b4e6-c44ab607aab4.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/b789830f-3ad0-49d3-9310-2968a1b0a991.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/4199a521-a6df-4dd1-9bc4-a1c2a7d61dec.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/e75bcfe4-9458-4ed4-af54-6f5ff7ba1c8a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, Ocupado, 250.0 m2, Brodowski / SP (44% abaixo da avaliação) 
+Endereço Completo
+
+Rua Farmaceutico Antonio Leite De Oliva, 156, Vila Cristal, Brodowski, SP, CEP: 14340000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 250 m² de área total, 250 m² de área terreno, 95 m² de área construída. Matrícula(s): 7.170. Cartório: CRI DE BRODOWSKI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18629
+
+
+Área Total:
+ 250.0 m2
+
+Área Terreno:
+ 250.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Banheiros: 1, Vagas de Garagem: 2, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 7.170
+
+Cartório de Registro:
+ CRI DE BRODOWSKI
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.624,24
+
+
+Valor Avaliado:
+ R$ 315.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+CONSIDERACAOES:* OCUPADO* ACAO JUDICIAL - CAUTELAR ANTECENDENTE- PROC. NO 1000434-78.2023.8.26.0094 EM TRAMITE NA VARA UNICA DE BRODOWSKI/SP.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 98755 Sold Imóveis - Santander Residenciais]]></Description>
+        <ListPrice currency="BRL">176400</ListPrice>
+        <LivingArea unit="square metres">250</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Brodowski</City>
+        <Address>Rua Farmaceutico Antonio Leite De Oliva</Address>
+        <StreetNumber>156</StreetNumber>
+        <PostalCode>14340000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
