@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698431815</dataModificacao>
+  <dataModificacao>1698781014</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -20812,103 +20812,6 @@ Informações Relevantes:
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[2910863]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2910863]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 243m², A.C. 110m², 1 dorm, Centro 
-Imóvel objeto da matrícula 13.146, do S.R.I local, através do sistema ARISP, a seguir descrito: Um terreno, constituído por parte do lote n° 04, da quadra n° 19, situado no perímetro urbano desta Cidade de Presidente Venceslau, Estado de São Paulo, Centro, situado na esquina da Rua Carlos Gomes n° 773, com a Rua Padre Anchieta n° 135, com a área de 243,00 metros quadrados, com o seguinte perímetro: uma área de terras, localizada no lado ímpar do logradouro (Rua Carlos Gomes e Rua Padre Anchieta), dentro das seguintes divisas, metragens e confrontações: começam as divisas, medindo 13,50 metros de frente para a Rua Carlos Gomes n° 773; daí deflete à direita e segue medindo 18,00 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues, e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 13,50 metros, confrontando com parte do lote n° 04, de propriedade de Abílio Rodrigues e sua mulher Maria Inês Rodrigues; daí deflete à direita e segue medindo 18,00 metros confrontando com a Rua Padre Anchieta, até o ponto de partida da presente descrição, contendo como benfeitoria, uma casa residencial em alvenaria de tijolos, sob n° 773, da Rua Carlos Gomes, com 110,96 metros quadrados de construção.
-
-
-
-Obs.: segundo avaliação de fls. 38-40, a casa residencial em alvenaria de tijolos, com 110,96 m² de área construída, contém, quarto, sala, copa/cozinha, varanda coberta e um quarto pequeno nos fundos, pintura em péssimo estado de conservação, sem rachaduras nas paredes.
-
-
-
-Imóvel matriculado sob n° 13.146, do Oficial de Registro de Imóveis de Presidente Venceslau-SP.
-
-
-
-Valor da Avaliação: R$ 250.000,00 (duzentos e cinquenta mil reais) em julho de 2022.
- Andreia Medeiros de Araujo Levy Feriani João Rafael Correia Andretta João Rafael Correia Andretta JECC de Presidente Venceslau/SP 0002511-45.2021.8.26.0483
-
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>175000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0122ef3d-01f8-4f4d-a4c1-eef35767f3e8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8c1aba7-f232-4259-a8eb-86599c2602e5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2bc2d7bc-c851-46dc-8e7d-088ab7f64e44.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67e582f9-c1b6-48ee-880a-28497999737a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e65f7024-dd02-4c46-ac56-854ccc9af8ec.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae6cbe2b-5315-45bb-a916-7556ec040952.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6267a1f2-6e00-45e0-9e37-301ba3398773.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7b98e1e-f70c-48e0-9eea-1c90d53e30a6.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Carlos Gomes, 773]]></endereco>
-        <localidade><![CDATA[Presidente Venceslau, Presidente Venceslau, SP, Brasil]]></localidade>
-        <codigoPostal><![CDATA[19400-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3066600]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3066600]]></codigoReferencia>
       <titulo><![CDATA[Terreno 4.000m², na Vila Jovina, Cotia/SP]]></titulo>
@@ -25721,6 +25624,2106 @@ Condições de Pagamento
         <endereco><![CDATA[Rua Carlos Studart, 301]]></endereco>
         <localidade><![CDATA[Fortaleza, CE, Brasil]]></localidade>
         <codigoPostal><![CDATA[60711180]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3063066]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3063066]]></codigoReferencia>
+      <titulo><![CDATA[Galpão, Desocupado, 30000.0 m2, Bom Jardim / RJ]]></titulo>
+      <descricao><![CDATA[Galpão, Desocupado, 30000.0 m2, Bom Jardim / RJ 
+Endereço Completo
+
+Rodovia Rj 146, 246, Km 13, Barra Alegre, Bom Jardim, RJ, CEP: 28664000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Galpão, Padrão, Desocupado. Área(s): 30000 m² de área total, 30000 m² de área terreno, 9071 m² de área construída. Matrícula(s): 1.910. Cartório: 2 CRI BOM JARDIM. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Galpão
+
+Status da Ocupação:
+ Desocupado
+
+Aceita Visitação:
+ Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net
+
+Dossiê:
+ 18125
+
+
+Área Total:
+ 30000.0 m2
+
+Área Terreno:
+ 30000.0 m2
+
+Composição Interna/Vagas:
+ Escritórios: 2, Banheiros: 2, Cozinhas: 1, Copas: 1
+
+
+Matrícula:
+ 1.910
+
+Cartório de Registro:
+ 2 CRI BOM JARDIM
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 79.841,12
+
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* DESOCUPADO* ACAO JUDICIAL - EXECUCAO DE TITULO EXTRAJUDICIAL - PROC. NO 1083461-43.2020.8.26.0100 EM TRAMITE NA 27A VARA CIVEL - FORO CENTRAL CIVEL - SAO PAULO/SP.* ACAO JUDICIAL - RECUPERACAO JUDICIAL - PROC. NO 1002488-91.2020.8.26.0362 EM TRAMITE NA 1A VARA CIVEL DE MOGI GUACU/SP.* ACAO JUDICIAL - OBRIGACAO DE FAZER - PROC. NO 1012876-58.2023.8.26.0100 EM TRAMITE NA 18A VARA CIVEL DE SAO PAULO/SP.* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS,(II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+ 54387 Sold Imóveis - Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>15990000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b6d74e90-6c93-4249-ae61-494632ea3392.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/714610f8-9e74-4a44-9297-f31e41a537d0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1abb1c1-772d-427b-bd80-e8cbd69ca80c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/abfcfc53-9b16-456b-aea3-8f4654a24821.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/77778618-67d5-4d6a-9dc9-51d0ca9c35a7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/168bd233-4b88-4f18-b02b-cc58e0645783.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/34a315ea-df32-4e81-88fc-6f1352485af5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/82ddb7b4-0844-4e25-8142-fb75c232b72b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rodovia Rj 146, 246]]></endereco>
+        <localidade><![CDATA[Bom Jardim, RJ, Brasil]]></localidade>
+        <codigoPostal><![CDATA[28664000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3078235]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3078235]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP]]></titulo>
+      <descricao><![CDATA[Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP O apartamento nº 161, localizado no 16º andar, do Edifício Village sito à Rua Padre Manoel de Paiva, nº 78, esquina com a Rua das Monções, nesta cidade de Santo André/SP, possuindo a área útil de 270,46m², área comum de 104,72m² (estando nesta incluída a área correspondente aos boxes de garagem nºs 05 e 18), perfazendo uma área total construída de 375,18m², correspondendo-lhe uma fração ideal no todo do terreno e nas demais coisas de uso comum do condomínio igual a 0,0551228 ou 66,15m². Imóvel devidamente matriculado sob o nº 54.289 do 01º Cartório de Registro de Imóveis de Santo André/SP. Inscrição Imobiliária n° 03.061.041. 
+
+Imóvel próximo à Comércios, Shopping e restaurantes.
+
+- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.
+
+O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio até a data da venda.
+Valor aproximado de IPTU Anual: R$ 5.073,62.
+Valor aproximado de Condomínio: R$ 2.481,18
+
+Informações Relevantes: 
+1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista;
+2 - Os débitos de IPTU e condomínio serão quitados pelo vendedor até a data do leilão.
+3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").
+4 - Percentual de desconto: 19% de deságio sobre o valor de avaliação. 
+5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.
+6 - Venda Condicional (venda sob aprovação do vendedor).
+
+Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602. Sold Imóveis - 27/11/2023 - 14h00]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>935590</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/136c3d55-04db-4961-82b6-75eef884ef45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/627f125b-c66b-4bbe-b685-7e0aace26882.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f0bc1851-7ff6-4c7b-b393-f4770d6b88b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24ae5328-8418-47c1-83d3-09283ebf6a9e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Padre Manoel de Paiva, 78]]></endereco>
+        <localidade><![CDATA[Jardim, Santo André, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09070-230]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3078235]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3078235]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP]]></titulo>
+      <descricao><![CDATA[Apto. 375m² DESOCUPADO, 2 vagas no Jardim, Santo André/SP O apartamento nº 161, localizado no 16º andar, do Edifício Village sito à Rua Padre Manoel de Paiva, nº 78, esquina com a Rua das Monções, nesta cidade de Santo André/SP, possuindo a área útil de 270,46m², área comum de 104,72m² (estando nesta incluída a área correspondente aos boxes de garagem nºs 05 e 18), perfazendo uma área total construída de 375,18m², correspondendo-lhe uma fração ideal no todo do terreno e nas demais coisas de uso comum do condomínio igual a 0,0551228 ou 66,15m². Imóvel devidamente matriculado sob o nº 54.289 do 01º Cartório de Registro de Imóveis de Santo André/SP. Inscrição Imobiliária n° 03.061.041. 
+
+Imóvel próximo à Comércios, Shopping e restaurantes.
+
+- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.
+
+O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio até a data da venda.
+Valor aproximado de IPTU Anual: R$ 5.073,62.
+Valor aproximado de Condomínio: R$ 2.481,18
+
+Informações Relevantes: 
+1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista;
+2 - Os débitos de IPTU e condomínio serão quitados pelo vendedor até a data do leilão.
+3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").
+4 - Percentual de desconto: 19% de deságio sobre o valor de avaliação. 
+5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.
+6 - Venda Condicional (venda sob aprovação do vendedor).
+
+Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602. Sold Imóveis - 27/11/2023 - 14h00]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>935590</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/136c3d55-04db-4961-82b6-75eef884ef45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/627f125b-c66b-4bbe-b685-7e0aace26882.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f0bc1851-7ff6-4c7b-b393-f4770d6b88b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/24ae5328-8418-47c1-83d3-09283ebf6a9e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Padre Manoel de Paiva, 78]]></endereco>
+        <localidade><![CDATA[Jardim, Santo André, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09070-230]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3079894]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3079894]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 82m², Box no Centro, Capão da Canoa/RS]]></titulo>
+      <descricao><![CDATA[Apto. 82m², Box no Centro, Capão da Canoa/RS 
+Apartamento e Box - Centro
+
+Localização: Rua Ruda, nº 322, Apto. 705 e Box 19, Centro, Capão da Canoa/RS, 95555-000
+
+Apartamento:
+Área Privativa: 61m²
+Área Comum: 20m²
+Área Total: 82m²
+
+Matrícula: nº 42.426
+RGI: Cartório de Registro de Imóveis de Capão da Canoa/RS
+Inscrição Prefeitura: 365.0003.010.045.45
+
+Box:
+Área Privativa: 15m²
+Área Comum: 5m²
+Área Total: 20m²
+
+Matrícula: nº 42.400
+RGI: Cartório de Registro de Imóveis do Capão da Canoa/RS
+Inscrição Prefeitura: 365.0003.010.019.19
+
+DOSSIÊ: 20381
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 08/Nov/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 416.593,67.
+
+2ª Praça:
+Abertura: 08/Nov/2023 a partir das 09h41
+Fechamento: 09/Nov/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 335.381,74
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 19% de deságio sobre o valor de avaliação.
+ 20381 Santander AF - D.20381-09:40h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>416593.67</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/08dd5d61-7a49-493d-bef9-c940acec2145.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2acf1970-2b4e-4f91-8988-8710493d91de.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/93a1d7fe-1826-4b14-b933-89ce6b73c8de.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Ruda, nº 322]]></endereco>
+        <localidade><![CDATA[Centro, Capão da Canoa/RS, Brasil]]></localidade>
+        <codigoPostal><![CDATA[95555-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3079839]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3079839]]></codigoReferencia>
+      <titulo><![CDATA[Casa 125m² no Jardim Bela Vista, Guarulhos/SP]]></titulo>
+      <descricao><![CDATA[Casa 125m² no Jardim Bela Vista, Guarulhos/SP 
+Casa - Jardim Bela Vista
+
+Localização: Rua Araraquara, nº 106, Jardim Bela Vista, Guarulhos/SP, 07132-300
+
+Área Terreno: 125m²
+Área Construída: 90m²
+
+Matrícula: nº 160.035
+RGI: 2º Cartório de Registro de Imóveis de Guarulhos/SP
+Inscrição Prefeitura: 082.30.15.0092.00.000
+
+DOSSIÊ: 20356
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 10h30 com Valor Mínimo de Venda de R$ 689.695,43.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 10h31
+Fechamento: 10/Nov/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 403.491,21
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 41% de deságio sobre o valor de avaliação.
+ 20356 Santander AF - D.20356-10:30h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>689695.43</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc84d9e8-499d-4de1-a632-b95d087a4973.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/74d8eccc-1b4f-4d52-8450-d706a7f184d1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12398186-e383-4131-a40c-1fc97cdb881a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Araraquara, nº 106]]></endereco>
+        <localidade><![CDATA[Jardim Bela Vista, Guarulhos/SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[07132-300]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3077855]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3077855]]></codigoReferencia>
+      <titulo><![CDATA[Casa 70m², 1 vaga no Americanópolis, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Casa 70m², 1 vaga no Americanópolis, São Paulo/SP 
+Casa - Americanópolis
+
+Localização: Rua Maria Gay, nº 25, Americanópolis, São Paulo/SP, 04411-100
+
+Área Construída: 70m²
+Área Terreno: 68m²
+
+Matrícula: nº 228.594
+RGI: 11º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 172.177.0067-0
+
+DOSSIÊ: 20385
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 405.348,75.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 09h51
+Fechamento: 10/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 351.720,78
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 13% de deságio sobre o valor de avaliação.
+ 20385 Santander AF - D.20385 -09:50h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>405348.75</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef8bc1cc-cdb8-47fc-a78d-e5a9aaa82a5d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/df92b58c-79ca-4fb9-92ba-9370817c3805.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3656046d-a6fc-4a07-9fe9-aabd05da2ae7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Maria Gay, nº 25]]></endereco>
+        <localidade><![CDATA[Americanópolis, São Paulo/SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04411-100]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3079966]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3079966]]></codigoReferencia>
+      <titulo><![CDATA[Casa 97m² no Felicia, Vitoria da Conquista/BA]]></titulo>
+      <descricao><![CDATA[Casa 97m² no Felicia, Vitoria da Conquista/BA 
+Casa - Felicia
+
+Localização: Rua Jose Ferreira Rocha, nº 470, Felicia, Vitoria da Conquista/BA, 45055-485
+
+Área Privativa: 97m²
+Área Total Construída: 115m²
+
+Matrícula: nº 96.078
+RGI: 1º Ofício de Registro de Imóveis de Vitória da Conquista/BA
+Inscrição Prefeitura: 01.13.743.0200.001
+
+DOSSIÊ: 20441
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+*Recai sobre o imóvel ação: Processo nº 8015346-22.2022.8.05.0274*
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/Nov/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 690.669,18.
+
+2ª Praça:
+Abertura: 09/Nov/2023 a partir das 09h41
+Fechamento: 10/Nov/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 343.988,03
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+Percentual de desconto: 50% de deságio sobre o valor de avaliação.
+ 20441 Santander AF - D.20441-09:40h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>690669.18</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/64f3a59b-50dd-4fe7-95c9-8cd0bae3fe24.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7d31c116-3f1a-421f-9c12-845719549f1e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53cb3548-7de3-4495-b305-718057bc4c93.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Jose Ferreira Rocha, nº 470]]></endereco>
+        <localidade><![CDATA[Felicia, Vitoria da Conquista/BA, Brasil]]></localidade>
+        <codigoPostal><![CDATA[45055-485]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080804]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080804]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (40% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (40% abaixo da avaliação) 
+Endereço Completo
+
+Avenida Da Cavalhada, 4530, Vide Descricao, Cavalhada, Porto Alegre, RS, CEP: 91740000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 110,67 m² de área terreno, 73,26 m² de área privativa, 47,99 m² de área comum, 73,26 m² de área útil. Matrícula(s): 146.768,146.807,1. Cartório: 3 CRI PORTO ALEGRE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18951
+
+
+Área Util:
+ 73.26 m2
+
+Área Privativa:
+ 73.26 m2
+
+Área Terreno:
+ 110.67 m2
+
+Área Comum:
+ 47.99 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 3, Banheiros: 2, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 146.768,146.807,1
+
+Cartório de Registro:
+ 3 CRI PORTO ALEGRE
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.070,73
+
+Condomínio Mensal:
+ R$ 860,00
+
+
+Valor Avaliado:
+ R$ 386.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 148575 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>230328</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ce83b2a-f7b9-4a81-926d-21f7b278a213.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb5ddff4-bcdb-4657-a7b8-3b45e725b3fe.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70fc475b-42c8-4b74-a13e-d8ab1aee4303.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b95197ba-56a9-4b7d-b3b8-bcff0779e5a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7fb85c0-f8ac-4dad-bbaa-f4a1653c37ce.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aa0df881-a008-46f7-a73d-ba2705b57633.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1cc2887-29eb-461e-8df8-b974313641f9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/22501c3f-b477-4a68-bda9-0e551efb4de0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44af33b0-efa5-4ec6-8db8-c26e81fd2bee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ced6076-cc8c-49a9-8c06-5ea91d1b4642.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d55bc4fe-8c1a-4c78-8e55-e127d917103e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9abb1173-253e-40c0-a92f-25cafe58072b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/41185d7a-6a7c-42f0-b814-3de4875f965a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f54c1fe-3fd0-42b4-9984-0be4a9497856.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0a424c7-f0d9-4a01-8376-790464aed484.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1367546d-217c-4991-9ee2-941f36e01880.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7777393-9fab-4443-a44a-9fa6143d1e06.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12fca285-307d-4f8d-897f-49379aa943e1.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Da Cavalhada, 4530]]></endereco>
+        <localidade><![CDATA[Porto Alegre, RS, Brasil]]></localidade>
+        <codigoPostal><![CDATA[91740000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080806]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080806]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 250.0 m2, Brodowski / SP (44% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 250.0 m2, Brodowski / SP (44% abaixo da avaliação) 
+Endereço Completo
+
+Rua Farmaceutico Antonio Leite De Oliva, 156, Vila Cristal, Brodowski, SP, CEP: 14340000
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 250 m² de área total, 250 m² de área terreno, 95 m² de área construída. Matrícula(s): 7.170. Cartório: CRI DE BRODOWSKI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 18629
+
+
+Área Total:
+ 250.0 m2
+
+Área Terreno:
+ 250.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 2, Banheiros: 1, Vagas de Garagem: 2, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1
+
+
+Matrícula:
+ 7.170
+
+Cartório de Registro:
+ CRI DE BRODOWSKI
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.624,24
+
+
+Valor Avaliado:
+ R$ 315.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+CONSIDERACAOES:* OCUPADO* ACAO JUDICIAL - CAUTELAR ANTECENDENTE- PROC. NO 1000434-78.2023.8.26.0094 EM TRAMITE NA VARA UNICA DE BRODOWSKI/SP.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS: (I) A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA ACAO JUDICIAL EM TRAMITE.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 98755 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>176400</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1b2bee71-b6c3-468f-9be8-b8d6d4ae22b2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f4d9193a-49be-4998-b2ef-37deb9bc7612.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00bae2d2-8ba2-41cf-add4-6b26373b2d6b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/49ff9ce1-0f1d-47ef-9f4d-ef62a50a3762.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38f2014a-656f-49b0-b4e6-c44ab607aab4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b789830f-3ad0-49d3-9310-2968a1b0a991.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4199a521-a6df-4dd1-9bc4-a1c2a7d61dec.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e75bcfe4-9458-4ed4-af54-6f5ff7ba1c8a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Farmaceutico Antonio Leite De Oliva, 156]]></endereco>
+        <localidade><![CDATA[Brodowski, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14340000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080805]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080805]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, 360.0 m2, Teresina / PI (41% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, 360.0 m2, Teresina / PI (41% abaixo da avaliação) 
+Endereço Completo
+
+Rua Dona Raimundinha Rocha, 6.372, Lote 12 - Quadra 26 - Setor C - Loteamento Vale Do Gaviao Leste, Vale Do Gaviao, Teresina, PI, CEP: 64069095
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 360 m² de área total, 360 m² de área terreno, 143,38 m² de área construída. Matrícula(s): 68.022. Cartório: 2 CRI TERESINA/PI. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA. 
+
+Tipo do Imóvel:
+ Casa
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 19313
+
+
+Área Total:
+ 360.0 m2
+
+Área Terreno:
+ 360.0 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 1, Suítes: 1, Banheiros: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 68.022
+
+Cartório de Registro:
+ 2 CRI TERESINA/PI
+
+Inscrição na Prefeitura:
+ VIDE INSCRICAO IMOBILIARIA
+
+IPTU Anual:
+ R$ 1.442,00
+
+
+Valor Avaliado:
+ R$ 206.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU SERA QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 151021 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>121128</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9143d4a7-da66-4b85-8881-99b3013ff017.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f4c854b7-8935-4780-b618-3e5bbfe17324.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bfcd4724-f7fe-4e2e-9ac5-bbdabe2c55f3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d0e2bc29-5b90-438a-b618-d0d0494c8e73.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0f69d6b2-c9aa-4f1f-9c9e-0383ab1a1b0b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Dona Raimundinha Rocha, 6.372]]></endereco>
+        <localidade><![CDATA[Teresina, PI, Brasil]]></localidade>
+        <codigoPostal><![CDATA[64069095]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082000]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082000]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, Novo Hamburgo / RS (40% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, Novo Hamburgo / RS (40% abaixo da avaliação) 
+Endereço Completo
+
+Rua Avaí, 205, Apartamento 501 - Condomínio Edifício Vila Rosa - Bloco 2, Vila Rosa, Novo Hamburgo, RS, CEP: 93315090
+
+
+Características do Imóvel:
+
+
+
+Descrição:
+ Apartamento, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 131,18 de área construída, 131,18 de área privativa, 44,09 de área comum. Matrícula(s): 48.403,115.198,48.401. Cartório: CRI DE NOVO HAMBURGO. Inscrição da Prefeitura: 68498 Inscrição Imobiliária: 03.012.00333.044.001 APTO. 
+
+Tipo do Imóvel:
+ Apartamento
+
+Status da Ocupação:
+ Ocupado
+
+Aceita Visitação:
+ Visitação indisponível
+
+Dossiê:
+ 20117
+
+
+Área Privativa:
+ 131.18 m2
+
+Área Comum:
+ 44.09 m2
+
+Composição Interna/Vagas:
+ Dormitórios: 3, Escritórios: 1, Banheiros: 1, Vagas de Garagem: 2, Salas: 1, Cozinhas: 1, Copas: 1, Áreas de Serviço: 1, Varandas: 1
+
+
+Matrícula:
+ 48.403,115.198,48.401
+
+Cartório de Registro:
+ CRI DE NOVO HAMBURGO
+
+Inscrição na Prefeitura:
+ 68498 Inscrição Imobiliária: 03.012.00333.044.001 APTO
+
+IPTU Anual:
+ R$ 761,00
+
+Condomínio Mensal:
+ R$ 309,40
+
+
+Valor Avaliado:
+ R$ 425.000,00
+
+Venda Condicional:
+ Valor de venda sob aprovação do vendedor
+
+
+Considerações Importantes
+
+
+1. OCUPADO  2. ACAO JUDICIAL - DECLARATORIA DE NULIDADE DE CONSOLIDACAO DE PROPRIEDADE - PROC. Nº 5027227-55.2023.8.21.0019 EM TRÂMITE NA VARA CÍVEL DE NOVO HAMBURGO/RS.  3. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS: (I) À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA AÇÃO JUDICIAL EM TRÂMITE.  4. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.  5. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.
+
+
+
+Condições de Pagamento
+
+À vista ou Financiamento em até 420 meses.
+ 236942 Sold Imóveis - Santander Residenciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>254016</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bc7a895a-9ec9-4a50-be8b-48c7fb9302aa.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edbb4e1f-6583-4235-a39b-7baf6f680011.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9bbaf2ff-01c3-4d77-82ac-9219b11db5ee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6a582376-454e-4bc5-9be2-09247df02b1b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/295f329b-acf4-4a36-afd5-10a5c99c2e56.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fc48f1e-6865-44a7-b23e-e2e2f7d048f9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f79da40d-5587-4feb-95dd-e1a4b4f668cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b47a7fb0-d52e-404e-a4e4-2137bd016255.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Avaí, 205]]></endereco>
+        <localidade><![CDATA[Novo Hamburgo, RS, Brasil]]></localidade>
+        <codigoPostal><![CDATA[93315090]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2942332]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2942332]]></codigoReferencia>
+      <titulo><![CDATA[Casa,  A.T. 490m²,  A.C. 283m², Centro]]></titulo>
+      <descricao><![CDATA[Casa,  A.T. 490m²,  A.C. 283m², Centro 
+Imóvel indicado, objeto da Matrícula sob nº 40.038, do Cartório de Registro de Imóveis da Comarca de Barretos/SP.
+
+
+
+ 
+
+
+
+
+Matrícula: 
+UM PRÉDIO RESIDENCIAL, situado à Avenida 37, sob nº 054, entre as Rua 22 e 24, nesta cidade de Barretos, e seu respectivo terreno medindo 14,00 metros de frente, por 35,00 metros de cada lado e da frente aos fundos, com a área de 490,00 metros quadrados, confrontando pela frente com a Avenida 37, por um lado com Tutomu Kitagawa, por outro lado e, pelos fundos com os transmitentes vendedores. AV.06 Cadastro: 2.11.065.0227.01.
+
+
+
+ 
+
+
+
+
+Conforme Laudo de Avaliação fls. 106/127: 
+IV - DESCRIÇÃO DO IMÓVEL - O imóvel objeto desta ação trata-se uma residência de padrão construtivo médio, área construída de 283,70m², implantada em terreno com área total de 490,00m², idade de construção aproximada de 40 anos, idade aparente 20 anos, estado de conservação com necessidades de reparos simples, tem reboco e pintura bastante desgastados, sem danos estruturais. A residência aparenta ter passado por reforma de revitalização à aproximadamente 20 anos, conserva os matérias de acabamento aplicados nesta reforma. O projeto arquitetônico ainda é contemporâneo, tem distribuição de compartimentos que proporcionam aspecto interior agradável.
+
+
+
+ 
+
+
+
+
+Ônus: 
+Av.9 Penhora: (Extinto) Execução Civil, Processo nº 1005992-57.2019.8.26.0066, 2º Oficio Cível de Barretos/SP, que JOSÉ RENATO THOMAZ DE AQUINO move contra EDSON LUIZ BAMPA; Av.10 Penhora 50%: Parte ideal correspondente a 50% do imóvel penhorado nestes autos.
+
+
+
+ 
+
+
+
+
+Débitos Imobiliários (IPTU 2023): 
+R$ 2.306,44, conforme pesquisa realizada em 01/09/2023.
+
+
+
+ 
+
+
+
+Valor de avaliação em 15/10/2021: R$ 693.000,00 (seiscentos e noventa e três mil reais). Valor da avaliação atualizado pelo índice de correção monetária do TJ/SP em AGO/2023: R$ 773.905,90 (setecentos e setenta e três mil, novecentos e cinco reais e noventa centavos).
+
+
+
+ 
+
+
+
+
+
+Observação:
+
+ Tratando-se de bem indivisível, o praceamento se dará em sua integralidade, na forma do art. 843 do CPC. A cota parte de cônjuges ou coproprietários alheios a execução, todavia, somente serão arrematadas pelo valor da avaliação, permitindo-se a redução de até 60% (em segundo leilão) somente sobre a cota parte do executado. Art. 843. Tratando-se de penhora de bem indivisível, o equivalente à quota-parte do coproprietário ou do cônjuge alheio à execução recairá sobre o produto da alienação do bem. § 1º É reservada ao coproprietário ou ao cônjuge não executado a preferência na arrematação do bem em igualdade de condições. § 2º Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente à sua quota-parte calculado sobre o valor da avaliação.
+ PRATIKA SERVIÇO DE COBRANÇAS EIRELLI ME Bampa e Bampa Rec de Residuos Ind Ltda e Edson Luiz Bampa Edson Luiz Bampa 2ª Vara Cível de Barretos/SP 1005415-45.2020.8.26.0066
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>619124.72</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38b03820-fb81-478c-8c7f-d6e91e7c658f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc6c9388-3db3-4a7c-827e-2b269c1cf3ff.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe912e55-2b16-48c4-b053-7bd416024a0e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3a74956a-f7b1-4c61-baa7-2399434e520e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2d75a6ee-f985-47b9-9cca-64b49123e163.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8183b67-e353-48ad-9a30-dd14a4f5a0d8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76267f16-bf06-497d-9216-c580b5c0eb17.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cd2dd2c0-a4dc-4457-9057-48ae7ddc1561.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ce50e743-21d4-4aa4-a2da-e3b41c9eb5a1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5e3a6e02-b56c-43ad-b250-523c6c9edad1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0756af0e-30c1-45fa-b6f8-0fcba2de8e29.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48cbe1ed-34d7-4835-bc42-a3596a740366.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/120e8ced-4f56-43b4-9b5f-ecde45175f77.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef7dc64f-0f6a-400a-a8cd-18a7feb81353.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c8c30fbf-8b46-4174-9c22-89064cf6a2b4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0fd5f9a7-cce9-4c08-9029-75d1a3175a7c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[undefined, undefined]]></endereco>
+        <localidade><![CDATA[Centro, Barretos, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14780-320]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082701]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082701]]></codigoReferencia>
+      <titulo><![CDATA[Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP]]></titulo>
+      <descricao><![CDATA[Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP
+
+Localização: Avenida E, nº 160 ¿ Apto nº 61A,  lote 01 quadra G ¿ Residencial Viva Vista,  Bloco ¿A¿ , Condomínio Viva Vista Alameda, Sumaré/SP  -  CEP: 13178-585
+
+área privativa total de 67,150m²
+área de uso comum de 75,282m², 
+área real total de 142,432m²
+
+Matrícula: 175.739 do Cartório de Registro de Imóveis de Sumaré/SP
+Inscrição Prefeitura:2.260.1376.026-0.01
+
+DOSSIÊ: 20495
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/11/2023 a partir das 10h50 com Valor Mínimo de Venda de R$  305.398,30
+
+2ª Praça:
+Abertura: 09/11/2023 a partir das 10h51
+Fechamento: 10/11/2023 a partir das 14h50 com Valor Mínimo de Venda de R$ 249.332,17
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 18% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>305398.3</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4a4ce6ed-249a-468f-a993-7c9a8f801e36.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/26ae2e62-6c7b-4683-8400-141ed469a537.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/33e48bc9-195b-40c2-a6b8-3e6227230bc7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67affdbd-8fb1-403e-9e91-7d978a8b80b3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ec108209-5735-4643-9682-3d732b67dd61.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida E, nº 160 – Apto nº 61A]]></endereco>
+        <localidade><![CDATA[Bloco “A”, Condomínio Viva Vista Alameda, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13178-585]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082336]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082336]]></codigoReferencia>
+      <titulo><![CDATA[Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP
+
+Localização: Rua Andrade Reis, nº 30, Apto nº 1.210, Condomínio Residencial Multy Home, Mooca, São Paulo/SP  -  CEP: 03105-100
+
+área privativa de 33,460m²
+área de uso comum de 36,608m²
+área real total de 70,068m²
+
+Matrícula: 192.954 do 7º Oficial de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 004.016.0386-5
+
+DOSSIÊ: 20106
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/11/2023 a partir das 10h20 com Valor Mínimo de Venda de R$  347.863,02
+
+2ª Praça:
+Abertura: 09/11/2023 a partir das 10h21
+Fechamento: 10/11/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 326.295,62
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 6% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>347863.02</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acd835a6-4760-4f0a-b697-033448516db2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1123da23-473c-4d2b-8731-83ce03621a66.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1135cc67-b179-48c4-ac8b-5fe7f15d6335.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dc2ab7a6-59d3-4dfe-879e-d69e6698bef5.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Andrade Reis, nº 30]]></endereco>
+        <localidade><![CDATA[Condomínio Residencial Multy Home, Mooca, Brasil]]></localidade>
+        <codigoPostal><![CDATA[03105-100]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3081981]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3081981]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 95m², 1 vaga no Santo Antonio, Garanhus/PE]]></titulo>
+      <descricao><![CDATA[Apto. 95m², 1 vaga no Santo Antonio, Garanhus/PE 
+Apartamento - Santo Antonio
+
+
+
+
+Localização: Rua Heitor dos Prazeres, nº 250, Apto. 102, Santo Antonio, Garanhus/PE, 55293-000
+
+
+
+
+Área Privativa: 79m²
+
+Área Comum: 17m²
+
+Área Total: 95m²
+
+Descrição Interna: (01 sala, 01 cozinha, 01 área de serviço, 03 quartos sociais, 01 BWC social)
+
+1 vaga
+
+
+
+
+Matrícula: nº 31.293
+
+RGI: Cartório do 1º Ofício de Garanhuns/PE
+
+Inscrição Prefeitura: 1.0003.065.01.0131.0004.2 - Sequencial: 20795874
+
+
+
+
+DOSSIÊ: 19154
+
+
+
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+
+
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+
+
+
+1ª Praça:
+
+Fechamento: 09/Nov/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 245.882,19.
+
+
+
+
+2ª Praça:
+
+Abertura: 09/Nov/2023 a partir das 10h01
+
+Fechamento: 10/Nov/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 163.909,85
+
+
+
+
+Informações Relevantes:
+
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+
+2 - FORMA DE PAGAMENTO: À vista.
+
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+
+
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+
+
+
+Percentual de desconto: 33% de deságio sobre o valor de avaliação.
+ 19154 Santander AF- D.19154-10h]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>245882.19</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67ca1d25-5ec6-4068-acad-2466466897d5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a2850e00-4f8f-4a88-84cc-92a55f9012cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/45d99d4b-c6f7-44c1-9acf-7bdc9fd89e91.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Heitor dos Prazeres, nº 250]]></endereco>
+        <localidade><![CDATA[Santo Antonio, Garanhus/PE, Brasil]]></localidade>
+        <codigoPostal><![CDATA[55293-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082567]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082567]]></codigoReferencia>
+      <titulo><![CDATA[Casa 49m²,  em Campo Largo/PR]]></titulo>
+      <descricao><![CDATA[Casa 49m²,  em Campo Largo/PR Casa 49m²,  em Campo Largo/PR
+
+Localização: Rua Simeão, nº 55, (Unidade 01), Condomínio ¿Residencial Boa Vista 4-D,  Cristo Rei, Campo Largo/PR  -  CEP: 83604-678
+
+área construída de 49,50m²
+área destinada a jardim e quintal de 70,50m²
+área de utilização exclusiva do terreno de 120,00m²
+
+Matrícula: 40.278 do Cartório de Registro de Imóveis de Campo Largo/PR
+Inscrição Prefeitura:01.05.133.0125.000.001
+
+DOSSIÊ: 20476
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 08/11/2023 a partir das 10h00 com Valor Mínimo de Venda de R$  181.026,59
+
+2ª Praça:
+Abertura: 08/11/2023 a partir das 10h01
+Fechamento: 09/11/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 173.788,08
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 4% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>181026.59</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/21c80ed7-49b7-488f-8dc1-0d199ac6c695.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a00b541e-b016-4abb-bb8d-5f41a8bc6182.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bf526fb4-8098-482a-8151-5c4a4d9ecdd5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bfd4c8cb-f0cd-45f8-b833-4a31ff2acef8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bb446449-f308-4049-9250-fc59ee48572d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Simeão, nº 55]]></endereco>
+        <localidade><![CDATA[Condomínio “Residencial Boa Vista 4-D, Cristo Rei, Brasil]]></localidade>
+        <codigoPostal><![CDATA[83604-678]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082447]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082447]]></codigoReferencia>
+      <titulo><![CDATA[Terreno, A.T. 290m², Res. Damha Village Araraquara III]]></titulo>
+      <descricao><![CDATA[Terreno, A.T. 290m², Res. Damha Village Araraquara III 
+
+Descrição matrícula nº 127.272 do 1º CRI de Araraquara/SP: 
+IMÓVEL: Lote 17 da quadra &#39;&#39;M&#39;&#39; do loteamento &#39;&#39;RESIDENCIAL VILLAGE DAMHA ARARAQUARA III&#39;&#39;, em Araraquara, medindo 11,20m em curva em raio de 333,50m, de frente com a Alameda A; 25,00m do lado direito, confrontando com o lote 18; 25,00m do lado esquerdo, confrontando com o lote 16, e 12,00m em curva com raio de 358,50m nos fundos, confrontando com o lote 02, perfazendo uma área de 290,00m².
+
+
+
+ 
+
+
+
+
+Ônus: 
+Av.1 Penhora: Execução Civil, Processo nº 0005753-89.2021.8.26.0037, 6º Oficio Cível de Araraquara/SP, Partes: ÁUREA MARIA DE PONTE, GUSTAVO FELIX SOCIEDADE DE ADVOGADOS e GUSTAVO TORRES FELIX contra EMPREENDIMENTOS IMOBILIÁRIOS DAMHA - ARARAQUARA III - SPE Limitada. Av.2 Penhora: Execução Civil, Processo nº 0004203-59.2021.8.26.0037, 3º Oficio Cível de Araraquara/SP, Partes: LARISSA MACEDO TRINDADE DJABRAIAN e THIAGO PANZUTO DJABRAIAN contra EMPREENDIMENTOS IMOBILIÁRIOS DAMHA - ARARAQUARA III - SPE LTDA e ENCALSO DAMHA PARTICIPAÇÕES LTDA. Av.3 Penhora: Execução Civil, Processo nº 0003016-79.2022.8.26.0037, 4º Oficio Cível de Araraquara/SP, Partes: LUCIANO MONTEIRO DA SILVA contra EMPREENDIMENTOS IMOBILIÁRIOS DAMHA - ARARAQUARA III - SPE LTDA e ENCALSO DAMHA PARTICIPAÇÕES LTDA.
+
+
+
+ 
+
+
+
+
+Débitos Imobiliários:
+ R$ 1.200,20, conforme consulta realizada em 09/10/2023.
+
+
+
+ 
+
+
+
+
+Débitos de Condomínio: 
+Não há informações de possíveis débitos ante a falta de contato com a referida administradora do condomínio.
+
+
+
+ 
+
+
+
+
+Observação 1:
+ O arrematante deverá depositar nos autos o valor da arrematação, sendo que em prioridade ao crédito o exequente, as dívidas de IPTU e Condomínio serão quitadas primeiro e o saldo remanescente será utilizado para quitação do débito junto ao exequente. 
+Observação 2: 
+Conforme petição fls. 1.862/1.863: CARTA DE ANUÊNCIA - Pela presente, a empresa EMPREENDIMENTOS IMOBILIÁRIOS DAMHA - ARARAQUARA III - SPE LTDA, com sede à Praça Dom José Gaspar, 134, 9º andar, República, São Paulo/SP - CEP 01047-010, neste ato devidamente representada conforme contato social, declara para os devidos fins que anui com a indicação dos lote 17 da quadra M, situado no Loteamento Residencial Village Damha Araraquara III, medindo 290,00m² para garantia da execução no processo no 0008391-31.2019.8.26.0566, em trâmite perante a 2a Vara Cível de São Carlos (SP), promovido por Ederson Catoia, movido em desfavor de Empreendimentos Imobiliários Damha - São Carlos IV - SPE LTDA., uma vez que possuem as mesmas sócias.
+
+
+
+ 
+
+
+
+Valor da avaliação em 05/2023: R$ 197.600,00 (cento e noventa e sete mil e seiscentos reais). Valor da avaliação atualizado pelo índice de correção monetária do TJ/SP em OUT/2023: R$ 198.034,60 (cento e noventa e oito mil, trinta e quatro reais e sessenta centavos).
+ Ederson Catoia Empreendimentos Imobiliários Damha São Carlos IV SPE Ltda NI 2ª Vara Cível de São Carlos/SP 0008391-31.2019.8.26.0566
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>198034.6</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6fc02f6a-fb87-4d0e-bc3e-67028f17ba98.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b3415127-6291-4797-a597-1a5cfdf215c0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[undefined, undefined]]></endereco>
+        <localidade><![CDATA[undefined, Araraquara, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14801-300]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
