@@ -16551,6 +16551,77 @@ Percentual de desconto: 18% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3082336</ListingID>
+      <Title>Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3082336</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/acd835a6-4760-4f0a-b697-033448516db2.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1123da23-473c-4d2b-8731-83ce03621a66.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1135cc67-b179-48c4-ac8b-5fe7f15d6335.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/dc2ab7a6-59d3-4dfe-879e-d69e6698bef5.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP Apto 33m², 1 Vaga,  Mooca, em São Paulo/SP
+
+Localização: Rua Andrade Reis, nº 30, Apto nº 1.210, Condomínio Residencial Multy Home, Mooca, São Paulo/SP  -  CEP: 03105-100
+
+área privativa de 33,460m²
+área de uso comum de 36,608m²
+área real total de 70,068m²
+
+Matrícula: 192.954 do 7º Oficial de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 004.016.0386-5
+
+DOSSIÊ: 20106
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===============================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/11/2023 a partir das 10h20 com Valor Mínimo de Venda de R$  347.863,02
+
+2ª Praça:
+Abertura: 09/11/2023 a partir das 10h21
+Fechamento: 10/11/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 326.295,62
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 6% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">347863.02</ListPrice>
+        <LivingArea unit="square metres">33</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Mooca">Sem sigla</State>
+        <City>Condomínio Residencial Multy Home</City>
+        <Address>Rua Andrade Reis</Address>
+        <StreetNumber>nº 30</StreetNumber>
+        <PostalCode>03105-100</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
