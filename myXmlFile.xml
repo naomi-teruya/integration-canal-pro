@@ -16738,6 +16738,78 @@ Percentual de desconto: 33% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3082567</ListingID>
+      <Title>Casa 49m²,  em Campo Largo/PR</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3082567</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/21c80ed7-49b7-488f-8dc1-0d199ac6c695.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a00b541e-b016-4abb-bb8d-5f41a8bc6182.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/bf526fb4-8098-482a-8151-5c4a4d9ecdd5.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/bfd4c8cb-f0cd-45f8-b833-4a31ff2acef8.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/bb446449-f308-4049-9250-fc59ee48572d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 49m²,  em Campo Largo/PR Casa 49m²,  em Campo Largo/PR
+
+Localização: Rua Simeão, nº 55, (Unidade 01), Condomínio ¿Residencial Boa Vista 4-D,  Cristo Rei, Campo Largo/PR  -  CEP: 83604-678
+
+área construída de 49,50m²
+área destinada a jardim e quintal de 70,50m²
+área de utilização exclusiva do terreno de 120,00m²
+
+Matrícula: 40.278 do Cartório de Registro de Imóveis de Campo Largo/PR
+Inscrição Prefeitura:01.05.133.0125.000.001
+
+DOSSIÊ: 20476
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 08/11/2023 a partir das 10h00 com Valor Mínimo de Venda de R$  181.026,59
+
+2ª Praça:
+Abertura: 08/11/2023 a partir das 10h01
+Fechamento: 09/11/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 173.788,08
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 4% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">181026.59</ListPrice>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Cristo Rei">Sem sigla</State>
+        <City>Condomínio “Residencial Boa Vista 4-D</City>
+        <Address>Rua Simeão</Address>
+        <StreetNumber>nº 55</StreetNumber>
+        <PostalCode>83604-678</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
