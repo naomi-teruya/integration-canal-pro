@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698790845</dataModificacao>
+  <dataModificacao>1698791114</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -28720,6 +28720,139 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Urias Bernardes Coelho, undefined]]></endereco>
         <localidade><![CDATA[Doutor Paulo Prata, Barretos, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[14784-412]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3066628]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3066628]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 160m², A.C. 69m², 2 dorms, Jd. Aeroporto III]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 160m², A.C. 69m², 2 dorms, Jd. Aeroporto III 
+Imóvel residencial, inscrito na matrícula n° 66.918 do 1º Ofício de Imóveis de Franca, Rua Leandro Fernandes Martins, nr 2058, Franca-SP.
+
+ 
+
+ 
+Descrição da matrícula: 
+UM TERRENO situado nesta cidade de Franca-SP, 1° Subdistrito, no loteamento denominado JARDIM SANTA BÁRBARA, composto do lote n° 05 da quadra n° 17, constante da planta do referido loteamento, medindo 8,00 metros de frente para a Rua Leandro Fernandes Martins; por 8,00 metros aos fundos confrontando com o lote n° 32, pelo lado direito com 20,00m., confrontando com o lote n° 04, e pelo lado esquerdo com 20,00m., confrontando com o lote n° 06, com uma área de 160,00 m².
+
+ 
+
+ 
+Laudo de Avaliação fls. 389/403:
+ Encontra-se edificado no terreno, uma unidade residencial, de alvenaria, térrea, unifamiliar, contendo instalações elétricas, hidráulicas e sanitárias simples e incompletas, cobertura com telhas cerâmica sobre estrutura de madeira, parte lajotada, parte forrada sem forro, piso cerâmico, paredes do banheiro azulejadas, esquadrias de madeira e ferro, apresentando em regular estado de conservação, apresentando seus cômodos dispostos em: CORPO PRINCIPAL: sala de estar + copa/cozinha + 01 banheiro social + 02 dormitórios, abrangendo a área de 69,12 m²; CORPO APOIO: anexo ao corpo principal, trata-se de uma cobertura simples própria para abrigo localizado na frente do terreno, sem forro, parede aparelhada e outra cobertura localizada nos fundos do terreno, própria para área de serviços, abrangendo a área de 39,20 abrigo e 18,00 m² área de serviços.
+
+ 
+
+ 
+Ônus: 
+Av. 9 (PENHORA) penhora do imóvel nos autos deste processo.
+
+ 
+
+ 
+Débitos: 
+IPTU 2023: R$ 280,58, conforme consulta realizada em 11/10/2023.
+
+ 
+
+ 
+
+Obs.:
+
+ O imóvel será levado a hasta pública em sua integralidade, reservando ao coproprietário e/ou ao cônjuge, alheios à execução, a preferência na arrematação do bem em igualdade de condições. Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente a sua quota-parte calculado sobre o valor da avaliação. Art. 843, §1º e §2º, CPC.
+
+ 
+
+ Valor da avaliação em 14/02/2022: R$ 140.000,00 (cento e quarenta mil reais). Valor atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em Outubro/2023: R$ 151.609,91 (cento e cinquenta e um mil, seiscentos e nove reais e noventa e um centavos).
+ MARIA VALERIO VICENTE ADRIANA TOMAZELI SPAGIARE Adriana Tomazeli Spagiare José Carlos Vicente 2ª Vara Cível de São Joaquim da Barra/SP 0005022-65.2006.8.26.0572
+
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>151609.91</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2728268d-d27f-42a7-bfe9-52cfecaaa3a1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c8b2bbb6-fe7c-4e7a-941a-7af35bf1a749.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6feff0d6-ef1f-4850-91ff-1b22ec6ec54c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc252011-b833-42a9-8afa-9724bf19b577.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bdc808b2-694d-447e-87c5-61c77e217b4b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/363489ea-31f2-4279-8bdb-31d23aac286e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d80a5fc-a510-44ad-806b-ace56a0b80eb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/730d31d0-80fb-4df7-80e9-1cca35f57ade.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67faef47-6596-4bff-85f1-48383d11582e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54a2a646-8d41-4111-8ec4-b9fae3190995.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c894e5a-c06c-497c-b04e-0161fb536513.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/beeff360-d454-442a-bfae-c4a39a0d38d8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Leandro Fernandes Martins, 2058]]></endereco>
+        <localidade><![CDATA[Jardim Santa Bárbara, Franca, SP, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14404-259]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
