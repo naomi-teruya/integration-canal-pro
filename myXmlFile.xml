@@ -16479,6 +16479,78 @@ Condições de Pagamento
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3082701</ListingID>
+      <Title>Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3082701</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/4a4ce6ed-249a-468f-a993-7c9a8f801e36.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/26ae2e62-6c7b-4683-8400-141ed469a537.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/33e48bc9-195b-40c2-a6b8-3e6227230bc7.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/67affdbd-8fb1-403e-9e91-7d978a8b80b3.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/ec108209-5735-4643-9682-3d732b67dd61.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP Apto 67m², 2 Vagas, Ocupado, em Sumaré/SP
+
+Localização: Avenida E, nº 160 ¿ Apto nº 61A,  lote 01 quadra G ¿ Residencial Viva Vista,  Bloco ¿A¿ , Condomínio Viva Vista Alameda, Sumaré/SP  -  CEP: 13178-585
+
+área privativa total de 67,150m²
+área de uso comum de 75,282m², 
+área real total de 142,432m²
+
+Matrícula: 175.739 do Cartório de Registro de Imóveis de Sumaré/SP
+Inscrição Prefeitura:2.260.1376.026-0.01
+
+DOSSIÊ: 20495
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+===========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 09/11/2023 a partir das 10h50 com Valor Mínimo de Venda de R$  305.398,30
+
+2ª Praça:
+Abertura: 09/11/2023 a partir das 10h51
+Fechamento: 10/11/2023 a partir das 14h50 com Valor Mínimo de Venda de R$ 249.332,17
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 18% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">305398.3</ListPrice>
+        <LivingArea unit="square metres">142</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Condomínio Viva Vista Alameda">Sem sigla</State>
+        <City>Bloco “A”</City>
+        <Address>Avenida E</Address>
+        <StreetNumber>nº 160 – Apto nº 61A</StreetNumber>
+        <PostalCode>13178-585</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
