@@ -16622,6 +16622,122 @@ Percentual de desconto: 6% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3081981</ListingID>
+      <Title>Apto. 95m², 1 vaga no Santo Antonio, Garanhus/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3081981</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/67ca1d25-5ec6-4068-acad-2466466897d5.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a2850e00-4f8f-4a88-84cc-92a55f9012cd.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/45d99d4b-c6f7-44c1-9acf-7bdc9fd89e91.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 95m², 1 vaga no Santo Antonio, Garanhus/PE 
+Apartamento - Santo Antonio
+
+
+
+
+Localização: Rua Heitor dos Prazeres, nº 250, Apto. 102, Santo Antonio, Garanhus/PE, 55293-000
+
+
+
+
+Área Privativa: 79m²
+
+Área Comum: 17m²
+
+Área Total: 95m²
+
+Descrição Interna: (01 sala, 01 cozinha, 01 área de serviço, 03 quartos sociais, 01 BWC social)
+
+1 vaga
+
+
+
+
+Matrícula: nº 31.293
+
+RGI: Cartório do 1º Ofício de Garanhuns/PE
+
+Inscrição Prefeitura: 1.0003.065.01.0131.0004.2 - Sequencial: 20795874
+
+
+
+
+DOSSIÊ: 19154
+
+
+
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+
+
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+
+
+
+1ª Praça:
+
+Fechamento: 09/Nov/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 245.882,19.
+
+
+
+
+2ª Praça:
+
+Abertura: 09/Nov/2023 a partir das 10h01
+
+Fechamento: 10/Nov/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 163.909,85
+
+
+
+
+Informações Relevantes:
+
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+
+2 - FORMA DE PAGAMENTO: À vista.
+
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+
+
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+
+
+
+
+Percentual de desconto: 33% de deságio sobre o valor de avaliação.
+ 19154 Santander AF- D.19154-10h]]></Description>
+        <ListPrice currency="BRL">245882.19</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Garanhus/PE">Sem sigla</State>
+        <City>Santo Antonio</City>
+        <Address>Rua Heitor dos Prazeres</Address>
+        <StreetNumber>nº 250</StreetNumber>
+        <PostalCode>55293-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
