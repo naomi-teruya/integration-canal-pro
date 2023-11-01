@@ -17055,6 +17055,77 @@ Percentual de desconto: 21% de deságio sobre o valor de avaliação. 1 Sold Im�
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3082683</ListingID>
+      <Title>Apto 81m², 2 Vagas, Ocupado, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>http://www.superbid.net/oferta/3082683</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7d467d39-ca07-4b0d-b534-0c0bb22d55d0.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/72dcdf22-8efe-4c72-8a46-4516f5c55d14.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/8b598ba9-a400-45f4-ba5e-8095076add16.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/51c2e948-3ed6-471a-9ee0-dbb90a860356.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 81m², 2 Vagas, Ocupado, em São Paulo/SP Apto 81m², 2 Vagas, Ocupado, em São Paulo/SP
+
+Localização: Rua Álvares de Azevedo, nº 190 e Rua Moliere, nº 274, Apto nº 91, ¿Edifício Maison Cluny¿,  Vila Sofia, São Paulo/SP  -  CEP: 04671-090
+
+área privativa de 81,850m², na qual acha-se incluída a área de 1,68m², referente ao depósito nº 33, 
+área comum de garagem de 69,450m², na qual acha-se incluída a área referente a 02 vagas indeterminadas área comum de 15,687m²,
+área total de 166,987m²
+
+Matrícula: 337.704 do 11º Cartório de Registro de Imóveis de São Paulo/SP
+Inscrição Prefeitura: 088.170.1749-3
+
+DOSSIÊ: 20591
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+==========================================================
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 08/11/2023 a partir das 10h10 com Valor Mínimo de Venda de R$  703.521,68
+
+2ª Praça:
+Abertura: 08/11/2023 a partir das 10h11
+Fechamento: 09/11/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 382.500,00
+                                                                             
+Informações Relevantes: 
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.
+
+Percentual de desconto: 46% de deságio sobre o valor de avaliação.  
+ Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">703521.68</ListPrice>
+        <LivingArea unit="square metres">166</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Vila Sofia">Sem sigla</State>
+        <City>“Edifício Maison Cluny”</City>
+        <Address>Rua Álvares de Azevedo</Address>
+        <StreetNumber>nº 190 e Rua Moliere</StreetNumber>
+        <PostalCode>04671-090</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
