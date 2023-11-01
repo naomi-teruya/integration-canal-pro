@@ -9,46 +9,6 @@
   </Header>
   <Listings>
     <Listing xmlns="">
-      <ListingID>2881463</ListingID>
-      <Title>Apartamento, A.U. 52m², 1 vaga, RES. Bela Vista, Rita Vieira</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>http://www.superbid.net/oferta/2881463</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0eb1ae2b-b149-4b7a-84df-7bcb4153bdc3.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/5e18928c-5687-4374-8888-a23854fe4d97.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/df38d6a9-5795-4ebc-a9ae-3a4484fd791c.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/01ea0268-27bb-4262-bbef-03f879ca24a4.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/825d9cba-1d79-4e14-89bc-bbf42f44476d.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/d20357db-162e-476e-bf16-9a7497b83de1.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/0f54d3f8-da23-4ef8-acf7-cc957dc0be56.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento, A.U. 52m², 1 vaga, RES. Bela Vista, Rita Vieira 
-Imóvel: Unidade autônoma designada por Apartamento Tipo n° 136 (cento e trinta e seis), do Condomínio denominado Residencial Bela Vista, situado na Avenida Rita Vieira de Andrade, n° 658, localizado no 13° pavimento da Torre 4. Possui área privativa de 52,190m²; área comum de 61,626m² (26,071m² coberta + 35,555m² descoberta), com a área correspondente a uma vaga de garagem incluída, perfazendo a área total de 113,816m², correspondendo à fração ideal de 0,001875 do terreno e área total edificada de 78,120m². Limites da unidade (o observador tem como referência a frente da torre para cada unidade autônoma): confronta pela frente com hall e vazio; pelo lado direito com apartamento tipo de final 1 e áreas do condomínio; pelo lado esquerdo com apartamento tipo de final 5; e pelos fundos com áreas do condomínio. Edificado sobre lote Z1B com área de 29.778,75 metros quadrados, resultante do desdobro do lote Z1, Bairro Rita Vieira, na cidade de Campo Grande/MS. Matrícula sob o n.º 250.304 do CRI Local. Inscrição Imobiliária n.º 9200016510. Observações do Oficial de Justiça: ¿Referido imóvel, se encontra com as seguintes características no ato do cumprimento: piso da cozinha, da área da sacada e do banheiro em cerâmica vitrificada; sala, quartos, corredor de circulação apenas no contrapiso; instalações elétricas em perfeito estado de conservação e funcionamento em todo o imóvel, sendo que não havia nenhuma luminária, ou seja, à espera de colocação de luminárias; instalações hidráulicas em perfeito estado de conservação e uso; todas as paredes devidamente rebocadas e pintadas de branco, em perfeito estado de conservação e uso, exceto no canto de uma janela do quarto n° 01, onde existe uma pequena infiltração na parede, danificando também a pintura naquela área abaixo da janela. Estado geral do imóvel é em perfeito estado, e apartamento para uso residencial. Constatei que referido imóvel se encontra totalmente fechado e desocupado, em estado de novo, pois nunca foi usado por nenhum morador desde que finalizada a obra de construção¿. Constam nos autos: F.503/513: existem outras ações em nome da executada no Foro Local e na Comarca de Coxim; F.858/863: informações sobre os débitos de condomínio vencidos no período de 10/10/2016 a 10/05/2022 no valor total de R$39.740,40 (trinta e nove mil, setecentos e quarenta reais e quarenta centavos); F.922: ônus sobre o imóvel penhorado junto à Prefeitura Municipal de Campo Grande no valor total de R$15.118,20 (quinze mil, cento e dezoito reais e vinte centavos), datado de 03/07/2023; F.932: débito da ação atualizado até 27/07/2023, no valor de R$63.393,52 (sessenta e três mil, trezentos e noventa e três reais e cinquenta e dois centavos); AV.01/250.304: Hipoteca a favor do Banco: CAIXA ECONÔMICA FEDERAL - CEF; R.03/250.304: Hipoteca Judiciária em decorrência da demanda julgada procedente na ação de Cumprimento de Sentença n.º 0814042-45.2018.8.12.0110 da 2...]]></Description>
-        <ListPrice currency="BRL">210000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MS">Mato Grosso do Sul</State>
-        <City>Campo Grande</City>
-        <Address>Rua Doutor Adeir Ávila de Andrade</Address>
-        <StreetNumber>658</StreetNumber>
-        <PostalCode>79052-640</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>2836240</ListingID>
       <Title>Imóvel residencial com 358m² em Perdizes - São Paulo/SP</Title>
       <TransactionType>For Sale</TransactionType>
