@@ -16736,7 +16736,7 @@ forro em laje; tanque em louça; esquadria de alumínio com vidro liso.
         <ListPrice currency="BRL">970000</ListPrice>
         <LivingArea unit="square metres">92</LivingArea>
         <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <Bathrooms>2</Bathrooms>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -16842,7 +16842,7 @@ Observações:
         <ListPrice currency="BRL">197165</ListPrice>
         <LivingArea unit="square metres">263</LivingArea>
         <Bedrooms>3</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <Bathrooms>2</Bathrooms>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
@@ -16982,7 +16982,7 @@ Obs.:
  MARIA VALERIO VICENTE ADRIANA TOMAZELI SPAGIARE Adriana Tomazeli Spagiare José Carlos Vicente 2ª Vara Cível de São Joaquim da Barra/SP 0005022-65.2006.8.26.0572]]></Description>
         <ListPrice currency="BRL">151609.91</ListPrice>
         <LivingArea unit="square metres">160</LivingArea>
-        <Bedrooms>3</Bedrooms>
+        <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
       </Details>
       <Location displayAddress="All">
