@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1698839918</dataModificacao>
+  <dataModificacao>1698840014</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -59,518 +59,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
         <longitude>-46.67751</longitude>
         <latitude>-23.54621</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2921631]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2921631]]></codigoReferencia>
-      <titulo><![CDATA[Apto. Duplex 142m², 1 vaga no Cond. Res. Central Park, Itacorubi, Florianópolis/SC]]></titulo>
-      <descricao><![CDATA[Apto. Duplex 142m², 1 vaga no Cond. Res. Central Park, Itacorubi, Florianópolis/SC Apartamento Duplex - no bairro Itacorubi
-
-Localização: R. Salvatina Feliciana dos Santos, nº 263, apto. 902, Cond. Residencial Central Park, Itacorubi, Florianópolis/SC, 88034-600
-
-Apto. Duplex
-Área Privativa: 142m²
-Área Comum: 60m²
-
-Matrícula: nº 123.095
-RGI: 2º Ofício de Registro de Imóveis de Florianópolis/SC
-Inscrição Prefeitura: 53.14.054.0309.163-618
-
-Vaga de Garagem
-Área Privativa: 24m²
-Área Comum: 7m²
-
-Matrícula: nº 123.100
-RGI: 2º Ofício de Registro de Imóveis de Florianópolis/SC
-Inscrição Prefeitura: 53.14.054.0309.083-428
-
-Depósito
-Área Privativa: 10m²
-Área Comum: 3m²
-
-Matrícula: nº 123.141
-RGI: 2º Ofício de Registro de Imóveis de Florianópolis/SC
-Inscrição Prefeitura: 53.14.054.0309.125-368
-
-DOSSIÊ: 20175
-
-Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
-
-=============
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 26/Out/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.435.538,85.
-
-2ª Praça:
-Abertura: 26/Out/2023 a partir das 09h31
-Fechamento: 27/Out/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 340.000,00.
-                                                                             
-Informações Relevantes: 
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.
-3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
-
-Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
-
-Percentual de desconto: 76% de deságio sobre o valor de avaliação.
- Sold Imóveis - Santander - Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1435538.85</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fd65bd49-53cf-4432-a358-b77de0add97b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/98d775d6-8729-4941-9a6b-c15511063d01.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba5e8028-f73b-4911-a5db-ecde1e9ebf80.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54ee68f9-0865-4062-a0dc-03dcc6cd1932.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b02eae6e-dffa-406c-aec4-6905a98167a1.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/340ef60e-b41a-4f9f-a4b2-9f47bedd5f25.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3f4cd821-08f1-48c7-8e62-5b0b1300f449.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a087f181-32be-42a6-93f1-49fdd3b68e4f.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Salvatina Feliciana dos Santos, 263]]></endereco>
-        <localidade><![CDATA[Itacorubi, Florianópolis, Santa Catarina, Brasil]]></localidade>
-        <codigoPostal><![CDATA[88034-600]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-48.49183</longitude>
-        <latitude>-27.59204</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2923796]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2923796]]></codigoReferencia>
-      <titulo><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado]]></titulo>
-      <descricao><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado
-
-Localização: Av. Afonso Pena n° 981 - 3° andar - Centro - Belo Horizonte/MG - CEP: 30130-907
-
-Área total: 1.220,00m²
-
-Matrícula: nº 1.215
-RGI: 4º Registro de Imóveis de Belo Horizonte/MG
-Inscrição Prefeitura: 0010340020161
-
-DOSSIÊ: 20031
-
-Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
-
-================================
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 26/outubro/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 1.500.000,00
-
-2ª Praça:
-Abertura: 26/outubro/2023 a partir das 10h01
-Fechamento: 27/outubro/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 2.889.912,35
-                     
-Informações Relevantes: 
-1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.
-3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
-4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
-
-Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1500000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/82b08a0d-9baf-4f5b-aeea-c4c3cb101745.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Afonso Pena, 981]]></endereco>
-        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[30130-002]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-43.9368</longitude>
-        <latitude>-19.92157</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2923800]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2923800]]></codigoReferencia>
-      <titulo><![CDATA[Laje Comercial 2° andar 1.220m² no Centro em Belo Horizonte/MG - Ocupado]]></titulo>
-      <descricao><![CDATA[Laje Comercial 2° andar 1.220m² no Centro em Belo Horizonte/MG - Ocupado Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado
-
-Localização: Av. Afonso Pena n° 981 - 2° andar - Centro - Belo Horizonte/MG - CEP: 30130-907
-
-Área total: 1.220,00m²
-
-Matrícula: nº 5.486 
-RGI: 4º Registro de Imóveis de Belo Horizonte/MG
-Inscrição Prefeitura: 001034 002 015-3
-
-DOSSIÊ: 20029
-
-Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
-
-=============================
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 26/outubro/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 1.500.000,00
-
-2ª Praça:
-Abertura: 26/outubro/2023 a partir das 10h01
-Fechamento: 27/outubro/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 2.894.752,59
-                     
-Informações Relevantes: 
-1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.
-3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
-4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
-
-Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1500000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ec94f213-b5af-4b10-aefd-0adf90c79ca4.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Afonso Pena, 981]]></endereco>
-        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[30130-002]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-43.9368</longitude>
-        <latitude>-19.92157</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2997189]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2997189]]></codigoReferencia>
-      <titulo><![CDATA[Casa 111m², Ocupada em Uberaba, Curitiba/PR]]></titulo>
-      <descricao><![CDATA[Casa 111m², Ocupada em Uberaba, Curitiba/PR Casa 111m², Ocupada em Uberaba, Curitiba/PR - Residência nº 05 integrante do Condomínio Residencial Monalisa, unidade essa de frente para Rua Augusto Steembock, nº 659, com acesso independente, sendo a primeira unidade da direita para a esquerda, de quem de referida rua olhar para o condomínio, com a aérea total construída de 111,77m², sendo no pavimento térreo a área construída de 51,56m², no pavimento superior a aérea construída computável de 56,79m², mais a área de sacada não computável de 3,42m². Ocupa no solo a área de implantação de 51,56m², que somada a área não construída de uso exclusivo, localizado na frente e fundos da unidade, destinada a jardim e quintal de 74,52m², perfaz no solo a área de 126,08m², mais a área de uso comum destinado a recreação e rua particular de 39,926m², totalizando a área de 166,006m², correspondendo-lhe a fração ideal do solo e partes comuns de 0,1081113. Melhor descrito na matricula do imóvel. Matrícula nº 70.809 do 4º Serviço de Registro de Imóveis de Curitiba/PR. Cadastrado na Prefeitura Municipal sob n° 88.264.047.004-7.
-
-Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97. 
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 27/Out/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 559.723,85.
-
-2ª Praça: 
-Abertura: 27/Out/2023 a partir das 09h01
-Fechamento: 03/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 245.525,94.
-                                                                                                                                                                                                                                                                           
-Informações Relevantes:
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.    
-
-Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.
-
-Percentual de desconto: 56% de deságio sobre o valor de avaliação. 1 Sold Imóveis - Creditas - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>559723.85</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79c6b8f2-f9e2-4742-b608-ece6c62b9a23.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d789e8f7-0b5c-4fde-90cc-bc58fb6b45e4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f6873a5-00ff-4fee-8b5d-5e1620085ff7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d1ea7814-2026-40e1-aa4a-663ca8f140d9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a95237f6-593e-431e-bf37-791fdaf0ea87.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d38f04f2-afd3-4450-8e99-f8c25fc87ccd.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Augusto Steembock, 659]]></endereco>
-        <localidade><![CDATA[Uberaba, Curitiba, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[81550-080]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-49.21053</longitude>
-        <latitude>-25.48177</latitude>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[2925428]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[2925428]]></codigoReferencia>
-      <titulo><![CDATA[Casa 122m² no Jardim Primavera em Franca/SP - Ocupado]]></titulo>
-      <descricao><![CDATA[Casa 122m² no Jardim Primavera em Franca/SP - Ocupado Casa 122m² no Jardim Primavera em Franca/SP - Ocupado
-
-Localização: Rua dos Uirapurus, nº 240,  no Jardim Primavera em Franca/SP - CEP: 14404-030
-
-Área construída: 122,00m²
-Área total: 250,00m²
-
-Matrícula: nº 61.704 
-RGI: 1º Oficial de Registro de Imóveis de Franca/SP
-Inscrição Prefeitura: 01431070091300
-
-DOSSIÊ: 20216
-
-Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
-
-======================================
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 30/outubro/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 382.476,59
-
-2ª Praça:
-Abertura: 30/outubro/2023 a partir das 09h31
-Fechamento: 31/outubro/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 125.000,00
-                     
-Informações Relevantes: 
-1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.
-3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   
-4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.
-
-Percentual de desconto: 67% de deságio sobre o valor de avaliação.
-
-Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Santander - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>382476.59</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ba72147-8f67-486d-b0aa-f019f81612d2.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua dos Uirapurus, 240]]></endereco>
-        <localidade><![CDATA[Pompéia, Piracicaba, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13421-285]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-        <longitude>-47.59861</longitude>
-        <latitude>-22.75845</latitude>
       </localizacao>
       <publicador>
         <codigoImobiliaria>47235565</codigoImobiliaria>
@@ -28853,6 +28341,94 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Leandro Fernandes Martins, 2058]]></endereco>
         <localidade><![CDATA[Jardim Santa Bárbara, Franca, SP, Brasil]]></localidade>
         <codigoPostal><![CDATA[14404-259]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3082914]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3082914]]></codigoReferencia>
+      <titulo><![CDATA[Casa 114m², Ocupada no Água Verde em Blumenau/SC]]></titulo>
+      <descricao><![CDATA[Casa 114m², Ocupada no Água Verde em Blumenau/SC Casa 114m², Ocupada no Água Verde em Blumenau/SC - A unidade em alvenaria designada por casa 04, sob o nº 81, da Rua Biguaçu, localizada no Condomínio Residencial Vila Verde, a qual contem a área privativa de 110,5700m², área comum de 3,5100m², área total de 114,0800m², área equivalente de 112,3475m², área de terreno de uso exclusivo de 1,1700m², área de terreno de uso exclusivo de 98,0400m², área total de terreno de 99,2100m², fração ideal do solo de 28,38%, fração ideal do solo de 103,4724m², coeficiente de proporcionalidade de 0,2838, do terreno onde está construído referido edifício, situado nesta cidade de Blumenau/SC, no Bairro Agua verde, na Rua Biguaçu, nºs 69, 73, 77 e 81, contendo a área total de 364,57m², com as características e confrontações constantes da matricula nº 269. Matrícula nº 61094 do 2º Cartório de Registro de Imóveis de Blumenau/SC. Cadastrado na Prefeitura Municipal sob n° 4.1.19.0004.0142.004.
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97. 
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+1ª Praça:
+Fechamento: 17/Nov/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 722.778,97.
+
+2ª Praça: 
+Abertura: 17/Nov/2023 a partir das 09h41
+Fechamento: 21/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 567.453,47.
+                                                                                                                                                                                                                                                                           
+Informações Relevantes:
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+2 - FORMA DE PAGAMENTO: À vista.    
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.
+
+Percentual de desconto: 21% de deságio sobre o valor de avaliação. 1 Sold Imóveis - Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>722778.97</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c7a6f87-e9a7-41f8-84ea-4821ff6cad2d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a546f823-2f1d-4aaa-b6e2-5a2556df3346.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7f07b7f4-7773-416c-a9c2-e771797a23d2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23a7c142-102c-4931-a71c-761105808a42.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Biguaçu, 81]]></endereco>
+        <localidade><![CDATA[Potengi, Natal, RN, Brasil]]></localidade>
+        <codigoPostal><![CDATA[59124-570]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
