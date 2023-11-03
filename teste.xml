@@ -4308,6 +4308,42 @@
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3075752</ListingID>
+      <Title>Casa 51m², Ocupada, em Juazeiro do Norte/CE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3075752</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/fd0f4333-a3d5-4e64-a9ea-865f85ba6050.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d1e7d7a7-3c17-49ca-bd9c-aa580f42390f.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/ea6a97e3-c849-4d74-882e-9c740fd00360.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b854e150-fee1-477b-a104-5cdec49f2816.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 51m², Ocupada, em Juazeiro do Norte/CE Casa 51m², Ocupada, em Juazeiro do Norte/CE  Localização: Avenida Governador Virgílio Távora, nº 14, Juazeiro do Norte/CE  -  CEP: 63020-735  área de terreno de 126,00m²   área construída de 51,66m²  Matrícula: 20.855 do Registro de Imóveis 2ª Zona de Juazeiro do Norte/CE Inscrição Prefeitura: 30658  DOSSIÊ: 20474  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ======================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 01/11/2023 a partir das 11h20 com Valor Mínimo de Venda de R$ 223.367,59  2ª Praça: Abertura: 01/11/2023 a partir das 11h21 Fechamento: 03/11/2023 a partir das 14h20 com Valor Mínimo de Venda de R$ 153.735,37                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 31% de deságio sobre o valor de avaliação.    Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">153735.37</ListPrice>
+        <LivingArea unit="square metres">126</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="CE">Ceará</State>
+        <City>Juazeiro do Norte</City>
+        <Address>Avenida Virgílio Távora</Address>
+        <StreetNumber>14</StreetNumber>
+        <PostalCode>63020-735</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
