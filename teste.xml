@@ -4365,12 +4365,12 @@
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
       </Details>
-      <Location displayAddress="Street">
+      <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">Paraná</State>
         <City>Ponta Grossa</City>
         <Address>Rua Monte Alverne</Address>
-        <StreetNumber>nº 587</StreetNumber>
+        <StreetNumber>587</StreetNumber>
         <PostalCode>84016-010</PostalCode>
       </Location>
       <ContactInfo>
