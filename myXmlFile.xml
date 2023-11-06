@@ -18388,6 +18388,42 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3088895</ListingID>
+      <Title>Prédio Residencial 64m², Ocupado em Pindamonhangaba/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3088895</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ff63a64a-e303-4d03-bd6c-e788d724a383.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ceae273e-555c-49f3-9df5-0739874dd6c0.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/da522322-f2e8-4d17-a9a9-29a4d2bc321f.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/2019ef34-3c47-4977-b906-ef17b8a81ede.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Prédio Residencial 64m², Ocupado em Pindamonhangaba/SP Prédio Residencial 64m², Ocupado em Pindamonhangaba/SP  Localização: Rua Mauro Araújo Albuquerque, nº 70, loteamento Terra dos Ipês, Pindamonhangaba/SP  -  CEP: 12443-730   área de terreno de 242,12m² área construída de 64,28m²,  Matrícula: 23.524 do Cartório de Registro de Imóveis de Pindamonhangaba/SP Inscrição Prefeitura: NE251118019000  DOSSIÊ: 20378  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  =====================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 09/11/2023 a partir das 10h10 com Valor Mínimo de Venda de R$  340.000,00  2ª Praça: Abertura: 09/11/2023 a partir das 10h11 Fechamento: 10/11/2023 a partir das 13h10 com Valor Mínimo de Venda de R$ 309.527,36                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 9% de deságio sobre o valor de avaliação.    Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">340000</ListPrice>
+        <LivingArea unit="square metres">242</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Pindamonhangaba</City>
+        <Address>Rua Mauro Araújo Albuquerque</Address>
+        <StreetNumber>70</StreetNumber>
+        <PostalCode>12443-730</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
