@@ -18424,6 +18424,42 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3089140</ListingID>
+      <Title>Apto c/ 1 Vaga, Ocupado, no Rio de Janeiro/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3089140</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8cc092c5-a5ca-4730-884c-b16fd298deb7.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/95d41460-55e5-49f9-9d39-3847330091d2.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/0cd5af47-9507-4dd5-8872-b0f374a8e778.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/ec7b1e8e-12a5-4ab3-b1ce-e35bedb2ce2f.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto c/ 1 Vaga, Ocupado, no Rio de Janeiro/RJ Apto c/ 1 Vaga, Ocupado, no Rio de Janeiro/RJ  Localização: Rua Franz Weissman, nº 180, Apto nº 808, Freguesia de Jacarepaguá, Rio de Janeiro/RJ  -  CEP: 22775-051   fração ideal de 12/1742 do respectivo terreno  Matrícula: 370.819 do 9º Ofício de Registro de Imóveis do Rio de Janeiro/RJ Inscrição Prefeitura: 3.002.258-6(MP) CL 20.190-5  DOSSIÊ: 20665  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ============================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 04/12/2023 a partir das 09h30 com Valor Mínimo de Venda de R$  1.194.216,76  2ª Praça: Abertura: 04/12/2023 a partir das 09h31 Fechamento: 05/12/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 309.170,22                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 74% de deságio sobre o valor de avaliação.    Sold Imóveis - Santander Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">1194216.76</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Address>Rua Franz Weissman</Address>
+        <StreetNumber>180</StreetNumber>
+        <PostalCode>22775-051</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
