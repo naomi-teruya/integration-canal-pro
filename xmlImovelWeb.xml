@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1699282141</dataModificacao>
+  <dataModificacao>1699283277</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2836240]]></codigoAnuncio>
@@ -30653,6 +30653,144 @@ Condições de Pagamento
         <endereco><![CDATA[Rua Silvio Elia, 351]]></endereco>
         <localidade><![CDATA[Rio De Janeiro, RJ, Brasil]]></localidade>
         <codigoPostal><![CDATA[22783235]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3084848]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3084848]]></codigoReferencia>
+      <titulo><![CDATA[Casa 589m² no Pedrolina, Santa Helena de Goias/GO]]></titulo>
+      <descricao><![CDATA[Casa 589m² no Pedrolina, Santa Helena de Goias/GO 
+Casa - Pedrolina
+
+
+
+
+Localização: Av. Filemon Marcelno de Araújo, s/n, Lote 04, Quadra P, Pedrolina, Santa Helena de Goias/GO, 75920-000
+
+
+
+
+Área Terreno: 589m²
+
+Área Construída: 304m²
+
+Descrição Interna: (1 sala de estar, 1 área gourmet, 1 copa, 3 cozinhas, 1 sala de jantar, 3 banheiros, 3 quartos (1 suíte) 2 halls, 1 garagem, 1 varanda, 1 escritório, 2 dispensas e 1 área de serviço)
+
+
+
+
+Matrícula: nº 9.846
+
+RGI: Cartório de Registro de Imóveis de Santa Helena de Goiás/GO
+
+Inscrição Prefeitura: 1.6.00002.0184.1
+
+
+
+
+DOSSIÊ: 20693
+
+
+
+
+Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.
+
+
+
+
+O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
+
+
+
+
+1ª Praça:
+
+Fechamento: 08/Nov/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 465.000,00.
+
+
+
+
+2ª Praça:
+
+Abertura: 08/Nov/2023 a partir das 09h51
+
+Fechamento: 09/Nov/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 496.435,81
+
+
+
+
+Informações Relevantes:
+
+1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
+
+2 - FORMA DE PAGAMENTO: À vista.
+
+3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.
+
+
+
+
+Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.
+ 20693 Santander AF - D.20693]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[200]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>465000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9229ff8d-98f7-4c9b-981a-b2c30d348564.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/16ca3232-23d5-483e-a98b-7ac3323be0c0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a656f11e-d8f5-441d-b2ab-6e48c1d690d3.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Filemon Marcelno de Araújo, s/n]]></endereco>
+        <localidade><![CDATA[Pedrolina, Santa Helena de Goias/GO, Brasil]]></localidade>
+        <codigoPostal><![CDATA[75920-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
