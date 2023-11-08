@@ -29436,6 +29436,246 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080698]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080698]]></codigoReferencia>
+      <titulo><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP  Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP ENDEREÇO: Rua Joel Jorge de Melo, nº 132,  Apto 62 - Edifício Módulo I, Vila Mariana, São Paulo/SP - CEP 04128-080  área total: 119,00m² área privativa: 95,60m²  Matrícula: 228.468 do 14º CRI São Paulo/SP Inscrição Prefeitura: 042.054.0085-3  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>669200</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Joel Jorge de Melo, 132]]></endereco>
+        <localidade><![CDATA[Vila Mariana, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04128-080]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080697]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080697]]></codigoReferencia>
+      <titulo><![CDATA[Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP  Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP ENDEREÇO: Rua Arthur Prado, nº 166 -Apto. nº 22 - Condomínio Edifício Oxford,  Bela Vista - CEP 01322-000  área total: 89,80m² área privativa: 80,58m² área vaga garagem: 21,80m²  Matrícula: 134.604 do 1º CRI São Paulo/SP Inscrição Prefeitura: 009.057.0142-9 Matrícula vaga: 134.605 do 1º CRI São Paulo/SP Inscrição Prefeitura vaga: 009.057.0302-2  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>604350</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Arthur Prado, 166]]></endereco>
+        <localidade><![CDATA[Bela Vista, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01322-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3090484]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3090484]]></codigoReferencia>
+      <titulo><![CDATA[Prédio residencial 260m²,  Ocupado em Capão da Canoa/RS]]></titulo>
+      <descricao><![CDATA[Prédio residencial 260m²,  Ocupado em Capão da Canoa/RS Prédio residencial 260m²,  Ocupado em Capão da Canoa/RS  Localização: Rua João Raulino de S. Sobrinho, nº 552, Vila Santa Luzia, município de Capão da Canoa/RS  -  CEP: 95555-000  área de terreno de 360,00m² área construída de 260,70m²  Matrícula: 29.725 do Registro de Imóveis de Capão da Canoa/RS Inscrição Prefeitura: 615.0069.025.000.1  DOSSIÊ: 20466  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  ==============================================================  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 09/11/2023 a partir das 09h10 com Valor Mínimo de Venda de R$  885.000,00  2ª Praça: Abertura: 09/11/2023 a partir das 09h11 Fechamento: 10/11/2023 a partir das 15h10 com Valor Mínimo de Venda de R$ 766.191,39                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 13% de deságio sobre o valor de avaliação.    Sold Imóveis - Santander Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[360]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>885000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua João Raulino de S. Sobrinho, 552]]></endereco>
+        <localidade><![CDATA[Vila Santa Luzia, município de Capão da Canoa, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[95555-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3080697]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3080697]]></codigoReferencia>
+      <titulo><![CDATA[Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP  Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP ENDEREÇO: Rua Arthur Prado, nº 166 -Apto. nº 22 - Condomínio Edifício Oxford,  Bela Vista - CEP 01322-000  área total: 89,80m² área privativa: 80,58m² área vaga garagem: 21,80m²  Matrícula: 134.604 do 1º CRI São Paulo/SP Inscrição Prefeitura: 009.057.0142-9 Matrícula vaga: 134.605 do 1º CRI São Paulo/SP Inscrição Prefeitura vaga: 009.057.0302-2  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>604350</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Arthur Prado, 166]]></endereco>
+        <localidade><![CDATA[Bela Vista, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01322-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
