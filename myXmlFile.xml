@@ -18103,6 +18103,105 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
+      <ListingID>3080700</ListingID>
+      <Title>Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080700</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP  Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP ENDEREÇO: Rua Colombia, nº 110, Apto 62 - Jd. Silvestre(Guilhermina) - Residencial Rio Danúbio, Praia Grande/SP - CEP 11.702-020   área total: 86,31m² área privativa: 53,89m²  Matrícula: 90.971 do CRI Praia Grande/SP Inscrição Prefeitura: 2.03.29.001.009.0062-4  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 4 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">269460</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Praia Grande</City>
+        <Address>Rua Colombia</Address>
+        <StreetNumber>110</StreetNumber>
+        <PostalCode>1.702-020</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080701</ListingID>
+      <Title>Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080701</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS  Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS ENDEREÇO: Avenida Júlio de Castilhos, 730 e 740 - Apto 507 - Edifício Guarapari,  Nossa Senhora de Lourdes, Caxias do Sul/RS  -  CEP 95010-000    área total: 87,59m² área privativa: 78,37m² área total (Vaga): 87,59m²  Matrícula: 64.983 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura (Vaga): 44.09.0082.011.073 Matrícula (Vaga): 64.935 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura: 44.09.0082.011.030  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 5 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">352687</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Caxias do Sul</City>
+        <Address>Avenida Júlio de Castilhos</Address>
+        <StreetNumber>730 e 740</StreetNumber>
+        <PostalCode>95010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080698</ListingID>
+      <Title>Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080698</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP  Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP ENDEREÇO: Rua Joel Jorge de Melo, nº 132,  Apto 62 - Edifício Módulo I, Vila Mariana, São Paulo/SP - CEP 04128-080  área total: 119,00m² área privativa: 95,60m²  Matrícula: 228.468 do 14º CRI São Paulo/SP Inscrição Prefeitura: 042.054.0085-3  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">669200</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Rua Joel Jorge de Melo</Address>
+        <StreetNumber>132</StreetNumber>
+        <PostalCode>04128-080</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
       <ListingID>3080697</ListingID>
       <Title>Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -18127,6 +18226,39 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <Address>Rua Arthur Prado</Address>
         <StreetNumber>166</StreetNumber>
         <PostalCode>01322-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080703</ListingID>
+      <Title>Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080703</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP  Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I do Paranapanema, em Paranapanema/SP ENDEREÇO: Rua 14, Lote nº 05 da Quadra 10, Loteamento Recanto I do Paranapanema, em Paranapanema/SP - CEP 04027-000  área : 1.000,00m²  Matrícula: 17.767 do CRI de Avaré/SP Inscrição Prefeitura : 12777-0  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 7 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">25029.1</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>em Paranapanema</City>
+        <Address>Rua 14</Address>
+        <StreetNumber>Lote  05 da Quadra 10</StreetNumber>
+        <PostalCode>04027-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -18169,6 +18301,105 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
+      <ListingID>3080700</ListingID>
+      <Title>Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080700</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP  Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP ENDEREÇO: Rua Colombia, nº 110, Apto 62 - Jd. Silvestre(Guilhermina) - Residencial Rio Danúbio, Praia Grande/SP - CEP 11.702-020   área total: 86,31m² área privativa: 53,89m²  Matrícula: 90.971 do CRI Praia Grande/SP Inscrição Prefeitura: 2.03.29.001.009.0062-4  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 4 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">269460</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Praia Grande</City>
+        <Address>Rua Colombia</Address>
+        <StreetNumber>110</StreetNumber>
+        <PostalCode>1.702-020</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080698</ListingID>
+      <Title>Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080698</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP  Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP ENDEREÇO: Rua Joel Jorge de Melo, nº 132,  Apto 62 - Edifício Módulo I, Vila Mariana, São Paulo/SP - CEP 04128-080  área total: 119,00m² área privativa: 95,60m²  Matrícula: 228.468 do 14º CRI São Paulo/SP Inscrição Prefeitura: 042.054.0085-3  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">669200</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Rua Joel Jorge de Melo</Address>
+        <StreetNumber>132</StreetNumber>
+        <PostalCode>04128-080</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080701</ListingID>
+      <Title>Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080701</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS  Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS ENDEREÇO: Avenida Júlio de Castilhos, 730 e 740 - Apto 507 - Edifício Guarapari,  Nossa Senhora de Lourdes, Caxias do Sul/RS  -  CEP 95010-000    área total: 87,59m² área privativa: 78,37m² área total (Vaga): 87,59m²  Matrícula: 64.983 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura (Vaga): 44.09.0082.011.073 Matrícula (Vaga): 64.935 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura: 44.09.0082.011.030  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 5 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">352687</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Caxias do Sul</City>
+        <Address>Avenida Júlio de Castilhos</Address>
+        <StreetNumber>730 e 740</StreetNumber>
+        <PostalCode>95010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
       <ListingID>3080697</ListingID>
       <Title>Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -18193,6 +18424,39 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <Address>Rua Arthur Prado</Address>
         <StreetNumber>166</StreetNumber>
         <PostalCode>01322-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3080703</ListingID>
+      <Title>Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3080703</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP  Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I do Paranapanema, em Paranapanema/SP ENDEREÇO: Rua 14, Lote nº 05 da Quadra 10, Loteamento Recanto I do Paranapanema, em Paranapanema/SP - CEP 04027-000  área : 1.000,00m²  Matrícula: 17.767 do CRI de Avaré/SP Inscrição Prefeitura : 12777-0  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 7 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
+        <ListPrice currency="BRL">25029.1</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>em Paranapanema</City>
+        <Address>Rua 14</Address>
+        <StreetNumber>Lote  05 da Quadra 10</StreetNumber>
+        <PostalCode>04027-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
