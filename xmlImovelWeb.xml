@@ -20835,102 +20835,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3071840]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3071840]]></codigoReferencia>
-      <titulo><![CDATA[Casa no terreno de 416m², Ocupada no Sítio do Rosário em Santana de Parnaíba/SP]]></titulo>
-      <descricao><![CDATA[Casa no terreno de 416m², Ocupada no Sítio do Rosário em Santana de Parnaíba/SP Casa no terreno de 416m², Ocupada no Sítio do Rosário em Santana de Parnaíba/SP - Terreno Urbano, situado na Rua Seis, constituído pelo lote nº 11, da quadra R ¿ Residencial, do loteamento denominado Residencial Fazenda São José, no distrito e município de Santana de Parnaíba, comarca de Barueri/SP, medindo 14,49m em curva com raio de 349,00m de frente para a Rua Seis, da frente aos fundos de quem da mencionada rua olha para o imóvel, mede, 30,00m do lado direito, confrontando com o lote nº 12, 30,00m do lado esquerdo, confrontando com o lote nº 10, e 13,25 nos fundos, confrontando com o lote nº 16, encerrando a área total de 416,08m². Conforme Av.09, a Rua Seis, denomina-se atualmente Rua Arace. Matrícula nº 160.718 do Cartório Oficial de Registro de Imóveis, Títulos e Documentos e Civil de Pessoa Jurídica de Barueri/SP. Cadastrado na Prefeitura Municipal sob nº 24361.24.78.0144.00.000.
-
-Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97. 
-
-O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.
-
-1ª Praça:
-Fechamento: 03/Nov/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 434.159,99.
-
-2ª Praça: 
-Abertura: 03/Nov/2023 a partir das 09h11
-Fechamento: 17/Nov/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 424.577,63.
-                                                                                                                                                                                                                                                                           
-Informações Relevantes:
-1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");
-2 - FORMA DE PAGAMENTO: À vista.    
-3 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.
-
-Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. 1 Sold Imóveis - Fazenda São Jose - Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[200]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>434159.99</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5f90aa66-7033-47ba-9632-1a89d7596b06.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/207c8ec3-e06c-4a21-8a24-b67c803c0423.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/be73c4d5-62d9-4a66-aa07-5fb34b49a8a5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d2a14492-92c2-464d-b45d-52346fe45395.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a671317d-2278-4a13-bf37-a7b0ce02adbf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/778e0f54-b0fd-4159-872e-c34c1ed8a2cc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d22bfa3-3ebf-46ea-80c8-d52297542744.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[undefined, undefined]]></endereco>
-        <localidade><![CDATA[Fazenda São José, Santana de Parnaíba, SP, Brasil]]></localidade>
-        <codigoPostal><![CDATA[06517-510]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[2879074]]></codigoAnuncio>
       <codigoReferencia><![CDATA[2879074]]></codigoReferencia>
       <titulo><![CDATA[Casa Espetacular 1106 M2 Alto da Boa Vista - SP]]></titulo>
@@ -29219,6 +29123,126 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <endereco><![CDATA[Rua Santos Dumont, 218]]></endereco>
         <localidade><![CDATA[Bloco B do Conjunto Residencial Santos Dumont, Santos, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[11015-230]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3089275]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3089275]]></codigoReferencia>
+      <titulo><![CDATA[Apto 62m² no Colégio Batista em Belo Horizonte/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 62m² no Colégio Batista em Belo Horizonte/MG - Ocupado  Apto 62m² no Colégio Batista em Belo Horizonte/MG - Ocupado  Localização: Rua Araxá, nº 468, apto 403, Edificio Capricórnio, Condominío Constelação, bairro Colégio Batista, em Belo Horizonte/MG, CEP: 31110-272  Área Privativa: 62,12m²  Matrícula: nº 17.887  RGI: 5º Ofício de Registro de Imóveis de Belo Horizonte/MG Inscrição Prefeitura: 106016009A1006  DOSSIÊ: 20585  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 12/Dez/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 346.951,29  2ª Praça: Abertura: 12/Dez/2023 a partir das 09h41 Fechamento: 13/Dez/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 151.000,00                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 13% de deságio sobre o valor de avaliação.  20585 Santander AF - D.20585]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>346951.29</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Araxá, 468]]></endereco>
+        <localidade><![CDATA[bairro Colégio Batista, em Belo Horizonte, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[31110-272]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[2882224]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[2882224]]></codigoReferencia>
+      <titulo><![CDATA[Edifício Comercial 881m² DESOCUPADO no Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Edifício Comercial 881m² DESOCUPADO no Rio de Janeiro/RJ Edifício Comercial  CARACTERÍSTICAS: Ano da construção 1938 Área do terreno: 206 m² Área construída: 881 m²  Matricula nº 27.136 ¿ 7º RGI ¿ RJ IPTU nº 0.456.271-6  CÓD. P308  Próximo a Av. Pres. Vargas e Av. Rio Branco; Localização com grande polo comercial;  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus") 2 - Acesso à documentação do imóvel: mediante solicitação prévia pelo e-mail imoveis.sac@superbid.net - Importante: necessário indicar código do imóvel constante na descrição. 3 - Vendedor analisará propostas com pagamento parcelado  Para agendamento de visitação, informações e dúvidas por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. 62 Sold Imóveis - Venda Direta]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>5067000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua da Alfândega, 21]]></endereco>
+        <localidade><![CDATA[Centro, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[20070-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
