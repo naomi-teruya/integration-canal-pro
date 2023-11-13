@@ -8991,6 +8991,39 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3096679</ListingID>
+      <Title>Casa 70m² no Centro em Marechal Candido Rondon/PR - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3096679</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/16039c1b-d29b-4d91-adbe-76ed6d725620.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 70m² no Centro em Marechal Candido Rondon/PR - Ocupado  Casa 70m² no Centro em Marechal Candido Rondon/PR - Ocupado  Localização: Rua Cabral n° 1283, lote nº 07, da quadra nº 155, Centro, Marechal Cândido Rondon/PR, CEP: 85960-000  Área Construída: 70m² Área Total: 800m²  Matrícula: nº 1.285 RGI: Cartório de Registro de Imóveis de Marechal Cândido Rondon/PR Inscrição Prefeitura: 01.01.049.0140.001  DOSSIÊ: 20549  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 16/Nov/2023 a partir das 10h40 com Valor Mínimo de Venda de R$ 572.295,73  2ª Praça: Abertura: 16/Nov/2023 a partir das 10h41 Fechamento: 17/Nov/2023 a partir das 14h40 com Valor Mínimo de Venda de R$ 212.500,00                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 63% de deságio sobre o valor de avaliação.  20549 Santander AF - D.20549]]></Description>
+        <ListPrice currency="BRL">572295.73</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PR">Paraná</State>
+        <City>Marechal Cândido Rondon</City>
+        <Address>Rua Cabral n° 1283</Address>
+        <StreetNumber>lote  07</StreetNumber>
+        <PostalCode>85960-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
