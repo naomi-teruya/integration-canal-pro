@@ -15526,6 +15526,66 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3099327]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3099327]]></codigoReferencia>
+      <titulo><![CDATA[Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ]]></titulo>
+      <descricao><![CDATA[Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ  Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ  Localização: Estrada de Santa Rosa, 266/398, Condomínio Terra Nova Campos I, Rua 04 Casa 12, Campos dos Goytacazes/RJ CEP: 28085-500  Área Privativa: 46,72m² Área Total: 47,73m²  Matrícula: nº 14.456  RGI: 5º Oficial de Registro de Imóveis de Campos dos Goytacazes/RJ Inscrição Prefeitura: 179.929  DOSSIÊ: 20434  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/Dez/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 361.804,70  2ª Praça: Abertura: 21/Dez/2023 a partir das 09h31 Fechamento: 22/Dez/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 172.299,95                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 52% de deságio sobre o valor de avaliação.  20434 Santander AF - D.20434]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>361804.7</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4d64c193-7912-4146-bb4a-dcf8a3882e9a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada de Santa Rosa, 266]]></endereco>
+        <localidade><![CDATA[398, Condomínio Terra Nova Campos I, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[28085-500]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
