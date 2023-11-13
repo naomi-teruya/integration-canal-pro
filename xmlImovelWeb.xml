@@ -15268,6 +15268,135 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3098545]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3098545]]></codigoReferencia>
+      <titulo><![CDATA[Casa 90m² no bairro Harmonia em Canoas/RS - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 90m² no bairro Harmonia em Canoas/RS - Ocupado  Casa 90m² no bairro Harmonia em Canoas/RS - Ocupado  Localização: Rua Jéssica Rolão da Silva, nº 223, Harmonia, em Canoas/RS, CEP: 92314-080  Área Construída: 90,03m² Área Total: 187,50m²  Matrícula: nº 52.437  RGI: Cartório de Registro de Imóveis de Canoas/RS Inscrição Prefeitura: 000000000106889  DOSSIÊ: 20688  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 16/Nov/2023 a partir das 10h50 com Valor Mínimo de Venda de R$ 565.687,95  2ª Praça: Abertura: 16/Nov/2023 a partir das 10h51 Fechamento: 17/Nov/2023 a partir das 14h50 com Valor Mínimo de Venda de R$ 368.799,30                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 35% de deságio sobre o valor de avaliação.  20688 Santander AF - D.20688]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>565687.95</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7182ba2-1f26-48bf-aa5e-472ef0ef4ffa.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Jéssica Rolão da Silva, 223]]></endereco>
+        <localidade><![CDATA[Harmonia, em Canoas, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[92314-080]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3098543]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3098543]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 123m² e Box, no Centro, Lajeado/RS]]></titulo>
+      <descricao><![CDATA[Apto. 123m² e Box, no Centro, Lajeado/RS  Apartamento e Box de Garagem - no Centro  Localização: Rua Pinheiro Machado, nº 861, Cond. Mirante do Parque, Apto. 602, Centro, Lajeado/RS, 95900-078  Apartamento: Área Privativa: 93m² Área Comum: 30m² Área Real Total: 123m²  Matrícula: nº 65.917 RGI: Cartório de Registro de Imóveis de Lajeado/RS Inscrição Prefeitura: setor 02 - quadra 0014 - lote 0426  Box de Garagem: Área Privativa: 18m² Área Comum: 3m² Área Real Total: 21m²  Matrícula: nº 65.857 RGI: Cartório de Registro de Imóveis de Lajeado/RS Inscrição Prefeitura: setor 02 - quadra 0014 - lote 0426  DOSSIÊ: 20309  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 16/Nov/2023 a partir das 10h30 com Valor Mínimo de Venda de R$ 557.032,35.  2ª Praça: Abertura: 16/Nov/2023 a partir das 10h31 Fechamento: 17/Nov/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 516.900,74                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  20309 Santander AF - D.20309]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>557032.35</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d74680f4-4b61-404f-85ba-546e3961b321.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29dbc5d1-7543-44d0-bbf8-d24bd10edc3e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/85c6cb39-0b11-43a4-9668-e0766b1044cb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a1298b2a-ba28-4835-81fd-348c7325bf42.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Pinheiro Machado, 861]]></endereco>
+        <localidade><![CDATA[Centro, Lajeado, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[95900-078]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
