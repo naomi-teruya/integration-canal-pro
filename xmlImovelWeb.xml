@@ -15586,6 +15586,66 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3099282]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3099282]]></codigoReferencia>
+      <titulo><![CDATA[Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado  Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado     Localização: Rua Rio Comprido, nº 4.185, apto 208, bloco nº 03, do Edifício Conquista Premium Monte Castelo, Bairro Monte Castelo, Contagem/MG, CEO: 32285-040     Área Privativa: 56,15m²  Área Comum: 35,46m²  Área Total: 91,61m²  1 vaga n° 303     Matrícula: nº 147.916  RGI: Cartório de Registro de Imóveis de Contagem/MG  Inscrição Prefeitura: 60780392257-0     DOSSIÊ: 20229     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Nov/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 309.936,39     2ª Praça:  Abertura: 21/Nov/2023 a partir das 10h01  Fechamento: 22/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 213.263,07     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.  20229 Santander AF - D.20229]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>309936.39</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a7cab2fd-61e8-4c1d-bfa8-1fba4717bb58.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Rio Comprido, 4.185]]></endereco>
+        <localidade><![CDATA[Bairro Monte Castelo, Contagem, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[32285-040]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
