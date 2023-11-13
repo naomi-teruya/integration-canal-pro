@@ -9195,6 +9195,39 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3099282</ListingID>
+      <Title>Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3099282</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a7cab2fd-61e8-4c1d-bfa8-1fba4717bb58.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado  Apto 56n² 1 vaga no Monte Castelo em Contagem/MG - Ocupado     Localização: Rua Rio Comprido, nº 4.185, apto 208, bloco nº 03, do Edifício Conquista Premium Monte Castelo, Bairro Monte Castelo, Contagem/MG, CEO: 32285-040     Área Privativa: 56,15m²  Área Comum: 35,46m²  Área Total: 91,61m²  1 vaga n° 303     Matrícula: nº 147.916  RGI: Cartório de Registro de Imóveis de Contagem/MG  Inscrição Prefeitura: 60780392257-0     DOSSIÊ: 20229     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Nov/2023 a partir das 10h00 com Valor Mínimo de Venda de R$ 309.936,39     2ª Praça:  Abertura: 21/Nov/2023 a partir das 10h01  Fechamento: 22/Nov/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 213.263,07     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.  20229 Santander AF - D.20229]]></Description>
+        <ListPrice currency="BRL">309936.39</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MG">Minas Gerais</State>
+        <City>Contagem</City>
+        <Address>Rua Rio Comprido</Address>
+        <StreetNumber>4.185</StreetNumber>
+        <PostalCode>32285-040</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
