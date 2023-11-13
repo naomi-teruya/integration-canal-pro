@@ -9162,6 +9162,39 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3099327</ListingID>
+      <Title>Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3099327</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/4d64c193-7912-4146-bb4a-dcf8a3882e9a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ  Casa 46m² no Parque Santa Clara em Campos dos Goytacazes/RJ  Localização: Estrada de Santa Rosa, 266/398, Condomínio Terra Nova Campos I, Rua 04 Casa 12, Campos dos Goytacazes/RJ CEP: 28085-500  Área Privativa: 46,72m² Área Total: 47,73m²  Matrícula: nº 14.456  RGI: 5º Oficial de Registro de Imóveis de Campos dos Goytacazes/RJ Inscrição Prefeitura: 179.929  DOSSIÊ: 20434  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/Dez/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 361.804,70  2ª Praça: Abertura: 21/Dez/2023 a partir das 09h31 Fechamento: 22/Dez/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 172.299,95                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 52% de deságio sobre o valor de avaliação.  20434 Santander AF - D.20434]]></Description>
+        <ListPrice currency="BRL">361804.7</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Rua 04 Casa 12">Sem sigla</State>
+        <City>Condomínio Terra Nova Campos I</City>
+        <Address>Estrada de Santa Rosa</Address>
+        <StreetNumber>266</StreetNumber>
+        <PostalCode>28085-500</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
