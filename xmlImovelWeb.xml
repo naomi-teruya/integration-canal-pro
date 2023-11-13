@@ -15136,6 +15136,78 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3096669]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3096669]]></codigoReferencia>
+      <titulo><![CDATA[Apto 85m², Ocupado, 02 vagas, Vila Mogilar, Mogi das Cruzes/SP]]></titulo>
+      <descricao><![CDATA[Apto 85m², Ocupado, 02 vagas, Vila Mogilar, Mogi das Cruzes/SP Apto 85m², Ocupado, 02 vagas, Vila Mogilar, Mogi das Cruzes/SP - A unidade autônoma designada Apartamento Tipo B, nº 75, no 7º andar, da Torre nº 03, do empreendimento denominado Flex Mogi, situado na Avenida Francisco Rodrigues Filho, nº 2002, no perímetro urbano deste município e comarca de Mogi das Cruzes/SP, assim descrito e caracterizado; com a área privativa total de 70,590m², área comum total de 85,095m² (15,712m² coberta + 69,383m² descoberta) já incluído o direito ao uso de 02 (duas) vagas na garagem coletiva do condomínio, indeterminada, simples ou dupla, para estacionamento de dois veículos de passeio, perfazendo a área total de 155,685m², coeficiente de proporcionalidade de 0,259314%, fração ideal de terreno de 73,433m² e área total construída de 86,302m². Matrícula nº 71.502 do 1º Cartório de Registro de Imóveis de Mogi das Cruzes/SP. Cadastrado na Prefeitura municipal sob o nº 11.024.009.245-0.   OBS.: Imóvel Ocupado. Desocupação por conta do adquirente, nos termos do art. 30 da lei 9.514/97.  *Recai sobre o imóvel a existência de ação revisional em andamento (Processo 1011073-67.2022.8.26.0361 - Foro de Mogi das Cruzes - 1ª Vara Cível).   O leilão deverá ser realizado em duas praças, sendo que a 2º só deverá ocorrer caso não haja arrematantes na 1º.  1ª Praça: Fechamento: 17/nov/23 a partir das 09h30 com Valor Mínimo de Venda de R$ 544.902,55.  2ª Praça: Abertura: 17/Nov/23 a partir das 09h31 Fechamento: 27/Nov/23 a partir das 14h40 com Valor Mínimo de Venda de R$ 334.873,21.                                                                                                                                                                                                                                                                              Informações Relevantes:  1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Recai sobre o imóvel a existência de ação revisional em andamento (Processo 1011073-67.2022.8.26.0361 - Foro de Mogi das Cruzes - 1ª Vara Cível).   Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 38% de deságio sobre o valor de avaliação. 1 Sold Imóveis - Cury - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[70]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>544902.55</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea40ce90-5e91-4642-ab11-ed59e98a524e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/943dd86f-5980-47f0-ba39-86324f039891.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0320fae6-6df9-46b2-a1ee-1c0936d7e753.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d1fdc868-1753-4a5d-a47d-ea073da4c664.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6314ea03-1dd2-4f12-ba32-068fb4689e09.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Francisco Rodrigues Filho, 2002]]></endereco>
+        <localidade><![CDATA[Vila Mogilar, Mogi das Cruzes, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[08810-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
