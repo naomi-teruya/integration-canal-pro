@@ -14361,6 +14361,132 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3102707]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3102707]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 50m², 1 vaga no Estrela, Ponta Grossa/PR]]></titulo>
+      <descricao><![CDATA[Apto. 50m², 1 vaga no Estrela, Ponta Grossa/PR  Apartamento - no Estrela  Localização: Rua Conrado Schiffer, nº 350, Cond. Res. Parque São Luiz, apto. 41, Estrela, Ponta Grossa/PR, 84050-903  Área Privativa: 44m² Área Comum: 6m² Área Total: 50m²  Matrícula: nº 40.770 RGI: 1º Registro de Imóveis de Ponta Grossa/PR Inscrição Prefeitura: 08-6-51-83-1811-013  DOSSIÊ: 20687  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/Nov/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 120.062,09  2ª Praça: Abertura: 21/Nov/2023 a partir das 09h31 Fechamento: 22/Nov/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 119.188,78                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  20687 Santander AF - D.20687]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>120062.09</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc554a6e-191e-45dd-b07d-6a2558fa22f6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67dc23f0-9c28-4c10-bd52-fcf0e83bffa4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/444a7a6f-807c-4fa6-9d02-ba8e214a95f7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Conrado Schiffer, 350]]></endereco>
+        <localidade><![CDATA[Estrela, Ponta Grossa, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84050-903]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3103933]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3103933]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP  Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP - Unidade Autônoma, Conjunto nº 1414, localizado no 14º andar do Edifício Barão de Itatiaya, com entrada pelo nº 2001 da Avenida Paulista e nºs 35, 63 e 77 da Rua Padre João Manoel, São Paulo/SP, no 34º subdistrito (Cerqueira Cesar), com a área útil de 26,88m², área comum de 14,32m² e a área total de 41,20m², correspondendo-lhe no terreno a fração ideal de 0,103%. O edifico Barão de Itatyaya possui entradas, melhor descrito na matricula do imóvel. Matrícula nº 32786 do 13º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.069.0461-1.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 27/Nov/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 598.508,92.  2ª Praça:  Abertura: 27/Nov/2023 a partir das 09h01 Fechamento: 12/Dez/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 194.769,51.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.   Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Percentual de desconto: 67% de deságio sobre o valor de avaliação.               Crediceripa - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[41.2]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>598508.92</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5a8292ea-01cf-4375-8327-2661058e8188.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Paulista, 2001 e Rua Padre João Manoel]]></endereco>
+        <localidade><![CDATA[Cerqueira César, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01311-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
