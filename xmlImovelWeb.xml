@@ -14362,6 +14362,66 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </publicacao>
     </Imovel>
     <Imovel>
+      <codigoAnuncio><![CDATA[3103933]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3103933]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP  Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP - Unidade Autônoma, Conjunto nº 1414, localizado no 14º andar do Edifício Barão de Itatiaya, com entrada pelo nº 2001 da Avenida Paulista e nºs 35, 63 e 77 da Rua Padre João Manoel, São Paulo/SP, no 34º subdistrito (Cerqueira Cesar), com a área útil de 26,88m², área comum de 14,32m² e a área total de 41,20m², correspondendo-lhe no terreno a fração ideal de 0,103%. O edifico Barão de Itatyaya possui entradas, melhor descrito na matricula do imóvel. Matrícula nº 32786 do 13º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.069.0461-1.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 27/Nov/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 598.508,92.  2ª Praça:  Abertura: 27/Nov/2023 a partir das 09h01 Fechamento: 12/Dez/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 194.769,51.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.   Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Percentual de desconto: 67% de deságio sobre o valor de avaliação.               Crediceripa - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[41.2]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>598508.92</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5a8292ea-01cf-4375-8327-2661058e8188.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Paulista, 2001 e Rua Padre João Manoel]]></endereco>
+        <localidade><![CDATA[Cerqueira César, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01311-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
       <codigoAnuncio><![CDATA[3102707]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3102707]]></codigoReferencia>
       <titulo><![CDATA[Apto. 50m², 1 vaga no Estrela, Ponta Grossa/PR]]></titulo>
@@ -14428,10 +14488,10 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3103933]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3103933]]></codigoReferencia>
-      <titulo><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP  Sala Comercial 26m², Ocupada, na Av. Paulista no Edifício Barão de Itatiaya em São Paulo/SP - Unidade Autônoma, Conjunto nº 1414, localizado no 14º andar do Edifício Barão de Itatiaya, com entrada pelo nº 2001 da Avenida Paulista e nºs 35, 63 e 77 da Rua Padre João Manoel, São Paulo/SP, no 34º subdistrito (Cerqueira Cesar), com a área útil de 26,88m², área comum de 14,32m² e a área total de 41,20m², correspondendo-lhe no terreno a fração ideal de 0,103%. O edifico Barão de Itatyaya possui entradas, melhor descrito na matricula do imóvel. Matrícula nº 32786 do 13º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.069.0461-1.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 27/Nov/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 598.508,92.  2ª Praça:  Abertura: 27/Nov/2023 a partir das 09h01 Fechamento: 12/Dez/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 194.769,51.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.   Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Percentual de desconto: 67% de deságio sobre o valor de avaliação.               Crediceripa - Leilão de Alienação Fiduciária]]></descricao>
+      <codigoAnuncio><![CDATA[3096201]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3096201]]></codigoReferencia>
+      <titulo><![CDATA[Loja, Desocupado, Pelotas / RS]]></titulo>
+      <descricao><![CDATA[Loja, Desocupado, Pelotas / RS  Endereço Completo  Praca Coronel Pedro Osorio, 156, Loja 01 Condominio Sulbanco, Centro, Pelotas, RS, CEP: 96015010   Características do Imóvel:    Descrição:  Loja, Padrão, Desocupado. Matrícula(s): 50.759. Cartório: 2 CRI PELOTAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Loja  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  18310    Matrícula:  50.759  Cartório de Registro:  2 CRI PELOTAS  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 22.746,95  Condomínio Mensal:  R$ 19.860,13   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes    1. DESOCUPADO.2. OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   123324 Sold Imóveis - Santander - Ex-Agências -28.11.23]]></descricao>
       <tipoPropriedade>
         <idTipo><![CDATA[1]]></idTipo>
         <idSubTipo><![CDATA[5]]></idSubTipo>
@@ -14452,13 +14512,13 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[41.2]]></valor>
+          <valor><![CDATA[150]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
       <precos>
         <preco>
-          <quantidade>598508.92</quantidade>
+          <quantidade>3471000</quantidade>
           <moeda><![CDATA[BRL]]></moeda>
           <operacao><![CDATA[VENTA]]></operacao>
         </preco>
@@ -14466,14 +14526,179 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       <multimidia>
         <imagens>
           <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5a8292ea-01cf-4375-8327-2661058e8188.jpg]]></urlImagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d4a4fab5-d835-4085-97eb-628eca02b16d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1931dd62-e471-41d5-b02f-9cfd8d35bf65.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5b1e81d6-c228-4a6f-b096-c9fb10464a14.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5a478838-132a-4d74-a465-8aedbd22f319.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb7ccfdf-8180-4632-bdf6-019055486832.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8907b112-463f-4773-ac8f-0ccc5a292c40.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a92a4f57-f972-4616-ab48-0825e41a5541.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d8c5e1f7-6775-45a2-95ae-1ddc698dc7bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8a046aee-8d31-4f0d-87b7-4ab725feb6a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9854b7e7-565f-4533-a702-9cc6859cee0b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4db518a1-51cd-42a4-995d-bb6e1740d6d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a105ac88-fa59-4e6d-8334-0a4cdef3c14b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9d2517aa-2414-4927-9e1f-d8f94f713331.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37365a4b-0df9-4226-866d-f641abbc06e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b2ae5bc-07dc-41aa-bcb0-8eeb34bd9c4a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b9d462d0-1f53-4fab-a536-f60469c3de4d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9f3131b6-d83e-4119-acfd-b558231df2b5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b094c159-786e-46d9-aa0f-e39cc3d5d877.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef70fa0b-672d-42b2-93da-969c5e52dabf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0b2b0c2e-2288-4a20-be78-3003db79f551.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edb8e8ed-2f41-4d70-8cfb-4433073cdee7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/742f3465-1c0d-4b2e-9072-d2eb46ba3221.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b5f3a9c-27ea-42d0-88a8-be71993a3511.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/975adc98-4174-4c01-acec-8020efeebfd8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/132c4923-dfe5-4712-be2e-f5da322331dd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38904e01-30a0-4911-8712-2ea23b995770.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/950b0db2-9da4-4fc8-a41c-f6a97aed2062.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/04acb097-84e2-408f-bf86-1ab432eac3e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e46a81a-4240-45f9-aaac-47d59bfe32ae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cfd8a76e-111a-4fc6-ba38-86afcd8dfe71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bb94ba28-137c-4a46-a75e-0129b5cc949f.jpg]]></urlImagem>
           </imagem>
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Avenida Paulista, 2001 e Rua Padre João Manoel]]></endereco>
-        <localidade><![CDATA[Cerqueira César, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[01311-000]]></codigoPostal>
+        <endereco><![CDATA[Praca Coronel Pedro Osorio, 156]]></endereco>
+        <localidade><![CDATA[Centro, Pelotas, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[96015010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3096202]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3096202]]></codigoReferencia>
+      <titulo><![CDATA[Prédio, Desocupado, Porto Alegre / RS]]></titulo>
+      <descricao><![CDATA[Prédio, Desocupado, Porto Alegre / RS  Endereço Completo  Rua Sete De Setembro, 1136, Centro Historico, Porto Alegre, RS, CEP: 90010191   Características do Imóvel:    Descrição:  Prédio, Padrão, Desocupado. Área(s): 673,74 m² de área terreno, 2700 m² de área útil. Matrícula(s): 113.029,None. Cartório: CRI DO RIO GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Prédio  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  15350   Área Util:  2700.0 m2  Área Terreno:  673.74 m2  Composição Interna/Vagas:  Banheiros: 4, Salas: 6, Copas: 1   Matrícula:  113.029,None  Cartório de Registro:  CRI DO RIO GRANDE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 63.124,20   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* DESOCUPADO* IMOVEL FOREIRO PRIVADO.VER ITEM 4.9, INCISO V DO EDITAL DE LEILAO.* ACAO JUDICIAL - DECLARATORIA - PROC. NO 0158670-84.2017.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   42418 Sold Imóveis - Santander - Ex-Agências -28.11.23]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[4]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[2700]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>6175000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f32f1ef5-0145-45b1-995d-b97ae57ecb89.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3405025c-4174-45d2-b322-340cf34591b4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/da94b79f-dabd-4e24-a1b1-302283052031.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d7484dcc-a9f4-4248-8cd3-f938f4e2a9a9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0cd07ef-d637-4c3d-aefa-47f4c94a0e0b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/911feb2b-ee90-4c1d-b649-42b846ea3677.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Sete De Setembro, 1136]]></endereco>
+        <localidade><![CDATA[Centro Historico, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90010191]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
