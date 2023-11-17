@@ -14788,6 +14788,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3064208]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3064208]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 268m², A.C. 94m², 2 dorms, Jd. Santa Aguida]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 268m², A.C. 94m², 2 dorms, Jd. Santa Aguida  Imóvel matrícula nº 47.189 do CRI de São João da Boa Vista/SP. 
+
+   
+
+  Descrição matrícula:  UM TERRENO, identificado pelo lote cinco (05) da quadra &#39;&#39;D&#39;&#39;, da planta do loteamento tipo RESIDENCIAL/COMERCIAL, denominado JARDIM SANTA AGUIDA, em zona urbana desta cidade de São João da Boa Vista, com área de 268,12m² (duzentos e sessenta e oito metros quadrados e doze centímetros), medindo 10,00ms (dez metros) de frente para a Rua Dois (02); no fundo mede 10,00ms (dez metros) com a Gleba C; do lado direito de quem da rua olha o lote mede 26,75ms (vinte e seis metros e setenta e cinco centímetros) com o lote 04 (quatro); e do lado esquerdo mede 26,84ms (vinte e seis metros e oitenta e quatro centímetros) com o lote 06 (seis). Dito imóvel encontra-se cadastrado junto a Prefeitura Municipal sob n. 032.0006.0005.001. Av.1 Restrição: o loteamento Jardim Santa Aguida, é do tipo residencial/comercial, ficando estabelecido o que segue: &#39;&#39;as construções para fins comerciais somente poderão ser edificadas nos lotes que tem frentes voltadas para a Rua Racticliff, conforme condições e regras estabelecidas para implantação do empreendimento as fls. 17 do processo n. 4552/1998&#39;&#39;. Av.2 Servidão de Passagem: Pesa sobre o imóvel Servidão de Passagem, correspondente a uma área de 597,69m² em favor de COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SÃO PAULO - SABESP. Av.3 Denominação: A Rua Dois, do &#39;Jardim Santa Aguida&#39;, passou a denominar-se RUA FLORIZA FERREIRA DAROZZI. Av.6 Construção: foi edificado no terreno retro, um prédio residencial situado à Rua Floriza Ferreira Daroz, nº 161, Santa Arguida, constando de garagem, sala, dois dormitórios, banheiro, cozinha e área de serviços com a área total construída de 94,09 ms2 (noventa e quatro metros e nove centímetros quadrados). 
+
+   
+
+  Laudo de Avaliação fls. 76:  O prédio é formado por um lote de terreno e uma edificação residencial, construída de tijolos e coberta por lajes, madeiramento e telhas de cerâmica, com todas as instalações elétricas, hidráulicas e sanitárias, portas e portais de madeira, esquadrias de ferro, contendo uma garagem com piso de cerâmica, uma sala com piso de cerâmica, dois dormitórios com piso de cerâmica, uma cozinha com piso de cerâmica e azulejos até o teto e um banheiro com piso de cerâmica e azulejos até o teto, possuindo um quintal com piso em terra batida. O terreno tem topografia boa e encontra-se fechado por muros de alvenaria com portão de ferro na frente, com calçada de piso de cerâmica. O imóvel se localiza em região totalmente provida dos melhoramentos públicos necessários, sendo rede de água e esgoto, rede de coletora de águas pluviais, rede de energia ...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[268]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>182000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6bea7bbf-68ad-46ff-b557-dbb9f2a3f9b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d40b09c3-fcda-4646-a066-2686207dde4f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Floriza Ferreira Darozzi, 161]]></endereco>
+        <localidade><![CDATA[Jardim Primeiro de Maio, São João da Boa Vista, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13873-130]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
