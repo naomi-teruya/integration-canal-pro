@@ -7183,6 +7183,39 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
+      <ListingID>3076146</ListingID>
+      <Title>Apto. 217m² DESOCUPADO, 1 vaga no Jd. Paulista, São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3076146</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 217m² DESOCUPADO, 1 vaga no Jd. Paulista, São Paulo/SP Apartamento nº 121, no 12º andar ou 14º pavimento do Edifício Araucária, à Av. 9 de Julho, 4782, antes 4776, no 28º Subdistrito Jardim Paulista, possuindo uma área total construída de 217,14m², sendo 162,50m² de área exclusiva e 54,64m² de área comum correspondendo-lhe uma quota parte ideal de 4,166% no terreno, inclusive uma vaga no subsolo, para carro de passeio. Matrícula 23.531 do 4º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 016.159.0144-2.  - Imóvel DESOCUPADO.  Imóvel próximo à comércios e 2KM do Parque Ibirapuera.  Principal Via de acesso: Av. Nove de Julho.  O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio até a data da venda. Valor aproximado de IPTU Anual: R$ 615,00. Valor aproximado de Condomínio: R$ 3.090,00                                                                                                                                                                                                                                  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condição de Pagamento: À vista 3 - A comissão de 5% não está inclusa no preço do imóvel e deverá ser paga pelo comprador.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. Sold Imóveis - Venda Direta - PF]]></Description>
+        <ListPrice currency="BRL">2400000</ListPrice>
+        <LivingArea unit="square metres">217</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Av. 9 de Julho</Address>
+        <StreetNumber>4782</StreetNumber>
+        <PostalCode>01406-200</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
       <ListingID>3099778</ListingID>
       <Title>Chácara 41.276m² DESOCUPADA, Lot. Pinheirinho em Jundiaí/SP</Title>
       <TransactionType>For Sale</TransactionType>
