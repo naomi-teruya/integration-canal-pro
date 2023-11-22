@@ -16474,6 +16474,126 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3107331]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3107331]]></codigoReferencia>
+      <titulo><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado  Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado  Localização: Av. Afonso Pena n° 981 - 2° andar - Centro - Belo Horizonte/MG - CEP: 30130-907  Área total: 1.220,00m²  Matrícula: nº 5.486  RGI: 4º Registro de Imóveis de Belo Horizonte/MG Inscrição Prefeitura: 001034 002 015-3  DOSSIÊ: 20029  Recai sobre os imóveis ação: Processo nº 5080564-34.2021.8.13.0024 - 2ª Vara Empresarial da Comarca de Belo Horizonte e Agravo de Instrumento nº 1.0000.22.136308-8/001, interposto nos autos da Recuperação Judicial  Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/Dez/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 1.500.000,00  2ª Praça: Abertura: 21/Dez/2023 a partir das 09h41 Fechamento: 22/Dez/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 2.901.741,34                       Informações Relevantes:  1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.    4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602                                                                                                            20029 Santander - Alienação Fiduciária - D.20029 20031]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1500000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d30ed399-e366-4e76-8a2f-108a7ab24c15.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Afonso Pena n° 981, 2° andar]]></endereco>
+        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[30130-907]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3107333]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3107333]]></codigoReferencia>
+      <titulo><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado  Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado  Localização: Av. Afonso Pena n° 981 - 3° andar - Centro - Belo Horizonte/MG - CEP: 30130-907  Área total: 1.220,00m²  Matrícula: nº 1.215 RGI: 4º Registro de Imóveis de Belo Horizonte/MG Inscrição Prefeitura: 0010340020161  DOSSIÊ: 20031  Recai sobre os imóveis ação: Processo nº 5080564-34.2021.8.13.0024 - 2ª Vara Empresarial da Comarca de Belo Horizonte e Agravo de Instrumento nº 1.0000.22.136308-8/001, interposto nos autos da Recuperação Judicial  Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/Dez/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 1.500.000,00  2ª Praça: Abertura: 21/Dez/2023 a partir das 09h41 Fechamento: 22/Dez/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 2.894.741,34                       Informações Relevantes:  1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.    4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602      20031 Santander - Alienação Fiduciária - D.20029 20031]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1500000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/690baba9-e751-4d84-b942-519b28189351.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Afonso Pena n° 981, 3° andar]]></endereco>
+        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[30130-907]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
