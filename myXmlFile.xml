@@ -6876,7 +6876,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <City>Praia Grande</City>
         <Address>Rua Colombia</Address>
         <StreetNumber>110</StreetNumber>
-        <PostalCode>1.702-020</PostalCode>
+        <PostalCode>11702-020</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7202,11 +7202,11 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Jundiaí/SP">Sem sigla</State>
-        <City>Lt. Pinheirinho</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Jundiaí</City>
         <Address>Rodovia João Cereser</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>eirantes)</PostalCode>
+        <StreetNumber>S/N</StreetNumber>
+        <PostalCode>13214-470</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8613,11 +8613,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="05043-000">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Água Branca</City>
         <Address>R. Cláudio</Address>
         <StreetNumber>422</StreetNumber>
-        <PostalCode>Brasil</PostalCode>
+        <PostalCode>05043-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8662,11 +8662,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="18210-430">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Itapetininga</City>
         <Address>R. Olga Corrêa Guimarães Cleto</Address>
         <StreetNumber>215</StreetNumber>
-        <PostalCode>Brasil</PostalCode>
+        <PostalCode>18210-430</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8717,11 +8717,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="04090-013">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Indianópolis</City>
         <Address>Alameda dos Nhambiquaras</Address>
         <StreetNumber>1755</StreetNumber>
-        <PostalCode>Brasil</PostalCode>
+        <PostalCode>04090-013</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8877,11 +8877,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="09770-470">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>SSão Bernardo do Campo</City>
         <Address>R. Lamartine Ventura</Address>
         <StreetNumber>55</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>09770-470</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8916,11 +8916,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="14022-320">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Ribeirão Preto</City>
         <Address>R. João Batista Santanna</Address>
         <StreetNumber>215</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>14022-320</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8952,11 +8952,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="63020-470">Sem sigla</State>
-        <City>CE</City>
+        <State abbreviation="CE">Ceará</State>
+        <City>Juazeiro do Norte</City>
         <Address>Av. Gov. Virgílio Távora</Address>
         <StreetNumber>14</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>63020-470</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8985,11 +8985,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="84053-380">Sem sigla</State>
-        <City>PR</City>
+        <State abbreviation="PR">Paraná</State>
+        <City>Ponta Grossa</City>
         <Address>R. Paes de Andrade</Address>
         <StreetNumber>327</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>84053-380</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9022,11 +9022,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="89062-101">Sem sigla</State>
-        <City>SC</City>
+        <State abbreviation="SC">Santa Catarina</State>
+        <City>Blumenau</City>
         <Address>R. Gustavo Zimmermann</Address>
         <StreetNumber>2088</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>89062-101</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9058,11 +9058,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="15370-000">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">Sâo Paulo</State>
+        <City>Pereira Barreto</City>
         <Address>Rua Atlântico</Address>
         <StreetNumber>884</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>15370-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9096,11 +9096,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="79112-210">Sem sigla</State>
-        <City>MS</City>
+        <State abbreviation="MS">Mato Grosso do Sul</State>
+        <City>Campo Grande</City>
         <Address>R. Bangu</Address>
         <StreetNumber>233</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>79112-210</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9132,11 +9132,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="75920-000">Sem sigla</State>
-        <City>GO</City>
+        <State abbreviation="GO">Goiás</State>
+        <City>Santa Helena de Goiás</City>
         <Address>R. Filemon Marcelino de Araújo</Address>
         <StreetNumber>185</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>75920-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9166,11 +9166,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="02526-010">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
         <Address>R. Monte Cassino</Address>
         <StreetNumber>547</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>02526-010</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
