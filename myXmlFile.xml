@@ -9488,6 +9488,62 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3110595</ListingID>
+      <Title>Terreno, A.T. 275m², Res. Village Damha Mirassol IV</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3110595</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/eb258b6b-7cb9-4b32-a56c-754e80876796.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8fdbb29e-6549-47c2-b829-762dca1bdf4a.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/48ef7a71-35f1-47a9-bfbb-ed387015b82a.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/0f70d6fc-21e4-46f7-be15-583623ca1650.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/9270d79e-062b-48da-b2cb-aebab4538f8d.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/8780ad09-7c10-4a02-8223-1b7de1b2c949.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/dc747c95-fa58-4041-a32a-ded60c6b454e.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/beb09fc9-938a-499c-8f0d-12b5ac4d9f6a.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/0ab89076-a5e2-4a04-98bf-123403366f46.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/ab320d47-bfef-405c-aa9f-5eccfd9ffe35.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/ac91872a-4345-45eb-87b6-f1bbd69a8464.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Terreno, A.T. 275m², Res. Village Damha Mirassol IV  Penhora do imóvel descrito na matrícula n. 49.723 Cartório de Registro de Imóveis de Mirassol (fls. 142/148), em nome da executada. 
+ 
+ Descrição da Matrícula:  Lote nº 14 da Quadra G do Loteamento Residencial Village Damha Mirassol IV, de uso residencial, situado no perímetro urbano desta cidade, município e comarca de Mirassol/SP, que mede onze metros (11,00) de frente para a Rua 15, igual dimensão nos fundos dividindo com o lote 21; vinte e cinco metros (25,00) de cada lado, da frente aos fundos, dividindo do lado direito visto de frente com o lote 13 e do outro com o lote 15, encerrando uma área de 275,00 metros quadrados. Cadastrado na Prefeitura Municipal local sob nº 20.33.11.0415.01.000. 
+ 
+ Ônus:  Av. 1 Restrições/Condições: não será permitido o desdobro do lote e que existem restrições/condições a serem observadas quanto à construção e utilização do imóvel desta. 
+ 
+Av.13 Penhora: imóvel penhorado nestes autos. 
+ 
+ Débitos Municipais:  IPTU: R$ 9.175,77, conforme consulta realizada em 13/10/2023. 
+ 
+  Débitos de condomínio:   R$ 16.551,60, atualizados até Outubro/2023 pela administradora Nadruz Administradora de Condomínios. 
+ 
+Valor da avaliação em 04/02/2022:R$ 121.000,00 (cento e vinte e um mil reais).  Sandro Roberto Clemente de Souza Empreendimentos Imobiliarios Damha-mirassol Ii-spe Ltda Empreendimentos Imobiliários Dahma - Mirassol II - SPE LTDA Lucas Euzebio Calijuri 1ª Vara Judicial de Mirassol/SP 0003688-02.2019.8.26.0358
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">121000</ListPrice>
+        <LivingArea unit="square metres">275</LivingArea>
+        <Bedrooms>0</Bedrooms>
+        <Bathrooms>0</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Mirassol</City>
+        <Address>Avenida Miguel Damha</Address>
+        <StreetNumber>SN</StreetNumber>
+        <PostalCode>15130-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
