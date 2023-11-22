@@ -9145,40 +9145,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
-    <Listing xmlns="">
-      <ListingID>3112340</ListingID>
-      <Title>Casa, ocupada, São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112340</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c7b2e5f2-f71b-415f-8be6-677888b676d4.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3636243a-ebfb-4045-98cb-dd62219c2928.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, ocupada, São Paulo/SP   Endereço Completo   Rua Monte Cassino, 547, Jardim São Bento, São Paulo, 02526010      Características do Imóvel:       Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 625 m² de área terreno, 400 m² de área construída, 400 m² de área privativa. Matrícula(s): 170.165. Cartório: 8° CRI DE SÃO PAULO. Inscrição da Prefeitura: 306.060.0006-1.   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20287      Área Privativa:  400 m2   Área Terreno:  625 m2      Matrícula:  170.165   Cartório de Registro:  8° CRI DE SÃO PAULO   Inscrição na Prefeitura:  306.060.0006-1         Valor Avaliado:  R$ 1.785.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">1021440</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="02526-010">Sem sigla</State>
-        <City>SP</City>
-        <Address>R. Monte Cassino</Address>
-        <StreetNumber>547</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
   </Listings>
 </ListingDataFeed>
 
