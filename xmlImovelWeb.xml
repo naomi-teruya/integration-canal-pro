@@ -16594,6 +16594,84 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3107302]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3107302]]></codigoReferencia>
+      <titulo><![CDATA[Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR]]></titulo>
+      <descricao><![CDATA[Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR  Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR - Terreno 1.995,44m² e 44,55m de frente para a Rua Reverendo Paulo Hecke n° 456 no bairro Ahú em Curitiba/PR . Matrícula nº 68.880 do 2° RGI de Curitiba/PR. Inscrição Cadastral n° 72.001.017.000     Imóvel Desocupado.     ===================================     O terreno com indicação fiscal setor 72.001.017.000 está situado no zoneamento ZR3 Zona Residencial 3 onde originalmente o coeficiente de aproveitamento é um (1) e a altura máxima é de três pavimentos.     O imóvel será entregue com IPTU em aberto dos anos de 2022 e 2023 de aproximadamente R$ 45.000,00. Valor aproximando de IPTU anual R$ 22.000,00     Percentual de desconto: 51% de deságio sobre o valor de avaliação.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:&nbsp;  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - CONDIÇÕES DE PAGAMENTO: À vista&nbsp;  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 4950-9602  Terreno 1995m² Desocupado em Curitiba/PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[1995]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1700000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb485287-c8be-41a3-8c39-031e1315a382.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/01e62b10-cdd4-49fd-b8cf-105f9d7aeee6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ce6e7747-559d-4efb-bff1-11ec0ce37f55.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1a2fc05-c24f-4699-bc89-159e548c037a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7d27726-f48e-4bc2-a184-543e3110626c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fb7314f-aa4f-49eb-bef5-6215087cf663.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1818842-ed96-4cd9-a5e4-c35f190ff5a6.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Reverendo Paulo Hecke, 456]]></endereco>
+        <localidade><![CDATA[Ahu, Curitiba, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[82200-300]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
