@@ -16288,69 +16288,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3112340]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3112340]]></codigoReferencia>
-      <titulo><![CDATA[Casa, ocupada, São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Casa, ocupada, São Paulo/SP   Endereço Completo   Rua Monte Cassino, 547, Jardim São Bento, São Paulo, 02526010      Características do Imóvel:       Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 625 m² de área terreno, 400 m² de área construída, 400 m² de área privativa. Matrícula(s): 170.165. Cartório: 8° CRI DE SÃO PAULO. Inscrição da Prefeitura: 306.060.0006-1.   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20287      Área Privativa:  400 m2   Área Terreno:  625 m2      Matrícula:  170.165   Cartório de Registro:  8° CRI DE SÃO PAULO   Inscrição na Prefeitura:  306.060.0006-1         Valor Avaliado:  R$ 1.785.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1021440</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7b2e5f2-f71b-415f-8be6-677888b676d4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3636243a-ebfb-4045-98cb-dd62219c2928.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Monte Cassino, 547]]></endereco>
-        <localidade><![CDATA[São Paulo, SP, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brazil]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
   </Imoveis>
 </OpenNavent>
 
