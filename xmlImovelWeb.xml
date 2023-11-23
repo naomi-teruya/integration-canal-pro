@@ -18683,6 +18683,348 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3113135]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3113135]]></codigoReferencia>
+      <titulo><![CDATA[Casa 300m², no Cidade Parquelandia, Mogi das Cruzes/SP]]></titulo>
+      <descricao><![CDATA[Casa 300m², no Cidade Parquelandia, Mogi das Cruzes/SP  Casa - na Cidade Parquelandia  Localização: Rua José Bonifácio, nº 362, Cidade Parquelandia, Mogi das Cruzes/SP, 08771-241  Área Terreno: 300m² Área Construída: 166m²  Matrícula: nº 63.901  RGI: 2º Oficial de Registro de Imóveis de Mogi das Cruzes/SP Inscrição Prefeitura: 38.018.005.000-9  DOSSIÊ: 02.20286  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 30/Nov/2023 a partir das 09h20 com Valor Mínimo de Venda de R$ 948.963,58  2ª Praça: Abertura: 30/Nov/2023 a partir das 09h21 Fechamento: 01/Dez/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 616.596,27                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 35% de deságio sobre o valor de avaliação.  02.20286 Santander - Alienação Fiduciária - D.02.20286]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>948963.58</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/613676cd-72c9-426c-8d93-70beeb12004c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8d2e1ba9-83a9-47f7-bbbd-499fedbaf700.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Bonifácio, 362]]></endereco>
+        <localidade><![CDATA[Cidade Parquelandia, Mogi das Cruzes, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[08771-241]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3113334]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3113334]]></codigoReferencia>
+      <titulo><![CDATA[Casa 148m², Ocupada, em Águas Lindas de Goiás/GO]]></titulo>
+      <descricao><![CDATA[Casa 148m², Ocupada, em Águas Lindas de Goiás/GO  Casa 148m², Ocupada, em Águas Lindas de Goiás/GO  Localização: Rua 35, Lote 16 da quadra 69, Loteamento Jardim da Barragem II, Águas Lindas de Goiás/GO  -  CEP: 72920-217  área de terreno de  300,00m² área construída de 148,56m²  Matrícula: 71.896 do Cartório de Registro de Imóveis de Águas Lindas de Goiás/GO Inscrição Prefeitura: 1.17.00069.00016.1  DOSSIÊ: 20974  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 499.068,68  2ª Praça: Abertura: 29/11/2023 a partir das 09h31 Fechamento: 30/11/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 347.422,61                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 30% de deságio sobre o valor de avaliação.    20974 Santander - Alienação Fiduciária - D.20974]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>499068.68</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7005b571-5c90-462a-b0d2-cc2599290d95.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8de7f2b5-6373-44fe-9896-c1a04d7263b2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7acc35b2-1b0b-437e-9c27-3ef2ead18107.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2648ea9-a171-454f-9836-b7cb8b715374.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua 35, Lote 16 da quadra 69]]></endereco>
+        <localidade><![CDATA[Loteamento Jardim da Barragem II, Águas Lindas de Goiás, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[72920-217]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3113242]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3113242]]></codigoReferencia>
+      <titulo><![CDATA[Loja 43m², Ocupado, Consolação, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Loja 43m², Ocupado, Consolação, em São Paulo/SP  Loja 43m², Ocupado, Consolação, em São Paulo/SP  Localização: Rua Rego Freitas, nº 306, térreo do Prédio Ibicaba, Consolação, em São Paulo/SP  -  CEP: 01220-010  área construída de 50,30m² área útil de 43,50m² fração ideal de 1/16 avos no terreno  Matrícula: 63.803 do 5º Cartório de Registro de Imóveis de São Paulo/SP Inscrição Prefeitura: 007.068.0043-5  DOSSIÊ: 20489  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 2.567.820,86  2ª Praça: Abertura: 29/11/2023 a partir das 09h51 Fechamento: 30/11/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 2.299.318,05                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 10% de deságio sobre o valor de avaliação.    20489 Santander - Alienação Fiduciária - D.20489]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2567820.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/08bfb791-5738-4a07-920f-e8832d2215c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fb521cf-5a2a-4101-b06a-50213ddf8841.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bf3fe25-45c2-489b-86fe-8bbe38812ffc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Rego Freitas, 306]]></endereco>
+        <localidade><![CDATA[Consolação, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01220-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3113548]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3113548]]></codigoReferencia>
+      <titulo><![CDATA[Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP]]></titulo>
+      <descricao><![CDATA[Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP  Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP  Localização: Rua Edwirges de Carvalho Chaim, nº 55,  Apto nº 62, Condomínio Edifício ¿Villaggio V¿,  Ribeirão Preto/SP  -  CEP: 14056-130  área total de 90,644525m² área útil 70,7687m²  área comum de 19,875825m²  Matrícula: 104.191 do 1º Oficial de Registro de Imóveis de Ribeirão Preto/SP Inscrição Prefeitura: 223.559  DOSSIÊ: 20540  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 10h30 com Valor Mínimo de Venda de R$ 206.434,34  2ª Praça: Abertura: 29/11/2023 a partir das 10h31 Fechamento: 30/11/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 187.793,70                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 9% de deságio sobre o valor de avaliação.    20540 Santander - Alienação Fiduciária - D.20540]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>206434.34</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f520af7a-54f5-4064-8946-8c18dc2fd19e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9592a434-ada7-4dd0-82f8-c7af40af3c84.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4c9f786f-5685-4462-8f7c-baf2b8a2b12c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48f69c16-d428-412c-adcb-9f1f22be9607.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6a2a81fc-e49b-435a-a9ce-4d36de35350e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Edwirges de Carvalho Chaim, 55]]></endereco>
+        <localidade><![CDATA[Condomínio Edifício “Villaggio V”, Ribeirão Preto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14056-130]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3113647]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3113647]]></codigoReferencia>
+      <titulo><![CDATA[Casa 39m², Ocupada, em Sidrolândia/MS]]></titulo>
+      <descricao><![CDATA[Casa 39m², Ocupada, em Sidrolândia/MS  Casa 39m², Ocupada, em Sidrolândia/MS  Localização: Rua Travessa 03, nº 35,  lote 04, quadra 08, em Sidrolândia/MS  -  CEP: 79170-000  área de terreno de 225,00m² área construída de 39,89m²  Matrícula: 14.183 do Cartório de Registro de Imóveis de Sidrolândia/MS Inscrição Prefeitura: 01020640060001  DOSSIÊ: 20960  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 30/11/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 178.425,39  2ª Praça: Abertura: 30/11/2023 a partir das 09h11 Fechamento: 01/12/2023 a partir das 13h10 com Valor Mínimo de Venda de R$ 70.000,00                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 61% de deságio sobre o valor de avaliação.    20960 Santander - Alienação Fiduciária - D.20960]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>178425.39</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acb01733-d116-4bdd-9a9b-bcf2d5e0a43e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12fd3c74-f0d7-4b8a-91fb-a7118f0f5c05.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/84e7083c-5c3a-4908-a5eb-6267bccd284f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/19030aeb-9e17-4e2e-8cdd-7c4d9bcc7dcb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b6e1db0b-2763-47ac-b572-7b0ebf2d3725.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Travessa 03, 35]]></endereco>
+        <localidade><![CDATA[quadra 08, Sidrolândia, Mato Grosso do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79170-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
