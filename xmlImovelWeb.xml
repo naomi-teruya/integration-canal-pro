@@ -18569,6 +18569,120 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3097880]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3097880]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial 329m² DESOCUPADA com 6 vagas, na Consolação, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial 329m² DESOCUPADA com 6 vagas, na Consolação, São Paulo/SP Sala Comercial 329m² DESOCUPADA com 6 vagas, na Consolação, São Paulo/SP.   Imóvel composto por:  -Conjunto nº 80, do 8º andar ou 11º pavimento do edifício Alexandre Balbo, situado à rua da Consolação nºs 881 e 893, no 7º Subdistrito-Consolação, tem a área total de 242, 439m², sendo 163,888m², de área útil e 78,551m², de área comum e a fração ideal de 2,606% nas coisas comuns e no terreno. Matrícula 28.351 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0424-6. -Conjunto nº 81, do 8º andar ou 11º pavimento do edifício Alexandre Balbo, situado à rua da Consolação nºs 881 e 893, no 7º Subdistrito-Consolação, tem a área total de 242, 439m², sendo 163,888m², de área útil e 78,551m², de área comum e a fração ideal de 2,606% nas coisas comuns e no terreno. Matrícula 28.352 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0425-4. -Vaga de garagem de nº 53 (Conforme convenção condominial). Matrícula 28.354 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0491-2. -Vaga de garagem de nº 54 (Conforme convenção condominial). Matrícula 28.355 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0492-0. -Vaga de garagem de nº 55 (Conforme convenção condominial). Matrícula 28.356 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0493-9. -Vaga de garagem de nº 56 (Conforme convenção condominial). Matrícula 28.357 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0494-7. -Vaga de garagem de nº 57 (Conforme convenção condominial). Matrícula 28.358 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0495-5. -Vaga de garagem de nº 58 (Conforme convenção condominial). Matrícula 28.353 do 5º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 010.014.0496-3.  Próximo ao Parque Augusta e diversos comércios. A 260 metros da estação Higienópolis-Mackenzie (linha 4 amarela)  - Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio até a data da venda. Valor aproximado de IPTU Anual: R$ 9.392,82 Valor aproximado de Condomínio: R$ 4.382,00                                                                                                                                                                                                                                  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condição de Pagamento: À vista 3 - Percentual de desconto: 37% de deságio sobre o valor de avaliação.  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado. 5 - A comissão de 5% não está inclusa no preço do imóvel e deverá ser paga pelo comprador.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. Sold Imóveis - CADIC - Sala Comercial]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2050000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8892190a-230a-4fa4-baf5-f03afcc89444.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/076c2d93-b107-40a0-90f1-286e863cf5d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c395d7ca-1480-4018-b1ff-66e4d4b9690c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f1c2611d-53de-486d-a581-9f266686c319.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/87e736db-2fd1-4bd5-becf-f88a60d7a3bc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb66fdb9-d8dd-41e9-9490-53c8cf1c0cd7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6068e58c-a92c-4fd3-9789-ac715de29f91.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/370340a2-1db4-410c-80ef-d9a71f321803.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91e5ef07-1ed8-4c00-ac15-f8ed520f40a1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ebefe0a-345f-4698-b9b5-ff8786746ab4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ec38b688-6e3c-4594-84f2-7566d41a2378.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/216b7d05-226c-42bb-b101-45c75e824dd8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e5369652-fef1-442d-ae87-c4cde67a9631.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b94464e5-dad7-4e80-a91a-95e25ab488b3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea28c0d5-8f44-41e3-9ea0-4f4d4008d741.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d378fa04-bc83-455a-8cc5-cc65ed6f98b1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d482c003-6d67-4d42-8993-35d2a6b8329a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7aaf2579-bc61-421f-91b8-2aef1371efbb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7bcc357c-85e7-4e50-abc6-d141192d169f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua da Consolação, 881 e 893]]></endereco>
+        <localidade><![CDATA[conj. 80 e 81, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01345-900]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
