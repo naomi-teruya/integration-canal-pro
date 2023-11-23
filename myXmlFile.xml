@@ -9674,6 +9674,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3099778</ListingID>
+      <Title>Chácara 41.276m² DESOCUPADA, Lot. Pinheirinho em Jundiaí/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3099778</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a002a287-9e62-447d-8f29-05c55d9b5c21.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/29f44b85-e823-4525-b7fc-bfe4fb7a04fb.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b6114562-d88d-4ed2-8eff-3de031b489a7.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8c206c43-b0d3-4fcf-ac4f-52c873d214ae.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Chácara 41.276m² DESOCUPADA, Lot. Pinheirinho em Jundiaí/SP Uma gleba de terras destacada de um sítio, que foi desmembrado da Chácara Marcos Leite, no bairro da Agua Fria, nesta cidade de Jundiaí/SP, contendo como benfeitorias a casa antiga sede do sítio, duas casas de residência, uma cozinha independente, um lago e outros melhoramentos pertinentes, com a área de 41.276,00m² mais ou menos, medindo 242,05 metros de frente para a Estrada da Chácara Marcos Leite; do lado direito de quem da estrada olha o imóvel mede 266,50 metros e confronta com Adão Basso e João Aparecido Basso; do lado esquerdo mede 214,00 metros e confronta com a área do DER, ligando a Via Anhanguera KM. 62 com estrada de Jundiaí-Itatiba; aos fundos mede 129,50 metros pelo córrego; deflete à direita abandonando o córrego segue 24,40 metros confrontando com Edison de Toledo; deflete à esquerda e segue mais 33,75 metros confrontando com Felix Sumaca. Matrícula 57.775 do 1º Cartório de Registro de Imóveis de Jundiaí/SP. Cadastrado na Prefeitura Municipal sob n°: 36.001.0015.  - Imóvel DESOCUPADO.  Imóvel próximo à comércios, 5KM do Maxi Shopping, 6KM do Centro e 3KM do Parque da Cidade Principal Via de acesso: Rod. João Cereser  O imóvel será entregue livre de quaisquer débitos de IPTU até a data da venda. Valor aproximado de IPTU Anual: R$ 7085,28                                                                                                                                                                                                                                  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condição de Pagamento: À vista 3 - A comissão de 5% não está inclusa no preço do imóvel e deverá ser paga pelo comprador.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602. Sold Imóveis - Venda Direta]]></Description>
+        <ListPrice currency="BRL">10700000</ListPrice>
+        <LivingArea unit="square metres">41.276</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Jundiaí/SP">Sem sigla</State>
+        <City>Lt. Pinheirinho</City>
+        <Address>Rodovia João Cereser</Address>
+        <StreetNumber>S</StreetNumber>
+        <PostalCode>eirantes)</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
