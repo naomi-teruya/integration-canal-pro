@@ -6937,11 +6937,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Torre B do Edifício Residencial Fit Jardim Botânico">Sem sigla</State>
-        <City>apto 406</City>
+        <State abbreviation="PB">Paraíba</State>
+        <City>João Pessoa</City>
         <Address>Rua Etelvina Macedo de Mendonça</Address>
         <StreetNumber>516</StreetNumber>
-        <PostalCode>Bairro da Torre em João Pessoa</PostalCode>
+        <PostalCode>58040-530</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7266,11 +7266,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Lote 7">Sem sigla</State>
-        <City>Quadra 181</City>
+        <State abbreviation="MT">Mato Grosso</State>
+        <City>Água Boa</City>
         <Address>Rua 29</Address>
         <StreetNumber>485</StreetNumber>
-        <PostalCode>Bairro Operário</PostalCode>
+        <PostalCode>78635-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7300,11 +7300,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Pirituba">Sem sigla</State>
-        <City>Edificio Indaiá</City>
-        <Address>Av. Raimundo Pereira de Magalhães n° 2199</Address>
-        <StreetNumber>apto 168</StreetNumber>
-        <PostalCode>São Paulo</PostalCode>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Pirituba</City>
+        <Address>Av. Raimundo Pereira de Magalhães</Address>
+        <StreetNumber>2199</StreetNumber>
+        <PostalCode>05145-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7639,11 +7639,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Jundiaí/SP">Sem sigla</State>
-        <City>Lt. Pinheirinho</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Jundiaí</City>
         <Address>Rodovia João Cereser</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>eirantes)</PostalCode>
+        <StreetNumber>S/N</StreetNumber>
+        <PostalCode>13214-470</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8316,11 +8316,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Porto Alegre/RS">Sem sigla</State>
-        <City>Cascata</City>
-        <Address>Av. Professor Oscar Pereira 3997</Address>
-        <StreetNumber>4007</StreetNumber>
-        <PostalCode>91710-000 e 91720-120</PostalCode>
+        <State abbreviation="RS">Rio Grande do SUl</State>
+        <City>Porto Alegre</City>
+        <Address>Av. Professor Oscar Pereira</Address>
+        <StreetNumber>3997</StreetNumber>
+        <PostalCode>91710-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
