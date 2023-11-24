@@ -7076,11 +7076,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Montanhão">Sem sigla</State>
-        <City>Apto. 12</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Bernardo do Campo</City>
         <Address>Rua Professora Adelia Alves Martins</Address>
         <StreetNumber>164</StreetNumber>
-        <PostalCode>São Bernardo do Campo</PostalCode>
+        <PostalCode>09791-405</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7109,11 +7109,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Bloco A">Sem sigla</State>
-        <City>Edifício Villa Del Fiume</City>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Porto Alegre</City>
         <Address>Avenida Padre Cacique</Address>
         <StreetNumber>354</StreetNumber>
-        <PostalCode>Bairro Menino Deus em Porto Alegre</PostalCode>
+        <PostalCode>90810-240</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7144,9 +7144,9 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Condomínio Residencial Sophia”">Sem sigla</State>
-        <City>Casa “03-B”</City>
-        <Address>Localização: Rua Zínia</Address>
+        <State abbreviation="SP”">São Paulo</State>
+        <City>Vargem Grande Paulista</City>
+        <Address>Rua Zínia</Address>
         <StreetNumber>515</StreetNumber>
         <PostalCode>Vargem Grande Paulista</PostalCode>
       </Location>
@@ -7233,11 +7233,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Edificio Domingos Cucolo">Sem sigla</State>
-        <City>apto 41</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Lins</City>
         <Address>Rua XV de Novembro</Address>
         <StreetNumber>61</StreetNumber>
-        <PostalCode>Centro</PostalCode>
+        <PostalCode>16400-035</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
