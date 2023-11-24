@@ -8616,7 +8616,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Visconde de Rio Branco, nº 969]]></endereco>
-        <localidade><![CDATA[bairro Lagoa, Rio Grande/RS, Brasil]]></localidade>
+        <localidade><![CDATA[bairro Lagoa, Rio Grande, Rio Grande do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[96211-011]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -8760,7 +8760,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Araxá, 468]]></endereco>
-        <localidade><![CDATA[bairro Colégio Batista, em Belo Horizonte, Minas Gerais, Brasil]]></localidade>
+        <localidade><![CDATA[bairro Colégio Batista, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
         <codigoPostal><![CDATA[31110-272]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -8880,7 +8880,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Basílio Veiga dos Santos, 240]]></endereco>
-        <localidade><![CDATA[Conjunto Habitacional Jardim Dom Bernardo José Mielli, em Ribeirão Preto, São Paulo, Brasil]]></localidade>
+        <localidade><![CDATA[Conjunto Habitacional Jardim Dom Bernardo José Mielli, Ribeirão Preto, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14057-330]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -9180,7 +9180,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua 14, Lote  05 da Quadra 10]]></endereco>
-        <localidade><![CDATA[Loteamento Recanto I do Paranapanema, em Paranapanema, São Paulo, Brasil]]></localidade>
+        <localidade><![CDATA[Loteamento Recanto I do Paranapanema, Paranapanema, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[04027-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -9924,7 +9924,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Jéssica Rolão da Silva, 223]]></endereco>
-        <localidade><![CDATA[Harmonia, em Canoas, Rio Grande do Sul, Brasil]]></localidade>
+        <localidade><![CDATA[Harmonia, Canoas, Rio Grande do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[92314-080]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -10182,7 +10182,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Estrada de Santa Rosa, 266]]></endereco>
-        <localidade><![CDATA[398, Condomínio Terra Nova Campos I, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Campos dos Goytacazes, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[28085-500]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -10302,7 +10302,7 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua José de Alencar, 160]]></endereco>
-        <localidade><![CDATA[no Bairro Rio Branco, em Novo Hamburgo, Rio Grande do Sul, Brasil]]></localidade>
+        <localidade><![CDATA[Bairro Rio Branco, Novo Hamburgo, Rio Grande do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[93310-210]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -11853,8 +11853,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Cláudio, 422]]></endereco>
-        <localidade><![CDATA[São Paulo, SP, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brasil]]></codigoPostal>
+        <localidade><![CDATA[Água Branca, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[05043-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -11951,7 +11951,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Olga Corrêa Guimarães Cleto, 215]]></endereco>
-        <localidade><![CDATA[Itapetininga, SP, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Vila Piedade, Itapetininga, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brasil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12075,8 +12075,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Alameda dos Nhambiquaras, 1755]]></endereco>
-        <localidade><![CDATA[São Paulo, SP, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brasil]]></codigoPostal>
+        <localidade><![CDATA[Indianópolis, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04090-013]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12436,7 +12436,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Lamartine Ventura, 55]]></endereco>
-        <localidade><![CDATA[São Bernardo do Campo, SP, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Nova Petrópolis, São Bernardo do Campo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12514,7 +12514,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. João Batista Santanna, 215]]></endereco>
-        <localidade><![CDATA[Ribeirão Preto, SP, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Distrito de Bonfim Paulista, Ribeirão Preto, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12583,7 +12583,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Av. Gov. Virgílio Távora, 14]]></endereco>
-        <localidade><![CDATA[Juazeiro do Norte, CE, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Pio XII, Juazeiro do Norte, Ceará, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12643,7 +12643,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Paes de Andrade, 327]]></endereco>
-        <localidade><![CDATA[Ponta Grossa, PR, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Nova Rússia, Ponta Grossa, Paraná, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12787,8 +12787,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Gustavo Zimmermann, 2088]]></endereco>
-        <localidade><![CDATA[Blumenau, SC, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brazil]]></codigoPostal>
+        <localidade><![CDATA[Itoupava Central, Blumenau, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[89062-101]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12856,7 +12856,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Atlântico, 884]]></endereco>
-        <localidade><![CDATA[Pereira Barreto, SP, Sem sigla, Brasil]]></localidade>
+        <localidade><![CDATA[Pereira Barreto, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -12931,8 +12931,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Bangu, 233]]></endereco>
-        <localidade><![CDATA[Campo Grande, MS, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brazil]]></codigoPostal>
+        <localidade><![CDATA[Vila Almeida, Campo Grande, Mato Grosso do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79112-210]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13000,8 +13000,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Filemon Marcelino de Araújo, 185]]></endereco>
-        <localidade><![CDATA[Santa Helena de Goiás, GO, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brazil]]></codigoPostal>
+        <localidade><![CDATA[Parque Res. Isaura, Santa Helena de Goiás, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[75920-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13063,8 +13063,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[R. Monte Cassino, 547]]></endereco>
-        <localidade><![CDATA[São Paulo, SP, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Brazil]]></codigoPostal>
+        <localidade><![CDATA[ Jardim Sao Bento, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[02526-010]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13123,8 +13123,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Etelvina Macedo de Mendonça, 516]]></endereco>
-        <localidade><![CDATA[nº 516, apto 406, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Bairro da Torre em João Pessoa]]></codigoPostal>
+        <localidade><![CDATA[Bairro da Torre, João Pessoa, Paraíba, Brasil]]></localidade>
+        <codigoPostal><![CDATA[58040-530]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13384,8 +13384,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Professora Adelia Alves Martins, 164]]></endereco>
-        <localidade><![CDATA[Cond. Res. Millennium IV, Apto. 12, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[São Bernardo do Campo]]></codigoPostal>
+        <localidade><![CDATA[Montanhão, São Bernardo do Campo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09791-405]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13444,8 +13444,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Avenida Padre Cacique, 354]]></endereco>
-        <localidade><![CDATA[Apto 801, Edifício Villa Del Fiume, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Bairro Menino Deus em Porto Alegre]]></codigoPostal>
+        <localidade><![CDATA[Bairro Menino Deus, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90810-240]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13509,9 +13509,9 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Localização: Rua Zínia, 515]]></endereco>
-        <localidade><![CDATA[nº 515, Casa “03-B”, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Vargem Grande Paulista]]></codigoPostal>
+        <endereco><![CDATALocalização: Rua Zínia, 515]]></endereco>
+        <localidade><![CDATA[Narita Garden, Vargem Grande Paulista, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06730-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13673,8 +13673,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua XV de Novembro, 61]]></endereco>
-        <localidade><![CDATA[nº 61, apto 41, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Centro]]></codigoPostal>
+        <localidade><![CDATA[Centro, Lins, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[16400-035]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13733,8 +13733,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua 29, 485]]></endereco>
-        <localidade><![CDATA[nº 485, Quadra 181, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[Bairro Operário]]></codigoPostal>
+        <localidade><![CDATA[Bairro Operário, Água Boa, Mato Grosso, Brasil]]></localidade>
+        <codigoPostal><![CDATA[78635-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13795,8 +13795,8 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Av. Raimundo Pereira de Magalhães n° 2199, apto 168]]></endereco>
-        <localidade><![CDATA[apto 168, Edificio Indaiá, Sem sigla, Brasil]]></localidade>
+        <endereco><![CDATA[Av. Raimundo Pereira de Magalhães, 2199]]></endereco>
+        <localidade><![CDATA[Pirituba, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[São Paulo]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -14060,7 +14060,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Adelino Sola, 19]]></endereco>
-        <localidade><![CDATA[Jardim Santa Adelaide, em Cambé, Paraná, Brasil]]></localidade>
+        <localidade><![CDATA[Jardim Santa Adelaide, Cambé, Paraná, Brasil]]></localidade>
         <codigoPostal><![CDATA[86192-130]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -14461,9 +14461,9 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Rodovia João Cereser, S]]></endereco>
-        <localidade><![CDATA[N, Lt. Pinheirinho, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[eirantes)]]></codigoPostal>
+        <endereco><![CDATA[Rodovia João Cereser, S/N]]></endereco>
+        <localidade><![CDATA[Lt. Pinheirinho, Jundiaí, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13214-470]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -15907,9 +15907,9 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Av. Professor Oscar Pereira 3997, 4007]]></endereco>
-        <localidade><![CDATA[e Estrada dos Alpes nº 246 e 272 (Conforme IPTU nº é 256), Cascata, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[91710-000 e 91720-120]]></codigoPostal>
+        <endereco><![CDATA[Av. Professor Oscar Pereira, 3997]]></endereco>
+        <localidade><![CDATA[Cascata, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[91710-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -17017,7 +17017,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Rua Tenente Abel Cunha, 116-Fundos]]></endereco>
+        <endereco><![CDATA[Rua Tenente Abel Cunha, 116]]></endereco>
         <localidade><![CDATA[Higienópolis, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[21050-540]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
@@ -17581,7 +17581,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Rua Monte Azul, 1.060]]></endereco>
+        <endereco><![CDATA[Rua Monte Azul, 1060]]></endereco>
         <localidade><![CDATA[Vila Marly, Campo Grande, Mato Grosso do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[79117-020]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
@@ -18050,7 +18050,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Avenida Eugênio Borges, 1.615]]></endereco>
-        <localidade><![CDATA[Quadra A, Condomínio Residencial Via Oceânica no Bairro Arsenal  São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
+        <localidade><![CDATA[Bairro Arsenal, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[24755-451]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
