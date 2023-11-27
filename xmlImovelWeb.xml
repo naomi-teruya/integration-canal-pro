@@ -13509,7 +13509,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATALocalização: Rua Zínia, 515]]></endereco>
+        <endereco><![CDATA[Rua Zínia, 515]]></endereco>
         <localidade><![CDATA[Narita Garden, Vargem Grande Paulista, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[06730-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
