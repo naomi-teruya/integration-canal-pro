@@ -6459,13 +6459,13 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/abcbb891-88ab-40b0-b589-413ab8dbcfe8.jpg</Item>
       </Media>
       <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Commercial / Industrial</PropertyType>
         <Description><![CDATA[Galpão Comercial 1.950m² no Capão Redondo/SP - Desocupado Galpão Comercial 1.950m² no Capão Redondo/SP  -  Galpão Comercial com 904,63m² de área construida, edificado sobre um terreno situado à Rua Moenda n° 399 no Jardim Dom José, Capão Redondo/SP, com área total de 1950m²  . Matrícula nº 151.606 11° Cartorio do RGI de SP. Inscrição Cadastral n° 1810210005-1  Imóvel Desocupado.  =============================================  Imóvel localizado em Zona Mista, podendo ter uso industrial ou residencial.  O imóvel será entregue livre de débitos de IPTU. Valor aproximado de IPTU R$ 14.980,00 anual                                                                                                                                                                                                                     Informações Relevantes:  1 - IPTU = Eventuais débitos existentes até a data da escritura serão de responsabilidade da comitente vendedora. 2 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 3 - CONDIÇÕES DE PAGAMENTO: À vista. 4 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 11 4950-9602 1 Sold Imóveis - Galpão Comercial Desocupado - Leilão]]></Description>
         <ListPrice currency="BRL">1500000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
+        <LivingArea unit="square metres">1950</LivingArea>
+        <Bedrooms>0</Bedrooms>
+        <Bathrooms>0</Bathrooms>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
