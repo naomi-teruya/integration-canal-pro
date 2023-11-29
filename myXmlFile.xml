@@ -7940,11 +7940,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="15133-014">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Mirassol</City>
         <Address>R. José Moura de Carvalho</Address>
         <StreetNumber>2644</StreetNumber>
-        <PostalCode>Brasil</PostalCode>
+        <PostalCode>15133-014</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
