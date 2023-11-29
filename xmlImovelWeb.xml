@@ -15507,6 +15507,132 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3122762]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3122762]]></codigoReferencia>
+      <titulo><![CDATA[Casa 213m², Ocupado na Vila Monlevade, Bauru/SP]]></titulo>
+      <descricao><![CDATA[Casa 213m², Ocupado na Vila Monlevade, Bauru/SP  Casa 213m², Oucpado na Vila Monlevade, Bauru/SP - O prédio residencial construído de madeira e coberto de telhas, sob nº 4-54 da Rua Vespaziano Bastazini, e seu respectivo terreno, corresponde ao lote 3-D, da quadra K, da Vila Cardia, nesta cidade de Bauru/SP, cadastro na prefeitura municipal sob nº 3/250/11, com a área de 213,00m², medindo 10,00 metros de frente e de fundos, por 21,30 metros de cada lado, da frente aos fundos, e que confronta: pela frente com a referida Rua Vespaziano Bastazini; de um lado com Jose Benedito de Oliveira; de outro lado com João Germano; e nos fundos com Manoel Pedrosa. Conforme Av.01, o prédio residência construído de madeira, foi demolido. Conforme Av.02, foi construído um prédio residencial de alvenaria de tijolo, contendo 1 abrigo para auto, 1 living, 1 copa-cozinha, 1 circulação, 1 banheiro w.c., 3 dormitórios, sendo 1 com banheiro conjugado, e 1 área de serviço, e nos fundos uma edícula contendo 1 despejo, 1 banheiro w.c. e área de serviço; que recebeu o nº 4-54 pela Rua Vespaziano Bastazini. Matrícula sob nº 19.823 do 2º Cartório de Registro de Imóveis de Bauru/SP. Cadastrado na Prefeitura Municipal sob n° 30250011.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 08/Dez/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 459.378,93.     2ª Praça:  Abertura: 08/Dez/2023 a partir das 09h01  Fechamento: 13/Dez/2023 a partir das 14h00 com Valor Mínimo de Venda de R$ 180.456,34.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Para maiores informações, dúvidas relativas ao edital, e/ou matricula por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 60% de deságio sobre o valor de avaliação.  Ourinvest - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>459378.93</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/783947e1-c6ff-4d39-bffb-bc789f420d2f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2556c7ee-540b-4423-8c6b-51b00da63bfd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d49cf69c-25aa-4ed0-99ee-a51e0fbc6ce3.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Vespaziano Bastazini, 4-54]]></endereco>
+        <localidade><![CDATA[Vila Monlevade, Bauru, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[17030-070]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3122816]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3122816]]></codigoReferencia>
+      <titulo><![CDATA[Terreno 175m², Ocupado no Portal Dos Pássaros em Mairinque/SP]]></titulo>
+      <descricao><![CDATA[Terreno 175m², Ocupado no Portal Dos Pássaros em Mairinque/SP  Terreno 175m², Ocupado no Portal Dos Pássaros em Mairinque/SP - Lote de terreno sob nº 34, da Quadra M, do loteamento Portal Dos Pássaros, destinado ao uso residencial, situado neste município e comarca de Mairinque/SP, com a seguinte descrição: mede 7,00 metros de frente para a Rua 11; do lado direito de quem da rua olha o imóvel, mede 25,00 metros, confrontando com o lote 35; do lado esquerdo mede 25,00 metros, confrontando com o lote 33; e nos fundos, mede 7,00 metros, confrontando com o sistema de lazer 10; encerrando a área de 175,00m². Matrícula sob nº 6.675 do Cartório de Oficio do Registro de Imóveis de Mairinque/SP. Cadastrado na Prefeitura Municipal sob n° 01-03-165-0098-001.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 08/Dez/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 110.893,22.     2ª Praça:  Abertura: 08/Dez/2023 a partir das 09h31  Fechamento: 13/Dez/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 70.113,84.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - O endereço na Matriucla do imóvel é Rua 11, e no carne de ITBI é Rua Ideir Dos Reis Dias Faustino. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Para maiores informações, dúvidas relativas ao edital, e/ou matricula por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602     Percentual de desconto: 36% de deságio sobre o valor de avaliação.  Ourinvest - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>110893.22</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6e708842-cd0d-4479-a906-8797b9e7faa4.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua 11, (Rua Ideir Dos Reis Dias Faustino]]></endereco>
+        <localidade><![CDATA[Loteamento Portal Dos Pássaros, Mairinque, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[18120-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
