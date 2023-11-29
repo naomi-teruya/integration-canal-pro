@@ -7880,16 +7880,16 @@ MATRÍCULA 341.295 - IMÓVEL: VAGA DE GARAGEM SIMPLES nº 74, localizada no 3º 
 Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
         <ListPrice currency="BRL">4074543.9</ListPrice>
         <LivingArea unit="square metres">864</LivingArea>
-        <Bedrooms>2</Bedrooms>
+        <Bedrooms>5</Bedrooms>
         <Bathrooms>1</Bathrooms>
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="05724-002">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
         <Address>Av. Giovanni Gronchi</Address>
         <StreetNumber>4864</StreetNumber>
-        <PostalCode>Brasil</PostalCode>
+        <PostalCode>05724-002</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
