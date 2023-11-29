@@ -11866,22 +11866,12 @@ Observação: essas são as características originais do imóvel, que podem ter
       <titulo><![CDATA[Galpão Comercial 1.950m² no Capão Redondo/SP - Desocupado]]></titulo>
       <descricao><![CDATA[Galpão Comercial 1.950m² no Capão Redondo/SP - Desocupado Galpão Comercial 1.950m² no Capão Redondo/SP  -  Galpão Comercial com 904,63m² de área construida, edificado sobre um terreno situado à Rua Moenda n° 399 no Jardim Dom José, Capão Redondo/SP, com área total de 1950m²  . Matrícula nº 151.606 11° Cartorio do RGI de SP. Inscrição Cadastral n° 1810210005-1  Imóvel Desocupado.  =============================================  Imóvel localizado em Zona Mista, podendo ter uso industrial ou residencial.  O imóvel será entregue livre de débitos de IPTU. Valor aproximado de IPTU R$ 14.980,00 anual                                                                                                                                                                                                                     Informações Relevantes:  1 - IPTU = Eventuais débitos existentes até a data da escritura serão de responsabilidade da comitente vendedora. 2 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 3 - CONDIÇÕES DE PAGAMENTO: À vista. 4 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 11 4950-9602 1 Sold Imóveis - Galpão Comercial Desocupado - Leilão]]></descricao>
       <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
+        <idTipo><![CDATA[1005]]></idTipo>
+        <idSubTipo><![CDATA[20]]></idSubTipo>
+        <tipo><![CDATA[Comercial]]></tipo>
+        <subTipo><![CDATA[Galpão/Depósito/Barracão]]></subTipo>
       </tipoPropriedade>
       <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
