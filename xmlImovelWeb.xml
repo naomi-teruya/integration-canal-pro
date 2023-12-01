@@ -14962,69 +14962,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3119963]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3119963]]></codigoReferencia>
-      <titulo><![CDATA[Casa 250m² no Butantã em São Paulo/SP - Ocupado]]></titulo>
-      <descricao><![CDATA[Casa 250m² no Butantã em São Paulo/SP - Ocupado  Casa 250m² no Butantã em São Paulo/SP - Ocupado     Localização: Rua Ministro Heitos Bastos Tigre n° 732 - Butantã - São Paulo/SP - CEP: 05634-060     Área total: 250m²     Matrícula: nº 80.163   RGI: 18º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 123.031.0015-0     DOSSIÊ: 17378     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.407.026,69     2ª Praça:  Abertura: 04/Jan/2024 a partir das 09h31  Fechamento: 05/jan/2024 a partir das 16h20 com Valor Mínimo de Venda de R$ 109.684,85     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 86% de deságio sobre o valor de avaliação.  17378 Santander - Alienação Fiduciária - D.17378]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1407026.69</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e4aaf928-261f-4290-96b1-271f4575692c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4e3df256-e454-41de-8bfc-827eb0cfafe6.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Ministro Heitos Bastos Tigre n° 732, Butantã]]></endereco>
-        <localidade><![CDATA[Butantã, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[05634-060]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3120935]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3120935]]></codigoReferencia>
       <titulo><![CDATA[Apto. 65m², no Cohama em São Luis/MA]]></titulo>
