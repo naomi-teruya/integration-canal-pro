@@ -6982,66 +6982,6 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3080698]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3080698]]></codigoReferencia>
-      <titulo><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP  Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP ENDEREÇO: Rua Joel Jorge de Melo, nº 132,  Apto 62 - Edifício Módulo I, Vila Mariana, São Paulo/SP - CEP 04128-080  área total: 119,00m² área privativa: 95,60m²  Matrícula: 228.468 do 14º CRI São Paulo/SP Inscrição Prefeitura: 042.054.0085-3  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>669200</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Joel Jorge de Melo, 132]]></endereco>
-        <localidade><![CDATA[Vila Mariana, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[04128-080]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3080701]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3080701]]></codigoReferencia>
       <titulo><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS]]></titulo>
