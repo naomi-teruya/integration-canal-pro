@@ -17427,6 +17427,342 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3124168]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3124168]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 139m², 2 vagas na Vila Floriano, Pereira Barreto/SP]]></titulo>
+      <descricao><![CDATA[Apto. 139m², 2 vagas na Vila Floriano, Pereira Barreto/SP  Apartamento - na Vila Floriano  Localização: R. Atlantico, nº 884, Cond. Res. The River, Apto. D23, Vila Floriano, Pereira Barreto/SP, 15370-622  Área Privativa: 139m² Área Comum: 44m² Descrição Interna: (sala de dois ambientes, lavabo, cozinha, varanda gourmet, lavanderia, hall, 01 suíte, dois quartos e banheiro social) 02 vagas  Matrícula: nº 30.467 RGI: Cartório de Registro de Imóveis de Pereira Barreto/SP Inscrição Prefeitura: 2091201  DOSSIÊ: 02.20833  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 12/Dez/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 335.428,93   2ª Praça: Abertura: 12/Dez/2023 a partir das 09h31 Fechamento: 13/Dez/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 236.374,15                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 30% de deságio sobre o valor de avaliação.  20833 Santander - Alienação Fiduciária - D.02.20833]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>335428.93</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c24bcad1-f7f3-48b9-9318-a16eebef5733.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dcfe7b5d-0db8-491e-b6ce-eed96d7212d3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5fbfbb72-b0e9-4aaa-a924-1394f97701fe.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/da9cde79-5f65-41e5-9282-240685c48416.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Atlantico, 884]]></endereco>
+        <localidade><![CDATA[Vila Floriano, Pereira Barreto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15370-622]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3124207]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3124207]]></codigoReferencia>
+      <titulo><![CDATA[Casa 363m², no Setor Gentil Meireles, Goiania/GO]]></titulo>
+      <descricao><![CDATA[Casa 363m², no Setor Gentil Meireles, Goiania/GO  Casa - no Setor Gentil Meireles  Localização: R. Espinos, nº 0, Lote 2, Quadra 26, Setor Gentil Meireles, Goiania/GO, 74575-160  Área Terreno: 363m² Área Construída: 250m² Descrição Interna: (Pavimento inferior: sala de estar, copa, cozinha, banheiro social, dois quartos, área de serviço, barracão com dois cômodos e banheiro; Pavimento  Superior: sala íntima, 03 quartos, sendo um suíte com closet, banheiro social e varanda, com 04 vagas de garagem, sendo 02 cobertas)  Matrícula: nº 26.075 RGI: Cartório de Registro de Imóveis da 2ª Circunscrição de Goiânia/GO Inscrição Prefeitura: 437.026.0343.0008  DOSSIÊ: 02.20820  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 13/Dez/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 577.712,73  2ª Praça: Abertura: 13/Dez/2023 a partir das 09h51 Fechamento: 14/Dez/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 584.864,73                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  20820 Santander - Alienação Fiduciária - D.02.20820]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>577712.73</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/52fde266-3e71-4a7a-b99d-56f0495517dc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1e9975ba-359d-4d9e-96dd-3bf0263208b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3534f6e5-dbbb-4c51-aa40-44f84bce31f0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Espinos, Lote 2]]></endereco>
+        <localidade><![CDATA[Setor Gentil Meireles, Goiania, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74575-160]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3124621]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3124621]]></codigoReferencia>
+      <titulo><![CDATA[Casa 230m², no Parque Atheneu, Goiania/GO]]></titulo>
+      <descricao><![CDATA[Casa 230m², no Parque Atheneu, Goiania/GO  Casa - no Parque Atheneu  Localização: R. 15, nº 0, Lote 33, Unidade 201, Parque Atheneu, Goiania/GO, 74890-330  Área Terreno: 230m² Área Construída: 173m² Descrição Interna: (garagem, sala, banheiro social, circulação, 03 quartos sendo 01 suíte master, cozinha, circulação e área de serviço)  Matrícula: nº 19.962 RGI: Cartório de Registro de Imóveis 4ª Circunscrição de Goiânia/GO Inscrição Prefeitura: 237.046.0095.0007  DOSSIÊ: 02.20955  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 04/Jan/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 468.148,78  2ª Praça: Abertura: 04/Jan/2024 a partir das 09h41 Fechamento: 05/Jan/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 155.000,00                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 67% de deságio sobre o valor de avaliação.  20955 Santander - Alienação Fiduciária - D.02.20955]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>468148.78</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0af851a0-646a-4a0b-aa83-b556f820a6ab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54a88478-9cee-4ef4-8b5d-8fd95c6b34a1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6d8ca3d5-87b8-4d5a-aefe-c1b2111c2771.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. 15, 0]]></endereco>
+        <localidade><![CDATA[Parque Atheneu, Goiania, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74890-330]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3125804]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3125804]]></codigoReferencia>
+      <titulo><![CDATA[Casa 506m², Ocupada, na Vila Ida em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Casa 506m², Ocupada, na Vila Ida em São Paulo/SP  Casa 506m², Ocupada, na Vila Ida em São Paulo/SP - Um terreno a Rua Cardeal Cagliori, lote 14 da quadra 148, Alto dos Pinheiros, no 14º subdistrito, Lapa, medindo 18m de frente, por 25,27m da frente aos fundos do lado direito visto da rua, 27m do lado esquerdo e 21,13m nos fundos, com a área de 506m², confrontando do lado direito com o lote 13, do lado esquerdo com o lote 15 e nos fundos com os lotes 6 e 7. Conforme Av.05, foi construído um prédio que recebeu o nº 90 da Rua Cardeal Cagliori, com a área de 494m², sendo que 26,88m² corresponde a área de piscina. Matrícula nº 4852 do 10º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n° 081.008.0014-60.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Dez/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 4.021.188,90.     2ª Praça:  Abertura: 15/Dez/2023 a partir das 09h01  Fechamento: 22/Dez/2023 a partir das 15h00 com Valor Mínimo de Venda de R$ 2.952.846,64.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[506]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>4021188.9</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117cd51b-10dc-434c-a4d4-c0ab4b3106e3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b2b43630-e189-476b-b844-553c632d4174.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b24361da-11fc-47d0-b3c3-b4b16dc0d5a8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Cardeal Cagliori, 90]]></endereco>
+        <localidade><![CDATA[Vila Ida, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[05454-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3126315]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3126315]]></codigoReferencia>
+      <titulo><![CDATA[Casa 1050m², Ocupada, no Arembepe em Camaçari/BA]]></titulo>
+      <descricao><![CDATA[Casa 1050m², Ocupada, no Arembepe em Camaçari/BA  Casa 1050m², Ocupada, no Arembepe em Camaçari/BA - Lote de terreno próprio designado pelo nº 26 da quadra 06, integrante do loteamento denominado Modulo de Arembepe, sito ao lado esquerdo da Estrada Salvador à Arembepe, município de Camaçari/BA, inscrito no censo imobiliário municipal sob nº 24581, medindo 15,00m de frente, limitando-se com via pública do loteamento; 15,00m de fundo, limitando-se com o lote 10; 70,00m do lado direito, limitando-se com o lote 25; e 70,00m do lado esquerdo, limitando-se com o lote 27, todos da mesma quadra 06, perfazendo a área total de 1.050,00m². Conforme Av.02, foi construído uma casa residencial, composta de 02 pavimentos, sendo o pavimento térreo constituído de: sala, cozinha, banheiro, 02 quartos, corredor, sala de TV, varanda frontal, varanda nos fundos, área de serviço coberta, garagem lateral e escada de acesso ao primeiro pavimento; e o primeiro pavimento constituído de: sala, hall, 01 quarto com varanda coberta, 01 quarto, sendo suíte com closet e varanda coberta, escritório e varanda frontal coberta, perfazendo a área total construída de 347,31m². Conforme Av.03, conta a retificação quanto ao lote, quadra e os limites equivocadamente como sendo 26 da quadra 06, quando o correto é 08 da quadra 04, tendo os limites e confrontações; 15,00m de frente, limitando-se com a rua de acesso; 15,00m de fundo, limitando-se com o lote 23; 70,00m do lado direito, limitando-se com o lote 09, 70,00m do lado esquerdo, limitando-se com o lote 07, perfazendo a área total de 1.050,00m², constou também o numero a inscrição municipal como sendo 24581, quando o correto é 23961. Conforme Av.09, foi incluso o endereço do imóvel sendo Rua da Encarnação, s/n, Lote 08, Quadra 04, Arembepe, Camaçari/BA. Matrícula nº 31.939 do 1º Cartório de Oficio de Registro de Imóveis de Camaçari/SP. Cadastrado na Prefeitura Municipal sob n° 0000023961.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 15/Dez/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 1.030.198,51.  2ª Praça:  Abertura: 15/Dez/2023 a partir das 09h11 Fechamento: 22/Dez/2023 a partir das 15h10 com Valor Mínimo de Venda de R$ 617.784,83.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 40% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1030198.51</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/210a6027-4bb4-4440-a9bc-9ffc88a95e47.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9e4d0d3-840d-4c8e-ba62-c5d212c6da16.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97c3b563-19e6-47ae-94af-de71dc2ca748.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e60bf879-bfa7-4d4e-8d5a-2416ac3d24c3.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua da Encarnação, s]]></endereco>
+        <localidade><![CDATA[Quadra 04, Arbepe, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42823-528]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
