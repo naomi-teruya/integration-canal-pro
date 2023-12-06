@@ -3216,171 +3216,6 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <City>Praia Grande</City>
         <Address>Rua Colombia</Address>
         <StreetNumber>110</StreetNumber>
-        <PostalCode>11702-020</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3080701</ListingID>
-      <Title>Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3080701</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS  Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS ENDEREÇO: Avenida Júlio de Castilhos, 730 e 740 - Apto 507 - Edifício Guarapari,  Nossa Senhora de Lourdes, Caxias do Sul/RS  -  CEP 95010-000    área total: 87,59m² área privativa: 78,37m² área total (Vaga): 87,59m²  Matrícula: 64.983 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura (Vaga): 44.09.0082.011.073 Matrícula (Vaga): 64.935 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura: 44.09.0082.011.030  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 5 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
-        <ListPrice currency="BRL">352687</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">Rio Grande do Sul</State>
-        <City>Caxias do Sul</City>
-        <Address>Avenida Júlio de Castilhos</Address>
-        <StreetNumber>730 e 740</StreetNumber>
-        <PostalCode>95010-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3080698</ListingID>
-      <Title>Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3080698</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP  Apto 95m², 1 Vaga, Desocupado, Vila Mariana, em São Paulo/SP ENDEREÇO: Rua Joel Jorge de Melo, nº 132,  Apto 62 - Edifício Módulo I, Vila Mariana, São Paulo/SP - CEP 04128-080  área total: 119,00m² área privativa: 95,60m²  Matrícula: 228.468 do 14º CRI São Paulo/SP Inscrição Prefeitura: 042.054.0085-3  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 2 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
-        <ListPrice currency="BRL">669200</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Rua Joel Jorge de Melo</Address>
-        <StreetNumber>132</StreetNumber>
-        <PostalCode>04128-080</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3080697</ListingID>
-      <Title>Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3080697</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP  Apto 80m², 1 Vaga, Desocupado, Bela vista, em São Paulo/SP ENDEREÇO: Rua Arthur Prado, nº 166 -Apto. nº 22 - Condomínio Edifício Oxford,  Bela Vista - CEP 01322-000  área total: 89,80m² área privativa: 80,58m² área vaga garagem: 21,80m²  Matrícula: 134.604 do 1º CRI São Paulo/SP Inscrição Prefeitura: 009.057.0142-9 Matrícula vaga: 134.605 do 1º CRI São Paulo/SP Inscrição Prefeitura vaga: 009.057.0302-2  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 1 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
-        <ListPrice currency="BRL">604350</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Rua Arthur Prado</Address>
-        <StreetNumber>166</StreetNumber>
-        <PostalCode>01322-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3080703</ListingID>
-      <Title>Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3080703</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP  Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I do Paranapanema, em Paranapanema/SP ENDEREÇO: Rua 14, Lote nº 05 da Quadra 10, Loteamento Recanto I do Paranapanema, em Paranapanema/SP - CEP 04027-000  área : 1.000,00m²  Matrícula: 17.767 do CRI de Avaré/SP Inscrição Prefeitura : 12777-0  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 7 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
-        <ListPrice currency="BRL">25029.1</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>em Paranapanema</City>
-        <Address>Rua 14</Address>
-        <StreetNumber>Lote  05 da Quadra 10</StreetNumber>
-        <PostalCode>04027-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3080700</ListingID>
-      <Title>Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3080700</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP  Apto 53m², 1 Vaga, Desocupado, Guilhermina, em Praia Grande/SP ENDEREÇO: Rua Colombia, nº 110, Apto 62 - Jd. Silvestre(Guilhermina) - Residencial Rio Danúbio, Praia Grande/SP - CEP 11.702-020   área total: 86,31m² área privativa: 53,89m²  Matrícula: 90.971 do CRI Praia Grande/SP Inscrição Prefeitura: 2.03.29.001.009.0062-4  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 4 Sold Imóveis - Leilão AACD - 28/11/2023]]></Description>
-        <ListPrice currency="BRL">269460</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Praia Grande</City>
-        <Address>Rua Colombia</Address>
-        <StreetNumber>110</StreetNumber>
         <PostalCode>1.702-020</PostalCode>
       </Location>
       <ContactInfo>
@@ -3648,332 +3483,6 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
         <Address>Estrada de Santa Rosa</Address>
         <StreetNumber>266</StreetNumber>
         <PostalCode>28085-500</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100157</ListingID>
-      <Title>Prédio Comercial 209m², Ocupado no Centro de Suzano/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100157</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/4b2fd849-4f04-40c8-b2cf-64b7e0a7563b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/795689bc-f0bd-439c-9184-65b2bb4e3447.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/e71beb1c-6712-43b6-9d8e-ef40ae413a2f.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/1f1e2049-5fc2-417c-8733-38fc91f14517.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f236aeb5-b936-47ba-b92e-b4d4d2b8fa01.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Prédio Comercial 209m², Ocupado no Centro de Suzano/SP  Prédio Comercial 209m², Ocupado no Centro de Suzano/SP - Uma casa residencial, sob nº 522, situado a Rua Benjamin Constant, no perímetro urbano deste distrito, munícipio e comarca de Suzano/SP, e respectivo terreno, medindo o dito terreno 5,00 metros de frente, por 25,20 metros de frente aos fundos de ambos os lados e tendo nos fundos a mesma metragem da frente, encerrando a área de 126,00m², confrontando pela frente com a mencionada Rua Benjamin Constant; do lado direito de quem da referida rua olha para o imóvel, confronta com o prédio 514, de sucessores de Moyses Moreira; do lado esquerdo confronta com o prédio nº 526, de Jose Rachid e nos fundos confronta com o remanescente do imóvel alienado a Jose Rachid. Conforme Av.08, foi construído um prédio sob nº 522-Fundos, da Rua Benjamin Constant, com 72,00m² de área construída. Conforme Av.13, o prédio nº 522 da Rua Benjamin Constant, possui 137,00m² de área construída. Conforme Av.14, consta que o prédio nº 522, com 137,00m² de área construída e o prédio nº 522 Fundos, com 72,00m² de área construída, foram unificados em um só prédio comercial Sob nº 522 da Rua Benjamin Constante, com área construída a total de 209,00m². Matrícula nº 28.061 do Cartório de Registro de Imóveis de Suzano/SP. Cadastrado na Prefeitura Municipal sob n° 20.016.006.     Imóvel ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU.   Valor aproximado de IPTU: R$ 792,85.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Área construída na Matrícula difere da informada no IPTU. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  5 - Recai sob o imóvel a ação com processo nº 1006721-73.2023.8.26.0606.     Valor de avaliação: R$ 2.481.000,00 - percentual de desconto: 48% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas Feirão - Pagto 3x e Finan.]]></Description>
-        <ListPrice currency="BRL">1290120</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Suzano</City>
-        <Address>Rua Benjamin Constant</Address>
-        <StreetNumber>522</StreetNumber>
-        <PostalCode>08674-010</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100156</ListingID>
-      <Title>Casa 133m², Desocupada, na Vila Mariza Mazzei em São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100156</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d4916f5c-a84a-4f99-8840-5f64bd56f91b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ee9eaae0-1d24-4ff1-8387-9809e79ec565.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a4242dae-983c-4140-902b-fe9c01400fc2.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/66a9fd59-dfed-421f-b6bd-0e825131253c.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/485d7cea-cceb-4162-b244-6161f3817db3.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/40676aaa-9716-452e-8df8-e0db2847f275.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/95289f59-5578-4a5f-951d-1b1ebaaca8c1.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 133m², Desocupada, na Vila Mariza Mazzei em São Paulo/SP  Casa 133m², Desocupada, na Vila Mariza Mazzei em São Paulo/SP - Um prédio e seu respectivo terreno situado a Travessa Cristina Ruffa, sob nº 43, e servidão de passagem, no 8º Subdistrito-Santana, São Paulo/SP, medindo 12,75 metros de frente, por 12,10 metros da frente aos fundos, do lado esquerdo de quem da rua olha para o imóvel, confrontando com propriedade de Nelson Palhari, 11,65 metros da frente aos fundos, do lado direito, onde confronta com a servidão de passagem, tendo nos fundos a largura de 9,40 metros, onde confronta com Estevam Minet Neto e sua mulher, encerrando a área de 133,00m². Matrícula nº 40.775 do 3º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n° 072.200.0063-4  Imóvel Desocupado.  O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 3.750,29  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M ou Financiado com Sinal de 25% sobre o valor de arrematação - condições completas vide Edital. 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Área construída na Matrícula difere da informada no IPTU. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  Valor de avaliação: R$ 913.000,00 - percentual de desconto: 40% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas Feirão - Pagto 3x e Finan.]]></Description>
-        <ListPrice currency="BRL">547800</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Travessa Cristina Ruffa</Address>
-        <StreetNumber>43</StreetNumber>
-        <PostalCode>02432-040</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100153</ListingID>
-      <Title>Casa 383m², Ocupada no Jardim das Avenidas em Araranguá/SC</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100153</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/71d2d916-d5bc-42a8-a678-95c7c1c0e537.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/e7ce7339-c14e-433c-9fac-e53f6084b636.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/f1c7a4db-6d05-4094-a4cc-1a327ebf9820.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/80cf5376-76a7-42c3-b5ef-b37687eeb943.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/80c2aa11-a64e-4972-bb53-95b8fa6bd040.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/a9fd483d-a3b5-4918-b20f-877f7b7dc1e9.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/f79a0cc2-8009-44e1-8a1e-f9e02c260ed6.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/f7a5a791-26a7-4103-9a47-7cbdece4dad0.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/c1eeed0e-679b-49cf-8227-52eac78bd466.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/45e40be1-a57f-4a65-a89e-1a5ab216608c.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 383m², Ocupada no Jardim das Avenidas em Araranguá/SC  Casa 383m², Ocupada no Jardim das Avenidas em Araranguá/SC - Um terreno urbano, com a área de 383,50m², ou sejam 13,00m de frente por 29,50m de fundos situados na Rua J, distante 30,00 da esquina com a Rua B, nesta cidade de Araranguá/SC, constituído como sendo o lote nº 05, da quadra 51, do loteamento Jardim das Avenidas, com as seguintes confrontações: frente ao leste, com a Rua J; fundos ao oeste, com o lote nº 14; extremando ao norte, com os lotes nºs 03 e 04, e ao sul, com o lote nº 06. Conforme Av.03, o imóvel localizado na Rua J, atualmente denominada Rua Estrela do Norte e Bairro Jardim das Avenidas. Conforme Av.04, consta a construção residencial, em alvenaria, com a área de 192,07m², com 01 pavimento, 01 economia, sito a Rua Estrela do Norte, nº 303. Matrícula nº 20.094 do 1º Tabelionato de Notas e de Protestos e Oficio de Registro de Imóveis de Araranguá/SC. Cadastrado na Prefeitura Municipal sob n° 4312.  Imóvel ocupado, a desocupação correrá por conta do arrematante.  O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 247,22.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital. 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  Valor de avaliação: R$ 588.000,00 - percentual de desconto: 48% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas Feirão - Pagto 3x e Finan.]]></Description>
-        <ListPrice currency="BRL">305760</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SC">Santa Catarina</State>
-        <City>Araranguá</City>
-        <Address>Rua Estrela do Norte</Address>
-        <StreetNumber>303</StreetNumber>
-        <PostalCode>88906-016</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100152</ListingID>
-      <Title>Casa 352m² Ocupado na Vila Alemã em Rio Claro/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100152</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0c1c9978-4f00-4abf-a40f-cd5aa102a958.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8611547b-9da6-4742-98e5-f6276c760222.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1b28a5ba-0f39-4de0-a1e4-37f7c272ff86.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 352m² Ocupado na Vila Alemã em Rio Claro/SP  Casa 352m² Ocupado na Vila Alemã em Rio Claro/SP - Um prédio residencial e respectivo terreno, situado nesta cidade de Rio Claro/SP, na Vila Alemã, com frente para a Rua 4-A, sob nº 352, medindo 13,00 metros de frente; 11,10 metros na face dos fundos, por 31,15 metros da frente aos fundos, pelo lado direito e 27,38 metros pelo lado esquerdo, encerrando a área total de 352,70m², confrontando a direita de quem do imóvel olha para a Rua com o prédio nº 366, de propriedade de Rivadavia Barbosa, a esquerda com o prédio nº 348, de propriedade de Jacomo Gracioli, e aos fundos com os prédios nºs 335 e 339 da Rua 5, também de propriedade de Rivadavia Barbosa. Conforme Av.05, consta que o imóvel tem a precisão a seguinte descrição: Prédio residencial nº 352 da Rua 4-A e seu respectivo terreno situado nesta cidade de Rio Claro/SP, na Vila Alemã, entre a Avenida 30-A, (lado ímpar) e a Avenida Particular (lado Ímpar), na quadra completada pela rua 5-A, cuja a descrição consta melhor descritor na matricula do imóvel. Matrícula nº 9.392 do 1º Cartório de Oficio de Registro de Imóveis do Rio Claro/SP. Cadastrado na Prefeitura Municipal sob n° 02.13.059.0216.001/002.   Imóvel ocupado, a desocupação correrá por conta do arrematante.  O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 1.377,09.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital. 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções. 5 - Recai sob o imóvel a ação com processo nº 1005564-96.2022.8.26.0510.  Valor de avaliação: R$ 450.000,00 - percentual de desconto: 59% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Feirão]]></Description>
-        <ListPrice currency="BRL">182400</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Rio Claro</City>
-        <Address>Rua 4-A</Address>
-        <StreetNumber>352</StreetNumber>
-        <PostalCode>13506-661</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100154</ListingID>
-      <Title>Apartamento 88m² Ocupado na Pechincha no Rio de Janeiro/RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100154</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3c01e255-f85a-45c1-ab32-34d4298ebb2e.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/24cd3351-e849-4b45-b703-c99dbc45f3ab.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/75bfddcb-427c-464f-827d-9901f9541562.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/84fefb38-b7b4-4f6e-9574-fc339549cc2e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 88m² Ocupado na Pechincha no Rio de Janeiro/RJ  Apartamento 88m² Ocupado na Pechincha no Rio de Janeiro/RJ - Apartamento 108 do prédio situado na Rua Ana Silva nº 340, na freguesia de Jacarepaguá e correspondente fração de 1/9 do respectivo terreno designado por lote 54 que mede em sua totalidade 10,00m de frente e fundo, 46,00 de ambos os lados, confrontando a direita com o lote 56 de Augusto de Oliveira Góes ou sucessores, a esquerda com o prédio nº 96 e ao fundo com terreno da rua monsenhor marques de propriedade de Cia imobiliária Carioca Ltda ou sucessores. Matrícula nº 314348 do 9º Cartório de Oficio de Registro de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n° 3083122-6, CL 01161-9.  Imóvel Ocupado, a desocupação correrá por conta do arrematante.  O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio. Valor Aproximado do IPTU: R$ 941,16 Valor Aproximado do Condomínio: R$ 375,00.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital. 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções. 5 - Recai sob o imóvel a ação com processo nº 0804845-10.2023.8.19.0203.  Valor de avaliação: R$ 350.000,00 - percentual de desconto: 44% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas Feirão - Pagto 3x e Finan.]]></Description>
-        <ListPrice currency="BRL">196000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio de Janeiro</City>
-        <Address>Rua Ana Silva nº 340</Address>
-        <StreetNumber>Apartamento 108</StreetNumber>
-        <PostalCode>22740-300</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3100155</ListingID>
-      <Title>Apartamento 71m², Ocupado, 1 vaga no Boa Viagem em Niterói/RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3100155</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7d6a5919-7168-4f60-a3e4-1b88e370e3e8.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/33983bd6-dc09-48ed-aba8-f4dd2bbaafbc.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/94ebc301-62a9-45a3-a084-c41540816ca2.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/f8413810-f4ea-4d6f-8bd5-ce2c34cda24a.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento 71m², Ocupado, 1 vaga no Boa Viagem em Niterói/RJ  Apartamento 71m², Ocupado, 1 vaga no Boa Viagem em Niterói/RJ - Apartamento nº 505, do Edifício Leila, com área destinada a guarda de veículos sob pilotis, na Rua José Bonifácio, nº 30, no 2º subdistrito do 1º distrito deste município de Niterói, e respectiva fração ideal de 1/80 do terreno próprio, medindo: 23,43m de largura na frente; 32,83m de largura nos fundos, 108,00m de extensão de frente a fundos, pelo lado direito e 85,00m pelo lado esquerdo, confrontando na frente coma Rua José Bonifácio, pelo lado direito com o imóvel pertencente a Jose Nunes Ribeiro, ou sucessores, pela lado esquerdo com o imóvel pertencente a Mitra Diocesana de Niterói e nos fundos com o prédio nº 53, da Rua General Osorio. Matrícula nº 3.792 do 8º Cartório de Registro de Imóveis de Niterói/RJ. Cadastrado na Prefeitura Municipal sob n°: 114.477-3.  Imóvel ocupado, a desocupação correrá por conta do arrematante.  O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 1.033,11. Valor aproximado de Condomínio: R$ 992,15.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital. 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  Valor de avaliação: R$ 314.000,00 - percentual de desconto: 40% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas Feirão - Pagto 3x e Finan.]]></Description>
-        <ListPrice currency="BRL">204600</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Niterói</City>
-        <Address>Rua José Bonifácio</Address>
-        <StreetNumber>30</StreetNumber>
-        <PostalCode>24210-230</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3096201</ListingID>
-      <Title>Loja, Desocupado, Pelotas / RS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3096201</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d4a4fab5-d835-4085-97eb-628eca02b16d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1931dd62-e471-41d5-b02f-9cfd8d35bf65.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5b1e81d6-c228-4a6f-b096-c9fb10464a14.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/5a478838-132a-4d74-a465-8aedbd22f319.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/eb7ccfdf-8180-4632-bdf6-019055486832.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/8907b112-463f-4773-ac8f-0ccc5a292c40.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/a92a4f57-f972-4616-ab48-0825e41a5541.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/d8c5e1f7-6775-45a2-95ae-1ddc698dc7bc.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/8a046aee-8d31-4f0d-87b7-4ab725feb6a6.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/9854b7e7-565f-4533-a702-9cc6859cee0b.jpg</Item>
-        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/4db518a1-51cd-42a4-995d-bb6e1740d6d6.jpg</Item>
-        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/a105ac88-fa59-4e6d-8334-0a4cdef3c14b.jpg</Item>
-        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/9d2517aa-2414-4927-9e1f-d8f94f713331.jpg</Item>
-        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/37365a4b-0df9-4226-866d-f641abbc06e5.jpg</Item>
-        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/7b2ae5bc-07dc-41aa-bcb0-8eeb34bd9c4a.jpg</Item>
-        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/b9d462d0-1f53-4fab-a536-f60469c3de4d.jpg</Item>
-        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/9f3131b6-d83e-4119-acfd-b558231df2b5.jpg</Item>
-        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/b094c159-786e-46d9-aa0f-e39cc3d5d877.jpg</Item>
-        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/ef70fa0b-672d-42b2-93da-969c5e52dabf.jpg</Item>
-        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/0b2b0c2e-2288-4a20-be78-3003db79f551.jpg</Item>
-        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/edb8e8ed-2f41-4d70-8cfb-4433073cdee7.jpg</Item>
-        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/742f3465-1c0d-4b2e-9072-d2eb46ba3221.jpg</Item>
-        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/7b5f3a9c-27ea-42d0-88a8-be71993a3511.jpg</Item>
-        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/975adc98-4174-4c01-acec-8020efeebfd8.jpg</Item>
-        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/132c4923-dfe5-4712-be2e-f5da322331dd.jpg</Item>
-        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/38904e01-30a0-4911-8712-2ea23b995770.jpg</Item>
-        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/950b0db2-9da4-4fc8-a41c-f6a97aed2062.jpg</Item>
-        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/04acb097-84e2-408f-bf86-1ab432eac3e0.jpg</Item>
-        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/3e46a81a-4240-45f9-aaac-47d59bfe32ae.jpg</Item>
-        <Item medium="image" caption="img30">https://ms.sbwebservices.net/photos/cfd8a76e-111a-4fc6-ba38-86afcd8dfe71.jpg</Item>
-        <Item medium="image" caption="img31">https://ms.sbwebservices.net/photos/bb94ba28-137c-4a46-a75e-0129b5cc949f.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Loja, Desocupado, Pelotas / RS  Endereço Completo  Praca Coronel Pedro Osorio, 156, Loja 01 Condominio Sulbanco, Centro, Pelotas, RS, CEP: 96015010   Características do Imóvel:    Descrição:  Loja, Padrão, Desocupado. Matrícula(s): 50.759. Cartório: 2 CRI PELOTAS. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Loja  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  18310    Matrícula:  50.759  Cartório de Registro:  2 CRI PELOTAS  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 22.746,95  Condomínio Mensal:  R$ 19.860,13   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes    1. DESOCUPADO.2. OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   123324 Sold Imóveis - Santander - Ex-Agências -28.11.23]]></Description>
-        <ListPrice currency="BRL">3471000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">Rio Grande do Sul</State>
-        <City>Pelotas</City>
-        <Address>Praca Coronel Pedro Osorio</Address>
-        <StreetNumber>156</StreetNumber>
-        <PostalCode>96015010</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3096202</ListingID>
-      <Title>Prédio, Desocupado, Porto Alegre / RS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3096202</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f32f1ef5-0145-45b1-995d-b97ae57ecb89.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3405025c-4174-45d2-b322-340cf34591b4.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/da94b79f-dabd-4e24-a1b1-302283052031.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d7484dcc-a9f4-4248-8cd3-f938f4e2a9a9.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/c0cd07ef-d637-4c3d-aefa-47f4c94a0e0b.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/911feb2b-ee90-4c1d-b649-42b846ea3677.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Prédio, Desocupado, Porto Alegre / RS  Endereço Completo  Rua Sete De Setembro, 1136, Centro Historico, Porto Alegre, RS, CEP: 90010191   Características do Imóvel:    Descrição:  Prédio, Padrão, Desocupado. Área(s): 673,74 m² de área terreno, 2700 m² de área útil. Matrícula(s): 113.029,None. Cartório: CRI DO RIO GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Prédio  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  15350   Área Util:  2700.0 m2  Área Terreno:  673.74 m2  Composição Interna/Vagas:  Banheiros: 4, Salas: 6, Copas: 1   Matrícula:  113.029,None  Cartório de Registro:  CRI DO RIO GRANDE  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 63.124,20   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* DESOCUPADO* IMOVEL FOREIRO PRIVADO.VER ITEM 4.9, INCISO V DO EDITAL DE LEILAO.* ACAO JUDICIAL - DECLARATORIA - PROC. NO 0158670-84.2017.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   42418 Sold Imóveis - Santander - Ex-Agências -28.11.23]]></Description>
-        <ListPrice currency="BRL">6175000</ListPrice>
-        <LivingArea unit="square metres">2700</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>4</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">Rio Grande do Sul</State>
-        <City>Porto Alegre</City>
-        <Address>Rua Sete De Setembro</Address>
-        <StreetNumber>1136</StreetNumber>
-        <PostalCode>90010191</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -4254,329 +3763,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3112647</ListingID>
-      <Title>Apartamento, ocupado, São Bernardo Do Campo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112647</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/fcfb6102-3e02-4b74-80ec-d04758615003.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7d3047c3-61c9-4bc5-ba4b-1b7c7b6cff7e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento, ocupado, São Bernardo Do Campo/SP   Endereço Completo   Rua Lamartine Ventura, 55, Apto 51 - Edifício Ouro - 1 Vaga De Garagem, Nova Petropolis, São Bernardo Do Campo, 09770470  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Características   do Imóvel:   &nbsp;   Descrição:  Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 100,99 m² de área construída, 69,22 m² de área privativa, 31,77 m² de área comum. Matrícula(s): 68.660. Cartório: 1° CRI DE SÃO BERNARDO DO CAMPO. Inscrição da Prefeitura: 004.114.011.009.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Apartamento   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20567     &nbsp;   Matrícula:  68.660   Cartório de Registro:  1° CRI DE SÃO BERNARDO DO CAMPO   Inscrição na Prefeitura:   004.114.011.009  &nbsp;   Valor Avaliado:  R$ 300.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">206400</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>SSão Bernardo do Campo</City>
-        <Address>R. Lamartine Ventura</Address>
-        <StreetNumber>55</StreetNumber>
-        <PostalCode>09770-470</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112857</ListingID>
-      <Title>Apartamento, ocupado, Ribeirão Preto/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112857</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8ac60aa2-1a7c-45e2-abf3-13a43c70342b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9413b472-d0e5-45c2-b3b6-6c8e1f31383c.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/cebfc06c-834b-4783-a87e-32755938fe2e.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/0f5899d7-ade0-4340-ad77-557f12267168.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/61d8a701-a44a-44a7-9cda-56010a62c52c.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/6593fb4f-e360-4ead-bcb9-deeb70b726a5.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/7fdb49e8-34ec-47fc-870d-5bac23683c40.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento, ocupado, Ribeirão Preto/SP   Endereço Completo   Rua São João Batista Santanna, 215, Apto 306, Bloco 11 - Reserva Sul Resort Condominio - Vaga Dupla, Reserva Sul, Ribeirão Preto, 14022320  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Características   do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 54,01 m² de área construída, 54,01 m² de área privativa, 94,45 m² de área comum. Matrícula(s): 166.248. Cartório: 2° CRI DE RIBEIRÃO PRETO. Inscrição da Prefeitura: 302.830.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Apartamento   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20570  &nbsp;   Área Privativa: &nbsp;54,01 m2  &nbsp;   Matrícula:  166.248   Cartório de Registro:  2° CRI DE RIBEIRÃO PRETO   Inscrição na Prefeitura:  302.830  &nbsp;   Valor Avaliado:  R$ 200.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">116160</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Ribeirão Preto</City>
-        <Address>R. João Batista Santanna</Address>
-        <StreetNumber>215</StreetNumber>
-        <PostalCode>14022-320</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112858</ListingID>
-      <Title>Casa, ocupado, Juazeiro do Norte/CE</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112858</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/5b4c7eea-d6d4-4530-9d60-b1027bfca9c7.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4e63c01b-bba3-4eec-84d1-45826dfe5f23.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1cb63c4f-6cd3-4455-854c-5a3432ed8173.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/43b2c4ee-5c34-4100-b4bb-9b00f47b93e8.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, ocupado, Juazeiro do Norte/CE   Endereço Completo   Avenida Governador Virgilio Tavora, 14, Aeroporto, Juazeiro Do Norte, 63020735      Características   do Imóvel:   &nbsp;   Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 126 m² de área terreno, 51,66 m² de área construída. Matrícula(s): 20.855. Cartório: 5º CRI JUAZEIRO DO NORTE. Inscrição da Prefeitura: 30658.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20474  &nbsp;   Área Privativa: &nbsp;51,66 m2   Área Terreno: &nbsp;126 m2  &nbsp;   Matrícula:  20.855   Cartório de Registro:  5º CRI JUAZEIRO DO NORTE   Inscrição na Prefeitura:  30658  &nbsp;   Valor Avaliado:  R$ 150.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">98880</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="CE">Ceará</State>
-        <City>Juazeiro do Norte</City>
-        <Address>Av. Gov. Virgílio Távora</Address>
-        <StreetNumber>14</StreetNumber>
-        <PostalCode>63020-470</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112649</ListingID>
-      <Title>Casa, Ocupada, Ponta Grossa/PR</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112649</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/de9bd102-41bc-4d23-885c-9b2260ad960e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, Ocupada, Ponta Grossa/PR   Endereço Completo   Rua Paes De Andrade, 327, Vl Hilgembergy, Nova Rússia, Ponta Grossa, 84053380      Características   do Imóvel:   &nbsp;   Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 429 m² de área terreno, 132,37 m² de área construída. Matrícula(s): 11.310. Cartório: 1º PONTA GROSSA. Inscrição da Prefeitura: 29561.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20526  &nbsp;   Área Privativa: &nbsp;132,37 m2   Área Terreno: &nbsp;429 m2  &nbsp;   Matrícula:  11.310   Cartório de Registro:  1º PONTA GROSSA   Inscrição na Prefeitura:   29561  &nbsp;   Valor Avaliado:  R$ 430.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. AÇÃO JUDICIAL - REVISIONAL - PROC. Nº 0019178-51.2023.8.16.0019 EM TRÂMITE NA VARA CÍVEL DE PONTA GROSSA PARANÁ/PR.&nbsp;3. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS: (I) À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) DECORRENTES DA AÇÃO JUDICIAL EM TRÂMITE.&nbsp;4. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.&nbsp;5. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">294720</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="PR">Paraná</State>
-        <City>Ponta Grossa</City>
-        <Address>R. Paes de Andrade</Address>
-        <StreetNumber>327</StreetNumber>
-        <PostalCode>84053-380</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112472</ListingID>
-      <Title>Apartamento, ocupado , Blumenau/SC</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112472</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/27bb73e3-fcd7-4b66-80f4-d408011f9bf8.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/bf4796a8-7163-47d0-9fab-99c31fc2f8a4.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/22dbcd23-92c8-443a-a581-be949a7fbf0b.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/a3685094-8a9a-48df-a60b-3c21e456ac95.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/50fa2406-f901-4109-9769-208a4c6c0781.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento, ocupado , Blumenau/SC   Endereço Completo   Rua Gustavo Zimmermann, 2088, Edificio Quartzo Do Condominio Bosque Cristalli Apto2.054, Torre 2 -Vaga 98, Itoupava Central, Blumenau, 89062100&nbsp;      Características do Imóvel:   &nbsp;   Descrição:  Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 47,9 m² de área construída, 47,9 m² de área privativa, 31,15 m² de área comum. Matrícula(s): 34.341,33.415. Cartório: 3º CRI DE BLUMENAU. Inscrição da Prefeitura: 2.5.04.0001.0437.326 - CAD 137532.   Tipo do Imóvel:  Apartamento   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20332  &nbsp;   Área Privativa: &nbsp;47,9 m2  &nbsp;   Matrícula:  34.341, 33.415   Cartório de Registro:  3º CRI DE BLUMENAU   Inscrição na Prefeitura:  2.5.04.0001.0437.326 - CAD 137532   IPTU Anual:  R$   1.300,00   Condomínio:  R$ 385,00      Valor Avaliado:  R$ 210.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO 2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL. 3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;   Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">148800</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SC">Santa Catarina</State>
-        <City>Blumenau</City>
-        <Address>R. Gustavo Zimmermann</Address>
-        <StreetNumber>2088</StreetNumber>
-        <PostalCode>89062-101</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112646</ListingID>
-      <Title>Apartamento, ocupado, Pereira Barreto/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112646</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/daa36265-7b54-4420-a170-562baf605daa.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c2362ced-44df-4140-ad4e-f629c6ddaf16.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/fe831d13-39f6-42d2-bb9d-413450c75d55.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/25648656-cd86-4848-bd66-0782483ebe8e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apartamento, ocupado, Pereira Barreto/SP   Endereço Completo   Rua Atlântico, 884, Apto D21, Torre D - Condomínio Residencial The River - 2 Vagas Descobertas, Vila Floriano, Pereira Barreto, 15370622  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Características   do Imóvel:   &nbsp;   Descrição:  Apartamento, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 161,46 m² de área construída, 116,75 m² de área privativa, 67,21 m² de área comum. Matrícula(s): 30.465. Cartório: CRI DE PEREIRA BARRETO. Inscrição da Prefeitura: 2091001.&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Apartamento   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20575     &nbsp;   Matrícula:  30.465   Cartório de Registro:  CRI DE PEREIRA BARRETO   Inscrição na Prefeitura:   2091001  &nbsp;   Valor Avaliado:  R$ 315.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">212160</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">Sâo Paulo</State>
-        <City>Pereira Barreto</City>
-        <Address>Rua Atlântico</Address>
-        <StreetNumber>884</StreetNumber>
-        <PostalCode>15370-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112859</ListingID>
-      <Title>Casa, ocupada, Campo Grande/MS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112859</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c2d76afa-0c54-4165-b434-4d9be79e169d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c2c2cef8-240b-45fa-9bf7-4bcb8a049f10.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/7bf1df00-4fec-432e-89ec-e228c729c2fb.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/67ac3768-ab27-4ef1-b868-5d600644dd30.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/e12c0933-30f6-4753-81c6-9f4016cc30b6.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/70e9850b-0031-47ed-baf5-99de801a3b37.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, ocupada, Campo Grande/MS   Endereço Completo   Rua Bangu, 233, Cs 02 - Condomínio Residencial Petúnia, Vila Almeida, Campo Grande, 79112210      Características   do Imóvel:   &nbsp;   Descrição:  Casa, Em condomínio, Ocupado, 1 vaga(s) de garagem. Área(s): 175,8 m² de área terreno, 56,15 m² de área privativa, 0,22 m² de área comum. Matrícula(s): 72.393. Cartório: 3º CRI CAMPO GRANDE. Inscrição da Prefeitura: 01950110330. ",  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20777  &nbsp;   Área Privativa: &nbsp;56,15 m2   Área Terreno: &nbsp;175,8 m2  &nbsp;   Matrícula:  72.393   Cartório de Registro:  3º CRI CAMPO GRANDE   Inscrição na Prefeitura:   01950110330  &nbsp;   Valor Avaliado:  R$ 167.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">112320</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MS">Mato Grosso do Sul</State>
-        <City>Campo Grande</City>
-        <Address>R. Bangu</Address>
-        <StreetNumber>233</StreetNumber>
-        <PostalCode>79112-210</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112860</ListingID>
-      <Title>Apartamento, ocupado, Santa Helena de Goiás/GO</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112860</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f9e877bd-8ead-4e80-aedd-0bb817e18693.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9c0a6a50-42f8-4c96-8140-fb916be72cf0.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/fb67be63-0291-43cf-a488-6f651e91ee5c.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d0b44ca1-c4af-4816-b512-df82c30a68c0.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Apartamento, ocupado, Santa Helena de Goiás/GO   Endereço Completo   Avenida Filemon Marcelino De Araujo, 185, Centro, Santa Helena De Goiás, 75920000      Características   do Imóvel:   &nbsp;   Descrição:  Casa, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 589,44 m² de área terreno, 304 m² de área construída. Matrícula(s): 9846. Cartório: 1º CRI SANTA HELENA DE GOIAS. Inscrição da Prefeitura: 160000201841.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20693  &nbsp;   Área Privativa: &nbsp;304 m2   Área Terreno: &nbsp;589,44 m2  &nbsp;   Matrícula:  9846   Cartório de Registro:  1º CRI SANTA HELENA DE GOIAS   Inscrição na Prefeitura:   160000201841  &nbsp;   Valor Avaliado:  R$ 515.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor  &nbsp;   Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">346080</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="GO">Goiás</State>
-        <City>Santa Helena de Goiás</City>
-        <Address>R. Filemon Marcelino de Araújo</Address>
-        <StreetNumber>185</StreetNumber>
-        <PostalCode>75920-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112340</ListingID>
-      <Title>Casa, ocupada, São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112340</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c7b2e5f2-f71b-415f-8be6-677888b676d4.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3636243a-ebfb-4045-98cb-dd62219c2928.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, ocupada, São Paulo/SP   Endereço Completo   Rua Monte Cassino, 547, Jardim São Bento, São Paulo, 02526010      Características do Imóvel:       Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 625 m² de área terreno, 400 m² de área construída, 400 m² de área privativa. Matrícula(s): 170.165. Cartório: 8° CRI DE SÃO PAULO. Inscrição da Prefeitura: 306.060.0006-1.   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20287      Área Privativa:  400 m2   Área Terreno:  625 m2      Matrícula:  170.165   Cartório de Registro:  8° CRI DE SÃO PAULO   Inscrição na Prefeitura:  306.060.0006-1         Valor Avaliado:  R$ 1.785.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO&nbsp;2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   À vista ou Financiamento em até 420 meses.  Santander Oportunidades]]></Description>
-        <ListPrice currency="BRL">1021440</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>R. Monte Cassino</Address>
-        <StreetNumber>547</StreetNumber>
-        <PostalCode>02526-010</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3107331</ListingID>
       <Title>Laje Comercial 1.220m² no Centro em Belo Horizonte/MG - Ocupado</Title>
       <TransactionType>For Sale</TransactionType>
@@ -4738,72 +3924,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3109924</ListingID>
-      <Title>Apto 132m² 1 vaga no Centro de Lins/SP - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3109924</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e7387603-6c5a-496a-8e74-58a8ff266501.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 132m² 1 vaga no Centro de Lins/SP - Ocupado  Apto 132m² 1 vaga no Centro de Lins/SP - Ocupado     Localização: Rua XV de Novembro, nº 61, apto 41, Edificio Domingos Cucolo, Centro, em Lins/SP CEP: 16400-035     Área Privativa: 132,90m²  Área Comum: 44,856m²  Área Total: 177,756m²  1 vaga     Matrícula: nº 33.559   RGI: Oficial de Registro de Imóveis Comarca de Lins/SP  Inscrição Prefeitura: 001.078.0001.006     Consta Indisponibilidade (Processo nº 719) pelo Juízo de Direito do Grupo Auxiliar de Execução e Pesquisa Patrimonial - GAEPP-SP - Tribunal Regional do Trabalho da 2ª Região     DOSSIÊ: 19468     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 29/Nov/2023 a partir das 10h10 com Valor Mínimo de Venda de R$ 603.634,65      2ª Praça:  Abertura: 29/Nov/2023 a partir das 10h11  Fechamento: 30/Nov/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 324.560,14      Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 46% de deságio sobre o valor de avaliação.  19468 Santander - Alienação Fiduciária - D.19468]]></Description>
-        <ListPrice currency="BRL">603634.65</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Lins</City>
-        <Address>Rua XV de Novembro</Address>
-        <StreetNumber>61</StreetNumber>
-        <PostalCode>16400-035</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3109954</ListingID>
-      <Title>Casa 182m² no bairro Operário em Água Boa/MT - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3109954</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/eb321da2-e7de-445d-a6d1-03ac0fee75ff.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 182m² no bairro Operário em Água Boa/MT - Ocupado  Casa 182m² no bairro Operário em Água Boa/MT - Ocupado  Localização: Rua 29, nº 485, Quadra 181, Lote 7, Bairro Operário, em Água Boa/MT CEP: 78635-000  Área Construída: 182,15m² Área Total: 312,50m²  Matrícula: nº 15.954  RGI: Registro de Imóvel Circunscrição da Comarca de Água Boa/MT Inscrição Prefeitura: 16771  DOSSIÊ: 20637  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/Nov/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 651.000,00   2ª Praça: Abertura: 29/Nov/2023 a partir das 09h41 Fechamento: 30/Nov/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 515.848,53                                                                                Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 21% de deságio sobre o valor de avaliação.  20637 Santander - Alienação Fiduciária - D.20637]]></Description>
-        <ListPrice currency="BRL">651000</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MT">Mato Grosso</State>
-        <City>Água Boa</City>
-        <Address>Rua 29</Address>
-        <StreetNumber>485</StreetNumber>
-        <PostalCode>78635-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3109968</ListingID>
       <Title>Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado</Title>
       <TransactionType>For Sale</TransactionType>
@@ -4890,41 +4010,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3112325</ListingID>
-      <Title>Casa 382m², no Costa e Silva, Joinville/SC</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112325</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a846d403-6173-4abc-b4ff-767a83df33b2.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ccabe42c-7f34-43ab-9a5e-00b7069ea421.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/62250b29-4ec3-4917-a06b-865e4b075a01.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 382m², no Costa e Silva, Joinville/SC  Casa - no Costa e Silva  Localização: Rua Rodolfo Plotow, nº 277, Costa e Silva, Joinville/SC, 89217-310  Área Terreno: 382m² Área Construída: 128m² Obs: A construção encontra-se parcialmente demolida. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.  Matrícula: nº 172.510 RGI: 1º Cartório de Registro de Imóveis de Joinville/SC Inscrição Prefeitura: 13.20.41.17.0428.0000  DOSSIÊ: 17336  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/Nov/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 892.577,94  2ª Praça: Abertura: 29/Nov/2023 a partir das 09h01 Fechamento: 30/Nov/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 605.730,39                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 32% de deságio sobre o valor de avaliação.  17336 Santander - Alienação Fiduciária - D.17336]]></Description>
-        <ListPrice currency="BRL">892577.94</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SC">Santa Catarina</State>
-        <City>Joinville</City>
-        <Address>Rua Rodolfo Plotow</Address>
-        <StreetNumber>277</StreetNumber>
-        <PostalCode>89217-310</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3110281</ListingID>
       <Title>Casa 142m², Ocupada, no Jardim Pacaembu em São Carlos/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -4951,76 +4036,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Av. Pacaembu</Address>
         <StreetNumber>227</StreetNumber>
         <PostalCode>13572-330</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112882</ListingID>
-      <Title>Casa 275m², no Caiçara, Praia Grande/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112882</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2b75da2f-ac09-4440-8ea6-1c4584106730.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8d5f5252-7189-4fd9-ab81-17a5d3c7d9e8.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/0c03a2db-9db5-4373-9d7d-bfc14c9a1a2c.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 275m², no Caiçara, Praia Grande/SP  Casa - no Caiçara  Localização: Rua Mathilde de Azevedo Setubal, nº 1.303, Caiçara, Praia Grande/SP, 11706-369  Área Terreno: 275m² Área Construída: 161m²  Matrícula: nº 44.054 RGI: Cartório de Registro de Imóveis de Praia Grande/SP Inscrição Prefeitura: 2.07.05.011.101.0000  DOSSIÊ: 02.20782  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/Nov/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 782.638,52  2ª Praça: Abertura: 29/Nov/2023 a partir das 09h11 Fechamento: 30/Nov/2023 a partir das 13h10 com Valor Mínimo de Venda de R$ 489.294,54                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 37% de deságio sobre o valor de avaliação.             20782 Santander - Alienação Fiduciária - D.02.20782]]></Description>
-        <ListPrice currency="BRL">782638.52</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Praia Grande</City>
-        <Address>Rua Mathilde de Azevedo Setubal</Address>
-        <StreetNumber>1303</StreetNumber>
-        <PostalCode>11706-369</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3112558</ListingID>
-      <Title>Casa 300m², no Copas Verdes, Ji Paraná/RO</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112558</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/fe3e9688-bd04-43bd-8dee-ea138b35e76d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4beab627-144d-4785-9472-5ca2007512ef.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/9e18f0cd-6276-4dfe-8848-51c89ad1a6f8.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 300m², no Copas Verdes, Ji Paraná/RO  Casa - no Copas Verdes  Localização: Rua Theodoro Assis Helmer, nº 1.180, Copas Verdes, Ji Paraná/RO, 76901-612  Área Terreno: 300m² Área Construída: 60m²  Matrícula: nº 27.429 RGI: Cartório de Registro de Imóveis de Ji-Paraná/RO Inscrição Prefeitura: 680000050000700  DOSSIÊ: 20150  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/Nov/2023 a partir das 09h20 com Valor Mínimo de Venda de R$ 322.977,83  2ª Praça: Abertura: 29/Nov/2023 a partir das 09h21 Fechamento: 30/Nov/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 322.257,23                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  20150 Santander - Alienação Fiduciária - D.20150]]></Description>
-        <ListPrice currency="BRL">322977.83</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RO">Rondônia</State>
-        <City>Ji Paraná</City>
-        <Address>Rua Theodoro Assis Helmer</Address>
-        <StreetNumber>1.180</StreetNumber>
-        <PostalCode>76901-612</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6581,40 +5596,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3112594</ListingID>
-      <Title>Apto. 387m², no Real Parque, São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3112594</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/1d510d3b-a0a9-469e-ace6-369bb3b18ee5.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/e2b9c353-951c-4ce0-95b1-0af98d1511a9.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto. 387m², no Real Parque, São Paulo/SP  Apartamento - no Real Parque  Localização: Rua Barão de Castro Lima, nº 100, Ed. Bellatrix, apto. 121, Real Parque, São Paulo/SP, 05685-040  Área Privativa: 387m² Área Comum: 338m² 2 vagas  Matrícula: nº 117.388 RGI: 15º Cartório de Registro de Imóveis de São Paulo/SP Inscrição Prefeitura: 300.047.0048-9  DOSSIÊ: 20676  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/Nov/2023 a partir das 10h20 com Valor Mínimo de Venda de R$ 2.623.415,00  2ª Praça: Abertura: 29/Nov/2023 a partir das 10h21 Fechamento: 30/Nov/2023 a partir das 14h20 com Valor Mínimo de Venda de R$ 1.484.626,09                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 43% de deságio sobre o valor de avaliação.  20676 Santander - Alienação Fiduciária - D.20676]]></Description>
-        <ListPrice currency="BRL">2623415</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Rua Barão de Castro Lima</Address>
-        <StreetNumber>100</StreetNumber>
-        <PostalCode>05685-040</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3110283</ListingID>
       <Title>Casa 120m²,  Jaboatão dos Guararapes/PE</Title>
       <TransactionType>For Sale</TransactionType>
@@ -6725,114 +5706,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua José Bonifácio</Address>
         <StreetNumber>362</StreetNumber>
         <PostalCode>08771-241</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3113334</ListingID>
-      <Title>Casa 148m², Ocupada, em Águas Lindas de Goiás/GO</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3113334</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7005b571-5c90-462a-b0d2-cc2599290d95.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8de7f2b5-6373-44fe-9896-c1a04d7263b2.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/7acc35b2-1b0b-437e-9c27-3ef2ead18107.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/e2648ea9-a171-454f-9836-b7cb8b715374.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 148m², Ocupada, em Águas Lindas de Goiás/GO  Casa 148m², Ocupada, em Águas Lindas de Goiás/GO  Localização: Rua 35, Lote 16 da quadra 69, Loteamento Jardim da Barragem II, Águas Lindas de Goiás/GO  -  CEP: 72920-217  área de terreno de  300,00m² área construída de 148,56m²  Matrícula: 71.896 do Cartório de Registro de Imóveis de Águas Lindas de Goiás/GO Inscrição Prefeitura: 1.17.00069.00016.1  DOSSIÊ: 20974  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 499.068,68  2ª Praça: Abertura: 29/11/2023 a partir das 09h31 Fechamento: 30/11/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 347.422,61                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 30% de deságio sobre o valor de avaliação.    20974 Santander - Alienação Fiduciária - D.20974]]></Description>
-        <ListPrice currency="BRL">499068.68</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="GO">Goiás</State>
-        <City>Águas Lindas de Goiás</City>
-        <Address>Rua 35</Address>
-        <StreetNumber>Lote 16 da quadra 69</StreetNumber>
-        <PostalCode>72920-217</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3113242</ListingID>
-      <Title>Loja 43m², Ocupado, Consolação, em São Paulo/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3113242</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/08bfb791-5738-4a07-920f-e8832d2215c5.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1fb521cf-5a2a-4101-b06a-50213ddf8841.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4bf3fe25-45c2-489b-86fe-8bbe38812ffc.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Loja 43m², Ocupado, Consolação, em São Paulo/SP  Loja 43m², Ocupado, Consolação, em São Paulo/SP  Localização: Rua Rego Freitas, nº 306, térreo do Prédio Ibicaba, Consolação, em São Paulo/SP  -  CEP: 01220-010  área construída de 50,30m² área útil de 43,50m² fração ideal de 1/16 avos no terreno  Matrícula: 63.803 do 5º Cartório de Registro de Imóveis de São Paulo/SP Inscrição Prefeitura: 007.068.0043-5  DOSSIÊ: 20489  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 09h50 com Valor Mínimo de Venda de R$ 2.567.820,86  2ª Praça: Abertura: 29/11/2023 a partir das 09h51 Fechamento: 30/11/2023 a partir das 13h50 com Valor Mínimo de Venda de R$ 2.299.318,05                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 10% de deságio sobre o valor de avaliação.    20489 Santander - Alienação Fiduciária - D.20489]]></Description>
-        <ListPrice currency="BRL">2567820.86</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Rua Rego Freitas</Address>
-        <StreetNumber>306</StreetNumber>
-        <PostalCode>01220-010</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3113548</ListingID>
-      <Title>Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3113548</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f520af7a-54f5-4064-8946-8c18dc2fd19e.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9592a434-ada7-4dd0-82f8-c7af40af3c84.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4c9f786f-5685-4462-8f7c-baf2b8a2b12c.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/48f69c16-d428-412c-adcb-9f1f22be9607.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/6a2a81fc-e49b-435a-a9ce-4d36de35350e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP  Apto 70m², 1 Vaga, Ocupado,  em Ribeirão Preto/SP  Localização: Rua Edwirges de Carvalho Chaim, nº 55,  Apto nº 62, Condomínio Edifício ¿Villaggio V¿,  Ribeirão Preto/SP  -  CEP: 14056-130  área total de 90,644525m² área útil 70,7687m²  área comum de 19,875825m²  Matrícula: 104.191 do 1º Oficial de Registro de Imóveis de Ribeirão Preto/SP Inscrição Prefeitura: 223.559  DOSSIÊ: 20540  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 29/11/2023 a partir das 10h30 com Valor Mínimo de Venda de R$ 206.434,34  2ª Praça: Abertura: 29/11/2023 a partir das 10h31 Fechamento: 30/11/2023 a partir das 14h30 com Valor Mínimo de Venda de R$ 187.793,70                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 9% de deságio sobre o valor de avaliação.    20540 Santander - Alienação Fiduciária - D.20540]]></Description>
-        <ListPrice currency="BRL">206434.34</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Ribeirão Preto</City>
-        <Address>Rua Edwirges de Carvalho Chaim</Address>
-        <StreetNumber>55</StreetNumber>
-        <PostalCode>14056-130</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8203,39 +7076,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3123664</ListingID>
-      <Title>Casa, Brasilia-DF</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3123664</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3bfd6ff7-d3eb-40ab-bea1-8f673674ab04.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa, Brasilia-DF   Endereço Completo   Shi/S, 12, Setor De Habs Individuais Sul, Brasília, 71625120      Características do Imóvel:       Descrição:  Casa, Padrão, Ocupado. Área(s): 776 m² de área terreno, 700 m² de área construída, 700 m² de área privativa   Tipo do Imóvel:  Casa   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02. 20180          Matrícula:  42.768   Cartório de Registro:  1º CRI DISTRITO FEDERAL.   Inscrição na Prefeitura:  03012506         Valor Avaliado:  R$ 5.516.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes   1. OCUPADO.&nbsp;  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.&nbsp;  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.      Condições de Pagamento   À vista ou Financiamento em até 420 meses.  281123 Santander - Oportunidade]]></Description>
-        <ListPrice currency="BRL">3705600</ListPrice>
-        <LivingArea unit="square metres">776</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Brasília">Sem sigla</State>
-        <City>Setor De Habs Individuais Sul</City>
-        <Address>Shi</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>71625120</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3123670</ListingID>
       <Title>Casa, Vitória Da Conquista-BA</Title>
       <TransactionType>For Sale</TransactionType>
@@ -8825,6 +7665,147 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua da Encarnação</Address>
         <StreetNumber>s</StreetNumber>
         <PostalCode>42823-528</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3128958</ListingID>
+      <Title>Casa 64m² na Vila São Paulo em Mogi das Cruzes/SP - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3128958</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f23b80d6-e643-4244-8a12-25fa1ec67283.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 64m² na Vila São Paulo em Mogi das Cruzes/SP - Ocupado  Casa 64m² na Vila São Paulo em Mogi das Cruzes/SP - Ocupado  Localização: Rua Independência, nº 1.062, Residencial Vista das Orquídeas, bairro Vila São Paulo, em Mogi das Cruzes/SP - CEP: 08840-150  Área construída: 64,90m² Área total: 117,21m²  Matrícula: nº 82.759  RGI: 1º Oficial de Registro de Imóveis de Mogi das Cruzes/SP Inscrição Prefeitura: 31.033.005.004-7  DOSSIÊ: 20389  Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 19/Dez/2023 a partir das 09h30 com Valor Mínimo de Venda de R$ 285.333,64  2ª Praça: Abertura: 19/Dez/2023 a partir das 09h31 Fechamento: 20/Dez/2023 a partir das 13h30 com Valor Mínimo de Venda de R$ 269.017,18                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 6% de deságio sobre o valor de avaliação.  20389 Santander - Alienação Fiduciária - D.20389]]></Description>
+        <ListPrice currency="BRL">285333.64</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Mogi das Cruzes</City>
+        <Address>Rua Independencia 1062</Address>
+        <StreetNumber>bairro Vila São Paulo</StreetNumber>
+        <PostalCode>08840-150</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3125802</ListingID>
+      <Title>Prédio 264m², Ocupado, em São João do Meriti/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3125802</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/21d07a86-ff1f-4270-bf04-7668fbafdeab.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/11abed65-ba47-4222-8600-20e60ae017aa.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/016729ce-78c5-4763-b395-8f3aefadd2b5.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/4e3d0b4e-216a-415b-8580-4af2236eeba1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Prédio 264m², Ocupado, em São João do Meriti/RJ  Prédio 264m², Ocupado, em São João do Meriti/RJ  Localização: Rua do Engenho Novo, nº 203, em São João do Meriti/RJ  -  CEP: 25565-230  área construída 264,04m²  área livre de 70,16m² participação no condomínio de 27,60m², soma 361,81m² participação no terreno de 230,78m²  respectiva fração ideal de 507,21/1000 sobre todo o terreno  Matrícula: 14.561 do Cartório do 1º Ofício de São João de Meriti/RJ Inscrição Prefeitura: 051661-94  DOSSIÊ: 20989  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 12/12/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 486.015,63  2ª Praça: Abertura: 12/12/2023 a partir das 09h41 Fechamento: 13/12/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 412.716,28                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 15% de deságio sobre o valor de avaliação.    20989 Santander - Alienação Fiduciária - D.20989]]></Description>
+        <ListPrice currency="BRL">486015.63</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>São João do Meriti</City>
+        <Address>Rua do Engenho Novo</Address>
+        <StreetNumber>203</StreetNumber>
+        <PostalCode>25565-230</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3126671</ListingID>
+      <Title>Apto 159m², Ocupado, Chácara Agrindus no Taboão da Serra/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3126671</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/414ca18e-4ace-4ecf-8ca3-61f86be1c96e.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4bf3933e-53e0-4546-a23a-6aa4d6648451.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/c8aa69c5-9b00-485a-898d-60e90e9cb8c6.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/e220139e-ec16-4219-82f4-a2a747aede08.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/7bc2c675-6728-4463-ba72-e7da841390fc.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 159m², Ocupado, Chácara Agrindus no Taboão da Serra/SP  Apto 159m², Ocupado, Chácara Agrindus no Taboão da Serra/SP - Apartamento nº 152, localizado no 15º andar da Torre 01, do Condomínio Residencial Cenário Taboão, situado na Rua Francisco Andugar Espinosa, nº 18, na cidade de Taboão da Serra/SP, contendo: área privativa total de 79,70m², área de uso comum de 80,23m², com a área real total de 159,93m² e coeficiente de proporcionalidade de 0,003825220; correspondendo ao mesmo duas vagas cobertas na garagem coletiva, localizadas no 1º/2º subsolo e sujeitas a manobrista. Matrícula nº 24.687 do Cartório de Registro de Imóveis e Anexos da Comarca de Taboão da Serra/SP. Cadastrado na Prefeitura municipal sob o nº 36.23264.24.27.0003.01.120.3.  OBS.: imóvel Ocupado. Desocupação por conta do adquirente, nos termos do art. 30 da lei 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2º só deverá ocorrer caso não haja arrematantes na 1º.  1ª Praça: Fechamento: 11/Dez/23 a partir das 09h00 com Valor Mínimo de Venda de R$ 675.462,47.  2ª Praça: Abertura: 11/Dez/23 a partir das 09h01 Fechamento: 21/Dez/23 a partir das 14h30 com Valor Mínimo de Venda de R$ 557.912,76.                                                                                                                                                                                                                                                                              Informações Relevantes:  1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Cury - Leilão de Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">675462.47</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Taboão da Serra</City>
+        <Address>Rua Francisco Andugar Espinosa</Address>
+        <StreetNumber>18</StreetNumber>
+        <PostalCode>06763-060</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3126560</ListingID>
+      <Title>Apto 87m², Ocupado, 1 Vaga no Rio do Ouro em São Gonçalo/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3126560</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/6a5b76d5-dc1f-47c3-afed-5a02b5e213c5.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ded7a9cd-8ee2-4b3f-b1fc-bd9903074bd8.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/ad57f941-ac31-402b-b0c7-0512958c222f.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 87m², Ocupado, 1 Vaga no Rio do Ouro em São Gonçalo/RJ  Apto 87m², Ocupado, 1 Vaga no Rio do Ouro em São Gonçalo/RJ - Apartamento 1.007, Bloco 04, Ed. Floral Park, no Condomínio Residencial Eco Park, edificado na Avenida Abdias José dos Santos, nº 2845, área construída de 87,80m², com sua fração ideal de 0,00216730, no 2º distrito de São Gonçalo/RJ, , cabendo a cada unidade autônoma o direito ao uso de uma vaga indistintamente, descobertas, livres e localizadas no térreo, melhor descrito na matrícula do imóvel. Matrícula nº 72.991 do Cartório do 3º Ofício de São Gonçalo/RJ. Cadastrado na Prefeitura municipal sob o nº 146.098-379. Recai sobre o imóvel ação: Processo nº 0804209-38.2022.8.19.0087 - 3ª Vara Cível do Foro Regional de Alcântara - Comarca de São Gonçalo/RJ.  OBS.: imóvel Ocupado. Desocupação por conta do adquirente, nos termos do art. 30 da lei 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2º só deverá ocorrer caso não haja arrematantes na 1º.  1ª Praça: Fechamento: 11/Dez/23 a partir das 09h10 com Valor Mínimo de Venda de R$ 467.940,17.  2ª Praça: Abertura: 11/Dez/23 a partir das 09h11 Fechamento: 21/Dez/23 a partir das 14h40 com Valor Mínimo de Venda de R$ 469.498,37.                                                                                                                                                                                                                                                                              Informações Relevantes:  1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Recai sobre o imóvel ação: Processo nº 0804209-38.2022.8.19.0087 - 3ª Vara Cível do Foro Regional de Alcântara - Comarca de São Gonçalo/RJ.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Cury - Leilão de Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">467940.17</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>São Gonçalo</City>
+        <Address>Avenida Abdias José dos Santos</Address>
+        <StreetNumber>2845</StreetNumber>
+        <PostalCode>24756-660</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
