@@ -5730,126 +5730,6 @@ Percentual de desconto: 62% de deságio sobre o valor de avaliação.
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3080701]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3080701]]></codigoReferencia>
-      <titulo><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS]]></titulo>
-      <descricao><![CDATA[Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS  Apto 78m², 1 Vaga, Desocupado, em Caxias do Sul/RS ENDEREÇO: Avenida Júlio de Castilhos, 730 e 740 - Apto 507 - Edifício Guarapari,  Nossa Senhora de Lourdes, Caxias do Sul/RS  -  CEP 95010-000    área total: 87,59m² área privativa: 78,37m² área total (Vaga): 87,59m²  Matrícula: 64.983 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura (Vaga): 44.09.0082.011.073 Matrícula (Vaga): 64.935 do 2º CRI de Caxias do Sul/RS Inscrição Prefeitura: 44.09.0082.011.030  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU e condomínio, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 5 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>352687</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Júlio de Castilhos, 730 e 740]]></endereco>
-        <localidade><![CDATA[Nossa Senhora de Lourdes, Caxias do Sul, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[95010-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3080703]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3080703]]></codigoReferencia>
-      <titulo><![CDATA[Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP]]></titulo>
-      <descricao><![CDATA[Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I, em Paranapanema/SP  Lote de Terreno, 1.000m², Desocupado, Loteamento Recanto I do Paranapanema, em Paranapanema/SP ENDEREÇO: Rua 14, Lote nº 05 da Quadra 10, Loteamento Recanto I do Paranapanema, em Paranapanema/SP - CEP 04027-000  área : 1.000,00m²  Matrícula: 17.767 do CRI de Avaré/SP Inscrição Prefeitura : 12777-0  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista 3 - Os débitos de IPTU, se houver, serão quitados pelo vendedor até a data do leilão. 4 - Escritura será lavrada no prazo mencionado no edital 5- Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602 7 Sold Imóveis - Leilão AACD - 28/11/2023]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>25029.1</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://www.superbid.net/images/defaultImages/default.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua 14, Lote  05 da Quadra 10]]></endereco>
-        <localidade><![CDATA[Loteamento Recanto I do Paranapanema, em Paranapanema, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[04027-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3094285]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3094285]]></codigoReferencia>
       <titulo><![CDATA[Apto. 162m², 2 vagas no Graia, Aquiraz/CE]]></titulo>
@@ -6158,263 +6038,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Arlindo Reame, 361]]></endereco>
         <localidade><![CDATA[Jardim Moraes, Sales, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14980-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3064208]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3064208]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 268m², A.C. 94m², 2 dorms, Jd. Santa Aguida]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 268m², A.C. 94m², 2 dorms, Jd. Santa Aguida  Imóvel matrícula nº 47.189 do CRI de São João da Boa Vista/SP. 
-
-   
-
-  Descrição matrícula:  UM TERRENO, identificado pelo lote cinco (05) da quadra &#39;&#39;D&#39;&#39;, da planta do loteamento tipo RESIDENCIAL/COMERCIAL, denominado JARDIM SANTA AGUIDA, em zona urbana desta cidade de São João da Boa Vista, com área de 268,12m² (duzentos e sessenta e oito metros quadrados e doze centímetros), medindo 10,00ms (dez metros) de frente para a Rua Dois (02); no fundo mede 10,00ms (dez metros) com a Gleba C; do lado direito de quem da rua olha o lote mede 26,75ms (vinte e seis metros e setenta e cinco centímetros) com o lote 04 (quatro); e do lado esquerdo mede 26,84ms (vinte e seis metros e oitenta e quatro centímetros) com o lote 06 (seis). Dito imóvel encontra-se cadastrado junto a Prefeitura Municipal sob n. 032.0006.0005.001. Av.1 Restrição: o loteamento Jardim Santa Aguida, é do tipo residencial/comercial, ficando estabelecido o que segue: &#39;&#39;as construções para fins comerciais somente poderão ser edificadas nos lotes que tem frentes voltadas para a Rua Racticliff, conforme condições e regras estabelecidas para implantação do empreendimento as fls. 17 do processo n. 4552/1998&#39;&#39;. Av.2 Servidão de Passagem: Pesa sobre o imóvel Servidão de Passagem, correspondente a uma área de 597,69m² em favor de COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SÃO PAULO - SABESP. Av.3 Denominação: A Rua Dois, do &#39;Jardim Santa Aguida&#39;, passou a denominar-se RUA FLORIZA FERREIRA DAROZZI. Av.6 Construção: foi edificado no terreno retro, um prédio residencial situado à Rua Floriza Ferreira Daroz, nº 161, Santa Arguida, constando de garagem, sala, dois dormitórios, banheiro, cozinha e área de serviços com a área total construída de 94,09 ms2 (noventa e quatro metros e nove centímetros quadrados). 
-
-   
-
-  Laudo de Avaliação fls. 76:  O prédio é formado por um lote de terreno e uma edificação residencial, construída de tijolos e coberta por lajes, madeiramento e telhas de cerâmica, com todas as instalações elétricas, hidráulicas e sanitárias, portas e portais de madeira, esquadrias de ferro, contendo uma garagem com piso de cerâmica, uma sala com piso de cerâmica, dois dormitórios com piso de cerâmica, uma cozinha com piso de cerâmica e azulejos até o teto e um banheiro com piso de cerâmica e azulejos até o teto, possuindo um quintal com piso em terra batida. O terreno tem topografia boa e encontra-se fechado por muros de alvenaria com portão de ferro na frente, com calçada de piso de cerâmica. O imóvel se localiza em região totalmente provida dos melhoramentos públicos necessários, sendo rede de água e esgoto, rede de coletora de águas pluviais, rede de energia ...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[268]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>182000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6bea7bbf-68ad-46ff-b557-dbb9f2a3f9b7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d40b09c3-fcda-4646-a066-2686207dde4f.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Floriza Ferreira Darozzi, 161]]></endereco>
-        <localidade><![CDATA[Jardim Primeiro de Maio, São João da Boa Vista, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13873-130]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3077960]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3077960]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, A.T. 156m², A.P. 92m², 1 Vaga, Moema (Direitos)]]></titulo>
-      <descricao><![CDATA[Apartamento, A.T. 156m², A.P. 92m², 1 Vaga, Moema (Direitos)   DIREITOS POSSESSÍRIOS AO IMÓVEL: APARTAMENTO n° 103 localizado no 10° andar do "EDIFÍCIO STYLE VIVRE MOEMA", situado na Alameda dos Nhambiquaras n° 1755, em Indianópolis.       UM APARTAMENTO com a área privativa de 92,693m³, nela incluído o armário privativo nº 02 localizado no 1° subsolo, área comum de 64,249m³, nela incluído o direito ao uso de 01 vaga de garagem de n° 26 localizada no 1° subsolo e área total de 156,942m², correspondendo-lhe no terreno do condomínio, uma fração ideal de 1,8137%.       Matricula nº 160.841 do 14º CRI de São Paulo-SP    Nº do Contribuinte: 045.240.0257-1    Avaliação: R$ 970.000,00 (NOVECENTOS E SETENTA MIL REAIS)       Consta do laudo de avaliação as seguintes informações:       O apartamento apresenta as seguintes dependências e acabamentos construtivos:       SALA DE ESTAR: Piso em carpete de madeira; paredes revestidas em    pintura látex sobre massa corrida; forro de laje; esquadria de alumínio    com vidro liso.       SALA DE JANTAR: Piso em carpete de madeira; paredes revestidas em    pintura látex sobre massa corrida; forro de laje; esquadria de alumínio    com vidro liso.       SUÍTE: Piso em carpete de madeira; paredes revestidas em pintura látex    sobre massa corrida; forro de laje; esquadria de alumínio com vidro liso.       BANHO SUÍTE: Piso cerâmico; paredes azulejos; forro em laje; vaso    sanitário e lavatório em louça; esquadria de alumínio com vidro liso.       DORMITÓRIOS (DOIS): Piso em carpete de madeira; paredes revestidas    em pintura látex sobre massa corrida; forro de laje; esquadria de alumínio    com vidro liso.       BANHEIROS: Piso cerâmico; paredes revestidas em azulejos; forro em    laje; vaso sanitário e lavatório em louça; esquadria de alumínio com vidro    liso.       COZINHA: Piso cerâmico; paredes revestidas em azulejos; forro em laje;    pia em granito com cuba inox; esquadria de alumínio com vidro liso.       ÁREA DE SERVIÇO: Piso cerâmico; paredes revestidas em azulejos;    forro em laje; tanque em louça; esquadria de alumínio com vidro liso.   Edifício Style Vivre Moema Rivaldo Sant'anna Executado Allan Cristian Silva  - OAB/SP 307.209 42ª Vara Cível do Foro Central da Capital/SP 2 0020570-66.2021.8.26.0100
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[92]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>582000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6e400cf1-f0c7-4c92-99e4-fa74de0d7c3e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe57210c-a06c-4070-b3b1-12a2ff4ca30c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/40c87775-594a-45aa-8567-7c09fb54264f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dab84f1d-23c4-44ef-b416-cd68cd8861c1.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4efd0c2f-6978-4795-a6a5-0ecdfb55f373.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/49858830-0658-4cef-969b-a2cbe7661ee3.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/71e5e57f-0c56-4ccf-9e16-83b4d761d628.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2de05fbd-25b3-4b28-b50f-8dd1f2263fb5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a78576c7-e4c1-472b-8748-aa9292c6e5c0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b4db0c85-389b-4186-9a29-180d46a4ae72.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1807a73-205d-4b66-bee1-c828d26a644d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1908557-2a02-453d-a579-b5af2d5e01f2.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d3df16f-8158-4158-b278-313ef123caca.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c2769509-f9c0-49ff-bb19-59695283d640.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e41f9584-f539-4f80-ad95-cfb0fc6ddf61.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/40fb15f0-1ba7-4978-93a4-15f9990a31e7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/88d68a43-6dfc-4987-9f7c-9711a68ea585.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3434beec-e6e1-4c4c-8b16-f7573d208ab3.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2477a1f1-1f20-4c49-8dd2-39e2fc9c8146.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b48ba5b-d926-4520-a713-4611a04fe089.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/408581f4-ca1b-4d91-b519-1579526e0294.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7867e3fe-47d7-43c4-828b-0a404a90c77a.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Alameda dos Nhambiquaras, 1755]]></endereco>
-        <localidade><![CDATA[Indianópolis, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[04090-013]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3103573]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3103573]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 300m², A.C. 77m², 1 suíte, 2 dorms, 1 vaga, Ilha dos Araújos]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 300m², A.C. 77m², 1 suíte, 2 dorms, 1 vaga, Ilha dos Araújos  Imóvel de matrícula n° 3.513 do 2° CRI de Governador Valadares/MG: Casa residencial, tipo 2-C, situada à Rua Dezesseis, n° 1.359, Bairro Cidade Jardim Senhora do Carmo, Ilha dos Araújos, nesta cidade, área construída de 77,00ms2, com todas suas instalações, benfeitorias e pertences, e seu respectivo terreno de 300,00ms2, formado por partes dos lotes n°s 04 e 05, quadra n° 01, daquele Bairro, medindo 10,00ms de frente com a Rua Dezesseis; 10,00ms nos fundos com parte do lote n° 13 e 12; 30,00ms pela direita com o restante do lote n° 05; e, 30,00ms pela esquerda com parte restante do lote n° 04. Cadastrado na Prefeitura Municipal de Governador Valadares-MG sob o nº 07.001.0080.001.   Obs.: segundo laudo de avaliação a casa possui 2 pavimentos dividida com 1 suíte, 2 dormitórios, 2 salas, banheiro social, copa, cozinha, área de serviço, quintal com banheiro, varanda, garagem e um cômodo no fundo do lote.      Ônus e gravames: segundo matrícula atualizada consta na R13 PENHORA referente os autos da presente ação. Consta na AV14 e R15 ajuizamento de Ação de Execução e PENHORA no processo nº 1096120-84.2020.8.26.0100 perante a 33ª Vara Cível da Comarca de São Paulo/SP movida por Itapeva XII Multicarteira Fundo de Investimento em Direitos Creditórios Não-Padronizados contra o executado. Conforme consulta realizada em outubro de 2023 junto aos Órgãos competentes, não incidem débitos de IPTU sobre o imóvel.   Obs.: O equivalente à quota-parte do coproprietário e/ou cônjuge, alheio à execução recairá sobre o produto da alienação do bem, ficando reservada ao coproprietário, não executado, a preferência na arrematação do bem em igualdade de condições com os demais interessados.      Média das Avaliações: R$ 466.666,66 (quatrocentos e sessenta e seis mil seiscentos e sessenta e seis reais e sessenta e seis centavos) em maio/2020.   Média das Avaliações Atualizada: R$ 589.146,75 (quinhentos e oitenta e nove mil cento e quarenta e seis reais e setenta e cinco centavos) até outubro de 2023, segundo a tabela oficial aplicável nos cálculos judiciais do TJSP.  &nbsp;  MASSA FALIDA DO BANCO SANTOS S.A Vdl Siderurgia Ltda e Outros Romulo Eustáquio Gonçalves Lessa e outro Réu: Marcos Lincoln Padilha dos Santos (OAB 97949/MG); Autor: PAULO DE TARSO RIBEIRO KACHAN (OAB 138.712/SP) 41ª Vara Cível da Comarca da Capital/SP 0201124-50.2008.8.26.0100
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[300]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>589146.75</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c51d760c-bc71-4482-8f55-cf5ea569e9cb.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Dezesseis, 1359]]></endereco>
-        <localidade><![CDATA[Ilha dos Araújos, Governador Valadares, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[35020-660]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -10530,69 +10153,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3110283]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3110283]]></codigoReferencia>
-      <titulo><![CDATA[Casa 120m²,  Jaboatão dos Guararapes/PE]]></titulo>
-      <descricao><![CDATA[Casa 120m²,  Jaboatão dos Guararapes/PE  Casa - no Candeias  Localização: Rua Coronel Kleber de Andrade, nº 985, Conj. Residencial La Rochelle, casa 01, Candeias, Jaboatão dos Guararapes/PE, 54450-160  Área Útil: 105m² Área Comum: 15m² Descrição Interna (uma sala de jantar/estar, lavabo, cozinha, área de serviço e dependência completa de empregada e no pavimento superior: varanda, 03 quartos sociais, um WC social, jardineira e circulação)  Matrícula: nº 48.400 RGI: Cartório de Registro de Imóveis de Jaboatão dos Guararapes/PE Inscrição Prefeitura: 1.3115.085.01.0121.0001.1  DOSSIÊ: 20906  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 30/Nov/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 307.817,31  2ª Praça: Abertura: 30/Nov/2023 a partir das 09h01 Fechamento: 01/Dez/2023 a partir das 13h00 com Valor Mínimo de Venda de R$ 155.678,38                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 49% de deságio sobre o valor de avaliação.  20906 Santander - Alienação Fiduciária - D.20906]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>307817.31</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/45ef9056-7e9c-4dc7-9132-4df7c1d6433d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7585e86b-0b50-4074-8755-36de0a762bb4.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Coronel Kleber de Andrade, 985]]></endereco>
-        <localidade><![CDATA[Candeias, Jaboatão dos Guararapes, Pernambuco, Brasil]]></localidade>
-        <codigoPostal><![CDATA[54450-160]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3097880]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3097880]]></codigoReferencia>
       <titulo><![CDATA[Sala Comercial 329m² DESOCUPADA com 6 vagas, na Consolação, São Paulo/SP]]></titulo>
@@ -10693,141 +10253,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua da Consolação, 881 e 893]]></endereco>
         <localidade><![CDATA[conj. 80 e 81, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01345-900]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3113135]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3113135]]></codigoReferencia>
-      <titulo><![CDATA[Casa 300m², no Cidade Parquelandia, Mogi das Cruzes/SP]]></titulo>
-      <descricao><![CDATA[Casa 300m², no Cidade Parquelandia, Mogi das Cruzes/SP  Casa - na Cidade Parquelandia  Localização: Rua José Bonifácio, nº 362, Cidade Parquelandia, Mogi das Cruzes/SP, 08771-241  Área Terreno: 300m² Área Construída: 166m²  Matrícula: nº 63.901  RGI: 2º Oficial de Registro de Imóveis de Mogi das Cruzes/SP Inscrição Prefeitura: 38.018.005.000-9  DOSSIÊ: 02.20286  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 30/Nov/2023 a partir das 09h20 com Valor Mínimo de Venda de R$ 948.963,58  2ª Praça: Abertura: 30/Nov/2023 a partir das 09h21 Fechamento: 01/Dez/2023 a partir das 13h20 com Valor Mínimo de Venda de R$ 616.596,27                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 35% de deságio sobre o valor de avaliação.  02.20286 Santander - Alienação Fiduciária - D.02.20286]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>948963.58</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/613676cd-72c9-426c-8d93-70beeb12004c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8d2e1ba9-83a9-47f7-bbbd-499fedbaf700.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua José Bonifácio, 362]]></endereco>
-        <localidade><![CDATA[Cidade Parquelandia, Mogi das Cruzes, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[08771-241]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3113647]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3113647]]></codigoReferencia>
-      <titulo><![CDATA[Casa 39m², Ocupada, em Sidrolândia/MS]]></titulo>
-      <descricao><![CDATA[Casa 39m², Ocupada, em Sidrolândia/MS  Casa 39m², Ocupada, em Sidrolândia/MS  Localização: Rua Travessa 03, nº 35,  lote 04, quadra 08, em Sidrolândia/MS  -  CEP: 79170-000  área de terreno de 225,00m² área construída de 39,89m²  Matrícula: 14.183 do Cartório de Registro de Imóveis de Sidrolândia/MS Inscrição Prefeitura: 01020640060001  DOSSIÊ: 20960  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 30/11/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 178.425,39  2ª Praça: Abertura: 30/11/2023 a partir das 09h11 Fechamento: 01/12/2023 a partir das 13h10 com Valor Mínimo de Venda de R$ 70.000,00                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 61% de deságio sobre o valor de avaliação.    20960 Santander - Alienação Fiduciária - D.20960]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>178425.39</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acb01733-d116-4bdd-9a9b-bcf2d5e0a43e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12fd3c74-f0d7-4b8a-91fb-a7118f0f5c05.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/84e7083c-5c3a-4908-a5eb-6267bccd284f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/19030aeb-9e17-4e2e-8cdd-7c4d9bcc7dcb.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b6e1db0b-2763-47ac-b572-7b0ebf2d3725.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Travessa 03, 35]]></endereco>
-        <localidade><![CDATA[quadra 08, Sidrolândia, Mato Grosso do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[79170-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -14677,6 +14102,118 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Abdias José dos Santos, 2845]]></endereco>
         <localidade><![CDATA[Rio do Ouro, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[24756-660]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3126221]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3126221]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 257m², A.C. 58m², Planalto Itália]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 257m², A.C. 58m², Planalto Itália  Imóvel de matrícula nº 25.392 do CRI de Jaboticabal (fls.51/54).      Descrição matrícula:  Um terreno, indicado como lote n.3, da quadra Seis, situado com frente para a Rua ''D'', do loteamento denominado ''Planalto Itália'', nesta cidade e comarca de Jaboticabal, de formato regular, com a área de 257,25 metros quadrados, medindo de frente para a Rua ''D'' 10,50 metros; do lado esquerdo de quem da referida via pública olha para o lote mede 24,50 metros, confrontando com o lote n.04; do lado direito mede 24,50 metros, confrontando com o lote 02 e finalmente na linha dos fundos mede 10,50 metros, confrontando com o lote 17, todos da mesma quadra 06. Av.02 Atualização de denominação de via pública: a Rua D, passou a denominar-se Av. Vicente Palazzo. Av.06 Construção: foi construído um prédio de uso RESIDENCIAL, com 58,69 metros quadrados, (cinquenta e oito metros e sessenta e nove centímetros quadrados), o qual recebeu o número 411, da Avenida Vicente Palazzo.      Débitos Municipais:  IPTU R$ 6.705,67, conforme consulta realizada em 28/09/2023.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor médio das avaliações fixado na r.Sentença de fls. 262/266 (autos principais n. 1002776-24.2021.8.26.0291), de 25/08/2022: R$ 335.000,00 (trezentos e trinta e cinco mil reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em Outubro/2023: R$ 347.892,74 (Trezentos e quarenta e sete mil, oitocentos e noventa e dois reais e setenta e quatro centavos).  Ana Paula Scaldelai Daiana Aparecida Scaldelai NI Domingos Assad Stocco 1ª Vara Cível de Jaboticabal/SP 0000566-46.2023.8.26.0291
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[257]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>347892.74</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/669d8193-59a1-41a0-882f-dab2f923a4d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aa851855-e2cb-417b-b8b3-67c593d2f8af.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea7514a4-8fcc-45d6-be1b-e93a376757b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3f0dd3d-e1fb-4726-a412-7fd8840df006.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/35a01874-6a25-4983-b39b-bbf291f97fa6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/66b80aba-a9cf-476a-a16b-a9022ed684c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37ee303d-c03d-4e0a-88c3-c35d638c72c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/47e1eb58-f0eb-4692-82cc-4a83b424d39f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1beffc1-6cba-49a3-b9ef-2db48cacaeab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e15596d6-a0d5-4be1-905a-6cb4af4e51c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cbbf0606-4c3d-48ff-a6ae-83d778296106.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ff14c91-2b45-47a9-8f8c-91ffa297fc58.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117474b5-e592-4ed5-8a28-38397e8644c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/04ec352b-31e1-46f2-a888-fff1092e6d80.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4b324c28-56f8-41c7-ac7e-27d7a9444d40.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad79eb20-b010-4dfd-b3b0-fbcb093d02d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d3597f45-4cdc-4d5f-81b4-8b90fa7bd9ff.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3d8bc26-a43d-45b6-9341-cded02174af0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Vicente Palazo, 411]]></endereco>
+        <localidade><![CDATA[Cidade Jardim, Jaboticabal, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14890-435]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
