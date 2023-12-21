@@ -5892,84 +5892,6 @@ Casa Espetacular 1100 M2, Alto da Boa Vista - SP, 4 suítes e 4 vagas. O imóvel
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3107302]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3107302]]></codigoReferencia>
-      <titulo><![CDATA[Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR]]></titulo>
-      <descricao><![CDATA[Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR  Terreno 1.995m² Desocupado no bairro Ahú em Curitiba/PR - Terreno 1.995,44m² e 44,55m de frente para a Rua Reverendo Paulo Hecke n° 456 no bairro Ahú em Curitiba/PR . Matrícula nº 68.880 do 2° RGI de Curitiba/PR. Inscrição Cadastral n° 72.001.017.000     Imóvel Desocupado.     ===================================     O terreno com indicação fiscal setor 72.001.017.000 está situado no zoneamento ZR3 Zona Residencial 3 onde originalmente o coeficiente de aproveitamento é um (1) e a altura máxima é de três pavimentos.     O imóvel será entregue com IPTU em aberto dos anos de 2022 e 2023 de aproximadamente R$ 45.000,00. Valor aproximando de IPTU anual R$ 22.000,00     Percentual de desconto: 51% de deságio sobre o valor de avaliação.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:&nbsp;  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - CONDIÇÕES DE PAGAMENTO: À vista&nbsp;  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 4950-9602  Terreno 1995m² Desocupado em Curitiba/PR]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1003]]></idTipo>
-        <idSubTipo><![CDATA[8]]></idSubTipo>
-        <tipo><![CDATA[Terreno]]></tipo>
-        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[0]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[0]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[1995]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1700000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb485287-c8be-41a3-8c39-031e1315a382.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/01e62b10-cdd4-49fd-b8cf-105f9d7aeee6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ce6e7747-559d-4efb-bff1-11ec0ce37f55.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1a2fc05-c24f-4699-bc89-159e548c037a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7d27726-f48e-4bc2-a184-543e3110626c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fb7314f-aa4f-49eb-bef5-6215087cf663.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1818842-ed96-4cd9-a5e4-c35f190ff5a6.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Reverendo Paulo Hecke, 456]]></endereco>
-        <localidade><![CDATA[Ahu, Curitiba, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[82200-300]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3110595]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3110595]]></codigoReferencia>
       <titulo><![CDATA[Terreno, A.T. 275m², Res. Village Damha Mirassol IV]]></titulo>
@@ -10006,141 +9928,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. 15, 0]]></endereco>
         <localidade><![CDATA[Parque Atheneu, Goiania, Goiás, Brasil]]></localidade>
         <codigoPostal><![CDATA[74890-330]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3125804]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3125804]]></codigoReferencia>
-      <titulo><![CDATA[Casa 506m², Ocupada, na Vila Ida em São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Casa 506m², Ocupada, na Vila Ida em São Paulo/SP  Casa 506m², Ocupada, na Vila Ida em São Paulo/SP - Um terreno a Rua Cardeal Cagliori, lote 14 da quadra 148, Alto dos Pinheiros, no 14º subdistrito, Lapa, medindo 18m de frente, por 25,27m da frente aos fundos do lado direito visto da rua, 27m do lado esquerdo e 21,13m nos fundos, com a área de 506m², confrontando do lado direito com o lote 13, do lado esquerdo com o lote 15 e nos fundos com os lotes 6 e 7. Conforme Av.05, foi construído um prédio que recebeu o nº 90 da Rua Cardeal Cagliori, com a área de 494m², sendo que 26,88m² corresponde a área de piscina. Matrícula nº 4852 do 10º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n° 081.008.0014-60.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Dez/2023 a partir das 09h00 com Valor Mínimo de Venda de R$ 4.021.188,90.     2ª Praça:  Abertura: 15/Dez/2023 a partir das 09h01  Fechamento: 22/Dez/2023 a partir das 15h00 com Valor Mínimo de Venda de R$ 2.952.846,64.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[506]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>4021188.9</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117cd51b-10dc-434c-a4d4-c0ab4b3106e3.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b2b43630-e189-476b-b844-553c632d4174.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b24361da-11fc-47d0-b3c3-b4b16dc0d5a8.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Cardeal Cagliori, 90]]></endereco>
-        <localidade><![CDATA[Vila Ida, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[05454-030]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3126315]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3126315]]></codigoReferencia>
-      <titulo><![CDATA[Casa 1050m², Ocupada, no Arembepe em Camaçari/BA]]></titulo>
-      <descricao><![CDATA[Casa 1050m², Ocupada, no Arembepe em Camaçari/BA  Casa 1050m², Ocupada, no Arembepe em Camaçari/BA - Lote de terreno próprio designado pelo nº 26 da quadra 06, integrante do loteamento denominado Modulo de Arembepe, sito ao lado esquerdo da Estrada Salvador à Arembepe, município de Camaçari/BA, inscrito no censo imobiliário municipal sob nº 24581, medindo 15,00m de frente, limitando-se com via pública do loteamento; 15,00m de fundo, limitando-se com o lote 10; 70,00m do lado direito, limitando-se com o lote 25; e 70,00m do lado esquerdo, limitando-se com o lote 27, todos da mesma quadra 06, perfazendo a área total de 1.050,00m². Conforme Av.02, foi construído uma casa residencial, composta de 02 pavimentos, sendo o pavimento térreo constituído de: sala, cozinha, banheiro, 02 quartos, corredor, sala de TV, varanda frontal, varanda nos fundos, área de serviço coberta, garagem lateral e escada de acesso ao primeiro pavimento; e o primeiro pavimento constituído de: sala, hall, 01 quarto com varanda coberta, 01 quarto, sendo suíte com closet e varanda coberta, escritório e varanda frontal coberta, perfazendo a área total construída de 347,31m². Conforme Av.03, conta a retificação quanto ao lote, quadra e os limites equivocadamente como sendo 26 da quadra 06, quando o correto é 08 da quadra 04, tendo os limites e confrontações; 15,00m de frente, limitando-se com a rua de acesso; 15,00m de fundo, limitando-se com o lote 23; 70,00m do lado direito, limitando-se com o lote 09, 70,00m do lado esquerdo, limitando-se com o lote 07, perfazendo a área total de 1.050,00m², constou também o numero a inscrição municipal como sendo 24581, quando o correto é 23961. Conforme Av.09, foi incluso o endereço do imóvel sendo Rua da Encarnação, s/n, Lote 08, Quadra 04, Arembepe, Camaçari/BA. Matrícula nº 31.939 do 1º Cartório de Oficio de Registro de Imóveis de Camaçari/SP. Cadastrado na Prefeitura Municipal sob n° 0000023961.  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.   O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 15/Dez/2023 a partir das 09h10 com Valor Mínimo de Venda de R$ 1.030.198,51.  2ª Praça:  Abertura: 15/Dez/2023 a partir das 09h11 Fechamento: 22/Dez/2023 a partir das 15h10 com Valor Mínimo de Venda de R$ 617.784,83.                                                                                                                                                                                                                                                                             Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 40% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1030198.51</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/210a6027-4bb4-4440-a9bc-9ffc88a95e47.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9e4d0d3-840d-4c8e-ba62-c5d212c6da16.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97c3b563-19e6-47ae-94af-de71dc2ca748.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e60bf879-bfa7-4d4e-8d5a-2416ac3d24c3.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua da Encarnação, s]]></endereco>
-        <localidade><![CDATA[Quadra 04, Arbepe, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[42823-528]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -14675,6 +14462,297 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Via Pietro, 65]]></endereco>
         <localidade><![CDATA[Condomínio Residencial Villa Viccenza II, Cianorte, Paraná, Brasil]]></localidade>
         <codigoPostal><![CDATA[87210-210]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3144267]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3144267]]></codigoReferencia>
+      <titulo><![CDATA[Casa 147m², no Jardim Morumbi, Araras/SP]]></titulo>
+      <descricao><![CDATA[Casa 147m², no Jardim Morumbi, Araras/SP  Casa - no Jardim Morumbi     Localização: R.Luiz Ribeiro, nº 62, Jardim Morumbi, Araras/SP, 13606-512     Área Terreno: 147m²  Área Construída: 116m²     Matrícula: nº 59.451  RGI: Cartório de Registro de Imóveis de Araras/SP  Inscrição Prefeitura: 12.5.11.85.006.000.001     DOSSIÊ: 02.20636     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/Jan/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 376.293,15     2ª Praça:  Abertura: 03/Jan/2024 a partir das 10h21  Fechamento: 04/Jan/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 221.416,87     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 41% de deságio sobre o valor de avaliação.  02.20636 Santander - Alienação Fiduciária - D.02.20636]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>376293.15</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/86910479-c65c-4fe5-88b3-fdb8b832c7f8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f5c6b12f-3dd0-49bd-a52c-b206c588c01b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/efbd7bc9-6b2d-4329-9b00-de5083fc6ec2.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R.Luiz Ribeiro, 62]]></endereco>
+        <localidade><![CDATA[Jardim Morumbi, Araras, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13606-512]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3144272]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3144272]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 49m², no Turiacu, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto. 49m², no Turiacu, Rio de Janeiro/RJ  Apartamento - no Turiacu     Localização: R. Ibia, nº 517, Cond. Parque da Colina, apto. 1.003, Turiacu, Rio de Janeiro/RJ, 21540-900     Área Privativa: 49m²     Matrícula: nº 266.612  RGI: 8º Serviço Registral de Imóveis do Rio de Janeiro/RJ  Inscrição Prefeitura: 1.676.709-7- CL 025304     DOSSIÊ: 02.20724     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/Jan/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 118.635,08     2ª Praça:  Abertura: 03/Jan/2024 a partir das 10h11  Fechamento: 04/Jan/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 99.289,52        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 16% de deságio sobre o valor de avaliação.  02.20724 Santander - Alienação Fiduciária - D.02.20724]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>118635.08</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f35a9f0e-6697-485d-a609-e3c202acae3e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f6d90248-ca71-4219-9727-df34c9ba24a7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9b1a6fde-51b3-4fd4-9575-6ae27a98fdfd.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Ibia, 517]]></endereco>
+        <localidade><![CDATA[Turiacu, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21540-900]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3141951]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3141951]]></codigoReferencia>
+      <titulo><![CDATA[Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP]]></titulo>
+      <descricao><![CDATA[Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP  Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP - Lote de terreno sob nº 06 da quadra B-E do loteamento denominado Balneário São Martinho, situado no município de Ilha Comprida, comarca de Iguape/SP, medindo 10,00m de frente para Alameda Paraná, igual medida nos fundos onde confronta com o lote nº 12, por 25,00m da frente aos fundos em ambos os lados, do lado direito de quem de dentro do imóvel olha para a referida Alameda confronta com o lote nº 05, do lado esquerdo no mesmo sentido confronta com o lote nº 07, encerrando uma área de 250m². Matrícula nº 153.683 do Cartório de Registro de Imóveis de Iguape/SP. Cadastrado na Prefeitura Municipal sob n° 028.032.006.6.  Imóvel Desocupado.  O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 969,23.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto). 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). Não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado. 5 - Conforme Memorial e Topografia é Rua Siqueira Campos. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.  Valor de avaliação: R$ 60.000,00 - percentual de desconto: 71% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Terrenos com até 600m² no Estado de SP]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[250]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>17500</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ecaa6b56-4646-4027-9eeb-71898c308d45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3456c7c-6fef-4cf9-b505-15aa4f851519.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a538462b-6d40-4d4f-8cf6-1a08c2bfdd46.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4a3ea9f9-1381-4783-95c2-5240039da0f2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ddefe201-1ae9-4d68-bb92-0cf610184b8a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/45c3dbd8-c18f-4ad7-8269-83eca228fedb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0f220403-1202-420d-8f2d-8f288a270fb9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/55c80a52-bc3d-4525-9f64-0749e3d25749.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d67dbe9c-64c4-47be-9d88-43516d4189e1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ddf0a60f-76f8-43b5-8749-518e412127d9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c359935b-c8ef-46e0-9836-0b6780fcd16f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29d18e97-f299-408b-a31e-03a65f58d894.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Alameda Paraná, undefined]]></endereco>
+        <localidade><![CDATA[Ilha Comprida, Ilha Comprida, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11925-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3141948]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3141948]]></codigoReferencia>
+      <titulo><![CDATA[Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP]]></titulo>
+      <descricao><![CDATA[Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP  Terreno 250m², Desocupado no Balneário São Martinho em Ilha Comprida/SP - Lote de terreno sob nº 05 da quadra B-E do loteamento denominado Balneário São Martinho, situado no município de Ilha Comprida, comarca de Iguape/SP, medindo 10,00m de frente para Alameda Paraná, igual medida nos fundos onde confronta com o lote nº 13, por 25,00m da frente aos fundos em ambos os lados, do lado direito de quem de dentro do imóvel olha para a referida Alameda confronta com o lote nº 04, do lado esquerdo no mesmo sentido confronta com o lote nº 06, encerrando uma área de 250m². Matrícula nº x153.684 do Cartório de Registro de Imóveis de Iguape/SP. Cadastrado na Prefeitura Municipal sob n° 028.032.005.6.  Imóvel Desocupado.  O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 969,23.  Informações Relevantes: 1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - Condições de Pagamento: À vista (sem desconto). 3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). Não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.            Valor de avaliação: R$ 60.000,00 - percentual de desconto: 71% de deságio sobre o valor de avaliação.  Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Terrenos com até 600m² no Estado de SP]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[250]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>17500</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97094ee8-963e-4b58-b0d3-dab6481d294a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/11dbad79-fe21-415d-80b9-0da26d51b3c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1c152257-6af6-4025-9ab8-99b8a75e4daf.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Alameda Paraná, undefined]]></endereco>
+        <localidade><![CDATA[Ilha Comprida, Ilha Comprida, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11925-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
