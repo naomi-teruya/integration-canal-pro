@@ -14976,6 +14976,354 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3144345]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3144345]]></codigoReferencia>
+      <titulo><![CDATA[Apto 70m² 1 vaga na Cidade Industrial em Curitiba/PR - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 70m² 1 vaga na Cidade Industrial em Curitiba/PR - Ocupado  Apto 70m² 1 vaga na Cidade Industrial em Curitiba/PR - Ocupado     Localização: Rua Professor Pedro Viriato Parigot de Souza, nº 5.175, apto 1302, Cidade Industrial, Curitiba/PR - CEP: 81280-330     Apto  Área útil: 70,08m²  Área total: 92,91m²     Vaga n° 198  área útil: 12,50m²  área total: 14,53m²     Matrículas: nº 164.035 e 164.036  RGI: 8º Registro de Imóveis de Curitiba/PR  Inscrição Prefeitura: 77.7.0074.0274.00-9 e 29.066.097.4973     DOSSIÊ: 02.20573     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 673.547,34     2ª Praça:  Abertura: 01/Fev/2024 a partir das 09h31  Fechamento: 02/Fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 270.000,00     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 60% de deságio sobre o valor de avaliação.  02.20573 Santander - Alienação Fiduciária - D.02.20573]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>673547.34</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/279a4b94-e920-4b1a-bf22-a5fe87771315.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d528e5a-c6fa-4a14-9f7e-6031d4118e67.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a550fa4f-5588-4ed3-8af3-6b19e11bb647.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Professor Pedro Viriato Parigot de Souza, 5.175]]></endereco>
+        <localidade><![CDATA[Cidade Industrial, Curitiba, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[81280-330]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3143864]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3143864]]></codigoReferencia>
+      <titulo><![CDATA[Casa 84m², Ocupada, em São João do Meriti/RJ]]></titulo>
+      <descricao><![CDATA[Casa 84m², Ocupada, em São João do Meriti/RJ  Casa 84m², Ocupada, em São João do Meriti/RJ     Localização: Rua Bertioga, nº 36, casa 03, Parque Novo Rio, em São João do Meriti/RJ, - CEP: 25586-070     área total construída de 84,59m²  área livre de 10,26m²  participação no condomínio 54,67m²  soma de 149,52m²  participação no terreno de 91,82m²     Matrícula: 17.151 do Cartório do 1º Ofício de São João de Meriti/RJ  Inscrição Prefeitura: 228.454     DOSSIÊ: 21058     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/01/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 320.000,00     2ª Praça:  Abertura: 03/01/2024 a partir das 10h01  Fechamento: 04/01/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 303.447,73     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 5% de deságio sobre o valor de avaliação.  21058 Santander - Alienação Fiduciária - D.21058]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>320000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c4a3f3f2-aced-49f5-992d-d18d72612cf6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/78bb37a4-7cc0-4200-8ab8-2aa5ef6c9df4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e5bb78f4-cee6-4a21-a7c0-c398ef4acc8d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/633ee1cb-fb95-42d6-96ad-9a8633ccbab8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ac3fe077-5067-4f0d-819a-ec436d21cbce.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bc0e9700-bfb9-4932-9b42-dbfe4bad3589.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Bertioga, 36]]></endereco>
+        <localidade><![CDATA[em São João do Meriti, RJ, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[25586-070]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3143860]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3143860]]></codigoReferencia>
+      <titulo><![CDATA[Casa 712m², Ocupada, Bairro de Santana, em Gravatá/PE]]></titulo>
+      <descricao><![CDATA[Casa 712m², Ocupada, Bairro de Santana, em Gravatá/PE  Casa 712m², Ocupada, Bairro de Santana, em Gravatá/PE     Localização: Rua Narciso, nº 200, Condomínio denominado Fazenda Gramado, Santana, Gravatá/PE, - CEP: 55640-001      área do terreno 1.020,00m²  área de construção de 712,16 m²     Matrícula: 36.284 do Cartório de Registro de Imóveis de Gravatá/PE  Inscrição Prefeitura: 01.09.001.02.1102.001     DOSSIÊ: 02.21103     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 1.568.614,24     2ª Praça:  Abertura: 03/01/2024 a partir das 09h41  Fechamento: 04/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 1.128.346,61     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 28% de deságio sobre o valor de avaliação.   02.21103 Santander - Alienação Fiduciária - D.02.21103]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1568614.24</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f11edda0-12be-459e-8579-dc79370455cb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/68284f71-d62f-4feb-bf19-cf412eff08ab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7027d98-0efa-437f-ac71-ad5ec78f1b77.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/856c887c-5eb8-4c56-bd5b-34757706cc95.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Narciso, 200]]></endereco>
+        <localidade><![CDATA[Gravatá, PE, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[55640-001]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3144016]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3144016]]></codigoReferencia>
+      <titulo><![CDATA[Casa 93m², Ocupado, em Senador Canedo/GO]]></titulo>
+      <descricao><![CDATA[Casa 93m², Ocupado, em Senador Canedo/GO  Casa 93m², Ocupado, em Senador Canedo/GO     Localização: Rua F-10, Casa 02, JARDIM FLAMBOYANT, Senador Canedo/GO, - CEP: 75263-750     área total de 180,00m²  sendo 93,94m² de área privativa coberta; e, 86,06 m² de área privativa descoberta;  fração ideal no terreno de 50,00%     Matrícula: 45.073 do Cartório de Registro de Imóveis de Senador Canedo/GO  Inscrição Prefeitura: 1.290.000015.000021.002     DOSSIÊ: 02.21163     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 02/01/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 276.310,65     2ª Praça:  Abertura: 02/01/2024 a partir das 10h51  Fechamento: 03/01/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 183.108,95     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 34% de deságio sobre o valor de avaliação.  02.21163 Santander - Alienação Fiduciária - D.02.21163]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>276310.65</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7757224c-4a0b-484e-9524-ab38eca206e2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/207c534c-3cdc-4922-8afa-3287f914ca45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d4b430ff-a390-4b26-b3b9-fce7da9c9119.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/36398684-21d7-41aa-8959-dfaa86318d4f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/105a8a84-a57e-4b21-b7d4-6e070cab1460.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua F-10, Casa 02]]></endereco>
+        <localidade><![CDATA[Senador Canedo, GO, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[75263-750]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3142258]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3142258]]></codigoReferencia>
+      <titulo><![CDATA[Apto 93m², 1 Vaga, Ocupado em Praia Grande/SP]]></titulo>
+      <descricao><![CDATA[Apto 93m², 1 Vaga, Ocupado em Praia Grande/SP  Apto 93m², 1 Vaga, Ocupado em Praia Grande/SP  Localização: ¿ Avenida Presidente Castelo Branco, nº 12.440, Apto nº 31,   Bloco 01, Condomínio Residencial Portal do Sol, Edifício Residencial Barra do Sahy, Balneário Marambaia, Praia Grande/SP  -  CEP: 11701-750  área útil de 93,818m² área de garagem de 9,126m² área comum de  31,269m² área total de 134,213m² fração ideal no terreno e nas demais coisas de uso comum equivalente a 1,0919%  Matrícula: 159.540 do Cartório de Registro de Imóveis de Praia Grande/SP Inscrição Prefeitura:  2.07.08.005.001.1031-3  DOSSIÊ: 20650  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 26/12/2023 a partir das 10h10 com Valor Mínimo de Venda de R$ 748.521,35  2ª Praça: Abertura: 26/12/2023 a partir das 10h11 Fechamento: 27/12/2023 a partir das 14h10 com Valor Mínimo de Venda de R$ 504.122,92                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  Percentual de desconto: 33% de deságio sobre o valor de avaliação.    20650 Santander - Alienação Fiduciária - D.20650]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>748521.35</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc74dd0a-a938-4d1d-8bd7-dc77b6268b85.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/72b82ac8-d08e-4244-be37-f911b03c0bde.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5de7c7c7-b77b-4767-b7ba-a03827704b68.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Presidente Castelo Branco, 12.440]]></endereco>
+        <localidade><![CDATA[Balneário Marambaia, Praia Grande, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11701-750]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
