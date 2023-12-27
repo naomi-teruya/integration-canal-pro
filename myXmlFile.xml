@@ -4876,40 +4876,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3119963</ListingID>
-      <Title>Casa 250m² no Butantã em São Paulo/SP - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3119963</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e4aaf928-261f-4290-96b1-271f4575692c.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4e3df256-e454-41de-8bfc-827eb0cfafe6.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 250m² no Butantã em São Paulo/SP - Ocupado  Casa 250m² no Butantã em São Paulo/SP - Ocupado     Localização: Rua Ministro Heitos Bastos Tigre n° 732 - Butantã - São Paulo/SP - CEP: 05634-060     Área total: 250m²     Matrícula: nº 80.163   RGI: 18º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 123.031.0015-0     DOSSIÊ: 17378     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 1.407.026,69     2ª Praça:  Abertura: 04/Jan/2024 a partir das 09h31  Fechamento: 05/jan/2024 a partir das 16h20 com Valor Mínimo de Venda de R$ 109.684,85     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 86% de deságio sobre o valor de avaliação.  17378 Santander - Alienação Fiduciária - D.17378]]></Description>
-        <ListPrice currency="BRL">1407026.69</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>São Paulo</City>
-        <Address>Rua Ministro Heitos Bastos Tigre n° 732</Address>
-        <StreetNumber>Butantã</StreetNumber>
-        <PostalCode>05634-060</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3122223</ListingID>
       <Title>Apto 75m², Ocupado, Bairro de Casa Caiada, Olinda /PE</Title>
       <TransactionType>For Sale</TransactionType>
@@ -5091,245 +5057,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>R. Professor Sebastião Parana</Address>
         <StreetNumber>48</StreetNumber>
         <PostalCode>80320-070</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133425</ListingID>
-      <Title>Galpão, Locado, 36250.0 m2, Canguçu / RS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133425</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/79e0e612-0d9b-4abd-8004-e4bd635b54c5.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7d9c4d3f-1785-4bc1-831c-33d57f45203b.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/8d2a8e16-fcaf-4d4b-b847-76ed4058ed27.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b0a76e89-037b-4c96-8ba9-8691a7b69413.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f2303f21-a110-442a-b6c3-e686bc5a62c2.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/5a69c428-ffec-4bf7-aa57-240045163067.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/2742271d-e9a4-4b50-82d0-06ac8931bb88.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/db183233-9234-4c87-9935-2687e0c1515f.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/ecd13680-03f0-4f8f-8bb9-313d1c55e377.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/14e005ca-adef-4c82-87e6-a2dded88c58a.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Galpão, Locado, 36250.0 m2, Canguçu / RS  Endereço Completo  Rua Joao Goularte, 2007, Quadra 108, Centro, Canguçu, RS, CEP: 96600000   Características do Imóvel:    Descrição:  Galpão, Padrão, Locado. Área(s): 36250 m² de área total, 36250 m² de área terreno, 645 m² de área construída. Matrícula(s): 9.012. Cartório: CRI DE CANGUCU. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Galpão  Status da Ocupação:  Locado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.10824   Área Total:  36250.0 m2  Área Terreno:  36250.0 m2  Composição Interna/Vagas:  Escritórios: 1, Banheiros: 2, Copas: 1   Matrícula:  9.012  Cartório de Registro:  CRI DE CANGUCU  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 4.171,20   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* LOCADO* ACAO JUDICIAL - CAUTELAR- PROC. NO 0009347-68.2019.8.21.0022 EM TRAMITE NA 1A VARA CIVEL DE PELOTAS/RS.* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A,(I) REGULARIZACAO DO IMOVEL, NOTADAMENTE A AVERBACAO/RETIFICACAO DA AREA CONSTRUIDA/AREA DO TERRENO, PERANTE OS ORGAOS COMPETENTES,(II) DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* VENDA CONDICIONADA AO NAO EXERCICIO DO DIREITO DE PREFERENCIA PELO LOCATARIO. O LOCATARIO SERA NOTIFICADO APOS A ARREMATACAO NO LEILAO CONFORME ITENS 4.15 E 4.16 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   120433 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">1430000</ListPrice>
-        <LivingArea unit="square metres">36250</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">Rio Grande do Sul</State>
-        <City>Canguçu</City>
-        <Address>Rua Joao Goularte</Address>
-        <StreetNumber>2007</StreetNumber>
-        <PostalCode>96600000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133424</ListingID>
-      <Title>Lote, Ocupado, 61.0 ha, Cuiabá / MT</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133424</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/834aa7c3-39bf-4cd9-aa79-5a04c8438a2f.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7dab0cb0-062e-4a43-8eab-013d23e64c5f.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/ada63974-53a4-4984-9502-02b4b2971b58.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/413e6b5c-3252-4602-beb7-e39bdaf2379f.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/e13a47d8-2909-4acc-a2b7-b4cb16b2b485.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/5f792927-1b8d-4aa2-b793-b1fa7526d031.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/e22c68e2-c4ae-4dd5-8ccf-686e39196048.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/0a384d1d-0990-49f8-a4f7-2d8974e09c18.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/47996aef-bc85-4e1a-83f9-0bf1a365342e.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/c9c06f31-8a5e-48bc-b848-a2e182afb4ef.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Description><![CDATA[Lote, Ocupado, 61.0 ha, Cuiabá / MT  Endereço Completo  Rodovia Emanuel Pinheiro, S/N, Altura Km 10, Jardim Vitoria, Cuiabá, MT, CEP: 78055733   Características do Imóvel:    Descrição:  Lote, Padrão, Ocupado. Área(s): 61 ha de área total, 61 ha de área terreno. Matrícula(s): 71.568. Cartório: 2 CRI DE CUIABA. Inscrição da Prefeitura: NC_MIGRACAO.   Tipo do Imóvel:  Lote  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.03584   Área Total:  61.0 ha  Área Terreno:  61.0 ha   Matrícula:  71.568  Cartório de Registro:  2 CRI DE CUIABA  Inscrição na Prefeitura:  NC_MIGRACAO   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. IMÓVEL FOREIRO AO MUNICIPIO CADASTRADO NO INCRA  904.031.005.053-3   3. ACAO JUDICIAL - USUCAPIAO - PROC 40971-04.2012.811.0041 EM TRAMITE NA 3° VARA CIVEL DE CUIABA/MT.   ACAO JUDICIAL - ANULATORIA - PROC 010541-89 2000 811 0041 EM TRAMITE NA 13° VARA CIVEL DE CUIABA/MT.   ACAO JUDICIAL - EMBARGOS DE TERCEIRO - PROC.16553-41.2008.811.004 EM TRAMITE NA 9° VARA CIVEL DE CUIABA/MT.  4. FICARAO A CARGO DO ARREMATANTE: (I) ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS DECORRENTES DA DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II)DA ACAO JUDICIAL EM TRAMITE,(III)DA EVENTUAL REGULARIZACAO FISICA E/OU DOCUMENTAL DO IMOVEL PERANTE OS ORGAOS COMPETENTES, (EX: REGISTRO DE IMOVEIS, INCRA, PREFEITURA, RECEITA FEDERAL).* O VENDEDOR PROVIDENCIARA, SEM PRAZO DETERMINADO, A BAIXA DA PENHORA.* IMOVEL DE PROPRIEDADE DO BANCO AMERICA DO SUL S/A. VER ITENS 5.4 A 5.5.1 DO PRESENTE EDITAL.  5. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.  6. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento   42096 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">2450000</ListPrice>
-        <LivingArea unit="square metres">61</LivingArea>
-        <Bedrooms>0</Bedrooms>
-        <Bathrooms>0</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MT">Mato Grosso</State>
-        <City>Cuiabá</City>
-        <Address>Rodovia Emanuel Pinheiro</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>78055733</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133423</ListingID>
-      <Title>Lote, Desocupado, 21293.68 m2, Biguaçu / SC</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133423</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/4eba9d63-02dd-4b58-bb95-80f5aba1ba56.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d140d92c-7a96-444d-b1df-711884efb143.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/ff6bdb9b-5bc2-4d32-a6fa-68f4476018f8.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/368ca2f0-d535-4db5-baa7-d86d81d0e961.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/fbf392a7-98c6-4035-a82e-2bf65cb23b42.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/082723b2-14cc-4132-86a3-60ecd0ced386.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/9fbd450b-19c7-49f1-98dc-acb8f2dbfb78.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/4947fb50-73ab-4b62-a89e-f1f8383e2d19.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/aea1b941-e952-4541-903d-09bdddee4624.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Description><![CDATA[Lote, Desocupado, 21293.68 m2, Biguaçu / SC  Endereço Completo  Rua Julio Teodoro Martins, S/N, Fundos, Biguaçu, SC, CEP: 88161330   Características do Imóvel:    Descrição:  Lote, Padrão, Desocupado. Área(s): 21293,68 m² de área total, 21293,68 m² de área terreno. Matrícula(s): 34.396,34.392,34.394,34.390,34.. Cartório: CRI DE BIGUACU. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Lote  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  02.19188   Área Total:  21293.68 m2  Área Terreno:  21293.68 m2   Matrícula:  34.396,34.392,34.394,34.390,34.  Cartório de Registro:  CRI DE BIGUACU  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 4.219,30   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* DESOCUPADO* LOTES - FISICAMENTE UNIFICADO A OUTRAS 04 AREAS, MATRICULAS 34.390 - 34.392 - 34.394 - 34.396. PARTE DESTES LOTES ENCONTRAM-SE EM AREA DE PRESERVACAO PERMANENTE* O VENDEDOR PROVIDENCIARA, SEM PRAZO DETERMINADO, A BAIXA DA PENHORA.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A (I) EVENTUAL REGULARIZACAO FISICA E/OU DOCUMENTAL DO IMOVEL PERANTE OS ORGAOS COMPETENTES (EX: REGISTRO DE IMOVEIS, INCRA, PREFEITURA, RECEITA FEDERAL, ETC), (II) RELATIVOS A OBSERVANCIA DE RESTRICOES QUANTO AO USO E OCUPACAO DO IMOVEL EM RAZAO DA AREA DE PRESERVACAO PERMANENTE,(III) REGULARIZACAO DO IMOVEL, NOTADAMENTE A AVERBACAO/RETIFICACAO DA AREA CONSTRUIDA/AREA DO TERRENO, PERANTE OS ORGAOS COMPETENTES. * OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   120922 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">4620000</ListPrice>
-        <LivingArea unit="square metres">21293.68</LivingArea>
-        <Bedrooms>0</Bedrooms>
-        <Bathrooms>0</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SC">Santa Catarina</State>
-        <City>Biguaçu</City>
-        <Address>Rua Julio Teodoro Martins</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>88161330</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133422</ListingID>
-      <Title>Loja, Ocupado, Rio De Janeiro / RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133422</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/cb3a20f4-f008-4be7-abac-b5acfe4188fd.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a4a44e92-1e40-47c0-ac28-09b4a0c91bee.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d38261b9-6b16-44cf-9b5b-1bd6c1d7b325.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/0b549069-48b2-4bc7-b4ee-3a96ec4be000.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/eafbef6d-a033-4bd5-82ac-5ed0cd106a89.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/aad12451-c08d-4e35-9dfe-22e3fb45d926.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/7e7c9762-bf4c-409c-8de2-7f8fe6d1c65b.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Loja, Ocupado, Rio De Janeiro / RJ  Endereço Completo  Rua Jose De Figueiredo, 320, Loja 103 E 104, Bloco 03 - Condominio Office House, 10 Vagas De Garagem, Barra Da Tijuca, Rio De Janeiro, RJ, CEP: 22793170   Características do Imóvel:    Descrição:  Loja, Padrão, Ocupado, 10 vaga(s) de garagem. Área(s): 234 m² de área privativa, 234 m² de área útil. Matrícula(s): ,294.190,294.189. Cartório: 9 CRI DO RIO DE JANEIRO. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Loja  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.17275   Área Util:  234.0 m2  Área Privativa:  234.0 m2  Composição Interna/Vagas:  Escritórios: 15, Lavabos: 6, Vagas de Garagem: 10, Copas: 1, Áreas de Serviço: 2, Varandas: 2   Matrícula:  ,294.190,294.189  Cartório de Registro:  9 CRI DO RIO DE JANEIRO  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 33.288,80  Condomínio Mensal:  R$ 1.700,00   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   42757 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">2500000</ListPrice>
-        <LivingArea unit="square metres">234</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">Rio de Janeiro</State>
-        <City>Rio De Janeiro</City>
-        <Address>Rua Jose De Figueiredo</Address>
-        <StreetNumber>320</StreetNumber>
-        <PostalCode>22793170</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133421</ListingID>
-      <Title>Lote, Desocupado, 7.8281 ha, Caucaia / CE</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133421</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3626f749-488e-4c34-a824-50f102175f4d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/2023efe2-447a-47f7-821d-9e774173966a.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1dfcb981-ffbb-4fc7-b397-b751e23c7f8b.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/572e2dbb-e596-44f8-aeaf-59301f6c2241.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/2a8e5167-8e28-4da2-b3a1-5d695c0d8c57.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/440c5c1c-4d08-41c8-88a6-e86873bb086a.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/f5b29881-6be5-493d-ac60-10ea9746db89.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/be3bbb47-d87d-479a-bcb5-a3be75f7ab72.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/2b541902-aa5c-473b-89b1-ca29376b2cc3.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/48157134-25eb-484c-96cc-6bb3d4a004c1.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Description><![CDATA[Lote, Desocupado, 7.8281 ha, Caucaia / CE  Endereço Completo  Rua Coronel Correia, 0, Acesso Pela Rodovia Estruturante, Centro, Caucaia, CE, CEP: 61600004   Características do Imóvel:    Descrição:  Lote, Padrão, Desocupado, 4 vaga(s) de garagem. Área(s): 7,8281 ha de área total, 7,83 ha de área terreno. Matrícula(s): 10.485. Cartório: CRI DE CAUCAIA. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Lote  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  02.17768   Área Total:  7.8281 ha  Área Terreno:  7.83 ha  Composição Interna/Vagas:  Dormitórios: 7, Banheiros: 7, Vagas de Garagem: 4, Salas: 2, Cozinhas: 2, Áreas de Serviço: 1, Varandas: 2   Matrícula:  10.485  Cartório de Registro:  CRI DE CAUCAIA  Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA  IPTU Anual:  R$ 1.103,80  Condomínio Mensal:  R$ 1.103,80   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1.:* DESOCUPADO* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A REGULARIZACAO DO IMOVEL, NOTADAMENTE A AVERBACAO/RETIFICACAO DA AREA CONSTRUIDA/AREA DO TERRENO, PERANTE OS ORGAOS COMPETENTES.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.    Condições de Pagamento   99956 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">1075000</ListPrice>
-        <LivingArea unit="square metres">7.8281</LivingArea>
-        <Bedrooms>0</Bedrooms>
-        <Bathrooms>0</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="CE">Ceará</State>
-        <City>Caucaia</City>
-        <Address>Rua Coronel Correia</Address>
-        <StreetNumber>0</StreetNumber>
-        <PostalCode>61600004</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
-      <ListingID>3133426</ListingID>
-      <Title>Lote, Desocupado, 629870.0 m2, Várzea Grande / MT</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3133426</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/69b33ef4-8aea-42cc-925f-57e20cccea97.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Description><![CDATA[Lote, Desocupado, 629870.0 m2, Várzea Grande / MT  Endereço Completo  Estrada Da Fazendinha - Mirante Do Pari, S/N0, Passagem Da Conceicao, Várzea Grande, MT, CEP: 78115000   Características do Imóvel:    Descrição:  Lote, Padrão, Desocupado. Área(s): 629870 m² de área total, 629870 m² de área terreno. Matrícula(s): 90.291,90,3.582. Cartório: 1 CRI DE VARZEA GRANDE.   Tipo do Imóvel:  Lote  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  02.16173   Área Total:  629870.0 m2  Área Terreno:  629870.0 m2   Matrícula:  90.291,90,3.582  Cartório de Registro:  1 CRI DE VARZEA GRANDE   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. DESOCUPADO  2. AÇÃO JUDICIAL - REVISIONAL - PROC. Nº 1016245-36.2018.8.11.0041 EM TRÂMITE NA VARA CÍVEL DE VARZEA GRANDE/MT.   AÇÃO JUDICIAL - REINTEGRAÇÃO DE POSSE - PROC. Nº 1013076-22.2022.8.11.0002 EM TRÂMITE NA VARA CÍVEL DE VARZEA GRANDE/MT  3. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS:(I) EVENTUAL REGULARIZAÇÃO FÍSICA E/OU DOCUMENTAL DO IMÓVEL PERANTE OS ÓRGÃOS COMPETENTES (EX: REGISTRO DE IMÓVEIS, INCRA, PREFEITURA, RECEITA FEDERAL, ETC, (II) DECORRENTES DA AÇÃO JUDICIAL EM TRÂMITE.  4. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.  6. EM CASO DE ADQUIRENTE ESTRANGEIRO (PESSOA FÍSICA/JURÍDICA) OBSERVAR O ITEM 4.17.1 E RESPECTIVOS SUBITENS DO EDITAL.  5. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento   42517 Santander - Comerciais]]></Description>
-        <ListPrice currency="BRL">12750000</ListPrice>
-        <LivingArea unit="square metres">629870</LivingArea>
-        <Bedrooms>0</Bedrooms>
-        <Bathrooms>0</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MT">Mato Grosso</State>
-        <City>Várzea Grande</City>
-        <Address>Estrada Da Fazendinha</Address>
-        <StreetNumber>Mirante Do Pari</StreetNumber>
-        <PostalCode>78115000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7516,6 +7243,216 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua Biguaçu</Address>
         <StreetNumber>81</StreetNumber>
         <PostalCode>89041-580</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3148685</ListingID>
+      <Title>Apto 52m², 1 Vaga, Ocupado,  em Ipojuca/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3148685</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ad81af05-f0fc-48d7-9680-f6862403f00e.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/db492b96-472a-41b8-af14-b4adec087bed.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/cd5eefea-18e9-490b-ab46-41fbc042920a.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d4c54e7c-8e4f-4f36-aefe-b4a22c96c755.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 52m², 1 Vaga, Ocupado,  em Ipojuca/PE  Apto 52m², 1 Vaga, Ocupado,&nbsp;em Ipojuca/PE     Localização: Lote de terreno próprio nº 01, Quadra 35, Apto nº 503, Tipo ¿A¿, do Bloco 08, Loteamento ¿Residencial Estaleiro Atlântico Sul¿, Ipojuca/PE -&nbsp;CEP: 55590-990     área de divisão não proporcional de 63,78m²  área total de 71,3877m²  correspondendo-lhe uma fração ideal de 0,003526354        Matrícula: 10.401 do Cartório de Registro de Imóveis de Ipojuca/PE  Inscrição Prefeitura:&nbsp;1.0006.013.01.0010.0247.5     DOSSIÊ: 02.20450     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/01/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 198.542,62     2ª Praça:  Abertura: 04/01/2024 a partir das 09h51  Fechamento: 05/01/2024 a partir das 13h50 com Valor Mínimo de Venda de R$&nbsp;159.685,91  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.        Percentual de desconto: 15% de deságio sobre o valor de avaliação.&nbsp;&nbsp;  60097 Santander - Alienação Fiduciária - D.02.20450]]></Description>
+        <ListPrice currency="BRL">198542.62</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PE">Pernambuco</State>
+        <City>Ipojuca</City>
+        <Address>Lote de terreno próprio nº 01</Address>
+        <StreetNumber>Quadra 35</StreetNumber>
+        <PostalCode>55590-990</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3148960</ListingID>
+      <Title>Apto 53m² em Vargem Pequena no Rio de Janeiro/RJ - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3148960</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8d55867f-e328-47e4-9847-934446319d01.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 53m² em Vargem Pequena no Rio de Janeiro/RJ - Ocupado  Apto 53m² em Vargem Pequena no Rio de Janeiro/RJ - Ocupado     Localização: Estrada dos Bandeirantes, nº 15.001, Vargem Pequena, no Rio de Janeiro/RJ - CEP: 22783-025     Área útil: 53m²     Matrícula: nº 367.304   RGI: 9º Cartório de Registro de Imóveis do Rio de Janeiro/RJ  Inscrição Prefeitura: 3248985-8 CL 02433-1     DOSSIÊ: 02.20720     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/fev/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 491.965,10     2ª Praça:  Abertura: 01/Fev/2024 a partir das 10h01  Fechamento: 02/Fev/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 182.624,07     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 63% de deságio sobre o valor de avaliação.  02.20720 Santander - Alienação Fiduciária - D.02.20720]]></Description>
+        <ListPrice currency="BRL">491965.1</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>no Rio de Janeiro</City>
+        <Address>Estrada dos Bandeirantes</Address>
+        <StreetNumber>15.001</StreetNumber>
+        <PostalCode>22783-025</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3150105</ListingID>
+      <Title>Apto. 62m², no Jardim Placaford, Salvador/BA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3150105</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/012c368a-cb90-45a5-b432-49ff4b24be85.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ffda079b-fd4c-4abf-b76a-918a953501e2.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/3a1b7276-1c88-4909-adf3-20f184205d5a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 62m², no Jardim Placaford, Salvador/BA  Apartamento - no Jardim Placaford     Localização: Tv Antonio Casaes, 70, Res. Morena Bela, apto. 202, Jardim Placaford, Salvador/BA, 41612-2955     Área Privativa: 62m²  Descrição Interna: (sala, 02 quartos, sendo uma suíte, sanitário social, cozinha, área de serviço, e varanda)  1 vaga     Matrícula: nº 26.418   RGI: 7º Ofício de Registro de Imóveis de Salvador/BA  Inscrição Prefeitura: 606.628-3     *Recai sobre o imóvel ação: Processo nº 8012108-04.2023.8.05.0001*     DOSSIÊ: 02.19085     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/Jan/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 168.727,13     2ª Praça:  Abertura: 04/Jan/2024 a partir das 10h21  Fechamento: 05/Jan/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 122.518,59        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  02.19085 Santander - Alienação Fiduciária - D.02.19085]]></Description>
+        <ListPrice currency="BRL">168727.13</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="BA">Bahia</State>
+        <City>Salvador</City>
+        <Address>Tv Antonio Casaes</Address>
+        <StreetNumber>70</StreetNumber>
+        <PostalCode>41612-2955</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3147362</ListingID>
+      <Title>Casa 45m², Ocupado, em Indaial/SC</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3147362</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0592c2d5-d38d-447a-87da-797280d9a105.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f775375a-d90d-41d5-b8b0-bfe8204bb0c6.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a6eeeb01-26fd-4c15-a045-4dbd64e219a4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 45m², Ocupado, em Indaial/SC  Casa 45m², Ocupado, em Indaial/SC     Localização: Rua Q, nº 879, Casa nº 01, Loteamento Nova Indaial 7, Residencial Torres Del Paine II , Bairro João Paulo II, Indaial/SC, CEP 89083-057     área construída privativa de 45,9200m²  área construída total 45,9200m²  área de terreno de uso privativo de 238,0000m²  área de uso comum do terreno de 2,0000m²  área total do terreno de 240,0000m²     Matrícula nº 43.150 do Cartório de Registro de Imóveis de Indaial/SC  Inscrição Prefeitura: 01.11.002.6812.001     DOSSIÊ: 20675     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/01/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 250.000,00     2ª Praça:  Abertura: 03/01/2024 a partir das 10h41  Fechamento: 04/01/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 226.425,09        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 9% de deságio sobre o valor de avaliação.   20675 Santander - Alienação Fiduciária - D.20675]]></Description>
+        <ListPrice currency="BRL">250000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">Santa Catarina</State>
+        <City>Indaial</City>
+        <Address>Rua Q</Address>
+        <StreetNumber>879</StreetNumber>
+        <PostalCode>89083-057</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3147347</ListingID>
+      <Title>Casa 59m², Ocupado em Ponta Grossa/PR</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3147347</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/abc28932-d805-4b28-944d-300a78e3a6b9.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/be530f3f-dd8b-445b-bf42-479a702c6199.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/e6214ad9-43f2-42ac-a684-cc27d96bb8c6.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/601c7f3a-3c7d-4bff-ab2c-25e309080c75.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/fcd4deaf-d50a-4fe7-96ac-82232e0f75b7.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 59m², Ocupado em Ponta Grossa/PR  Casa 59m², Ocupado em Ponta Grossa/PR     Localização: Rua Anselmo José Tybuchewski, nº 140, (unidade 01), Jardim Canaã, Bairro do Contorno, em Ponta Grossa/PR - CEP: 84060-142     área útil de 49,17m²  área real privativa de 59,52m²  área real construída comum de 1,44m²  área real total correspondente de 60,96m²  fração ideal do solo de 0,50      Matrícula: 54.970 do 1º Registro de Imóveis de Ponta Grossa/PR  Inscrição Prefeitura: 14-1-06-50-0943-001     DOSSIÊ: 20993     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/01/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 303.059,80     2ª Praça:  Abertura: 03/01/2024 a partir das 10h31  Fechamento: 04/01/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 169.472,49        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 44% de deságio sobre o valor de avaliação.   20993 Santander - Alienação Fiduciária - D.20993]]></Description>
+        <ListPrice currency="BRL">303059.8</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PR">Paraná</State>
+        <City>Ponta Grossa</City>
+        <Address>Rua Anselmo José Tybuchewski</Address>
+        <StreetNumber>140</StreetNumber>
+        <PostalCode>84060-142</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3148141</ListingID>
+      <Title>Apto. 38m², na República, São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3148141</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a740e19c-44e0-4131-b5a9-6aeac3a6626e.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/fc8723b5-fb0b-4877-9e1d-5ae74acf9d4f.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 38m², na República, São Paulo/SP  Apartamento - na Republica     Localização: Av. Ipiranga, 200, Cond. Copan, apto. 141, República, São Paulo/SP, 01046-010     Área Útil: 38m²     Matrícula: nº 56.675   RGI: 5º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 006.064.2023-1     DOSSIÊ: 02.19570     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/Jan/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 583.347,07     2ª Praça:  Abertura: 04/Jan/2024 a partir das 10h01  Fechamento: 05/Jan/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 285.028,74        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 51% de deságio sobre o valor de avaliação.  02.19570 Santander - Alienação Fiduciária - D.02.19570]]></Description>
+        <ListPrice currency="BRL">583347.07</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Av. Ipiranga</Address>
+        <StreetNumber>200</StreetNumber>
+        <PostalCode>01046-010</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
