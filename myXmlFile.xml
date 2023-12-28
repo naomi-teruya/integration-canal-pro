@@ -3167,40 +3167,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3109968</ListingID>
-      <Title>Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3109968</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0eee7fd7-6738-47fc-8b4b-93dbbca73b9b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d34d45cf-8700-4c84-8370-de07cca6a91e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado  Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado     Localização: Av. Raimundo Pereira de Magalhães n° 2199, apto 168, Edificio Indaiá, Pirituba, São Paulo/SP - CEP: 05145-000     Área útil: 62,60m²  Área útil: 101,209m²  Com direito a 1 vaga     Matrículas: nº 156.809  RGI: 16º Oficial de Registro de imóveis de São Paulo/SP  Inscrição Prefeitura: 078.371.1086-2     DOSSIÊ: 20015     Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 28/Dez/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 611.506,83     2ª Praça:  Abertura: 28/Dez/2023 a partir das 09h41  Fechamento: 29/Dez/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 207.500,00     Informações Relevantes:   1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Percentual de desconto: 66% de deságio sobre o valor de avaliação.     Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602   20015 Santander - Alienação Fiduciária - D.20015]]></Description>
-        <ListPrice currency="BRL">611506.83</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Pirituba</City>
-        <Address>Av. Raimundo Pereira de Magalhães</Address>
-        <StreetNumber>2199</StreetNumber>
-        <PostalCode>05145-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3099778</ListingID>
       <Title>Chácara 41.276m² DESOCUPADA, Lot. Pinheirinho em Jundiaí/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -7453,6 +7419,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Av. Ipiranga</Address>
         <StreetNumber>200</StreetNumber>
         <PostalCode>01046-010</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3150700</ListingID>
+      <Title>Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3150700</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8cdca194-b02c-497f-adbe-292c7ddfd694.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7b0ed177-aef6-4d7f-8af7-67721d11adaf.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/889f297b-fa02-483b-90aa-91958348f70b.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/811377c8-5be1-48b1-a0cd-364c95a5f5fa.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP  Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP - O Apartamento nº B33, localizado no 03º pavimento da Ala Bergamo, integrante do empreendimento denominado Edifício City Life, situado na Rua Eugenio Bonadio, desta cidade, comarca e 1ª circunscrição imobiliária de São Jose dos Campos, com a área privativa de 58,4600m², estando incluído a área de 1,41m² referente ao armário privativo B3, localizado no 03º pavimento, área de uso comum de 39,2106m², encerrando a área total de 97,6706m², correspondendo-lhe uma fração ideal no terreno de 0,6602%. Conforme Av.05, o edifício recebeu o nº 335 da Rua Eugenio Bonadio. Matrícula nº 228.743 do 1º Cartório Oficial de Registro de Imóveis e Anexos São Jose dos Campos/SP. Cadastrado na Prefeitura Municipal sob n°: 10.0011.0042.0063. A vaga de garagem simples nº 46-M, localizada no 01º subsolo, integrante do empreendimento denominado Edifício City Life, situado na Rua Eugenio Bonadio, desta cidade, comarca e 1ª circunscrição imobiliária de São Jose dos Campos, com a área privativa de 11,0400m², área de uso comum de 5,1838m², encerrando a área total de 16,2238m², correspondendo-lhe uma fração ideal no terreno de 0,0873%. Conforme Av.05, o edifício recebeu o nº 335 da Rua Eugenio Bonadio. Matrícula nº 228.606 do 1º Cartório Oficial de Registro de Imóveis e Anexos São Jose dos Campos/SP. Cadastrado na Prefeitura Municipal sob n°: 10.0011.0042.0147.     Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/Jan/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 373.475,02.     2ª Praça:   Abertura: 11/Jan/2024 a partir das 09h01  Fechamento: 18/Jan/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 318.188,83.     Informações Relevantes:     1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Creditas - Leilão de Alienação Fiduciária]]></Description>
+        <ListPrice currency="BRL">373475.02</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Jose dos Campos</City>
+        <Address>Rua Eugenio Bonadio</Address>
+        <StreetNumber>335</StreetNumber>
+        <PostalCode>12245-660</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3150743</ListingID>
+      <Title>Casa 155m², no Varzea, Monteiro/PB</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3150743</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/410064b3-feb0-4f13-bc1b-c5693bcae7e1.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d6bcaf8c-e214-4ebd-a2db-35b2b30b666a.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/c6004f40-26cd-4b17-8500-e5cb69b43f8f.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/05a865f5-1d9f-4db2-8ba9-3fcc7339b54f.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 155m², no Varzea, Monteiro/PB  Casa - no Varzea     Localização: Rua José Torres, 21, Varzea, Monteiro/PB, 58500-000     Área Terreno: 155m²  Área Construída: 81m²  Descrição Interna: (duas salas, dois quartos, cozinha, wcb e quintal murado com portão)     Matrícula: nº 4.319  RGI: Cartório de Registro de Imóveis de Monteiro/PB  Inscrição Prefeitura: 0012799 e 1 (Localização Cartográfica)     *Recai sobre o imóvel a ação nº 0829332-79.2023.8.15.0001*     DOSSIÊ: 02.21160     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 150.000,00     2ª Praça:  Abertura: 11/Jan/2024 a partir das 09h31  Fechamento: 12/Jan/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 111.916,29        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 25% de deságio sobre o valor de avaliação.  02.21160 Santander - Alienação Fiduciária - D.02.21160]]></Description>
+        <ListPrice currency="BRL">150000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PB">Paraíba</State>
+        <City>Monteiro</City>
+        <Address>Rua José Torres</Address>
+        <StreetNumber>21</StreetNumber>
+        <PostalCode>58500-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
