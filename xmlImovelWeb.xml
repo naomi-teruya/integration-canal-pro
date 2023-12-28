@@ -5815,69 +5815,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3109968]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3109968]]></codigoReferencia>
-      <titulo><![CDATA[Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado]]></titulo>
-      <descricao><![CDATA[Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado  Apto 62m² 1 vaga em Pirituba em São Paulo/SP - Ocupado     Localização: Av. Raimundo Pereira de Magalhães n° 2199, apto 168, Edificio Indaiá, Pirituba, São Paulo/SP - CEP: 05145-000     Área útil: 62,60m²  Área útil: 101,209m²  Com direito a 1 vaga     Matrículas: nº 156.809  RGI: 16º Oficial de Registro de imóveis de São Paulo/SP  Inscrição Prefeitura: 078.371.1086-2     DOSSIÊ: 20015     Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 28/Dez/2023 a partir das 09h40 com Valor Mínimo de Venda de R$ 611.506,83     2ª Praça:  Abertura: 28/Dez/2023 a partir das 09h41  Fechamento: 29/Dez/2023 a partir das 13h40 com Valor Mínimo de Venda de R$ 207.500,00     Informações Relevantes:   1- Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Percentual de desconto: 66% de deságio sobre o valor de avaliação.     Para maiores informações, entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602   20015 Santander - Alienação Fiduciária - D.20015]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>611506.83</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0eee7fd7-6738-47fc-8b4b-93dbbca73b9b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d34d45cf-8700-4c84-8370-de07cca6a91e.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Av. Raimundo Pereira de Magalhães, 2199]]></endereco>
-        <localidade><![CDATA[Pirituba, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[São Paulo]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3099778]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3099778]]></codigoReferencia>
       <titulo><![CDATA[Chácara 41.276m² DESOCUPADA, Lot. Pinheirinho em Jundiaí/SP]]></titulo>
@@ -14721,6 +14658,144 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Av. Ipiranga, 200]]></endereco>
         <localidade><![CDATA[República, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01046-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3150700]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3150700]]></codigoReferencia>
+      <titulo><![CDATA[Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP]]></titulo>
+      <descricao><![CDATA[Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP  Apto 97m², Ocupado, 1 vaga e 1 Armario Privativo no Centro, São Jose dos Campos/SP - O Apartamento nº B33, localizado no 03º pavimento da Ala Bergamo, integrante do empreendimento denominado Edifício City Life, situado na Rua Eugenio Bonadio, desta cidade, comarca e 1ª circunscrição imobiliária de São Jose dos Campos, com a área privativa de 58,4600m², estando incluído a área de 1,41m² referente ao armário privativo B3, localizado no 03º pavimento, área de uso comum de 39,2106m², encerrando a área total de 97,6706m², correspondendo-lhe uma fração ideal no terreno de 0,6602%. Conforme Av.05, o edifício recebeu o nº 335 da Rua Eugenio Bonadio. Matrícula nº 228.743 do 1º Cartório Oficial de Registro de Imóveis e Anexos São Jose dos Campos/SP. Cadastrado na Prefeitura Municipal sob n°: 10.0011.0042.0063. A vaga de garagem simples nº 46-M, localizada no 01º subsolo, integrante do empreendimento denominado Edifício City Life, situado na Rua Eugenio Bonadio, desta cidade, comarca e 1ª circunscrição imobiliária de São Jose dos Campos, com a área privativa de 11,0400m², área de uso comum de 5,1838m², encerrando a área total de 16,2238m², correspondendo-lhe uma fração ideal no terreno de 0,0873%. Conforme Av.05, o edifício recebeu o nº 335 da Rua Eugenio Bonadio. Matrícula nº 228.606 do 1º Cartório Oficial de Registro de Imóveis e Anexos São Jose dos Campos/SP. Cadastrado na Prefeitura Municipal sob n°: 10.0011.0042.0147.     Imóveis ocupados, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/Jan/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 373.475,02.     2ª Praça:   Abertura: 11/Jan/2024 a partir das 09h01  Fechamento: 18/Jan/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 318.188,83.     Informações Relevantes:     1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>373475.02</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8cdca194-b02c-497f-adbe-292c7ddfd694.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b0ed177-aef6-4d7f-8af7-67721d11adaf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/889f297b-fa02-483b-90aa-91958348f70b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/811377c8-5be1-48b1-a0cd-364c95a5f5fa.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Eugenio Bonadio, 335]]></endereco>
+        <localidade><![CDATA[Centro, São Jose dos Campos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12245-660]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3150743]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3150743]]></codigoReferencia>
+      <titulo><![CDATA[Casa 155m², no Varzea, Monteiro/PB]]></titulo>
+      <descricao><![CDATA[Casa 155m², no Varzea, Monteiro/PB  Casa - no Varzea     Localização: Rua José Torres, 21, Varzea, Monteiro/PB, 58500-000     Área Terreno: 155m²  Área Construída: 81m²  Descrição Interna: (duas salas, dois quartos, cozinha, wcb e quintal murado com portão)     Matrícula: nº 4.319  RGI: Cartório de Registro de Imóveis de Monteiro/PB  Inscrição Prefeitura: 0012799 e 1 (Localização Cartográfica)     *Recai sobre o imóvel a ação nº 0829332-79.2023.8.15.0001*     DOSSIÊ: 02.21160     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 150.000,00     2ª Praça:  Abertura: 11/Jan/2024 a partir das 09h31  Fechamento: 12/Jan/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 111.916,29        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 25% de deságio sobre o valor de avaliação.  02.21160 Santander - Alienação Fiduciária - D.02.21160]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>150000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/410064b3-feb0-4f13-bc1b-c5693bcae7e1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d6bcaf8c-e214-4ebd-a2db-35b2b30b666a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c6004f40-26cd-4b17-8500-e5cb69b43f8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/05a865f5-1d9f-4db2-8ba9-3fcc7339b54f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Torres, 21]]></endereco>
+        <localidade><![CDATA[Varzea, Monteiro, Paraíba, Brasil]]></localidade>
+        <codigoPostal><![CDATA[58500-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
