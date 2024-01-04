@@ -5895,6 +5895,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3156338</ListingID>
+      <Title>Casa 72m² em Varginha em Nova Friburgo/RJ - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3156338</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/42424be0-610e-40fb-8e9c-60ed8e14058e.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/007a37e2-d2ab-4401-9b71-3afbe5325ad0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 72m² em Varginha em Nova Friburgo/RJ - Ocupado  Casa 72m² em Varginha em Nova Friburgo/RJ - Ocupado     Localização: Avenida Arthur da Silva Franco, nº 75, casa 03-B, Condomínio Moradas Santa Luzia II, Varginha em Nova Friburgo/RJ - CEP: 28616-364     Área útil: 72,275m²  área total: 117,9025m²     Matrícula: nº 25.021   RGI: Cartório de Registro de Imóveis de Nova Friburgo/RJ  Inscrição Prefeitura: 0803300075003-0     DOSSIÊ: 02.20884     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/Jan/2024 a partir das 11h10 com Valor Mínimo de Venda de R$ 323.000,00     2ª Praça:  Abertura: 18/Jan/2024 a partir das 11h11  Fechamento: 19/jan/2024 a partir das 16h20 com Valor Mínimo de Venda de R$ 241.272,97         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 25% de deságio sobre o valor de avaliação.  02.20884 Santander - Alienação Fiduciária - D.02.20884]]></Description>
+        <ListPrice currency="BRL">323000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Varginha  Nova Friburgo</City>
+        <Address>Avenida Arthur da Silva Franco</Address>
+        <StreetNumber>75</StreetNumber>
+        <PostalCode>28616-364</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
