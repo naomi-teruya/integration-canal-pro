@@ -11563,6 +11563,129 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3155936]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3155936]]></codigoReferencia>
+      <titulo><![CDATA[Apto 74m² na Vila Merity em Duque de Caxias/RJ - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 74m² na Vila Merity em Duque de Caxias/RJ - Ocupado  Apto 74m² na Vila Merity em Duque de Caxias/RJ - Ocupado     Localização: Rua Manoel Vieira, nº 122, apto 402, Vila Merity, em Duque de Caxias/RJ - CEP: 25020-210     Área útil: 74,64m²     Matrícula: nº 14.376   RGI: 6° Cartório de Registro de Imóveis de Duque de Caxias/RJ  Inscrição Prefeitura: 1.1.075.009.006 e CI 1117959     DOSSIÊ: 02.21174     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 358.414,64     2ª Praça:  Abertura: 17/Jan/2024 a partir das 11h41  Fechamento: 18/jan/2024 a partir das 15h40 com Valor Mínimo de Venda de R$ 133.000,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 63% de deságio sobre o valor de avaliação.  02.21174 Santander - Alienação Fiduciária - D.02.21174]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>358414.64</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3366fbb-4c1f-4687-9385-ecfa11757cd2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e5d94a2e-5dd8-4434-b03e-be0a92b7d187.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Manoel Vieira, 122]]></endereco>
+        <localidade><![CDATA[Vila Merity, Duque de Caxias, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[25020-210]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3155956]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3155956]]></codigoReferencia>
+      <titulo><![CDATA[Apto 57m² 1 vaga no Brás em São Paulo/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 57m² 1 vaga no Brás em São Paulo/SP - Ocupado  Apto 57m² 1 vaga no Brás em São Paulo/SP - Ocupado     Localização: Rua Domingos Paiva, nº 152, apto 903 Torre B, Brás, São Paulo/SP - CEP: 03043-070     Área privativa: 57m²  área comum: 47,366m²  área total: 104,366m²  1 vaga indeterminada coberta     Matrícula: nº 160.209   RGI: 3º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 003.016.1015-0     DOSSIÊ: 02.21008     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 500.394,70     2ª Praça:  Abertura: 17/Jan/2024 a partir das 10h51  Fechamento: 18/jan/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 497.699,42        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21008 Santander - Alienação Fiduciária - D.02.21008]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>500394.7</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a406d9cf-d494-4a4b-980a-57688da3623d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Domingos Paiva, 152]]></endereco>
+        <localidade><![CDATA[Brás, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[03043-070]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
