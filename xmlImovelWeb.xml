@@ -11425,6 +11425,144 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3156487]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3156487]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 83m², 2 vagas no Candeias, Jaboatão dos Guararapes/PE]]></titulo>
+      <descricao><![CDATA[Apto. 83m², 2 vagas no Candeias, Jaboatão dos Guararapes/PE  Apartamento - no Candeias      Localização: Av. Bernardo Vieira de Melo, 4.330, Ed. Lady Edith, Candeias, Jaboatão dos Guararapes/PE, 54430-770     Área Útil: 83m²  Área Comum: 70m²  Descrição Interna: (sala de estar/jantar, varanda, circulação, dois quartos sociais, w.c. banheiro social, suíte social (com quarto e w.c. banheiro), cozinha, área de serviço com lavanderia, quarto de serviço, w.c. banheiro de serviço)  2 vagas     Matrícula: nº 48.933  RGI: 1º Serviço Registral de Jaboatão dos Guararapes/PE  Inscrição Prefeitura: 1.3105.133.02.0126.0034-0 sequencial 1.482024.2     *Recai sobre o imóvel a ação: processo nº 0025786-07.2023.8.17.2810.6*     DOSSIÊ: 02.19505     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 547.512,08     2ª Praça:  Abertura: 17/Jan/2024 a partir das 10h11  Fechamento: 18/Jan/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 449.262,12     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 18% de deságio sobre o valor de avaliação.  02.19505 Santander - Alienação Fiduciária - D.02.19505]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>547512.08</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fb060cf-f675-4642-a23d-f4b3388413e3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/85b2f181-8a4f-4745-a032-254adf971a23.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a172a811-8b73-4f63-baa2-afce8e09f98e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f56ce949-6abe-42d7-a522-c96d6091872f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Bernardo Vieira de Melo, 4.330]]></endereco>
+        <localidade><![CDATA[Candeias, Jaboatão dos Guararapes, Pernambuco, Brasil]]></localidade>
+        <codigoPostal><![CDATA[54430-770]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3156288]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3156288]]></codigoReferencia>
+      <titulo><![CDATA[Casa 160m², no Casa Verde, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Casa 160m², no Casa Verde, São Paulo/SP  Casa - no Casa Verde      Localização: Rua Nordeste, 172, Casa Verde, São Paulo/SP, 02521-030     Área Terreno: 160m²  Área Construída: 120m² (Conforme laudo)     Matrícula: nº 41.146  RGI: 8º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 075.181.0020-7     DOSSIÊ: 02.21000     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 665.557,47     2ª Praça:  Abertura: 17/Jan/2024 a partir das 09h31  Fechamento: 18/Jan/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 349.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 47% de deságio sobre o valor de avaliação.  02.21000 Santander - Alienação Fiduciária - D.02.21000]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>665557.47</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c6c4885e-bdb3-4d88-bd2c-26a224e6217c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c88a1f7f-e3e1-49c3-8e57-00dea2974151.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f9d24d50-701a-4866-bf1c-b49f5738f7d1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/88601143-2a05-4b54-a799-e27474cf86a5.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Nordeste, 172]]></endereco>
+        <localidade><![CDATA[Casa Verde, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[02521-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
