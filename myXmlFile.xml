@@ -6102,6 +6102,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3156866</ListingID>
+      <Title>Casa 107m² no Campo Grande no Rio de Janeiro/RJ - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3156866</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/1d48ecc8-de6b-4e6a-ad93-211bccfe7838.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/66539e60-b8ae-456e-8f4c-d051ced7d21e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 107m² no Campo Grande no Rio de Janeiro/RJ - Ocupado  Casa 107m² no Campo Grande no Rio de Janeiro/RJ - Ocupado     Localização: Rua Luiz Mendes n° 200, Casa 02, Campo Grande, Rio de Janeiro/RJ - CEP: 23075-476     Área útil: 107,56m²  Área total: 176,13m²     Matrícula: nº 51.320   RGI: 12º Cartório de Registro de Imóveis do Rio de Janeiro/RJ  Inscrição Prefeitura: 3.432.764-3 CL nº 26.386-3     DOSSIÊ: 02.20396     Recai sobre o imóvel ação: Processo nº 0832161-89.2023.8.19.0205     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/Jan/2024 a partir das 11h20 com Valor Mínimo de Venda de R$ 486.464,16     2ª Praça:  Abertura: 18/Jan/2024 a partir das 11h21  Fechamento: 19/jan/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 442.446,43        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 9% de deságio sobre o valor de avaliação.  02.20396 Santander - Alienação Fiduciária - D.02.20396]]></Description>
+        <ListPrice currency="BRL">486464.16</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Rio de Janeiro</City>
+        <Address>Rua Luiz Mendes n° 200</Address>
+        <StreetNumber>Campo Grande</StreetNumber>
+        <PostalCode>23075-476</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
