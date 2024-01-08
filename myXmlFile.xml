@@ -6068,6 +6068,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3156754</ListingID>
+      <Title>Casa 267m² na Vila Alto em Santo André/SP - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3156754</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/888e9042-5d38-4dfd-a1ef-d20cb7fd0643.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ef26ade5-2359-4b3f-b275-cf23c60c5369.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 267m² na Vila Alto em Santo André/SP - Ocupado  Casa 267m² na Vila Alto em Santo André/SP - Ocupado     Localização: Rua dos Eucaliptos, nº 153, Vila Alto em Santo André/SP, CEP: 09240-710     Área Construída: 267m²  Área Total: 130,50m²     Matrícula: nº 81.695   RGI: 2º Registro de Imóveis de Santo André/SP  Inscrição Prefeitura: 08.222.111     DOSSIÊ: 20418     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/jan/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 874.616,44     2ª Praça:  Abertura: 18/jan/2024 a partir das 11h41  Fechamento: 19/jan/2024 a partir das 15h40 com Valor Mínimo de Venda de R$ 499.650,09        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 43% de deságio sobre o valor de avaliação.  02.20418 Santander - Alienação Fiduciária - D.02.20418]]></Description>
+        <ListPrice currency="BRL">874616.44</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Vila Alto  Santo André</City>
+        <Address>Rua dos Eucaliptos</Address>
+        <StreetNumber>153</StreetNumber>
+        <PostalCode>09240-710</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
