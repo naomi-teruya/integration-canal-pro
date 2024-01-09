@@ -11812,6 +11812,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3145714]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3145714]]></codigoReferencia>
+      <titulo><![CDATA[Apto 139m², 3 Vagas, Ocupado, em Recife/PE]]></titulo>
+      <descricao><![CDATA[Apto 139m², 3 Vagas, Ocupado, em Recife/PE  Apto 139m², 3 Vagas, Ocupado, em Recife/PE     Localização: Rua Le Parc, nº 100, Apto 1904, torre 03, Edifício Soleil, Condomínio Le Parc Boa Viagem Residential Resort, Imbiribeira, Recife/PE, - CEP: 51160-900     área privativa de 139,91m²  área comum de divisão não proporcional de 33,00m²  área comum de divisão proporcional de 63,45m²  área total real de 236,36m² e uma fração ideal equivalente a 0,001027m com 03 vagas      Matrícula: 6.462 do 5º Registro de Imóveis de Recife/PE  Inscrição Prefeitura: 6.1780.131.06.0270.0253-8     DOSSIÊ: 20452     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 24/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 2.361.046,14     2ª Praça:  Abertura: 24/01/2024 a partir das 09h41  Fechamento: 26/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 998.237,43        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  5- Recai sobre o imóvel ação: Processo nº 0019753-03.2023.8.17.2001  6- Imóvel Foreiro a Marinha     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 58% de deságio sobre o valor de avaliação.   20452 Santander - Alienação Fiduciária - D.20452]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2361046.14</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/06b8585d-0942-478e-b8f8-9530340e6bba.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ee67bbb8-bc8e-4942-bc17-0132d1e677cc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44349410-d204-4f6e-bc81-aec19701c862.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb61bbf6-fe3a-4fe0-8686-57eb365d96b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/43f92cf5-bc30-430f-bb24-b7bbaf94724e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Le Parc, 100]]></endereco>
+        <localidade><![CDATA[Recife, PE, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[51160-900]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
