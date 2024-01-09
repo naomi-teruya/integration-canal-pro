@@ -6136,6 +6136,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3145714</ListingID>
+      <Title>Apto 139m², 3 Vagas, Ocupado, em Recife/PE</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3145714</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/06b8585d-0942-478e-b8f8-9530340e6bba.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ee67bbb8-bc8e-4942-bc17-0132d1e677cc.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/44349410-d204-4f6e-bc81-aec19701c862.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/eb61bbf6-fe3a-4fe0-8686-57eb365d96b7.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/43f92cf5-bc30-430f-bb24-b7bbaf94724e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 139m², 3 Vagas, Ocupado, em Recife/PE  Apto 139m², 3 Vagas, Ocupado, em Recife/PE     Localização: Rua Le Parc, nº 100, Apto 1904, torre 03, Edifício Soleil, Condomínio Le Parc Boa Viagem Residential Resort, Imbiribeira, Recife/PE, - CEP: 51160-900     área privativa de 139,91m²  área comum de divisão não proporcional de 33,00m²  área comum de divisão proporcional de 63,45m²  área total real de 236,36m² e uma fração ideal equivalente a 0,001027m com 03 vagas      Matrícula: 6.462 do 5º Registro de Imóveis de Recife/PE  Inscrição Prefeitura: 6.1780.131.06.0270.0253-8     DOSSIÊ: 20452     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 24/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 2.361.046,14     2ª Praça:  Abertura: 24/01/2024 a partir das 09h41  Fechamento: 26/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 998.237,43        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  5- Recai sobre o imóvel ação: Processo nº 0019753-03.2023.8.17.2001  6- Imóvel Foreiro a Marinha     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 58% de deságio sobre o valor de avaliação.   20452 Santander - Alienação Fiduciária - D.20452]]></Description>
+        <ListPrice currency="BRL">2361046.14</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="">Sem sigla</State>
+        <City>PE</City>
+        <Address>Rua Le Parc</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>51160-900</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
