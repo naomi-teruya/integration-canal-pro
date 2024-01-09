@@ -11884,6 +11884,72 @@ Observação: essas são as características originais do imóvel, que podem ter
         <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
       </publicacao>
     </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3157358]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3157358]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 64m², 1 vaga no Centro, Araraquara/SP]]></titulo>
+      <descricao><![CDATA[Apto. 64m², 1 vaga no Centro, Araraquara/SP  Apartamento - no Centro     Localização: R. Dona Maria Janasi Biagioni, 338, Ed. Vivant, apto. 91, Centro, Araraquara/SP, 14801-309     Área Útil: 64m²  Área Comum: 57m²  1 vaga     Matrícula: nº 123.428  RGI: 1º Oficial de Registro de Imóveis de Araraquara/SP  Inscrição Prefeitura: 01.074.085     DOSSIÊ: 02.21064     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 544.856,02     2ª Praça:  Abertura: 15/Fev/2024 a partir das 09h31  Fechamento: 16/Fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 204.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 62% de deságio sobre o valor de avaliação.  02.21064 Santander - Alienação Fiduciária - D.02.21064]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>544856.02</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3cd0cef5-41a5-410d-8edd-e638dba8407b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9b3675f-3cb4-43bc-8a22-602bc0446b91.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38230fb5-8d06-4a05-9adb-414247d3a708.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Dona Maria Janasi Biagioni, 338]]></endereco>
+        <localidade><![CDATA[Centro, Araraquara, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14801-309]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
   </Imoveis>
 </OpenNavent>
 
