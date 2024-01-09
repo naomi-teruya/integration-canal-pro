@@ -6173,6 +6173,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3157358</ListingID>
+      <Title>Apto. 64m², 1 vaga no Centro, Araraquara/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3157358</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3cd0cef5-41a5-410d-8edd-e638dba8407b.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a9b3675f-3cb4-43bc-8a22-602bc0446b91.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/38230fb5-8d06-4a05-9adb-414247d3a708.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 64m², 1 vaga no Centro, Araraquara/SP  Apartamento - no Centro     Localização: R. Dona Maria Janasi Biagioni, 338, Ed. Vivant, apto. 91, Centro, Araraquara/SP, 14801-309     Área Útil: 64m²  Área Comum: 57m²  1 vaga     Matrícula: nº 123.428  RGI: 1º Oficial de Registro de Imóveis de Araraquara/SP  Inscrição Prefeitura: 01.074.085     DOSSIÊ: 02.21064     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 544.856,02     2ª Praça:  Abertura: 15/Fev/2024 a partir das 09h31  Fechamento: 16/Fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 204.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 62% de deságio sobre o valor de avaliação.  02.21064 Santander - Alienação Fiduciária - D.02.21064]]></Description>
+        <ListPrice currency="BRL">544856.02</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Araraquara</City>
+        <Address>R. Dona Maria Janasi Biagioni</Address>
+        <StreetNumber>338</StreetNumber>
+        <PostalCode>14801-309</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
