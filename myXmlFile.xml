@@ -6474,6 +6474,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158216</ListingID>
+      <Title>Casa 261m² no Centro na Chapada dos Guimarães/MT</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158216</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d3aa4821-c629-4d4e-9eb3-2c8605144a51.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3ae0acad-e252-48ef-959f-f42ffd425107.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 261m² no Centro na Chapada dos Guimarães/MT  Casa - no Centro     Localização: Rua Frei Canuto, Lote 09, Loteamento Portal da Horta, no município de Chapada dos Guimarães/MT - CEP: 78195-000     Área construída: 261,74m²  área total: 622,870m²  distribuição interna: 02 dormitórios, 02 sacadas, 01 sala intima, 01 suíte, 02 banheiros, 01 corredor e no pavimento térreo - 01 living, 01 varanda, 01 estar, 01 escritório, 01 copa, 01 cozinha, 01 banheiro e 01 área de serviço     Matrícula: nº 14.177  RGI: Cartório de Registro de Imóveis de Chapada dos Guimarães/MT  Inscrição Prefeitura: 01.ZF07.26A.000009.001     DOSSIÊ: 02.21331     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 931.037,33     2ª Praça:  Abertura: 17/Jan/2024 a partir das 10h41  Fechamento: 18/jan/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 545.500,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 41% de deságio sobre o valor de avaliação.  02.21331 Santander - Alienação Fiduciária - D.02.21331]]></Description>
+        <ListPrice currency="BRL">931037.33</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MT">Mato Grosso</State>
+        <City>no município de Chapada dos Guimarães</City>
+        <Address>Rua Frei Canuto</Address>
+        <StreetNumber>Lote 09</StreetNumber>
+        <PostalCode>78195-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
