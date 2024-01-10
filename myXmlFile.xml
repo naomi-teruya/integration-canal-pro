@@ -6543,6 +6543,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3157936</ListingID>
+      <Title>Casa 160m², Jardim Santa Clara II, Rio Claro/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3157936</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/9448d67e-1dd2-4e59-818f-2b88c2e25536.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/dbf6e460-0bea-45f4-aaec-9b7f08db6779.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/37b97403-a07c-4d81-9634-48071b6c0129.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/fe044cf4-5d9a-48ff-b252-9301cc62a0a6.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/8dc0344b-ff18-4150-8768-3cca13c1fdd0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 160m², Jardim Santa Clara II, Rio Claro/SP  Casa - no Jardim Santa Clara II     Localização: R. M 1 SC, 67, Jardim Santa Clara II, Rio Claro/SP, 13505-172     Área Terreno: 160m²  Área Construída: 118m²     Matrícula: nº 52.645  RGI: 1º Cartório de Registro de Imóveis de Rio Claro/SP  Inscrição Prefeitura: 06.19.038.0018.001     DOSSIÊ: 02.21022     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Jan/2024 a partir das 11h10 com Valor Mínimo de Venda de R$ 432.429,77     2ª Praça:  Abertura: 17/Jan/2024 a partir das 11h11  Fechamento: 18/Jan/2024 a partir das 15h10 com Valor Mínimo de Venda de R$ 370.756,43        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 14% de deságio sobre o valor de avaliação.  02.21022 Santander - Alienação Fiduciária - D.02.21022]]></Description>
+        <ListPrice currency="BRL">432429.77</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Rio Claro</City>
+        <Address>R. M 1 SC</Address>
+        <StreetNumber>67</StreetNumber>
+        <PostalCode>13505-172</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
