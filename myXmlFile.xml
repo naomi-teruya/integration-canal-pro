@@ -6439,6 +6439,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158454</ListingID>
+      <Title>Casa 80m², no Guilhermina, Praia Grande/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158454</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/21cfa1e4-a35c-4cb3-bc99-4f3be2de6000.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c3005110-c5b4-494d-b101-a2aae59be170.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/65bde718-c4f5-420d-a6c2-423a2cc03805.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 80m², no Guilhermina, Praia Grande/SP  Casa - no Guilhermina     Localização: Rua Guatemala, 369, Guilhermina, Praia Grande/SP, 11702-040     Área Terreno: 80m²  Área Construída: 65m²     Matrícula: nº 140.100  RGI: Cartório de Registro de Imóveis de Praia Grande/SP  Inscrição Prefeitura: 2.03.14.006.005.0003-1     DOSSIÊ: 02.20728     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/Jan/2024 a partir das 11h30 com Valor Mínimo de Venda de R$ 397.693,20     2ª Praça:  Abertura: 18/Jan/2024 a partir das 11h31  Fechamento: 19/Jan/2024 a partir das 15h30 com Valor Mínimo de Venda de R$ 243.993,35        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 39% de deságio sobre o valor de avaliação.  02.20728 Santander - Alienação Fiduciária - D.02.20728]]></Description>
+        <ListPrice currency="BRL">397693.2</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Praia Grande</City>
+        <Address>Rua Guatemala</Address>
+        <StreetNumber>369</StreetNumber>
+        <PostalCode>11702-040</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
