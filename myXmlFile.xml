@@ -6508,6 +6508,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158876</ListingID>
+      <Title>Casa 57m², 1 vaga na Vila Assunção, Santo André/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158876</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ea9fdc90-ed65-40a3-8156-f358fd97ae31.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b3494278-7417-44e9-a531-52b8e5134939.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/9bad0fd4-85a6-4de8-84fd-49c0a450af90.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 57m², 1 vaga na Vila Assunção, Santo André/SP     Casa - na Vila Assunção     Localização: Rua Visconde de Mauá, 310, Vila Assunção, Santo André/SP, 09030-530     Área Privativa: 57m²  Área Terreno: 43m²  1 vaga     Matrícula: nº 141.773  RGI: 1º Cartório Oficial de Registro de Imóveis de Santo André/SP  Inscrição Prefeitura: 0064.20.00005978.01.1     DOSSIÊ: 02.15904     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     *Recai sobre o imóvel os processos nsº 1018955-20.2021.8.26.0554 e 1006811-48.2020.8.26.0554*     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Fev/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 563.217,83     2ª Praça:  Abertura: 15/Fev/2024 a partir das 09h41  Fechamento: 16/Fev/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 350.762,07        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 38% de deságio sobre o valor de avaliação.  02.15904 Santander - Alienação Fiduciária - D.02.15904]]></Description>
+        <ListPrice currency="BRL">563217.83</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Santo André</City>
+        <Address>Rua Visconde de Mauá</Address>
+        <StreetNumber>310</StreetNumber>
+        <PostalCode>09030-530</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
