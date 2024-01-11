@@ -6689,6 +6689,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158955</ListingID>
+      <Title>Prédio residencial 420m², Ocupado, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158955</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/db636f81-0327-48aa-a5eb-4b2d00584d2d.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/12addc19-ea06-4a6f-8371-40eb8f360bc3.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/e5ed63fe-5cc4-4bf6-bc74-b8a553828a7c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/4c6c4723-a169-4d1c-9023-bb080107ce22.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/09f41596-2b26-4f56-bb48-935fd824fd4a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Prédio residencial 420m², Ocupado, em São Paulo/SP  Prédio residencial 420m², Ocupado, em São Paulo/SP     Localização: Rua José Casal Rey, nº 88, Parque Clube Atlético Indiano, Capela do Socorro, São Paulo/SP - CEP: 04902-040     área de terreno de 708,40m²  área construída de 420,70m²     Matrícula: 105.506 do 11º Cartório de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 103.049.0059-0     DOSSIÊ: 02.20841     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/02/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 2.137.472,69     2ª Praça:  Abertura: 15/02/2024 a partir das 09h31  Fechamento: 16/02/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 734.000,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  5- Recai sobre o imóvel ação: Processo nº 1002699-38.2023.8.26.0002     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 66% de deságio sobre o valor de avaliação.   02.20841 Santander - Alienação Fiduciária - D.02.20841]]></Description>
+        <ListPrice currency="BRL">2137472.69</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Rua José Casal Rey</Address>
+        <StreetNumber>88</StreetNumber>
+        <PostalCode>04902-040</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
