@@ -6726,6 +6726,44 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158023</ListingID>
+      <Title>Casa 60m², 01 Vaga, Ocupado, em Palhoça/SC</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158023</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e98f93e1-a889-4ac5-ba25-04af49f7c61f.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c6361462-5119-4345-87f4-88266e17c003.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a42fb034-6763-4708-b17b-7db8f8e96742.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/d3e34474-24b6-4bb1-a8c3-f44d4304df19.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/ce1711f4-98d6-41e1-931b-e9057a038ca3.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/54983ef8-2915-4b72-b993-e6dd881bb0af.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 60m², 01 Vaga, Ocupado, em Palhoça/SC  Casa 60m², 01 Vaga, Ocupado, em Palhoça/SC     Localização: Rua Nicolau Severiano Farias, n° 331, (atual Rua Emanuel), Casa nº 01, Condomínio Residencial Nova Alice, loteamento São Pedro, Barra do Aririú, Palhoça/SC - CEP: 88134-290     área real privativa de 60,7450m²  área real de uso comum de 5,1250m²  área real total de 65,8700m²  fração ideal no terreno e nas coisas comuns de 50,00%, correspondente a 154,00m²     Matrícula: 104.711 do Cartório de Registro de Imóveis de Palhoça/SC  Inscrição Prefeitura: 01.03.057.3250.001.001     DOSSIÊ: 02.21220     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/01/2024 a partir das 11h20 com Valor Mínimo de Venda de R$ 286.373,76     2ª Praça:  Abertura: 17/01/2024 a partir das 11h21  Fechamento: 18/01/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 235.820,59        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 18% de deságio sobre o valor de avaliação.   02.21220 Santander - Alienação Fiduciária - D.02.21220]]></Description>
+        <ListPrice currency="BRL">286373.76</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">Santa Catarina</State>
+        <City>Palhoça</City>
+        <Address>Rua Nicolau Severiano Farias</Address>
+        <StreetNumber>331</StreetNumber>
+        <PostalCode>88134-290</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
