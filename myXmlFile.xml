@@ -6876,6 +6876,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3160673</ListingID>
+      <Title>Apto. 67m², 1 vaga no Montanhão, São Bernardo do Campo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3160673</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ac65ea2a-f6cb-4ff7-bd0b-24e291fee1f8.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/2086b293-1b4e-4647-a7b7-bfcfa0b259db.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/04b153af-15e4-49c0-a4e5-e7d872a7ec4e.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/7a031fd9-2006-4f2a-b87a-951083777d96.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 67m², 1 vaga no Montanhão, São Bernardo do Campo/SP  Apartamento - no Montanhão     Localização: R. Professor Adelia Alves Martins, 164, apto. 12, Cond. Res. Millennium IV, Montanhão, São Bernardo do Campo/SP, 09791-405     Área Privativa: 67m²  Área Comum: 15m²  Descrição Interna: (dois quartos, sala de estar conjugada com sala de jantar, cozinha, banheiro, área de serviço, quintal)  1 vaga     Matrícula: nº 100.135  RGI: 1º Oficial de Registro de Imóveis de São Bernardo do Campo/SP  Inscrição Prefeitura: 512.030.063.002     DOSSIÊ: 02.20271     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 516.255,18     2ª Praça:  Abertura: 19/Jan/2024 a partir das 09h31  Fechamento: 22/Jan/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 322.950,51        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 37% de deságio sobre o valor de avaliação.  02.20271 Santander - Alienação Fiduciária - D.02.20271]]></Description>
+        <ListPrice currency="BRL">516255.18</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Bernardo do Campo</City>
+        <Address>R. Professor Adelia Alves Martins</Address>
+        <StreetNumber>164</StreetNumber>
+        <PostalCode>09791-405</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
