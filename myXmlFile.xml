@@ -6802,6 +6802,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3157782</ListingID>
+      <Title>Apto 73m², 1 Vaga, Ocupado, em Ribeirão Preto/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3157782</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f5312518-4c28-4246-9e9d-e442bfa3d5f9.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/6991c0e2-b3c9-48de-8d27-79f348a72006.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/95a1ba42-859b-4bf6-97f3-5fa52036973b.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/1ee8f9c0-4601-4dcf-a938-7d53e73abcea.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/05c3fb1c-43a4-4875-9f02-083a595b4659.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 73m², 1 Vaga, Ocupado, em Ribeirão Preto/SP  Apto 73m², 1 Vaga, Ocupado, em Ribeirão Preto/SP     Localização: Rua Dr. José de Magalhães, n° 741, Apto nº 21, Edifício Nazaré, Jardim Anhanguera, Ribeirão Preto/SP&nbsp;&nbsp;-&nbsp;CEP: 14092-200     área total de 103,9675m²  sendo 73,00 m²&nbsp;de área útil e 30,9675 m²&nbsp;de área comum, sendo 9,9375 m²&nbsp;de área coberta e 21,03 m²&nbsp;de área livre descoberta  fração ideal de 25 % para cada unidade no respectivo terreno     Matrícula: 65.265 do 2º Cartório de Registro de Imóveis de Ribeirão Preto/SP  Inscrição Prefeitura:&nbsp;188.672     DOSSIÊ: 02.21206     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/01/2024 a partir das 11h50 com Valor Mínimo de Venda de R$ 242.283,35     2ª Praça:  Abertura: 17/01/2024 a partir das 11h51  Fechamento: 18/01/2024 a partir das 15h50 com Valor Mínimo de Venda de R$ 223.157,97  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 8% de deságio sobre o valor de avaliação.&nbsp;&nbsp;  Santander - Alienação Fiduciária - D.02.21206]]></Description>
+        <ListPrice currency="BRL">242283.35</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Ribeirão Preto</City>
+        <Address>Rua Dr. José de Magalhães</Address>
+        <StreetNumber>741</StreetNumber>
+        <PostalCode>14092-200</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
