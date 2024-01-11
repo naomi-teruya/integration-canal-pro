@@ -6615,6 +6615,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3157914</ListingID>
+      <Title>Casa 89m², Ocupado, em Parnaíba/PI</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3157914</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e3ed9dd1-3f6a-4453-953f-cce6ce60a79b.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9c8991a8-3bc7-4351-9602-7ed2f05777f5.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/11292e0a-6ba9-4e16-80d1-79d3d5558753.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/032e427d-8374-42c5-815b-e293f8466a42.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/1ceee27e-3d35-413b-ad82-75429a5b4a49.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 89m², Ocupado, em Parnaíba/PI  Casa 89m², Ocupado, em Parnaíba/PI     Localização: Rua Carlos Fontenele Adrião, nº 210, residencial Sol Nascente, bairro Dirceu Arcoverde, Parnaíba/PI, - CEP: 64210-660     área de terreno de 233,30m²  área construída de 89,55m²     Matrícula: 35.397 do Cartório de Registro de Imóveis de Parnaíba/PI  Inscrição Prefeitura: 168073     DOSSIÊ: 02.21312     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 182.075,49     2ª Praça:  Abertura: 17/01/2024 a partir das 09h41  Fechamento: 18/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 146.979,09        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 19% de deságio sobre o valor de avaliação.   02.21312 Santander - Alienação Fiduciária - D.02.21312]]></Description>
+        <ListPrice currency="BRL">182075.49</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="">Sem sigla</State>
+        <City>PI</City>
+        <Address>Rua Carlos Fontenele Adrião</Address>
+        <StreetNumber>210</StreetNumber>
+        <PostalCode>64210-660</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
