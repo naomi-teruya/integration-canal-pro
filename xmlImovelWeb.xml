@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705091635400</dataModificacao>
+  <dataModificacao>1705092942874</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -13659,6 +13659,267 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Joaquim Novaes, 775]]></endereco>
         <localidade><![CDATA[Jardim Santa Luzdayara, Rondonopolis, Mato Grosso, Brasil]]></localidade>
         <codigoPostal><![CDATA[78714-311]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3161102]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3161102]]></codigoReferencia>
+      <titulo><![CDATA[Casa 74m², Ocupada no Rio Comprido, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Casa 74m², Ocupada no Rio Comprido, Rio de Janeiro/RJ  Casa 74m², Ocupada no Rio Comprido, Rio de Janeiro/RJ - Casa numero VIII (oito) da Vila a Rua Do Bispo, nº 168 e dominio util do terreno, Freguesia do Engenho Velho. A casa tem acesso por uma servidão que mede 6,00m de largura por 32,00m de extensão por um lado e 32,70m elo outro lado. Terreno foreiro a Mitra Arquiepiscopal do Rio de Janeiro, medindo 6,35m de largura na frente e nos fundos, onde confronta, parte com o predio numero 21 e parte com o predio numero 23, ambos da Rua Conselheiro Barros, por 12,00m de extensão do lado direito e 11,60m do lado esquerdo, confrontando de um lado com a casa VII, do outro lado com a Casa numero IX, ambas de propriedade de Antonio Joaquim Marques Vicente ou sucessores. Matrícula nº 3547 do 11º Cartório Oficial de Registral de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n°: 0.150.211-1 - CL 06.692-8.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.        O imóvel será entregue livre de quaisquer débitos de IPTU.        Valor aproximado de IPTU: R$ 459,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).        Valor de avaliação: R$ 485.000,00- percentual de desconto: 35% de deságio sobre o valor de avaliação.        Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Casas e Aptos em SP, RJ e SC]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>316957.84</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6f13a6b4-e6b7-46c1-87a3-6c2e07b946f6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c9196298-bd95-4666-884f-355aa5279d97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/779eca90-4a84-47ac-8b42-8b95ba5abe95.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/272ab79a-781e-49b7-b361-3076925b9458.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/21639691-84f1-439e-a6dd-71049eaacbec.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua do Bispo, 8]]></endereco>
+        <localidade><![CDATA[Rio Comprido, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[20261-064]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3161055]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3161055]]></codigoReferencia>
+      <titulo><![CDATA[Casa 379m², Ocupada no Ingleses do Rio Vermelho em Florianópolis/SC]]></titulo>
+      <descricao><![CDATA[Casa 379m², Ocupada no Ingleses do Rio Vermelho em Florianópolis/SC  Casa 379m², Ocupada no Ingleses do Rio Vermelho em Florianópolis/SC - Um Terreno designado por UAT 72 do Condomínio Residencial Costão Golf ¿ Area A-1, aprovado pela PMF através do projeto nº 53.242, situado no lugar Sitio Capivari, distrito de Ingleses do Rio Vermelho, neste município de Florianópolis/SC, com as seguintes características: faz frente ao sul com sistema viário condominial nº 02 medindo em uma linha curva 14,61m; fundos ao norte com a área verde condominial nº 01, medindo em uma linha curva 28,70m; lateral direita ao oeste com a UAT-71 medindo 51,76m, e lateral esquerda ao leste com a UAT-73 medindo 53,98m, com as seguintes áreas: área de uso exclusivo de 1.089,64m², área de uso comum de divisão proporcional de 379,76m², área real total de 1.469,40m², ocupando a fração ideal de terreno de 0,33087%. Conforme Av.05, o Condomínio Residencial Costão Golf está localizado na Estrada Dario Manoel Cardoso, nº 2399. Conforme Av.06, foi construído 01 casa de alvenaria com 02 pavimentos, uso residencial unifamiliar, com área total de 396,77m². Matrícula nº 90325 do 2º Oficio de Registral Imobiliário de Florianópolis/SC. Cadastrado na Prefeitura Municipal sob n°: 32.08.014.3783.001-108.     Imóvel ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condominio.   Valor aproximado de IPTU: R$ 474,01.  Valor aproximado de Condominio: R$ 2.734,50.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Matricula esta com Estrada e IPTU e Laudo, esta como Rua. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Valor de avaliação: R$ 1.977.000,00 - percentual de desconto: 17% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Casas e Aptos em SP, RJ e SC]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1643970.16</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b0d2ff6a-3caa-4932-8053-319cae230ad7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6afc4610-f38d-4523-8b50-9d970dec3ee5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f8ef675c-ef89-4fc1-aa70-12d2f2f16313.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7ad051a1-38c3-44b2-b026-8dcda8a22921.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe19386a-28b8-482f-baee-0e574cce23c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/058f86b9-fde5-482e-a27a-00051214d56b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ac838d48-aed0-4926-a0da-e5526e72ee80.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f9fe7639-f2db-4b3a-b7ae-4c378991745b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada Dario Manoel Cardoso, 2399]]></endereco>
+        <localidade><![CDATA[Ingleses do Rio Vermelho, Florianópolis, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[88058-400]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3161100]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3161100]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 61m², Ocupado no Itanhangá no Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto. 61m², Ocupado no Itanhangá no Rio de Janeiro/RJ  Apto. 61m², Ocupado no Itanhangá no Rio de Janeiro/RJ - Apartamento 1306 do bloco 09 do edifício a ser construído sob o nº 560 pela Avenida Projetada B, no empreendimento Moradas do Itanhangá, na freguesia de Jacarepaguá, e correspondente fração de 615,40/1.000.000 do respectivo terreno designado por lote 14 do PAL nº 37.215 que mede em sua totalidade 65,85m pela Estrada de Jacarepaguá mais 9,53m em curva interna subordinada a um raio de 7,00m concordando com o alinhamento da Avenida Projetada B, por onde mede 534,25m, 68,00m nos fundos por onde confronta com a área destinada à escola e 554,79m à direita por onde confronta com parte do nº 2681 da Estrada de Jacarepaguá de Welmo Pinto Alves ou sucessores. Conforme Av.03, o prédio foi construído. Conforme Av.11 o prédio tem numeração suplementar 3145 pela Estrada de Jacarepaguá. Conforme Av. 16 consta reconhecimento de logradouro no qual a Avenida São José Maria Escriva foi antes conhecida como Av. Projetada B do PAL 37.215. Matrícula nº 155.503 do 09º Cartório Oficial de Registral de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n°: 1.817.251-0, CL 17011-8.&nbsp;     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU.&nbsp;        Valor aproximado de IPTU: R$ 536,00.        Valor aproximado de Condominio: R$ 885,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Area construída do imóvel não averbada na matricula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.        Valor de avaliação: R$ 212.000,00 - percentual de desconto: 32% de deságio sobre o valor de avaliação.        Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Casas e Aptos em SP, RJ e SC]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>144588.04</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53111796-62a1-4193-b102-6c01e85aade5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5b4c4e5-568d-4737-8a1e-dfaf29b5f649.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38bce13b-4056-48a5-bb46-b3e42c0bdb6b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a1f09221-bad6-4c00-ba40-0ea3ef40aeeb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f1daaadb-6da3-4e63-a4ec-ea1f26f280a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4568c898-a540-4c66-a470-581e403ebec7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/56ac3fca-674e-486b-a4d1-c2a4629910e7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0fc61e8a-a035-4d51-822b-854c126087b1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a40614d1-5eee-4d66-96d8-385b86072c3a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c427201-0b53-4a57-86c9-3dfc75081c7d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/03f3d10a-a6c4-48b3-bdc0-be8580b5ac75.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a451e91b-7abb-40f0-a3a5-06c91f27167a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/36ef081f-fb03-45a8-8272-b4b851d0e0fc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c8f07aa-e759-416f-b5c6-b0773031ba88.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/50057b81-2c39-44b5-9051-90e35b3b8a78.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f2d9f7e7-f686-4798-9dee-98281798f1c1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/43fc0fd5-5ad9-43aa-b80c-aae4eaa61dd0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. São Josémaria Escrivá, 560]]></endereco>
+        <localidade><![CDATA[Itanhangá, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[22753-200]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
