@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705091131370</dataModificacao>
+  <dataModificacao>1705091327781</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -13455,6 +13455,72 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Tamandaré, 96]]></endereco>
         <localidade><![CDATA[Nova América, Piracicaba, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13417-778]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3160679]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3160679]]></codigoReferencia>
+      <titulo><![CDATA[Casa 250m², Jardim América, Sertãozinho/SP]]></titulo>
+      <descricao><![CDATA[Casa 250m², Jardim América, Sertãozinho/SP  Casa - no Jardim América     Localização: R. Angelo Cancian, 94, Jardim América, Sertãozinho/SP, 14160-300     Área Terreno: 250m²  Área Construída: 181m²     Matrícula: nº 9.367  RGI: Cartório de Registro de Imóveis de Sertãozinho/SP,  Inscrição Prefeitura: 02-0219-2-0094-000     *Recai sobre o imóvel ação nº 1002511-06.2023.8.26.0597*     DOSSIÊ: 02.20247     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jan/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 421.053,52     2ª Praça:  Abertura: 19/Jan/2024 a partir das 09h51  Fechamento: 22/Jan/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 379.465,77        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.20247 Santander - Alienação Fiduciária - D.02.20247]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>421053.52</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b6e3022b-5ac5-407f-9105-dcb20e1f81a4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/684f1e6c-0c74-4a57-99f7-953b6db321d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/27b0052f-d2f9-429f-b87e-b5edf6b0e5d0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Angelo Cancian, 94]]></endereco>
+        <localidade><![CDATA[Jardim América, Sertãozinho, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14160-300]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
