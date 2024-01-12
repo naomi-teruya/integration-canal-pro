@@ -6987,6 +6987,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3160679</ListingID>
+      <Title>Casa 250m², Jardim América, Sertãozinho/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3160679</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/b6e3022b-5ac5-407f-9105-dcb20e1f81a4.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/684f1e6c-0c74-4a57-99f7-953b6db321d6.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/27b0052f-d2f9-429f-b87e-b5edf6b0e5d0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 250m², Jardim América, Sertãozinho/SP  Casa - no Jardim América     Localização: R. Angelo Cancian, 94, Jardim América, Sertãozinho/SP, 14160-300     Área Terreno: 250m²  Área Construída: 181m²     Matrícula: nº 9.367  RGI: Cartório de Registro de Imóveis de Sertãozinho/SP,  Inscrição Prefeitura: 02-0219-2-0094-000     *Recai sobre o imóvel ação nº 1002511-06.2023.8.26.0597*     DOSSIÊ: 02.20247     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jan/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 421.053,52     2ª Praça:  Abertura: 19/Jan/2024 a partir das 09h51  Fechamento: 22/Jan/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 379.465,77        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.20247 Santander - Alienação Fiduciária - D.02.20247]]></Description>
+        <ListPrice currency="BRL">421053.52</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Sertãozinho</City>
+        <Address>R. Angelo Cancian</Address>
+        <StreetNumber>94</StreetNumber>
+        <PostalCode>14160-300</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
