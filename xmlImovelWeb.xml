@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705092942874</dataModificacao>
+  <dataModificacao>1705093028443</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -13920,6 +13920,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Av. São Josémaria Escrivá, 560]]></endereco>
         <localidade><![CDATA[Itanhangá, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[22753-200]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3161148]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3161148]]></codigoReferencia>
+      <titulo><![CDATA[Casa 144m², Ocupado, em Rolante/RS]]></titulo>
+      <descricao><![CDATA[Casa 144m², Ocupado, em Rolante/RS  Casa 144m², Ocupado, em Rolante/RS     Localização: Avenida Borges de Medeiros, nº 2.186, Centro, Rolante/RS - CEP: 95690-000     área de terreno de 650,00m²  área construída de 144,00m²     Matrícula: 563 do Cartório de Registro de Imóveis de Taquara/RS  Inscrição Prefeitura: 3.160 (12.0002.018.000000.001)     DOSSIÊ: 02.20587     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 818.577,59     2ª Praça:  Abertura: 19/01/2024 a partir das 09h41  Fechamento: 22/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 719.109,30           Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 12% de deságio sobre o valor de avaliação.  02.20587 Santander - Alienação Fiduciária - D.02.20587]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>818577.59</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/afa65dae-54b1-4ffd-b421-196b2c4fc489.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/864364f1-dee6-4411-b7ca-1c1e523dce26.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/32d5aac1-da30-4901-9a74-0aaf52635dd4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a1489a87-9a14-45d2-b418-318284999654.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6dc4fc45-c2e5-4524-a737-fb01f415f00d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Borges de Medeiros, 2.186]]></endereco>
+        <localidade><![CDATA[Centro, Rolante, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[95690-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
