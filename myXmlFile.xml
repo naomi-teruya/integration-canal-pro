@@ -6945,6 +6945,48 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3160792</ListingID>
+      <Title>Casa 162m², Ocupada no Piracicamirim, Piracicaba/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3160792</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2b635ee6-2580-4bfa-8421-743ba88c20a6.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ad902398-ed64-4321-8708-86d4e6795f15.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/2e72f4a2-06a0-44f6-9fc9-f13ecbc9bb2c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8479d3cd-d531-4060-9fee-6ffb415a6484.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/03310d41-a5e0-45b6-9b4c-e80f7a5e5820.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/3742d7e6-aae5-4250-b45b-7a6f90d60b86.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/fb7d0b95-3655-4ca8-b314-fcb423bb2ff6.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/83eef8a8-70f5-470b-9d69-f72399bc2745.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/9fe97ecb-a7a8-49db-a448-70b3dffa1484.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/9c20ace1-6b93-4297-ae1d-a8f2fc85b977.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 162m², Ocupada no Piracicamirim, Piracicaba/SP  Casa 162m², Ocupada no Piracicamirim, Piracicaba/SP. Um terreno da rua Tamandaré, em Piracicaba, medindo seis metros e cinquenta centímetros de frente, por vinte e cinco metros de ambos os lados da frente aos fundos ¿ 6,50 x 25,00m, confrontando de um lado com a rua Padre João Manoel da Silva, com a qual faz esquinam de outro lado e nos fundos com Lararo Pinto Sampaio ou sucessores. Conforme Av.06, foi construido o predio nº 96, da Rua Tamandaré, com a área construida de 141,05m². Matrícula nº 3933 do 2º Cartório de Registro de Imóveis de Piracicaba/SP. Cadastrado na Prefeitura Municipal sob n° 0104002902530001.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU.   Valor do IPTU aproximado é R$ 82,56.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Area construída do imóvel na prefeitura municipal é de 173,65m². Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Valor de avaliação: R$ 397.000,00 - percentual de desconto: 29% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Casa em Piracicaba/SP.]]></Description>
+        <ListPrice currency="BRL">280417.78</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Piracicaba</City>
+        <Address>Rua Tamandaré</Address>
+        <StreetNumber>96</StreetNumber>
+        <PostalCode>13417-778</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
