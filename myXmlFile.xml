@@ -7523,6 +7523,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3163076</ListingID>
+      <Title>Casa 157m², Ocupado, em Mococa/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3163076</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/84ea4820-c8c7-49b8-9d69-3e2c8b70447f.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1f3ffb7d-c12d-4522-88d3-e13e6ffd6ef3.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 157m², Ocupado, em Mococa/SP  Casa 157m², Ocupado, em Mococa/SP     Localização: Rua Orchiza de Figueiredo, nº 99, Jardim Santa Emília em Mococa/SP - CEP: 13732-468     área de terreno: 265,24m²  área construída: 157,56m²     Matrículas: 21.879 do Cartório de Registro de Imóveis de Mococa/SP  Inscrição Prefeitura: 01.01.410.0359.001     DOSSIÊ: 02.20190     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 24/01/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 343.257,18     2ª Praça:  Abertura: 24/01/2024 a partir das 09h31  Fechamento: 26/01/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 285.155,49        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 17% de deságio sobre o valor de avaliação.   02.20190 Santander - Alienação Fiduciária - D.02.20190]]></Description>
+        <ListPrice currency="BRL">343257.18</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Jardim Santa Emília  Mococa</City>
+        <Address>Rua Orchiza de Figueiredo</Address>
+        <StreetNumber>99</StreetNumber>
+        <PostalCode>13732-468</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
