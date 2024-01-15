@@ -7457,6 +7457,50 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3143849</ListingID>
+      <Title>Casa, A.T 392m², A.C 307m², Jardim da Saúde São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3143849</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d9521fc4-ec07-48d6-af7e-99b8d2640c4a.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/e3789bde-a88e-457a-9f6d-cec71e766f30.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1be724c9-3bb1-428d-a30e-33f527fd04dd.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/35250542-fa22-4a50-8a31-b62f2a96e184.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/16c43aa0-31a7-47b3-88a8-570e9a0d66dc.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/f74eaf22-5af1-4606-a8a6-865c832ec973.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/a28ab14e-529e-442e-ae39-6edc05fb66cd.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/01245c75-cd80-4f42-b134-f31cdbb27ae9.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/9d707a1d-7df8-450e-8d6b-08c953dbab4e.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/70a1c589-460b-4c7b-b83c-cebdb5c08ccf.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/1414b932-1f76-4a62-966d-59aaf9a84523.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, A.T 392m², A.C 307m², Jardim da Saúde São Paulo/SP  IMÓVEL: Rua José Marti, 12, lote 09, da quadra 35, Jardim da Saúde, na Saúde 21º Subdistrito. Um prédio e respectivo terreno, medindo 10,00m de frente para a Rua José Marti, 36,00m do lado direito, onde confronta com o lote 08, 32,20m do lado esquerdo, onde confronta como lote 10, 11,55m nos fundos, onde confina com os lotes 21 e 22 da mesma quadra, com área de 392,00m²     Matrícula nº 20.472 14ºCRI de São Paulo/SP.  Contribuinte nº 049.033.0038-2  Avaliação: R$ 1.577.000,00 para maio de 2018, conforme laudo de fls 307/353.  Avaliação atualizada: R$ 2.143.386,75, para outubro de2023 pela tabela prática do TJSP.     Débitos / Ônus     IPTU: O débito Tributário perfaz até outubro de 2023 o montante de:     R$ R$13.672,35 - exercício atual  R$ 320.634,32 - exercícios anteriores (Divida Ativa), conforme extrato anexo, podendo sofrer alteração em razão de eventual pagamento ou encargos.     Os débitos sobre o imóvel anteriores à arrematação (inclusive de inscrições anteriores) não são de responsabilidade do arrematante e sucessores, conforme previsão do art. 130 do CTN, parágrafo único.     Débito da demanda: O débito da demanda perfaz até novembro de 2020 o montante de R$ 549.191,76 que será devidamente atualizado até a data das praças e não são de responsabilidade do arrematante.      Mais informações sobre o imóvel estão disponíveis no Edital.   Leonardo Müller e Roseli Leite Burgos Müller LUIZ FERNANDO RODRIGUES DOS SANTOS e Isabel Cristina Rodrigues dos Santos Executados Victor Muller Siqueira (OAB 314905/SP) 2ª V.C Foro Reg. Jabaquara - São Paulo/SP 1000412-80.2015.8.26.0003
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">2143386.75</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="04291-010">Sem sigla</State>
+        <City>SP</City>
+        <Address>R. José Marti</Address>
+        <StreetNumber>12</StreetNumber>
+        <PostalCode>Brazil</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
