@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705093085591</dataModificacao>
+  <dataModificacao>1705330238538</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14064,6 +14064,118 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Borges de Medeiros, 2.186]]></endereco>
         <localidade><![CDATA[Centro, Rolante, Rio Grande do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[95690-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3126222]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3126222]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 257m², A.C. 58m², Planalto Itália]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 257m², A.C. 58m², Planalto Itália  Imóvel de matrícula nº 25.392 do CRI de Jaboticabal (fls.51/54).      Descrição matrícula:  Um terreno, indicado como lote n.3, da quadra Seis, situado com frente para a Rua ''D'', do loteamento denominado ''Planalto Itália'', nesta cidade e comarca de Jaboticabal, de formato regular, com a área de 257,25 metros quadrados, medindo de frente para a Rua ''D'' 10,50 metros; do lado esquerdo de quem da referida via pública olha para o lote mede 24,50 metros, confrontando com o lote n.04; do lado direito mede 24,50 metros, confrontando com o lote 02 e finalmente na linha dos fundos mede 10,50 metros, confrontando com o lote 17, todos da mesma quadra 06. Av.02 Atualização de denominação de via pública: a Rua D, passou a denominar-se Av. Vicente Palazzo. Av.06 Construção: foi construído um prédio de uso RESIDENCIAL, com 58,69 metros quadrados, (cinquenta e oito metros e sessenta e nove centímetros quadrados), o qual recebeu o número 411, da Avenida Vicente Palazzo.      Débitos Municipais:  IPTU R$ 6.705,67, conforme consulta realizada em 28/09/2023.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor médio das avaliações fixado na r.Sentença de fls. 262/266 (autos principais n. 1002776-24.2021.8.26.0291), de 25/08/2022: R$ 335.000,00 (trezentos e trinta e cinco mil reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em Outubro/2023: R$ 347.892,74 (Trezentos e quarenta e sete mil, oitocentos e noventa e dois reais e setenta e quatro centavos).  Ana Paula Scaldelai Daiana Aparecida Scaldelai NI Domingos Assad Stocco 1ª Vara Cível de Jaboticabal/SP 0000566-46.2023.8.26.0291
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[257]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>173946.37</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/669d8193-59a1-41a0-882f-dab2f923a4d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aa851855-e2cb-417b-b8b3-67c593d2f8af.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea7514a4-8fcc-45d6-be1b-e93a376757b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3f0dd3d-e1fb-4726-a412-7fd8840df006.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/35a01874-6a25-4983-b39b-bbf291f97fa6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/66b80aba-a9cf-476a-a16b-a9022ed684c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37ee303d-c03d-4e0a-88c3-c35d638c72c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/47e1eb58-f0eb-4692-82cc-4a83b424d39f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1beffc1-6cba-49a3-b9ef-2db48cacaeab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e15596d6-a0d5-4be1-905a-6cb4af4e51c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cbbf0606-4c3d-48ff-a6ae-83d778296106.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ff14c91-2b45-47a9-8f8c-91ffa297fc58.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/117474b5-e592-4ed5-8a28-38397e8644c5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/04ec352b-31e1-46f2-a888-fff1092e6d80.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4b324c28-56f8-41c7-ac7e-27d7a9444d40.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad79eb20-b010-4dfd-b3b0-fbcb093d02d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d3597f45-4cdc-4d5f-81b4-8b90fa7bd9ff.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3d8bc26-a43d-45b6-9341-cded02174af0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Vicente Palazo, 411]]></endereco>
+        <localidade><![CDATA[Cidade Jardim, Jaboticabal, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14890-435]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
