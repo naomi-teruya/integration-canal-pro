@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705330788500</dataModificacao>
+  <dataModificacao>1705330847519</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14644,6 +14644,73 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. José Marti, 12]]></endereco>
         <localidade><![CDATA[São Paulo, SP, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[Brazil]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3144332]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3144332]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel residencial, A.T. 287m², A.C. 89m², Boituva/SP]]></titulo>
+      <descricao><![CDATA[Imóvel residencial, A.T. 287m², A.C. 89m², Boituva/SP  Imóvel da matrícula n° 6.942, do CRI de Boituva/SP, a seguir descrito: Lote de Terreno n° 20, da Quadra F, situado nesta cidade, no Loteamento denominado Águia da Castelo, no Bairro Pau D¿Alho, com frente para a Rua Acácio Manoel da Silva Vianna, lado ímpar, onde existe uma Casa Residencial n° 229, com 89,38m² de área construída, medindo 12,05m (doze metros e cinco centímetros) de frente, por 24,10m (vinte e quatro metros e dez centímetros) da frente aos fundos do lado esquerdo, de quem da rua olha para o terreno, confrontando com o lote n° 19; 23,80m (vinte e três metros e oitenta centímetros) da frente aos fundos do lado direito, confrontando com o lote n° 21 e 12,00m (doze metros) nos fundos, confrontando com o lote n° 08, encerrando a área de 287,40m² (duzentos e oitenta e sete metros e quarenta decímetros quadrados), localizado a 39,00m (trinta e nove metros) do início da curvatura com a Rua Antonio Holtz (antes Rua Dois), na quadra completada pela Rua Adélia Pacheco Barreto (antes Rua Três) e Avenida Maria Natália Ribeiro Vianna Cinti (antes Avenida 02). Valor da Avaliação: R$ 600.000,00  em agosto de 2017. Valor de avaliação atualizado: R$ 828.381,00 em novembro de 2023  Valor da Avaliação da Parte Penhorada do Imóvel (1/12 ou 8,33%): R$ 50.000,00  em agosto de 2017. Valor da Avaliação da Parte Penhorada do Imóvel (1/12 ou 8,33%): R$ 69.031,75 em novembro de 2023  Lourenço e Guimarães Sc Ltda Selma de Camargo Selma de Camargo Cintia Cristina Módolo Pico Modanezi 2ª Vara Judicial Foro da Comarca de Boituva/SP 0007833-42.2008.8.26.0082
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>828381</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/391ed206-d6b7-425f-88cc-1066769f6c82.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4dc2ba1b-69f1-4768-aaa9-9785fad89351.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2bc37941-c4a0-4ef9-8559-c2b56d6334e7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Manoel da Silva Vianna, 229]]></endereco>
+        <localidade><![CDATA[Terras de Santa Cruz, Boituva, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[18550-524]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
