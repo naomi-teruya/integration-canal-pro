@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705330627243</dataModificacao>
+  <dataModificacao>1705330682083</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14340,6 +14340,70 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Sebastiana Moreno Francisco, 42]]></endereco>
         <localidade><![CDATA[Jardim das Flores, São João da Boa Vista, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13876-756]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3126439]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3126439]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 196m², A.C. 80m², Jardim Vitoriano]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 196m², A.C. 80m², Jardim Vitoriano  Imóvel sob a matrícula no 25.306, do CRI de José Bonifácio, de propriedade do executado (espólio) Carlos César Feria.      Conforme Certidão fls. 188:  ''PROCEDI A VISTORIA DO IMÓVEL, onde constatei a construção de uma casa de alvenaria, de forro de pvc, com um banheiro, dois quartos, sala, cozinha e uma varanda.      Descrição matrícula:  Um terreno situado nesta cidade, no ''JARDIM VITORIANO'', constituído pelo Lote 08, da Quadra ''P'', de forma irregular, possui 6,91 metros em reta e 3,76 metros em curva respectivamente de frente para a Rua Antônio Birolim, por 10,00 metros aos fundos confrontando-se com o Lote 11; à direita de quem olha da Rua olha o lote possui 17,93 metros confrontando-se com o Lote 09, por 20,00 metros de outro lado confrontando-se com o Lote 07, perfazendo a área total de 196,218 metros quadrados, sem benfeitorias. O imóvel acha-se cadastrado junto a Prefeitura Municipal local sob nº 01.02.186.0020.001. Av.2 Construção: o terreno objeto desta matrícula foi construído um prédio residencial de tijolos e telhas, contendo: 01 sala, 01 cozinha, 01 banheiro, 02 dormitórios e 01 varanda, sendo: edificação com 67,43m² e varanda com 13,42m², sob nº ''20'', com frente para a Rua Antonio Birolim com área construída 80,85m² de construção.      Ônus:  R.4 Hipoteca: Imóvel dado em Primeira e Especial Hipoteca, sem concorrência de terceiros, em favor da TARRAF ADMINISTRADORA DE CONSÓRCIOS LTDA. Av.5 Penhora: Imóvel penhorado nestes autos.     Débitos Municipais: IPTU R$ 611,99, conforme consulta realizada em 30/10/2023, pela Prefeitura Municipal de José Bonifácio/SP, através do e-mail tributacao4@josebonifacio.sp.gov.br.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.      Obs.:  Inventário n. 1000360-38.2021.8.26.0306 - 2ª Vara de José Bonifácio/SP, em virtude do Falecimento do Sr. Carlos Cesar Feria e ausência de registros da matrícula em relação à partilha do imóvel e respectivo óbito, ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo.      Valor da avaliação em 12/05/2023: R$ 150.000,00 (cento e cinquenta mil reais). Valor atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em outubro/2023: R$ 150.720,23 (cento e cinquenta mil, setecentos e vinte reais e vinte e três centavos).  Tarraf Administradora de Consórcios Ltda CARLOS CESAR FERIA - INVTANTE:  ELZA GONÇALVES MARQUES, CHRISTIANO FERIA, MARIA ROSA FERIA Carlos Cesar Feria (Espólio) Regis Henrique de Oliveira 1ª Vara Judicial de José Bonifácio/SP 1003254-84.2021.8.26.0306
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>90432.14</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1360fe61-2853-48f6-933d-279b7ce10034.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/abea9b45-95e5-45da-842c-4f13fd3d2bf8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Antônio Birolim, undefined]]></endereco>
+        <localidade><![CDATA[José Bonifácio, José Bonifácio, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15200-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
