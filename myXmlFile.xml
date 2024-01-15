@@ -7486,6 +7486,43 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3162587</ListingID>
+      <Title>Casa 96m², 1 Vaga, Ocupado, em Campo Grande/MS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3162587</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7f3b8ea5-0dd0-4190-aea3-916afbc9ac70.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4c5e7ce3-aaaf-40e0-848b-dab0acdd21ca.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/fdf8b43a-f7cc-4a18-8272-c03ca9db5966.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/cbbcab94-527e-48a2-9dff-5e4318138e1c.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/558390bd-4298-4d4f-923b-15dba87a9bd0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 96m², 1 Vaga, Ocupado, em Campo Grande/MS  Casa 96m², 1 Vaga, Ocupado, em Campo Grande/MS     Localização: Rua Emília Teodora de Souza, nº 145, Casa 01, Condomínio Residencial Casachic XXX, Vila Serradinho, Campo Grande/MS, - CEP: 79104-060     96,47m² de área construída  fração de terreno de 180,00m²  1 vaga de garagem     Matrícula: 149.146 do Cartório de Registro de Imóveis 2ª Circunscrição de Campo Grande/MS  Inscrição Prefeitura: 04410030271     DOSSIÊ: 02.21151     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 23/01/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 437.035,68     2ª Praça:  Abertura: 23/01/2024 a partir das 09h31  Fechamento: 24/01/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 379.320,50        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 13% de deságio sobre o valor de avaliação.  02.21151 Santander - Alienação Fiduciária - D.02.21151]]></Description>
+        <ListPrice currency="BRL">437035.68</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="">Sem sigla</State>
+        <City>MS</City>
+        <Address>Rua Emília Teodora de Souza</Address>
+        <StreetNumber>145</StreetNumber>
+        <PostalCode>79104-060</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
