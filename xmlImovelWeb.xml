@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705437667020</dataModificacao>
+  <dataModificacao>1705438208562</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14800,6 +14800,69 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Tamirim, 310]]></endereco>
         <localidade><![CDATA[apto 108B, Bairro de Planalto  Natal, Rio Grande do Norte, Brasil]]></localidade>
         <codigoPostal><![CDATA[59073-290]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3163607]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3163607]]></codigoReferencia>
+      <titulo><![CDATA[Casa 151m² no Jardim Ocara em Santo André/SP]]></titulo>
+      <descricao><![CDATA[Casa 151m² no Jardim Ocara em Santo André/SP  Casa - Jardim Ocara.     Localização: Rua Pirapora, 185, Jardim Ocara - Santo André/SP - CEP: 09051-130     àrea construida de 208m² (estimativa)  área de terreno de 151,00m²     Matrícula: 88.663  RGI: 1º Cartório de Oficio do Registro de Imóveis de Santo André/SP  Inscrição Prefeitura: 19.217.047     DOSSIÊ: 17105     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     Recai sobre o imóvel ação: processo nº 1014961-81.2021.8.26.0554     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 583.403,15.     2ª Praça:  Abertura: 22/fev/2024 a partir das 09h31  Fechamento: 23/fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 327.500,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  5 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net.     Percentual de desconto: 44% de deságio sobre o valor de avaliação.  02.17105 Santander - Alienação Fiduciária - D.02.17105]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>583403.15</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/291f2808-066a-4fff-a6cd-99c9acfac84a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1abaddf9-f6c2-4853-bbee-76ea797d38ea.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Pirapora, 185]]></endereco>
+        <localidade><![CDATA[Jardim Ocara, Santo André, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09051-130]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
