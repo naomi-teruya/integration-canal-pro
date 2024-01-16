@@ -7386,11 +7386,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="04291-010">Sem sigla</State>
-        <City>SP</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
         <Address>R. José Marti</Address>
         <StreetNumber>12</StreetNumber>
-        <PostalCode>Brazil</PostalCode>
+        <PostalCode>04291-010</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
