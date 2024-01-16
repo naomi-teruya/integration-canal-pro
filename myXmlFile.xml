@@ -7592,6 +7592,40 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3163607</ListingID>
+      <Title>Casa 151m² no Jardim Ocara em Santo André/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3163607</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/291f2808-066a-4fff-a6cd-99c9acfac84a.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1abaddf9-f6c2-4853-bbee-76ea797d38ea.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 151m² no Jardim Ocara em Santo André/SP  Casa - Jardim Ocara.     Localização: Rua Pirapora, 185, Jardim Ocara - Santo André/SP - CEP: 09051-130     àrea construida de 208m² (estimativa)  área de terreno de 151,00m²     Matrícula: 88.663  RGI: 1º Cartório de Oficio do Registro de Imóveis de Santo André/SP  Inscrição Prefeitura: 19.217.047     DOSSIÊ: 17105     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     Recai sobre o imóvel ação: processo nº 1014961-81.2021.8.26.0554     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 583.403,15.     2ª Praça:  Abertura: 22/fev/2024 a partir das 09h31  Fechamento: 23/fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 327.500,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  5 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net.     Percentual de desconto: 44% de deságio sobre o valor de avaliação.  02.17105 Santander - Alienação Fiduciária - D.02.17105]]></Description>
+        <ListPrice currency="BRL">583403.15</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Santo André</City>
+        <Address>Rua Pirapora</Address>
+        <StreetNumber>185</StreetNumber>
+        <PostalCode>09051-130</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
