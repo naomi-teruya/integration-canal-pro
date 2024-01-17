@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705509083223</dataModificacao>
+  <dataModificacao>1705509212973</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15373,6 +15373,204 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Visconde de Sepetiba, 155]]></endereco>
         <localidade><![CDATA[Bairro Flores, Manaus, Amazonas, Brasil]]></localidade>
         <codigoPostal><![CDATA[69058-200]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3170270]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3170270]]></codigoReferencia>
+      <titulo><![CDATA[Casa 250m², Ocupada no Bairro Gloria em Ilicínea/MG]]></titulo>
+      <descricao><![CDATA[Casa 250m², Ocupada no Bairro Gloria em Ilicínea/MG  Casa 250m², Ocupada no Bairro Gloria em Ilicínea/MG - O lote nº 12, da quadra E, situado no bairro do Gloria, em Ilicínea/MG, com a área de 250,00m², sendo 10,00m de frente e de fundo por 25,00m de laterais, situado na Rua 4, confrontando pela frente com a Rua 4, nos fundos com o lote 13, a direita com o lote 15 e a esquerda com o lote 11. Conforme Av.12, atualmente o imóvel passou a denominar-se Rua Jose Leopoldino Mendes. Conforme Av.13, consta a construção residencial na Rua José Leopoldino Mendes, nº 52, Bairro Gloria, Ilicínea/MG, com 01 pavimento, área construída de 85,78m². Matrícula nº 7416 do Serviço Registral Imobiliário de Boa Esperança/MG. Cadastrado na Prefeitura Municipal sob n°: 01.02.072.0060.001/349.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 31/Jan/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 273.473,71.     2ª Praça:  Abertura: 31/Jan/2024 a partir das 09h01  Fechamento: 07/Fev/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 186.426,38.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602     Percentual de desconto: 47% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>273473.71</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/905004f6-262f-46d5-bc17-d7686c84bf90.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7822015c-9a96-46ed-b4ac-1c5a9951c87d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ebd96ecb-49a1-439f-9b40-0b654f1bcc3a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Leopoldino Mendes, 52]]></endereco>
+        <localidade><![CDATA[Bairro Gloria, Ilicínea, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[37175-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3167351]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3167351]]></codigoReferencia>
+      <titulo><![CDATA[Conjunto Comercial 3.388m², Desocupado,  composto por 3 salas, no Centro em Santos/SP]]></titulo>
+      <descricao><![CDATA[Conjunto Comercial 3.388m², Desocupado,  composto por 3 salas, no Centro em Santos/SP  Conjunto comercial, com 3.388m², composto por 3 salas.        ENDEREÇO: Rua General Câmara, 09 e Rua Cidade de Toledo, nº 12, 1º, 2º e 3º andar - do Edifício Titanita - Centro, Santos/SP  ÁREA PRIVATIVA: 1.973,31m²  ÁREA COMUM: 1.415,27m²  Total de 3 andares  SITUAÇÃO: Desocupado        Matrículas: 96.902, 96,903 e 96.904 do 1º CRI de Santos.  Contribuinte: 25.022.011.000        CONDIÇÕES DE PAGAMENTO: À vista   RESPONSABILIDADE DO PAGAMENTO DOS DÉBITOS ATÉ A DATA DA VENDA: Vendedor        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").  2- Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.  3 - Acesso à documentação do imóvel: mediante solicitação prévia pelo e-mail imoveis.sac@superbid.net -         Para agendamento de visitação, informações e dúvidas por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  96902 JIVE]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2500000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca0d86b6-48de-4a17-a525-f3dddb9eae01.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/17ecdc82-5823-4304-a72a-932bae8d94c9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ceba1ed5-3be9-4220-ac25-bc7df4b11af0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3321bd6-fa65-456b-be0b-bd26929b7acf.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua General Câmara, 9]]></endereco>
+        <localidade><![CDATA[Centro, Santos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11010-121]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3167331]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3167331]]></codigoReferencia>
+      <titulo><![CDATA[Casa 127m², Venda da Cruz, São Gonçalo/RJ]]></titulo>
+      <descricao><![CDATA[Casa 127m², Venda da Cruz, São Gonçalo/RJ  Casa - no Venda da Cruz     Localização: Travessa Cristiana, 77, Venda da Cruz, São Gonçalo/RJ, 24410-240     Área Construída: 127m²  Descrição Interna: (garagem, living, sala de jantar, 2 quartos sendo 1 suíte com banheiro)     Matrícula: nº 31.127  RGI: 2º Oficial de Registro de Imóveis de São Gonçalo/RJ  Inscrição Prefeitura: 109293000     DOSSIÊ: 02.20714     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 26/Jan/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 703.240,16     2ª Praça:  Abertura: 26/Jan/2024 a partir das 09h51  Fechamento: 29/Jan/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 616.806,02        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 12% de deságio sobre o valor de avaliação.  220714 Santander - Alienação Fiduciária - D.02.20714]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>703240.16</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d7850ea5-2622-42f6-af29-832e5218387a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7392841-ede6-4251-a775-5c2d94097dc4.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Travessa Cristiana, 77]]></endereco>
+        <localidade><![CDATA[Venda da Cruz, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[24410-240]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
