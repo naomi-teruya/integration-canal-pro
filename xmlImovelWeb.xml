@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705509212973</dataModificacao>
+  <dataModificacao>1705511372054</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15571,6 +15571,459 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Travessa Cristiana, 77]]></endereco>
         <localidade><![CDATA[Venda da Cruz, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[24410-240]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171891]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171891]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP  Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP - Escritório nº 1111, localizado no 11º pavimento do empreendimento denominado Edifício Office Nações Unidas, situado na Rua Benedito Fernandes, nº 545, no 29º Subdistrito - Santo Amaro, com a área privativa de 40,05m² e a área comum total de 36,54m², perfazendo a área total de 76,59m², correspondendo-lhe a fração ideal de terreno de 0,004147706. Matrícula 421.402 do 11º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 087.079.0267-0.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 280,44.  Valor aproximado dos Condomínios: R$ 495,68.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 33% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>198135</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e554c6e2-5559-44d9-9b7b-443f73e84cd7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ea641d42-d022-499f-b7e1-4db347ab66d2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d2465c3-d3a6-4dfe-bd77-1065419a5ee8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Benedito Fernandes, 545]]></endereco>
+        <localidade><![CDATA[Santo Amaro, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04746-110]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171890]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171890]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP  Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP - Escritório nº 1112, localizado no 11º pavimento do empreendimento denominado Edifício Office Nações Unidas, situado na Rua Benedito Fernandes, nº 545, no 29º Subdistrito - Santo Amaro, com a área privativa de 39,88m² e a área comum total de 36,38m², perfazendo a área total de 76,26m², correspondendo-lhe a fração ideal de terreno de 0,004130100. Matrícula 421.403 do 11º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 087.079.0268-9.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 280,44.  Valor aproximado dos Condomínios: R$ 495,68.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 33% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>198135</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/282da490-69c9-48c2-9216-cdcf768438e4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e535f191-0c9a-4ae5-8563-c8d5c606ad60.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f5189283-9718-4ce2-852f-6fe7befc41e7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Benedito Fernandes, 545]]></endereco>
+        <localidade><![CDATA[Santo Amaro, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04746-110]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171892]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171892]]></codigoReferencia>
+      <titulo><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP  Sala Comercial Desocupada com 40m² em Santo Amaro em São Paulo/SP - Escritório nº 1110, localizado no 11º pavimento do empreendimento denominado Edifício Office Nações Unidas, situado na Rua Benedito Fernandes, nº 545, no 29º Subdistrito - Santo Amaro, com a área privativa de 40,05m² e a área comum total de 36,54m², perfazendo a área total de 76,59m², correspondendo-lhe a fração ideal de terreno de 0,004147706. Matrícula 421.401 do 11º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 087.079.0266-2.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 280,44.  Valor aproximado dos Condomínios: R$ 495,68.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 33% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>198135</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6a701896-d0c9-42bc-a706-99661672dc8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7414bff7-7bea-4c3d-8431-7dd7e64f50c1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa019950-ae0e-4a66-b4b7-e2347bd9cbea.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Benedito Fernandes, 545]]></endereco>
+        <localidade><![CDATA[Santo Amaro, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[04746-110]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171889]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171889]]></codigoReferencia>
+      <titulo><![CDATA[Apto 66m², Desocupada em Vargem Grande no Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto 66m², Desocupada em Vargem Grande no Rio de Janeiro/RJ  Apto 66m², Desocupada em Vargem Grande no Rio de Janeiro/RJ - Apartamento 1101 do prédio situado na Estrada dos Bandeirantes nº 8751, na Freguesia de Jacarepaguá, e correspondente fração ideal de 10/1870 para o apartamento do respectivo terreno que mede em sua totalidade 130,20m de frente para a Estrada dos bandeirantes em 3 segmentos de: 68,50m, mais 51,67m em curva externa subordinada a um raio de 286,00m; 10,03 em curva interna subordinada a um raio de 6,00m; 130,64m de fundos pela rua Abrahão Jabour; 70,45m a direita pela rua Pedro Calmon em dois segmentos de: 59,58m, mais 10,87m em curva interna subordinada a um raio de 6,00m; 70,83m a esquerda em curva interna subordinada a um raio de 23,61m, com a área total de 8.395,69m². Matrícula nº 392690 do 9º Cartório de Registro de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n°: 3279449-7.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 150,,  Valor aproximado do Condomínio: R$ 1.650,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  5 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>286001.63</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/db5c4e32-ed1c-47b3-9286-049a7190c8e4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/14537e8b-0af2-42b6-9c60-e565fb716885.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9598ae94-13f5-4024-ac2b-0aaca7085697.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/95fbe822-8314-464e-aa84-cd3d586541db.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1b03084-9c94-4969-9d18-92ba445fd97f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bbe649cb-125c-4eae-8563-a73356023abc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cdcb691b-2897-4d4f-b2a2-a6aaa47d2178.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc4a00b8-e6ff-47b3-94ce-8508d648d009.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42c2cab6-9c0a-4745-ba73-ae466e50393c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8bcb9c9-1a6f-4f02-a466-c473d6fa6405.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada dos Bandeirantes nº 8751, Apto 1101]]></endereco>
+        <localidade><![CDATA[Vargem Grande, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[22783-115]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171887]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171887]]></codigoReferencia>
+      <titulo><![CDATA[Apto 258m², Ocupado, 3 Vagas na Vivenda do Bosque em Campo Grande/MS]]></titulo>
+      <descricao><![CDATA[Apto 258m², Ocupado, 3 Vagas na Vivenda do Bosque em Campo Grande/MS  Apto 258m², Ocupado, 3 Vagas na Vivenda do Bosque em Campo Grande/MS - Unidade autônoma designada por apartamento nº 172 (cento e setenta e dois), tipo A, situado no 17º pavimento do Condomínio Passarela Park Prime ¿ Torre A, sito na Rua Tabelião Murilo Rolim, nº 114, com área constante do habite-se de 242,64m², área real privativa de 142,22m², área real de uso comum de divisão não proporcional de 34,56m², correspondente as vagas de garagens números 618/619PP/611P, área real de uso comum de divisão proporcional de 81,33m², totalizando 258,11m² com coeficiente de proporcionalidade de 0,0032550750, composto por sala de estar/jantar, lavabo, terraço social com churrasqueira, 4 dormitórios, sendo 2 suítes, banho social, cozinha, área de serviço, WC de serviço, deposito e laje técnica. Edificado sobre o Lote 3R, localizado com frente para Avenida Dr. Paulo Machado, lado par, esquina com a Rua Tabelião Murilo Rolim, que no seu todo mede 8.422,843m². Matrícula nº 257.163 do Cartório de Registro de Imóveis da 1ª Circunscrição de Campo Grande/MS. Cadastrado na Prefeitura Municipal sob nº 6304212614.     Imóvel Ocupado - Desocupação por conta do arrematante.     *Recai sob o imóvel a ação nos Autos nº 0831624-21.2023.8.12.0001, que tramita na 6ª Vara Cível Do Foro De Campo Grande Do Estado Do Mato Grosso Do Sul - MS.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 647,13.  Valor aproximado do Condomínio: R$ 817,39.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  5 - Recai sob o imóvel a ação nos Autos nº 0831624-21.2023.8.12.0001, que tramita na 6ª Vara Cível Do Foro De Campo Grande Do Estado Do Mato Grosso Do Sul - MS.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 30% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1064648.87</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7f0f3bf-6f79-48d7-8109-9f63d99bea45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79fdb3a3-0ca9-4c1c-9b12-0c9e324ef558.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edc75c31-e360-4af0-863d-5add70216e39.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/88d3f75b-dbda-441b-84d7-ab2a76598e29.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/68a06ca1-360b-4ea0-be33-5f4c5d4d8669.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ffd0045-5eb9-4f60-a96d-640941122716.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76251aaf-e005-4255-922f-3948ee935c5d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/531cf1f8-da35-46b7-af76-94a576be4365.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e17475c6-0ac1-4530-a3f2-320cfe81d87b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a16e7933-9c86-4840-a872-02ee5f2b1e38.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3c958b9d-6bc9-4d1e-bbae-44f73a57d316.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Tabelião Murilo Rolim, 114]]></endereco>
+        <localidade><![CDATA[Vivenda do Bosque, Campo Grande, Mato Grosso do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79021-003]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171888]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171888]]></codigoReferencia>
+      <titulo><![CDATA[Apto 95m², Ocupado, 2 vaga no Jardim Chácara Inglesa em São Bernardo do Campo/SP]]></titulo>
+      <descricao><![CDATA[Apto 95m², Ocupado, 2 vaga no Jardim Chácara Inglesa em São Bernardo do Campo/SP  Apto 95m², Ocupado, 2 vaga no Jardim Chácara Inglesa em São Bernardo do Campo/SP - Apartamento nº 165, localizado no 16º pavimento da Torre 2, integrante do empreendimento imobiliário denominado Helbor Family Garden, com acesso pela Avenida das Nações Unidas, nº 1515 e Rua Maria Adelaide Rossi, composto por sala de estar/jantar, terraço com churrasqueira, com acesso pela sala de estar/jantar e pela cozinha, três dormitórios, sendo um do tipo suíte com terraço, lavabo, cozinha, área de serviço e banheiro; com área privativa real de 95,76m² (sendo 92,90m² correspondente ao apartamento e 2,86m² ao armário), área comum real de 83,1308m², perfazendo a área real total de 178,8908m², correspondendo-lhe a fração ideal de 0,002203441 no terreno e nas demais partes e coisas comuns do condomínio. Ao Apartamento está vinculado a vaga dupla nº 438, situada no 1º subsolo, com capacidade para dois veículos de passeio de pequeno porte, sujeita a atuação de manobrista; bem como o armário nº 160, localizado no 3º subsolo do empreendimento. Mais informações da descrição, descrita na matricula do imóvel. Conforme Av.03, ao apartamento está vinculado a vaga de garagem dupla nº 149 localizada no 3º Subsolo, e não como constou no descerramento desta matricula. Matrícula nº 161.156 do 1º Cartório Oficial de Registro de Imóveis de São Bernardo do Campo/SP. Cadastrado na Prefeitura Municipal sob nº 005.058.011.221.     Imóvel Ocupado - Desocupação por conta do arrematante.     *Recai sob o imóvel a ação nos autos nº 1022010-80.2021.8.26.0100, que tramita na 35ª da Vara Civel do Foro Central da Comarca da Capital - SP.     O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio.   Valor aproximado de IPTU: R$ 337,41.  Valor aproximado do Condomínio: R$ 650,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (com 5% desconto) ou Parcelado com Sinal de 25% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros e correção monetária - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). Não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  5 - Recai sob o imóvel a ação nos autos nº 1022010-80.2021.8.26.0100, que tramita na 35ª da Vara Civel do Foro Central da Comarca da Capital - SP.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 35% de deságio sobre o valor de avaliação.   Empírica 3º L - Aptos e Salas Com. em SP, RJ e MS]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>637017.41</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/93dd722e-f3a4-4db8-8eae-308a08068852.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d6f5a8a-b8d4-448f-884c-8e7edb392621.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/56ad6d7d-47c7-41f7-98b1-d994feefc763.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9648c64d-9179-44d7-9176-7ad9b21c0906.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/267ab630-5a8d-4475-8d93-a639007586ba.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f86fbacd-e319-47ba-8475-fb00e72d6bdd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4988ceb7-a5d0-4d37-920b-ff94cef97899.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida das Nações Unidas, undefined]]></endereco>
+        <localidade><![CDATA[Centro, São Bernardo do Campo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09726-110]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
