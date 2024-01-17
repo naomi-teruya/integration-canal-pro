@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705508908516</dataModificacao>
+  <dataModificacao>1705509083223</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15247,6 +15247,132 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 22, Lote  30]]></endereco>
         <localidade><![CDATA[Conjunto Mutirão I, São Simão, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[75890-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171353]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171353]]></codigoReferencia>
+      <titulo><![CDATA[Casa 118m² na Vila Metalúrgia em Santo André/SP]]></titulo>
+      <descricao><![CDATA[Casa 118m² na Vila Metalúrgia em Santo André/SP  Casa na Vila Metalurgica     Localização: Rua Alexandria, n° 39, Residencia 02, Condominio Residencial Clarice, Vila Metalurgica - Santo André/SP - CEP: 09220-190     Casa  Área construída: 118,69m²  Área do terreno: 291,00m²   1 vaga     Matrícula: nº 85.145  RGI: 2° Registro de Imóveis de Santo André/SP  Inscrição Prefeitura: 02.022.050     DOSSIÊ: 02.16671     Recai sobre o imóvel ação nº 1000596-22.2021.8.26.0554     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 26/Fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 931.568,84     2ª Praça:  Abertura: 26/Fev/2024 a partir das 09h31  Fechamento: 27/Fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 506.200,56         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 46% de deságio sobre o valor de avaliação.  02.16671 Santander - Alienação Fiduciária - D.02.16671]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>931568.84</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8741c202-3ee4-4cca-8ec1-7bdd47a10af8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e5489242-289c-4077-85e3-c0e467015114.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Alexandria, 39]]></endereco>
+        <localidade><![CDATA[Vila Metalurgica, Santo André, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[09220-190]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171079]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171079]]></codigoReferencia>
+      <titulo><![CDATA[Apto 83m² no Flores em Manaus/AM - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 83m² no Flores em Manaus/AM - Ocupado     Apto 83m² no Flores em Manaus/AM - Ocupado     Localização: Rua Visconde de Sepetiba, nº 155, apto 202, Bairro Flores, Manaus/AM - CEP: 69058-200     Área útil: 83,13m²  área total: 113,58m²  Com direito a uma vaga de garagem     Matrícula: nº 89.089  RGI: 1º Cartório de Registro de Imóveis de Manaus/AM  Inscrição Prefeitura: 1.40.0069.3.0280.0007.0     DOSSIÊ: 02.21102     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 24/Jan/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 354.000,00     2ª Praça:  Abertura: 24/Jan/2024 a partir das 09h51  Fechamento: 26/jan/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 329.728,64        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 7% de deságio sobre o valor de avaliação.  02.21102 Santander - Alienação Fiduciária - D.02.21102]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>354000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/990ad8fe-ec6c-4a5c-a7de-9265221ef414.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d9977969-0491-4041-bc8d-683ab0e55c38.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Visconde de Sepetiba, 155]]></endereco>
+        <localidade><![CDATA[Bairro Flores, Manaus, Amazonas, Brasil]]></localidade>
+        <codigoPostal><![CDATA[69058-200]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
