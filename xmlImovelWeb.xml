@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705693435189</dataModificacao>
+  <dataModificacao>1705950390469</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14440,6 +14440,136 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 4, lotes 30 e 31]]></endereco>
         <localidade><![CDATA[no Bairro Rio Abaixo, Mairiporã, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[07609-405]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3173824]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3173824]]></codigoReferencia>
+      <titulo><![CDATA[Casa 100m² no São Lucas, Viamão/RS]]></titulo>
+      <descricao><![CDATA[Casa 100m² no São Lucas, Viamão/RS  Casa - no São Lucas     Localização: R. 8, nº 1.021, São Lucas, Viamão/RS, 94451-260     Área Privativa: 100m²     Matrícula: nº 49.464  RGI: Cartório de Registro de Imóveis de Viamão/RS  Inscrição Prefeitura: 52235-0     DOSSIÊ: 02.20879     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 31/Jan/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 289.773,63     2ª Praça:  Abertura: 31/Jan/2024 a partir das 10h11  Fechamento: 01/Fev/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 219.366,92        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 24% de deságio sobre o valor de avaliação.  02.20879 Santander - Alienação Fiduciária - D.02.2879]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>289773.63</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70f6e317-67b6-4a3e-a8f5-cc8ca86ca971.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/45f6ec85-c50d-43e1-99bf-b5695d657596.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. 8, 1.021]]></endereco>
+        <localidade><![CDATA[São Lucas, Viamão, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[94451-260]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3162163]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3162163]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 800m², A.C. 178m², 2 vagas, Churrasqueira, Piscina, Centro]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 800m², A.C. 178m², 2 vagas, Churrasqueira, Piscina, Centro  Imóvel da matrícula n° 4.155, do CRI de Nova Andradina/MS: Um terreno designado pela data n° 10 (dez) da quadra n° 310 (trezentos e dez), situado nesta cidade e comarca, com a área de oitocentos (800) metros quadrados, e com as seguintes confrontações: pela frente, confronta com a antiga Rua do Ouro, atualmente denominada Rua 7 de Setembro, numa extensão de vinte (20) metros; pelo lado direito de quem do terreno olha para a rua, confronta com a data n° 9 (nove) numa extensão de quarenta (40) metros; pelo lado esquerdo, confronta com a Rua Santa Lúcia, numa extensão de quarenta (40) metros; e pelos fundos, confronta com a data n° 5 (cinco) numa extensão de vinte (20) metros. Inscrição imobiliária nº 56.310.10.1.0.1.C.1. Código do Imóvel 000002314. Proprietário Registral (R 08): Sergio Ribeiro Hashino Kuti e Maria de Fatima Araújo Hashino Kuti. Av. 3, consta que no imóvel há uma casa de alvenaria, com 178,30 metros quadrados de área construída; av. 9, consta que o imóvel está localizado no lado ímpar, setor 70 da 1ª zona, esquina com a Rua Santa Lúcia; na AV 09 consta que o imóvel está localizado no lado impar, setor 70 da 1ª zona, esquina com a Rua Santa Lucia.       Obs.:  segundo avaliação do imóvel de 09/2021 e termo de penhora e depósito de 11/2000, no terreno está edificada uma residência de alvenaria, com cobertura em telhas de fibrocimento e laje, possui duas garagens; três salas de estar, uma sala de TV; um apartamento completo; dois dormitórios; um quarto para empregados; uma cozinha ampla, varanda com acesso a lavanderia; três banheiros e uma despensa, área gourmet com churrasqueira e salão de jogos, uma piscina medindo aproximadamente 32 m² (4x8), possui portas de madeira, janelas tipo venezianas, sendo de dois banheiros de vidro temperado (tipo blindex), piso da parte interna todo em porcelanato e área externa em cerâmica, sendo que na frente do terreno localizado na Rua Santa Lúcia existe um salão comercial de aproximadamente 70 m² (setenta metros quadrados), com telha de amianto, forro de gesso e um banheiro. Imóvel registrado junto a Prefeitura Municipal de Nova Andradina - MT sob o nº 000002314.       Ônus e gravames:  De acordo com a matrícula atualizada consta na R7 HIPOTECA junto ao Banco General Motors, GM Factoring Sociedade de Fomento Comercial Ltda. e General Motors do Brasil Ltda, que originou a presente ação; na R10 PENHORA oriunda dos autos da presente ação; da R11 PENHORA oriunda dos autos da Carta Precatória nº 067/01, em trâmite a 2ª Vara Cível de Nova Andradina - MT, expedida nos autos da Ação de Execução de Título Extrajudicial nº 000.00.604897 (0604897-19.2000.8.26.0100), da 19ª Vara Cível do Foro Central da Comarca de Sã...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2610533.61</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef8abcda-0494-47c7-848e-b3caa60f7893.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a90e07f8-5013-43fe-9c50-ecb44d42129f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/965649e9-8138-417a-8cfa-0ce1c67bc182.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Santa Lucia, 1448]]></endereco>
+        <localidade><![CDATA[esquina R. Sete de Setembro, Nova Andradina, Mato Grosso do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79750-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
