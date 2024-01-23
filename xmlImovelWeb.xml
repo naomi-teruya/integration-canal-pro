@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1706014680940</dataModificacao>
+  <dataModificacao>1706014935508</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14897,6 +14897,408 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Av. Olimpio Bezerra de Arruda, 1.180]]></endereco>
         <localidade><![CDATA[Santo Agostinho, Santa Cruz do Capibaribe, Pernambuco, Brasil]]></localidade>
         <codigoPostal><![CDATA[55191-597]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175166]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175166]]></codigoReferencia>
+      <titulo><![CDATA[Apto 94m², Ocupado, 1 Vaga na Vila Progresso, Sorocaba/SP]]></titulo>
+      <descricao><![CDATA[Apto 94m², Ocupado, 1 Vaga na Vila Progresso, Sorocaba/SP  Apto 94m², Ocupado, 1 Vaga na Vila Progresso, Sorocaba/SP - A unidade autônoma residencial designada por Apartamento nº 76, localizado no 7º pavimento ou 7º andar, do bloco 1, integrante do conjunto denominado Residencial Mirante Santa Rosalia, com a área privativa coberta de 51,050m², área de uso comum coberta de 22,532m², área de uso comum descoberta de 21,275m², perfazendo a área total coberta + descoberta de 94,857m², correspondendo-lhe uma fração ideal de 0,35533% ou 0,0035533 no terreno. Cabe-lhe o direito ao uso de 1 (uma) vaga de garagem simples, localizada n terreno ou nos sobressolos do condomínio. Conforme Av.04, o imóvel recebeu o nº 160 da Rua Professor Luiz de Vasconcelos. Matrícula nº 177.057 do 1º Cartório Oficial de Registro de Imóveis de Sorocaba/SP. Cadastrado na Prefeitura Municipal sob n°: 55.54.57.0604.01.046.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 02/Fev/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 315.094,35.     2ª Praça:  Abertura: 02/Fev/2024 a partir das 09h01  Fechamento: 09/Fev/2024 a partir das 13h00 com Valor Mínimo de Venda de R$ 231.365,22.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>315094.35</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e98e7477-cc79-4180-9291-df8fac78947b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edcf5f22-33ee-46d7-a61f-a25994ebedc0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6f996b41-59cd-4985-b536-c8db25514275.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9dba7229-5a6b-4db1-bc32-fd9a6868fe45.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/80d6055c-5780-40ef-90b4-724b24c57eaf.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Professor Luiz de Vasconcelos, 160]]></endereco>
+        <localidade><![CDATA[Vila Progresso, Sorocaba, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[18090-380]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175120]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175120]]></codigoReferencia>
+      <titulo><![CDATA[Casa 360m² no Setor Cristina, Trindade/GO]]></titulo>
+      <descricao><![CDATA[Casa 360m² no Setor Cristina, Trindade/GO  Casa - no Setor Cristina     Localização: R. Joaquim Monteiro, Lote 10, QD 11, Setor Cristina, Trindade/GO, 75383-612     Área Terreno: 360m²  Área Construída: 172m²  Descrição Interna: (03 quartos, sendo 02 suítes, 01 cozinha, 02 banheiros, 01 varanda, 01 circulação, 01 lavanderia, 01 varanda/garagem, 01 escada e 01 área coberta)     Matrícula: nº 13.549  RGI: Cartório de Registro de Imóveis de Trindade/GO  Inscrição Prefeitura: 01.033.00011.00010.001     DOSSIÊ: 02.21147     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Fev/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 300.000,00     2ª Praça:  Abertura: 01/Jan/2024 a partir das 10h21  Fechamento: 02/Fev/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 285.490,84        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21147 Santander - Alienação Fiduciária - D.02.21147]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>300000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8cc8009-6810-4362-a986-1a4eb522cb99.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c9f8e97-f031-4b2c-b36b-145681664578.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3141da03-2037-4f0a-aaeb-b171e2f84eff.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Joaquim Monteiro, Setor Cristina]]></endereco>
+        <localidade><![CDATA[Setor Cristina, Trindade, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[75383-612]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3174762]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3174762]]></codigoReferencia>
+      <titulo><![CDATA[Casa 260m² na Vila Casa Branca, Botucatu/SP]]></titulo>
+      <descricao><![CDATA[Casa 260m² na Vila Casa Branca, Botucatu/SP  Casa - na Vila Casa Branca     Localização: R. Braz Assis, nº 1.519, Vila Casa Branca, Botucatu/SP, 18608-333     Área Terreno: 260m²  Área Construída: 96m² (Conforme Laudo)     Matrícula: nº 22.177  RGI: Cartório de Registro de Imóveis, 2ª Circunscrição de Botucatu/SP  Inscrição Prefeitura: 13.0018.0015     DOSSIÊ: 02.18764     *Recai sobre o imóvel a ação nº 1000156-25.2023.8.26.0079*     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Fev/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 354.152,85     2ª Praça:  Abertura: 01/Fev/2024 a partir das 10h41  Fechamento: 02/Fev/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 209.869,95        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 41% de deságio sobre o valor de avaliação.  02.18764 Santander - Alienação Fiduciária - D.02.18764]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>354152.85</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1a658d73-6ed9-4ca5-8d3c-e23baf9515ad.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7a76dd30-9ec4-4d97-be87-492568f3a865.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/99f8fa58-5da0-43bd-b1bf-7f3cbe544621.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Braz Assis, 1.519]]></endereco>
+        <localidade><![CDATA[Vila Casa Branca, Botucatu, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[18608-333]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175163]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175163]]></codigoReferencia>
+      <titulo><![CDATA[Apto 175m² 2 vagas no Recreio dos Bandeirantes no Rio de Janeiro/RJ - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 175m² 2 vagas no Recreio dos Bandeirantes no Rio de Janeiro/RJ - Ocupado  Apto 175m² 2 vagas no Recreio dos Bandeirantes no Rio de Janeiro/RJ - Ocupado     Localização: Rua Teixeira Heizer 1965, apto 812, Recreio dos Bandeirantes, Rio de Janeiro/RJ - CEP: 22790-883     área útil: 175,00m² conforme laudo  2 vagas     Matrícula: nº 412.916   RGI: 9º Cartório de Registro de Imóveis do Rio de Janeiro/RJ  Inscrição Prefeitura: 3.325.916-9     DOSSIÊ: 02.21207     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 29/fev/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 1.461.160,97     2ª Praça:  Abertura: 29/fev/2024 a partir das 09h51  Fechamento: 01/mar/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 854.797,81        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 41% de deságio sobre o valor de avaliação.  02.21207 Santander - Alienação Fiduciária - D.02.21207]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1461160.97</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91af4a5d-107e-40aa-b504-9530d4e2ed4d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f4cd901f-e763-4ccf-b61f-b050ae4cda41.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Teixeira Heizer 1965, apto 812]]></endereco>
+        <localidade><![CDATA[Recreio dos Bandeirantes, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[22790-883]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175137]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175137]]></codigoReferencia>
+      <titulo><![CDATA[Casa144m² no Jardim Regina em Itanhaém/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa144m² no Jardim Regina em Itanhaém/SP - Ocupado  Casa144m² no Jardim Regina em Itanhaém/SP - Ocupado     Localização: Avenida Julinha, nº 570, Jardim Regina, em Itanhaém/SP - CEP: 11740-000     área construída: 144,47m²  área total: 300,00m²     Matrícula: nº 149.164   RGI: Cartório de Registro de Imóveis de Itanhaém/SP  Inscrição Prefeitura: 028.024.008.0000.015875(23091)     DOSSIÊ: 02.21216     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 427.000,00     2ª Praça:  Abertura: 01/fev/2024 a partir das 09h31  Fechamento: 02/fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 399.582,54        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 6% de deságio sobre o valor de avaliação.  02.21216 Santander - Alienação Fiduciária - D.02.21216]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>427000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0996e5fc-ce3e-46e6-80c6-612cdd0cec90.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b547477e-81d6-4ff2-a41e-2d80c88b26a6.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Julinha, 570]]></endereco>
+        <localidade><![CDATA[Jardim Regina, Itanhaém, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11740-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175134]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175134]]></codigoReferencia>
+      <titulo><![CDATA[Casa Duplex 60m², 1 Vaga, em Camaçari/BA]]></titulo>
+      <descricao><![CDATA[Casa Duplex 60m², 1 Vaga, em Camaçari/BA  Casa Duplex 60m², 1 Vaga, em Camaçari/BA     Localização: Rua dos Tamarindos, Quadra nº 50, Residencial Village Parque Verde, loteamento denominado Residencial Coronel Antônio Félix Martins, Camaçari/BA - CEP: 42810-189     área total construída de 61,16m²  área de terreno privativa, 39,85m² e fração ideal de 0,071429     Matrícula: 33.405 do Cartório de Registro de Imóveis 2º Ofício de Camaçari/BA  Inscrição Prefeitura: 0002018366     DOSSIÊ: 02.21113     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/fev/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 149.306,34     2ª Praça:  Abertura: 01/fev/2024 a partir das 10h01  Fechamento: 02/fev/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 126.310,25        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 15% de deságio sobre o valor de avaliação.  02.21113 Santander - Alienação Fiduciária - D.02.21113]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>149306.34</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44e39c95-af68-44e1-93a6-d61ac464b1b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/18c18824-d8f1-4ea8-a1ca-f99ff161634f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1e25e3a9-88ee-4296-8844-cff0ce8ab0c8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b9eda8f0-50bd-4025-aff0-0fe6e02aa5bd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f95fb47a-cfbd-4a5a-b25f-e7c2a2d6894a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua dos Tamarindos, Quadra  50]]></endereco>
+        <localidade><![CDATA[loteamento denominado Residencial Coronel Antônio Félix Martins, Camaçari, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42810-189]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
