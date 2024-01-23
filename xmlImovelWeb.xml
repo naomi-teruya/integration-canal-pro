@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1705950613399</dataModificacao>
+  <dataModificacao>1706014680940</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14570,6 +14570,333 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Santa Lucia, 1448]]></endereco>
         <localidade><![CDATA[esquina R. Sete de Setembro, Nova Andradina, Mato Grosso do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[79750-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3171728]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3171728]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 78m², 1 vaga no Casa Forte, Recife/PE]]></titulo>
+      <descricao><![CDATA[Apto. 78m², 1 vaga no Casa Forte, Recife/PE  Apartamento - no Casa Fote     Localização: R. Dona Rita de Souza, 63, apto. 201, Ed. Buganvillia, Casa Forte, Recife/PE, 52061-512     Área Privativa: 78m²  Área Comum: 107m²  Descrição Interna: (sala de estar e jantar, dois quartos sociais, sendo um suíte, quarto reversível, WC social, circulação, cozinha, área de serviço, WC de serviço, jardineira)  1 vaga     Matrícula: nº 12.376  RGI: 6º Ofício de Registro de Imóveis de Recife/PE  Inscrição Prefeitura: 3.1400.096.03.0129.0003-5     DOSSIÊ: 02.20609     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 30/Jan/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 371.081,65      2ª Praça:  Abertura: 30/Jan/2024 a partir das 09h31  Fechamento: 31/Jan/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 228.851,25        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 38% de deságio sobre o valor de avaliação.  02.20609 Santander - Alienação Fiduciária - D.02.20609]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>371081.65</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d19f72b7-f839-4123-b61b-934135160b1c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bacda54a-db35-4d23-87cf-6afbd8d6e01c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9a621417-ff4e-43ad-b557-303bb34dabd7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Dona Rita de Souza, 63]]></endereco>
+        <localidade><![CDATA[Casa Forte, Recife, Pernambuco, Brasil]]></localidade>
+        <codigoPostal><![CDATA[52061-512]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175110]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175110]]></codigoReferencia>
+      <titulo><![CDATA[Apto 61m² no São João em Porto Alegre/RS - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 61m² no São João em Porto Alegre/RS - Ocupado  Apto 61m² no São João em Porto Alegre/RS - Ocupado     Localização: Rua Augusto Severo, nº 44, apto 105, Bairro São João, em Porto Alegre/RS - CEP: 90240-480     área útil: 61,7350m²  área total: 76,9119m²     Matrícula: nº 200.481   RGI: Registro de Imóveis da 4ª Zona de Porto Alegre/RS  Inscrição Prefeitura: 148024     DOSSIÊ: 02.21042     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/fev/2024 a partir das 11h10 com Valor Mínimo de Venda de R$ 365.896,40     2ª Praça:  Abertura: 01/fev/2024 a partir das 11h11  Fechamento: 02/fev/2024 a partir das 15h10 com Valor Mínimo de Venda de R$ 241.646,46        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 34% de deságio sobre o valor de avaliação.  02.21042 Santander - Alienação Fiduciária - D.02.21042]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>365896.4</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3a8b0f49-c6bd-4726-9622-8f780f2376b7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc29aabd-3e53-49b4-ac05-763262ec55b6.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Augusto Severo, 44]]></endereco>
+        <localidade><![CDATA[Bairro São João, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90240-480]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175112]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175112]]></codigoReferencia>
+      <titulo><![CDATA[Apto 56m² 1 vaga na Vila Formosa em São Paulo/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 56m² 1 vaga na Vila Formosa em São Paulo/SP - Ocupado  Apto 56m² 1 vaga na Vila Formosa em São Paulo/SP - Ocupado     Localização: Rua Angá nº 896, apto 134B, Vila Formosa, São Paulo/SP - CEP: 03360-000     área útil: 56,320m²  área total: 98,857m²  Com direito a uma vaga de garagem coletiva     Matrícula: nº 261.869   RGI: 9º Ofício de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 053.033.0550-3     DOSSIÊ: 02.20699     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/fev/2024 a partir das 11h00 com Valor Mínimo de Venda de R$ 582.459,62     2ª Praça:  Abertura: 01/fev/2024 a partir das 11h01  Fechamento: 02/fev/2024 a partir das 15h00 com Valor Mínimo de Venda de R$ 322.085,30        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 45% de deságio sobre o valor de avaliação.  02.20699 Santander - Alienação Fiduciária - D.02.20699]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>582459.62</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/af1807be-22a0-4969-8572-502b23938c04.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/32bad7b2-2e77-493e-a3f5-9c3742cfb0bf.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Angá nº 896, apto 134B]]></endereco>
+        <localidade><![CDATA[Vila Formosa, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[03360-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175218]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175218]]></codigoReferencia>
+      <titulo><![CDATA[Casa 276m², Ocupada no Bairro Cara-Cara em Ponta Grossa/PR]]></titulo>
+      <descricao><![CDATA[Casa 276m², Ocupada no Bairro Cara-Cara em Ponta Grossa/PR  Casa 276m², Ocupada no Bairro Cara-Cara em Ponta Grossa/PR - Lote de terreno nº 17 (dezessete), da quadra nº 7 (sete), de forma retangular, quadrante S-E, indicação cadastral nº 09.5.50.25.0114.000, situado no Conjunto Residencial Pimentel, Bairro do Cará-Cará, distante 30m50cm (trinta metros e cinquenta centímetros) da Rua Elizeu, medindo 12m (doze metros) de frente para a Rua Moisés, lado par, por 23m (vinte três metros) da frente ao fundo, em ambos os lados, tendo no fundo igual metragem, da frente, confrontando de quem da rua olha, do lado direito, com o lote nº 18, de propriedade da Companhia de Habitação do Paraná ¿ COHAPAR, do lado esquerdo, com o lote nº 16, de propriedade da Companhia de Habitação do Paraná ¿ COHAPAR, e de fundo, com o lote nº 11, de propriedade da Companhia de Habitação do Paraná ¿ COHAPAR, com a área total de 276m² (duzentos e setenta e seis metros quadrados). Conforme Av.02, foi construído a casa de alvenaria unifamiliar, com área de 52,26m², sob nº 278, de frente para a Rua Moisés, com indicação cadastral nº 09.5.50.25.0114.001. Matrícula nº 40.260 do 2º Cartório de Registro de Imóveis de Ponta Grossa/PR. Cadastrado na Prefeitura Municipal sob n° 09.5.50.25.0114.001.      Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 64,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Área construida mencionada na matricula, difere da informanda no IPTU e laudo. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Valor de avaliação: R$ 246.000,00 - percentual de desconto: 46% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Casa em Ponta Grossa/PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>133636.68</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e036fc48-9709-47d1-bf86-b0e53afecb8b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4e9bab2a-f342-4608-bcf1-2bf3e284acb1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/de0ace4d-364f-44b7-9563-e8dc64a66e47.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8fffaf0-237a-40ad-9d82-e9573f6416ab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7883f6f3-3923-4fd1-aeee-d36efe854b18.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Moisés, 278]]></endereco>
+        <localidade><![CDATA[Cara-Cara, Ponta Grossa, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84032-581]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3175180]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3175180]]></codigoReferencia>
+      <titulo><![CDATA[Casa 90m² no Santo Agostinho, Santa Cruz do Capibaribe/PE]]></titulo>
+      <descricao><![CDATA[Casa 90m² no Santo Agostinho, Santa Cruz do Capibaribe/PE  Casa - no Santo Agostinho     Localização: Av. Olimpio Bezerra de Arruda, nº 1.180, Santo Agostinho, Santa Cruz do Capibaribe/PE, 55191-597     Área Terreno: 90m²   Área Construída: 53m²  Descrição Interna: (01 sala, 01 quarto, 01 suíte, 01 cozinha, 01 área descoberta, 01 banheiro, 01 porta e 01 janela na p/ de trás, 01 área de serviços, 01 garagem)     Matrícula: nº 23.824  RGI: Cartório de Registro de Imóveis de Santa Cruz do Capibaribe/PE  Inscrição Prefeitura: 01.0013.098.01.0024.0001.3     DOSSIÊ: 02.21267     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Fev/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 220.000,00     2ª Praça:  Abertura: 01/Fev/2024 a partir das 10h31  Fechamento: 02/Fev/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 112.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 49% de deságio sobre o valor de avaliação.  02.21267 Santander - Alienação Fiduciária - D.02.21267]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>220000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eba255c8-68e7-458c-8720-e8a11be0cc99.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12a60c92-b742-4c28-b24d-2178331f2de1.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Olimpio Bezerra de Arruda, 1.180]]></endereco>
+        <localidade><![CDATA[Santo Agostinho, Santa Cruz do Capibaribe, Pernambuco, Brasil]]></localidade>
+        <codigoPostal><![CDATA[55191-597]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
