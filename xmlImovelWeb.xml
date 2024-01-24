@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1706102891652</dataModificacao>
+  <dataModificacao>1706103314856</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16751,6 +16751,195 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida José Vicente de Paula, 292]]></endereco>
         <localidade><![CDATA[Jardim Primavera, Quirinópolis, Goiás, Brasil]]></localidade>
         <codigoPostal><![CDATA[75860-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3176903]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3176903]]></codigoReferencia>
+      <titulo><![CDATA[Casa 453m², 2 vagas no Maracacuera, Belém/PA]]></titulo>
+      <descricao><![CDATA[Casa 453m², 2 vagas no Maracacuera, Belém/PA  Casa - no Maracacuera     Localização: Estrada do Outeiro, nº 0, Lote 09, QD 5, Cond. Alphaville Belém 2, Maracacuera, Belém/PA, 66815-902     Área Privativa: 453m²   Área Construída: 222m²  Descrição Interna: (garagem para dois veículos, sala de estar e sala de jantar e sala de jantar com pé direito duplo, lavabo, cozinha com ilha, espaço gourmet com churrasqueira e pia de apoio, área de serviço, banheiro de serviço externo, 3 suítes sendo uma master, piscina com deck e cascata)     Matrícula: nº 15.573  RGI: 3° Registro de Imóveis de Belém/PA  Inscrição Prefeitura: 055/30882/33/53/3328/335/000-21-Sequencial 412.395     DOSSIÊ: 02.21278     *Recai sobre o imóvel ação nº 0909710-22.2023.8.14.0301-2*     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Fev/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 990.000,00     2ª Praça:  Abertura: 01/Fev/2024 a partir das 10h51  Fechamento: 02/Fev/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 953.270,58        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21278 Santander - Alienação Fiduciária - D.02.21278]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>990000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/13109369-3133-4ef7-abde-ae2af856f811.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d941010-91e1-4bd0-8f73-aba59c5495b6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cf0acdef-a0da-4525-a41b-e296203a4d81.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada do Outeiro, Maracacuera]]></endereco>
+        <localidade><![CDATA[Maracacuera, Belém, Pará, Brasil]]></localidade>
+        <codigoPostal><![CDATA[66815-902]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177188]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177188]]></codigoReferencia>
+      <titulo><![CDATA[Apto 60m² 1 vaga na Ponte Preta em Campinas/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 60m² 1 vaga na Ponte Preta em Campinas/SP - Ocupado  Apto 60m² 1 vaga na Ponte Preta em Campinas/SP - Ocupado     Localização: Rua Oscar Leite, nº 200, apto 118, Ponte Preta, em Campinas/SP - CEP: 13041-620     área privativa: 60,070m²  área total: 70,420m²  1 vaga de garagem n° 113     Matrícula: nº 241.100   RGI: 3º Cartório de Registro de Imóveis de Campinas/SP  Inscrição Prefeitura: 3423.44.72.0468.01091     DOSSIÊ: 02.20865     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 07/fev/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 792.830,14     2ª Praça:  Abertura: 07/fev/2024 a partir das 09h41  Fechamento: 08/fev/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 314.480,72        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 60% de deságio sobre o valor de avaliação.  02.20865 Santander - Alienação Fiduciária - D.02.20865]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>792830.14</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4fc066e3-1b5d-4edd-afc4-f55082c78480.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0727abe3-c7aa-45f1-a228-3322cf5c406f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Oscar Leite, 200]]></endereco>
+        <localidade><![CDATA[Ponte Preta, Campinas, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13041-620]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177126]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177126]]></codigoReferencia>
+      <titulo><![CDATA[Casa 123m² no Parque Real em Pouso Alegre/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 123m² no Parque Real em Pouso Alegre/MG - Ocupado  Casa 123m² no Parque Real em Pouso Alegre/MG - Ocupado     Localização: Rua Antônio Tadeu Tonini, nº 195, Parque Real, em Pouso Alegre/MG - CEP: 37560-245     área construída: 123,52m²  área total: 200,00m²     Matrícula: nº 83.641   RGI: Cartório de Registro de Imóveis de Pouso Alegre/MG  Inscrição Prefeitura: 004.1176.0186.000     DOSSIÊ: 02.21180     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 07/fev/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 470.285,67     2ª Praça:  Abertura: 07/fev/2024 a partir das 09h31  Fechamento: 08/fev/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 465.338,16        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 1% de deságio sobre o valor de avaliação.  02.21180 Santander - Alienação Fiduciária - D.02.21180]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>470285.67</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/59def25c-05df-415f-bc29-102ef935c19b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Antônio Tadeu Tonini, 195]]></endereco>
+        <localidade><![CDATA[Parque Real, Pouso Alegre, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[37560-245]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
