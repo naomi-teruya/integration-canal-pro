@@ -4057,43 +4057,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3161148</ListingID>
-      <Title>Casa 144m², Ocupado, em Rolante/RS</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3161148</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/afa65dae-54b1-4ffd-b421-196b2c4fc489.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/864364f1-dee6-4411-b7ca-1c1e523dce26.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/32d5aac1-da30-4901-9a74-0aaf52635dd4.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/a1489a87-9a14-45d2-b418-318284999654.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/6dc4fc45-c2e5-4524-a737-fb01f415f00d.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <Description><![CDATA[Casa 144m², Ocupado, em Rolante/RS  Casa 144m², Ocupado, em Rolante/RS     Localização: Avenida Borges de Medeiros, nº 2.186, Centro, Rolante/RS - CEP: 95690-000     área de terreno de 650,00m²  área construída de 144,00m²     Matrícula: 563 do Cartório de Registro de Imóveis de Taquara/RS  Inscrição Prefeitura: 3.160 (12.0002.018.000000.001)     DOSSIÊ: 02.20587     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/01/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 818.577,59     2ª Praça:  Abertura: 19/01/2024 a partir das 09h41  Fechamento: 22/01/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 719.109,30           Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 12% de deságio sobre o valor de avaliação.  02.20587 Santander - Alienação Fiduciária - D.02.20587]]></Description>
-        <ListPrice currency="BRL">818577.59</ListPrice>
-        <LivingArea unit="square metres">150</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">Rio Grande do Sul</State>
-        <City>Rolante</City>
-        <Address>Avenida Borges de Medeiros</Address>
-        <StreetNumber>2.186</StreetNumber>
-        <PostalCode>95690-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3123240</ListingID>
       <Title>Casa, A.T. 125m², A.C. 90m², Jardim das Flores</Title>
       <TransactionType>For Sale</TransactionType>
@@ -7141,6 +7104,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>R. Benjamin Ciqueta</Address>
         <StreetNumber>677</StreetNumber>
         <PostalCode>97610-970</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3142219</ListingID>
+      <Title>Casa, A.T. 189m², Pq. Douradinho</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3142219</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/39795f70-5b57-47f7-9460-6b8d8141add9.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/99c1606c-53c0-41d5-aab4-262452148263.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, A.T. 189m², Pq. Douradinho  Imóvel matriculado no CRI local sob nº 95.944, sito à Rua Jorge Suquisaqui, 317, Residencial Parque Douradinho, CEP 13.568-658 - São Carlos - SP.      Descrição da Matrícula:  Um terreno (sem benfeitorias), situado nesta cidade, município, comarca e circunscrição de São Carlos-SP., constituído do Lote 677 da quadra 17, do loteamento denominado Parque Douradinho, com a seguinte descrição: tem frente para a Rua 12, onde mede 14,14 metros em curva de concordância, na confluência da Rua 12 com a Travessa 01; 23,00 metros da frente aos fundos, do lado direito de quem da Rua 12 olha o imóvel, confrontando com o lote 676; 14,00 metros do lado esquerdo confrontando com o alinhamento da Travessa 01; e 9,00 metros nos fundos, confrontando com o lote 678, encerrando uma área de 189,62m². Av. 1 (cadastro) imóvel cadastrado na prefeitura municipal sob n. 01.16.232.030.001.     *As construções/benfeitorias existentes não estão averbadas na matrícula do imóvel. Ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo..      Débitos Municipais:  IPTU 2023 R$ 216,92, conforme consulta realizada em 28/11/2023.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos     Valor da Avaliação estipulado em 31/01/2018: R$ 254.210,00 (duzentos e cinquenta e quatro mil, duzentos e dez reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em Novembro/2023: R$ 348.318,10 (trezentos e quarenta e oito mil, trezentos e dezoito reais e dez centavos).  J.C. da R. L.A.G.R L.A.G.R Ivan Pinto de Campos Junior 1ª Vara Fam e Sucessões de São Carlos/SP 0003988-82.2020.8.26.0566
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">348318.1</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Carlos</City>
+        <Address>R. Jorge Suquisaqui</Address>
+        <StreetNumber>317</StreetNumber>
+        <PostalCode>13568-658</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
