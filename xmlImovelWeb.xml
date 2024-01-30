@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1706624324096</dataModificacao>
+  <dataModificacao>1706642707620</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14094,6 +14094,432 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Angra Azul, s]]></endereco>
         <localidade><![CDATA[Edifício Yankee, Condomínio Costabela Marina e Resort, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[23942-315]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177103]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177103]]></codigoReferencia>
+      <titulo><![CDATA[Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS]]></titulo>
+      <descricao><![CDATA[Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS  Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS - Terreno melhor descrito na matricula do imóvel. Sobre o Dito terreno foi construído um Conjunto Residencial, do qual faz parte o Apartamento nº 301, do Bloco 8, Setor II, situado no terceiro pavimento, do tipo A-22, de frente, a direita de quem da porta de entrada do bloco olha para o mesmo, com a área real privativa de 49,16m², participando com 5,00m² na área de uso comum, perfazendo a área real total de 54,16m², correspondendo-lhe a fração ideal equivalente a 0,001629/2 no terreno sobre o qual foram construídos os edifícios, assim como nas demais coisas de uso comum e fim proveitosos. Dito apartamento tem entrada pelo nº 25 da Alameda 4. Conforme Av.13, a Alameda 4, passou a denominar-se Rua Engenheiro Fernando Mendes Ribeiro. Matrícula nº 14.963 do Cartório de Registro de Imóveis da 2ª Zona Porto Alegre/RS. Cadastrado na Prefeitura Municipal sob n°: 5203457.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 421,32.  Valor aproximado de Condomínio: R$ 460,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M ou Financiado com Sinal de 25% sobre o valor de arrematação - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 200.000,00 - percentual de desconto: 30% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>140368.37</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79b1ce35-c399-4a59-a4c4-9179052b97b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f2cd1fdb-94fb-4388-bdc8-c933abf7d8f1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f6137387-eb94-4f80-9217-e1a6ad32117e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1a505af-992d-46c1-9e69-76a921222f8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7d8096ca-c022-4d77-aa76-ff612eece34d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Engenheiro Fernando Mendes Ribeiro, 25]]></endereco>
+        <localidade><![CDATA[Santo Antônio, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90640-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177104]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177104]]></codigoReferencia>
+      <titulo><![CDATA[Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ  Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ - Apartamento 205 do prédio situado na Rua Florianópolis, nº 811, com direito a 01 vaga de garagem e correspondente fração ideal de 1/32 do terreno, na Freguesia de Jacarepaguá, medindo 22,00m de frente, a direita 66,00m onde confrontando na extensão de 32,20m com terreno do nº 785 da Rua Florianópolis, do espolio de Armando Medina Galvão e na extensão de 33,80m com terreno da vila nº 789 da Rua Florianópolis, de Maria Guimarães e a esquerda 72,80m onde confronta com terreno do prédio 831 da Rua Florianópolis, do espolio de Antônio Eduardo Pereira e Dinosia de Eduardo Pereira ou sucessores e nos fundos 21,85m onde confronta com o nº 1317 da Rua Barão, da perfumaria Swing S/A - Industria e comercio. Matrícula nº 218.074 do 9º Cartório Oficial de Registro de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n° 1.993.003-1 - CL 2275-6.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 281,81.  Valor aproximado de Condomínio: R$ 750,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Valor de avaliação: R$ 325.000,00 - percentual de desconto: 49% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>165106.82</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f44f7cdf-8db7-420a-b038-018488ce638c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/02b1ec69-8ebe-40c8-bfa6-b076c9d14e2f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/502b44c3-4a8d-4b30-a20b-97120000c900.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9424177-a3a7-49a0-83e4-ef558168feac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c04b762c-2f7d-49ea-914e-8548ac9a060f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Florianópolis, 811]]></endereco>
+        <localidade><![CDATA[Praça Seca, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21321-052]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177105]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177105]]></codigoReferencia>
+      <titulo><![CDATA[Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR]]></titulo>
+      <descricao><![CDATA[Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR  Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR - Apartamento nº 104A, Torre A, térreo ou 2º pavimento, de fundos, do lado direito, do Condomínio Residencial Frankfourt, de frente para a Rua Monte Alverne, 587, com área útil de 50,27m², área real privativa de 65,592m² (incluindo a área das garagens nºs 4 e 47 no subsolo); área real construída comum de 9,350m², área real total ou correspondente de 74,942m²; fração ideal do solo de 0,0270 ou quota do terreno de 24,9900m², no lote de terreno denominado A-9, A-10 (A traço nove virgula A traço dez), oriundo da unificação dos lotes A-9 e A-10, da quadra nº 7 (sete), de forma retangular, quadrante N-E, situado na Vila Vilela, Bairro do Jardim Carvalho, melhor descrito na matricula do imóvel. Matrícula nº 23.915 do 3º Cartório de Registro de Imóveis de Ponta Grossa/PR. Cadastrado na Prefeitura Municipal sob n°: 1 - 172850.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 547,39.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 210.000,00 - percentual de desconto: 33% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>140294.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7232d863-698f-4c13-9433-8494fb12f570.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/33bbbfb3-43ab-40fe-9786-a8a736a8c4b3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d9c26cd-54e6-4694-b763-5484e04ddc71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/321a1865-ea23-4a93-9e06-af962864fe2a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Monte Alvernaz, 587]]></endereco>
+        <localidade><![CDATA[Jardim Carvalho, Ponta Grossa, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84016-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177104]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177104]]></codigoReferencia>
+      <titulo><![CDATA[Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ  Apto 85m², Ocupado, 1 Vaga em Jacarepaguá, Rio de Janeiro/RJ - Apartamento 205 do prédio situado na Rua Florianópolis, nº 811, com direito a 01 vaga de garagem e correspondente fração ideal de 1/32 do terreno, na Freguesia de Jacarepaguá, medindo 22,00m de frente, a direita 66,00m onde confrontando na extensão de 32,20m com terreno do nº 785 da Rua Florianópolis, do espolio de Armando Medina Galvão e na extensão de 33,80m com terreno da vila nº 789 da Rua Florianópolis, de Maria Guimarães e a esquerda 72,80m onde confronta com terreno do prédio 831 da Rua Florianópolis, do espolio de Antônio Eduardo Pereira e Dinosia de Eduardo Pereira ou sucessores e nos fundos 21,85m onde confronta com o nº 1317 da Rua Barão, da perfumaria Swing S/A - Industria e comercio. Matrícula nº 218.074 do 9º Cartório Oficial de Registro de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura Municipal sob n° 1.993.003-1 - CL 2275-6.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 281,81.  Valor aproximado de Condomínio: R$ 750,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Área construída não averbada na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. Área construída informada na descrição do imóvel refere-se a uma estimativa. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.     Valor de avaliação: R$ 325.000,00 - percentual de desconto: 49% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>165106.82</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f44f7cdf-8db7-420a-b038-018488ce638c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/02b1ec69-8ebe-40c8-bfa6-b076c9d14e2f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/502b44c3-4a8d-4b30-a20b-97120000c900.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9424177-a3a7-49a0-83e4-ef558168feac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c04b762c-2f7d-49ea-914e-8548ac9a060f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Florianópolis, 811]]></endereco>
+        <localidade><![CDATA[Praça Seca, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21321-052]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177103]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177103]]></codigoReferencia>
+      <titulo><![CDATA[Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS]]></titulo>
+      <descricao><![CDATA[Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS  Apto 54m², Desocupado no Santo Antônio em Porto Alegre/RS - Terreno melhor descrito na matricula do imóvel. Sobre o Dito terreno foi construído um Conjunto Residencial, do qual faz parte o Apartamento nº 301, do Bloco 8, Setor II, situado no terceiro pavimento, do tipo A-22, de frente, a direita de quem da porta de entrada do bloco olha para o mesmo, com a área real privativa de 49,16m², participando com 5,00m² na área de uso comum, perfazendo a área real total de 54,16m², correspondendo-lhe a fração ideal equivalente a 0,001629/2 no terreno sobre o qual foram construídos os edifícios, assim como nas demais coisas de uso comum e fim proveitosos. Dito apartamento tem entrada pelo nº 25 da Alameda 4. Conforme Av.13, a Alameda 4, passou a denominar-se Rua Engenheiro Fernando Mendes Ribeiro. Matrícula nº 14.963 do Cartório de Registro de Imóveis da 2ª Zona Porto Alegre/RS. Cadastrado na Prefeitura Municipal sob n°: 5203457.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 421,32.  Valor aproximado de Condomínio: R$ 460,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M ou Financiado com Sinal de 25% sobre o valor de arrematação - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 200.000,00 - percentual de desconto: 30% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>140368.37</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79b1ce35-c399-4a59-a4c4-9179052b97b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f2cd1fdb-94fb-4388-bdc8-c933abf7d8f1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f6137387-eb94-4f80-9217-e1a6ad32117e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1a505af-992d-46c1-9e69-76a921222f8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7d8096ca-c022-4d77-aa76-ff612eece34d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Engenheiro Fernando Mendes Ribeiro, 25]]></endereco>
+        <localidade><![CDATA[Santo Antônio, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90640-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3177105]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3177105]]></codigoReferencia>
+      <titulo><![CDATA[Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR]]></titulo>
+      <descricao><![CDATA[Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR  Apto 74m², Ocupado, Vaga no Jardim Carvalho em Ponta Grossa/PR - Apartamento nº 104A, Torre A, térreo ou 2º pavimento, de fundos, do lado direito, do Condomínio Residencial Frankfourt, de frente para a Rua Monte Alverne, 587, com área útil de 50,27m², área real privativa de 65,592m² (incluindo a área das garagens nºs 4 e 47 no subsolo); área real construída comum de 9,350m², área real total ou correspondente de 74,942m²; fração ideal do solo de 0,0270 ou quota do terreno de 24,9900m², no lote de terreno denominado A-9, A-10 (A traço nove virgula A traço dez), oriundo da unificação dos lotes A-9 e A-10, da quadra nº 7 (sete), de forma retangular, quadrante N-E, situado na Vila Vilela, Bairro do Jardim Carvalho, melhor descrito na matricula do imóvel. Matrícula nº 23.915 do 3º Cartório de Registro de Imóveis de Ponta Grossa/PR. Cadastrado na Prefeitura Municipal sob n°: 1 - 172850.     Imóvel Ocupado, a desocupação correrá por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condomínio.  Valor aproximado de IPTU: R$ 547,39.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 210.000,00 - percentual de desconto: 33% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Aptos no RJ, RS e PR]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>140294.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7232d863-698f-4c13-9433-8494fb12f570.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/33bbbfb3-43ab-40fe-9786-a8a736a8c4b3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d9c26cd-54e6-4694-b763-5484e04ddc71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/321a1865-ea23-4a93-9e06-af962864fe2a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Monte Alvernaz, 587]]></endereco>
+        <localidade><![CDATA[Jardim Carvalho, Ponta Grossa, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84016-010]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
