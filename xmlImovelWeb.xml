@@ -13883,7 +13883,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
+          <valor><![CDATA[56]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
@@ -14012,7 +14012,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
+          <valor><![CDATA[44]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
