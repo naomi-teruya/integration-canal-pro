@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1706885309269</dataModificacao>
+  <dataModificacao>1706896643757</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -17850,6 +17850,315 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Osvaldo Cruz, 471]]></endereco>
         <localidade><![CDATA[Nossa Senhora das Dores, Santa Maria, Rio Grande do Sul, Brasil]]></localidade>
         <codigoPostal><![CDATA[97095-470]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3186401]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3186401]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, Ocupado, São Luis / MA]]></titulo>
+      <descricao><![CDATA[Apartamento, Ocupado, São Luis / MA   Endereço Completo   Avenida Daniel De La Touche, 987, Residencial Ilha Parque - Ap 1208, Torre 3, Cohama, São Luis, MA, CEP: 65074115      Características do Imóvel:       Descrição:  Apartamento, Padrão, Ocupado. Área(s): 98,95 m² de área terreno, 64,69 m² de área construída, 64,69 m² de área privativa, 34,26 m² de área comum. Matrícula(s): 118.955. Cartório: 1º CRI SÃO LUIS. Inscrição da Prefeitura: .    Tipo do Imóvel:  Apartamento   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20926      Área Privativa:  64.69 m2   Área Terreno:  98.95 m2   Área Comum:  34.26 m2   Composição Interna/Vagas:  Dormitórios: 1, Suítes: 1, Banheiros: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1, Varandas: 2      Matrícula:  118.955   Cartório de Registro:  1º CRI SÃO LUIS   Inscrição na Prefeitura:     IPTU Anual:  R$ 653,00      Valor Avaliado:  R$ 320.000,00   Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO 2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL. 3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   À vista ou Financiamento em até 420 meses.  276705 Santander - Oportunidades]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[64.69]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>272120</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e17ad0b-9f92-48f3-a89d-0e7b481e5685.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fba7237b-60ca-43c8-a9e0-8b27a230d951.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c8323ab-aaa0-410e-b800-6723f69b2ab1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed3f255a-6414-4d05-8ec3-df074842eabb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5890f27b-c439-4f03-b74b-a3b62d3327db.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/161e0810-eb8d-4180-8a8c-d9a3685d4e3c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0c706f9-f14e-49e4-bc35-b96368993230.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5f7d2167-523c-4455-b6b1-3bc385f9a8eb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb6189af-2a79-432f-93b9-1bd92c860210.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d5c6f2fa-e6ee-4af4-bca8-3a635a9c7dac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/be8342c9-138d-4e80-b021-abc1e9969a17.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5fe40df-e0c3-451f-8b5f-a58f69358ebb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d76b7f32-6160-4cc0-8332-f5ed4eaae01e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Daniel De La Touche, 987]]></endereco>
+        <localidade><![CDATA[Cohama, São Luis, Maranhão, Brasil]]></localidade>
+        <codigoPostal><![CDATA[65074115]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3185857]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3185857]]></codigoReferencia>
+      <titulo><![CDATA[Casa residencial  Ocupada, em Caçapava/SP]]></titulo>
+      <descricao><![CDATA[Casa residencial  Ocupada, em Caçapava/SP  Casa residencial&nbsp;Ocupada, em Caçapava/SP     Localização: Rua Marechal Arthur da Costa e Silva, nº 130, Caçapava/SP - CEP 12282-520     área de terreno de 250,00m²     Matrícula: nº 3.053&nbsp;do RGI Oficial de Registro de Imóveis de Caçapava/SP  Inscrição Prefeitura: 01081014000     DOSSIÊ: 02.20900     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 16/Fev/2024 a partir das 09h40 com Valor Mínimo de Venda de R$&nbsp;603.096,08     2ª Praça:  Abertura: 16/Fev/2024 a partir das 09h41  Fechamento: 19/Fev/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 332.780,44  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 45% de deságio sobre o valor de avaliação.  Santander - Alienação Fiduciária - D.02.20900]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>603096.08</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81af5ca9-bf52-4f88-8376-8beb0f661dce.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0b7ede20-65b2-4f56-8668-d6666179d8bf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f2d8e4d-aa79-4a44-b7d5-36dd7766c85f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/10b44a41-bc2d-4d25-a97a-0593721e9409.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Marechal Arthur da Costa e Silva, 130]]></endereco>
+        <localidade><![CDATA[nº 130, Caçapava, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12282-520]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3185482]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3185482]]></codigoReferencia>
+      <titulo><![CDATA[Prédio residencial 107m², Ocupado, em Araras/SP]]></titulo>
+      <descricao><![CDATA[Prédio residencial 107m², Ocupado, em Araras/SP  Prédio residencial 107m², OcupDO, em Araras/SP     Localização: Rua Vivaldo Storolli, nº 325, Parque das Árvores, Araras/SP - CEP 13604-170     área de terreno de 144,605m²  área construída de 107,04m²     Matrícula: nº 25.121 do RGI Oficial de Registro de Imóveis de Araras/SP  Inscrição Prefeitura: 11.4.24.15.006.000.001     DOSSIÊ: 02.21261     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/Fev/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 241.758,58     2ª Praça:  Abertura: 15/Fev/2024 a partir das 11h01  Fechamento: 16/Fev/2024 a partir das 15h00 com Valor Mínimo de Venda de R$ 191.714,65        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 21% de deságio sobre o valor de avaliação.  02.21261 Santander - Alienação Fiduciária - D.02.21261]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>241758.58</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ab09f8a6-3484-4ab4-b6d1-29706cbbbda2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/822c0204-e021-4396-8eb3-6258be2c5968.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb974f4d-4089-4d98-84c6-72074e3f8e82.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42f0781f-0630-4532-a3c3-e0dca69a92bd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc8ac6be-7f20-42fe-9e3e-dc2a5c95095c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Vivaldo Storolli, 325]]></endereco>
+        <localidade><![CDATA[Parque das Árvores, Araras, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13604-170]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3186167]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3186167]]></codigoReferencia>
+      <titulo><![CDATA[Casa 61m², Ocupada, em Jacareí/SP]]></titulo>
+      <descricao><![CDATA[Casa 61m², Ocupada, em Jacareí/SP  Casa 61m², Ocupada, em Jacareí/SP     Localização: Rua Bertioga, nº 168, Loteamento Balneário Paraíba, em Jacareí/SP - CEP 12320-140     área de terreno de 125,00m²  área construída de 61,35m²     Matrícula: nº 30.556 RGI Oficial de Registro de Imóveis de Jacareí/SP  Inscrição Prefeitura: 441.333.448.0189.000.00     DOSSIÊ: 02.20963     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 16/Fev/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 216.109,86     2ª Praça:  Abertura: 16/Fev/2024 a partir das 10h11  Fechamento: 19/Fev/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 157.493,09        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  02.20963 Santander - Alienação Fiduciária - D.02.20963]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>216109.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25c2631c-7172-4571-b176-be9bf92e4865.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97caf210-1a07-454a-81bc-d438ef4fc7cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/de31453a-9739-4808-9dcd-0ee0397a9ef3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b8b6622-ee8b-4c9e-9fa2-debf8f916405.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/184bb09a-74da-4c6c-8b9f-f9d0e86e52cb.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Bertioga, 168]]></endereco>
+        <localidade><![CDATA[Loteamento Balneário Paraíba, Jacareí, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12320-140]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
