@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1707165185517</dataModificacao>
+  <dataModificacao>1707165231613</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -7417,73 +7417,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Sebastiana Moreno Francisco, 42]]></endereco>
         <localidade><![CDATA[Jardim das Flores, São João da Boa Vista, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13876-756]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3133760]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3133760]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 300m², 2 Dorms, Vila Braga]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 300m², 2 Dorms, Vila Braga  IMÓVEL MATRÍCULA N° 3.897 (CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS DA CIDADE DE SÃO JOÃO DA BOA VISTA/SP).      IMÓVEL:  Uma casa de morada, situada na cidade de Aguaí desta comarca, construída de tijolos e coberta de telhas, sem forro e sem assoalho, piso de tijolos, para dentro do alinhamento da rua, contendo sete cômodos internos, e mais um alpendre na frente, situado à Rua B, na Vila Braga, bem assim o respectivo terreno e quintal consistente do lote 58, medindo no todo: 10,00 metros de frente e fundos por 30,00 metros em cada um dos lados, ou seja, 300,00 metros quadrados, confrontando na integridade (casa e terreno), com a rua citada na frente, fundo com Wilson Barbosa Braga e Evany Braga D'Alma e pelos lados com Wilson Barbosa Braga e Maria Regina Masseia, referida casa tem o número 119, da referida via pública.      Laudo de avaliação, fls.364:  A casa deste imóvel foi reformada e encontra-se com: garagem, dois quartos, sala, cozinha, copa, banheiro e área; forro de PVC e piso cerâmico. No fundo foi construída uma área.      Ônus:  Av.3 (BLOQUEIO E INDISPONIBILIDADE DE BENS)&nbsp;Ação Medida Cautelar n. 003.01.2008.004812-4/000000-000, ordem n. 1517/2008 (Processo 0004812-55.2008.8.26.0083), Partes: Ministério Público do Estado de São Paulo em face de Pedro Biazzo Filho e outros, foi determinado o bloqueio e a indisponibilidade de bens do imóvel de propriedade de Benedito Felicio Filho.      Débitos:  IPTU 2023: R$ 319,88, conforme consulta realizada em 25/10/2023, pela Prefeitura de Aguaí/SP, através do e-mail tributacao@aguai.sp.gov.br.     Valor da avaliação em 15/08/2019: R$ 150.000,00 (cento e cinquenta mil reais). Valor atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em OUT/2023: R$ 193.523,42 (cento e noventa e três mil, quinhentos e vinte e três reais e quarenta e dois centavos).  Ministério Público Benedito Felício Filho Benedito Felício Filho NI Vara Única da Comarca de Aguaí/SP 0004665-92.2009.8.26.0083
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>116114.05</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/60f0d75a-fee2-4c8b-819a-ee3d3ba65fc6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b952a4b7-94ac-4037-a3b5-080dd5313fdf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/380a36ff-95eb-44bd-8d51-8196c58cb484.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Consolação, 119]]></endereco>
-        <localidade><![CDATA[Vila Braga, Aguaí, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13860-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
