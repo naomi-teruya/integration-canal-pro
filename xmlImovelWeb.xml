@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1707165135610</dataModificacao>
+  <dataModificacao>1707165170663</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -7253,88 +7253,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <endereco><![CDATA[Av. São Josémaria Escrivá, 560]]></endereco>
         <localidade><![CDATA[Itanhangá, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[22753-200]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3123240]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3123240]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 125m², A.C. 90m², Jardim das Flores]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 125m², A.C. 90m², Jardim das Flores   Descrição matrícula n. 55.773 - CRI de São João da Boa Vista/SP:  Um terreno situado nesta cidade e comarca de São João da Boa Vista, identificado por Lote 17-B (dezessete B), do desdobro do Lote nº 17 (dezessete) da Quadra ''F'', da planta do loteamento do tipo RESIDENCIAL/COMERCIAL, denominado JARDIM DAS FLORES, com a área de 125,085m² (cento e vinte e cinco metros e oitenta e cinco milésimos quadrados), com a seguinte descrição: medindo 6,525m (seis metros quinhentos e vinte e cinco milésimos), de frente para a Rua Sebastiana Moreno Francisco (antiga Rua Seis); nos fundos mede 6,525m (seis metros quinhentos e vinte e cinco milésimos), confrontando com o lote 18-A; do lado direito de quem da rua olha para o terreno mede 19,17m (dezenove metros e dezessete centímetros) confrontando com o lote 19-A e do lado esquerdo no mesmo sentido, mede 19,17m (dezenove metros e dezessete centímetros) confrontando com o lote 17-A. Av.1 O loteamento Jardim das Flores, é do tipo residencial/comercial, ficando estabelecido o que segue: ''as construções para fins comerciais, somente poderão ser edificadas nos lotes que tem frentes voltadas pra AVENIDA UM (01), e RUA SETE (07).      Informações do Laudo de Avaliação - fls. 343/373:  Uma casa de morada e seu respectivo lote de terreno, identificado como lote ''17-B'' da quadra ''F'', situado com frente para a Rua Sebastiana Moreno Francisco (antiga Rua 6), n.¿ 42, Jardim das Flores, nesta cidade e Comarca de Sao Joao da Boa Vista, Estado de São Paulo, com área de terreno 125,08 m², cadastrado na municipalidade sob o n.¿ 0038.0034.0029.0001. - Idade Aparente estimada: 18 anos; - Area construída 69,29 m² (vide projeto anexo) mais uma cobertura simples (ao fundo do imóvel), totalizando uma área construída estimada aproximadamente em 90m². O imóvel avaliando possui as seguintes dependências, conforme registros fotográficos anexados - item VII: 02 dormitórios; sala de estar; copa/cozinha; área de serviço; varanda; garagem; cobertura simples situada aos fundos do imóvel.      Observação:  As construções/benfeitorias existentes não estão averbadas na matrícula do imóvel. Ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo.      Ônus:  Av.2 Bloqueio: nestes autos foi determinado o bloqueio do imóvel desta matricula.      Débitos Municipais:  R$ 5.828,48, conforme consulta com a Prefeitura Municipal de São João da Boa Vista/SP, em 31/10/2023, através do telefone (19) 3636-3337.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor da avaliação atualizada - Certidão de fls. 388: R$ 145.249,...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>72624.6</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/58cbe25e-79d0-4e39-b702-729c2a24dbaf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd9bdf53-9139-482b-8b8c-e7908f3a6392.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fafcbfef-6940-4f7e-b2b8-a9e248859119.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/038cd6a3-f18a-4d13-8e79-5338214dcfd4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/83da856d-79b0-4c40-8389-666666b566ba.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d5ed8abf-cdfe-4979-aecd-e7c81fa202b5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/150a23a9-ada2-438f-ae31-a19ae513ec61.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/61aa1fc0-5b23-4fa7-9ae7-265552d9b661.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Sebastiana Moreno Francisco, 42]]></endereco>
-        <localidade><![CDATA[Jardim das Flores, São João da Boa Vista, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13876-756]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
