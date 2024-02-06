@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1707165231613</dataModificacao>
+  <dataModificacao>1707239654875</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -7349,88 +7349,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3123240]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3123240]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 125m², A.C. 90m², Jardim das Flores]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 125m², A.C. 90m², Jardim das Flores   Descrição matrícula n. 55.773 - CRI de São João da Boa Vista/SP:  Um terreno situado nesta cidade e comarca de São João da Boa Vista, identificado por Lote 17-B (dezessete B), do desdobro do Lote nº 17 (dezessete) da Quadra ''F'', da planta do loteamento do tipo RESIDENCIAL/COMERCIAL, denominado JARDIM DAS FLORES, com a área de 125,085m² (cento e vinte e cinco metros e oitenta e cinco milésimos quadrados), com a seguinte descrição: medindo 6,525m (seis metros quinhentos e vinte e cinco milésimos), de frente para a Rua Sebastiana Moreno Francisco (antiga Rua Seis); nos fundos mede 6,525m (seis metros quinhentos e vinte e cinco milésimos), confrontando com o lote 18-A; do lado direito de quem da rua olha para o terreno mede 19,17m (dezenove metros e dezessete centímetros) confrontando com o lote 19-A e do lado esquerdo no mesmo sentido, mede 19,17m (dezenove metros e dezessete centímetros) confrontando com o lote 17-A. Av.1 O loteamento Jardim das Flores, é do tipo residencial/comercial, ficando estabelecido o que segue: ''as construções para fins comerciais, somente poderão ser edificadas nos lotes que tem frentes voltadas pra AVENIDA UM (01), e RUA SETE (07).      Informações do Laudo de Avaliação - fls. 343/373:  Uma casa de morada e seu respectivo lote de terreno, identificado como lote ''17-B'' da quadra ''F'', situado com frente para a Rua Sebastiana Moreno Francisco (antiga Rua 6), n.¿ 42, Jardim das Flores, nesta cidade e Comarca de Sao Joao da Boa Vista, Estado de São Paulo, com área de terreno 125,08 m², cadastrado na municipalidade sob o n.¿ 0038.0034.0029.0001. - Idade Aparente estimada: 18 anos; - Area construída 69,29 m² (vide projeto anexo) mais uma cobertura simples (ao fundo do imóvel), totalizando uma área construída estimada aproximadamente em 90m². O imóvel avaliando possui as seguintes dependências, conforme registros fotográficos anexados - item VII: 02 dormitórios; sala de estar; copa/cozinha; área de serviço; varanda; garagem; cobertura simples situada aos fundos do imóvel.      Observação:  As construções/benfeitorias existentes não estão averbadas na matrícula do imóvel. Ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo.      Ônus:  Av.2 Bloqueio: nestes autos foi determinado o bloqueio do imóvel desta matricula.      Débitos Municipais:  R$ 5.828,48, conforme consulta com a Prefeitura Municipal de São João da Boa Vista/SP, em 31/10/2023, através do telefone (19) 3636-3337.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor da avaliação atualizada - Certidão de fls. 388: R$ 145.249,...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>72624.6</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/58cbe25e-79d0-4e39-b702-729c2a24dbaf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd9bdf53-9139-482b-8b8c-e7908f3a6392.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fafcbfef-6940-4f7e-b2b8-a9e248859119.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/038cd6a3-f18a-4d13-8e79-5338214dcfd4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/83da856d-79b0-4c40-8389-666666b566ba.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d5ed8abf-cdfe-4979-aecd-e7c81fa202b5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/150a23a9-ada2-438f-ae31-a19ae513ec61.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/61aa1fc0-5b23-4fa7-9ae7-265552d9b661.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Sebastiana Moreno Francisco, 42]]></endereco>
-        <localidade><![CDATA[Jardim das Flores, São João da Boa Vista, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13876-756]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3143849]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3143849]]></codigoReferencia>
       <titulo><![CDATA[Casa, A.T 392m², A.C 307m², Jardim da Saúde São Paulo/SP]]></titulo>
@@ -14611,6 +14529,85 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Pedro Nepomuceno da Silva, 278]]></endereco>
         <localidade><![CDATA[Cidade Universitária, Maceió, Alagoas, Brasil]]></localidade>
         <codigoPostal><![CDATA[57073-280]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3162643]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3162643]]></codigoReferencia>
+      <titulo><![CDATA[Sobrado, A.T. 110m², A.C. 89m², 2 dorms, 1 vaga, Marapé]]></titulo>
+      <descricao><![CDATA[Sobrado, A.T. 110m², A.C. 89m², 2 dorms, 1 vaga, Marapé  Imóvel da matrícula n° 2.669, do 3° CRI de Santos/SP, a seguir descrito: O Apartamento n° 303, da Rua Saturnino de Brito, no pavimento térreo, digo, no pavimento superior, com entrada independente e pelo lado direito do prédio, contendo escada de acesso, alpendre, dois quartos, sala de jantar, cozinha e banheiro, dividindo de ambos os lados com as áreas laterais do edifício, pela frente com a área fronteira ao edifício, e pelos fundos com a área dos fundos do edifício, pertencendo ainda a este apartamento, uma garagem, um W.C. de criada e um tanque, tendo o apartamento a área construída de 89,05 mts2, pertencendo-lhe uma parte ideal de terreno correspondente a 50% do todo que mede 11,00 metros de frente para Rua Saturnino de Brito, por 20,00 metros da frente aos fundos, dividindo de um lado com o prédio n° 301, do outro lado com o prédio n° 307 e nos fundos com o prédio que faz frente para a Rua João Caetano n° 111. Cadastrado na Prefeitura Municipal sob n° 64.010.050.000 (Av. 20). Proprietário Registral: 50% Hyles Participações e empreendimentos (R 19) e 50% Edna Ferreira de Souza e Silva e Rivaldo Dias de Souza e Silva (R 11).      Obs.:  segundo laudo de avaliação, não houve acompanhamento da vistoria e assim, ela se deu pelo aspecto externo, considerando o estado de conservação e padrão regulares; a R. Saturnino de Brito é uma via de mão única, com baixo trânsito de veículos; acessibilidade/transporte coletivo: existem linhas de ônibus nas ruas adjacentes que fornecem acesso a diversos bairros de Santos; o imóvel está localizado em região heterogênea, zona urbana, com ocupação de imóveis com vocação residencial e pequeno comércio; melhoramentos públicos: rede de energia elétrica, água, telefone e esgoto; o terreno segundo consta em matrícula possui fração ideal de 50% da área de 220,00m², sendo 11,00 m de frente e fundos e 20,00 m nas laterais, sendo assim, a parte correspondente ao imóvel de 110,00 m²; trata-se de um sobrado residencial com área construída de 89,05 m².       Ônus e gravames:  de acordo com a matrícula atualizada consta na AV 12 CLÁUSULA DE INCOMUNICABILIDADE de 50% pertencente a proprietária Edna Ferreira de Souza e Silva; R 21 USUFRUTO de 50% do imóvel a favor de Marina Cid Ferreira. Conforme consulta aos Órgãos competentes em julho de 2023, não há débitos municipais inscritos em dívida ativa e o IPTU 2023 está sendo devidamente pago dentro do prazo de vencimento. Eventuais débitos de IPTU não serão de responsabilidade do arrematante.     Valor da Avaliação: R$ 562.399,80 (quinhentos e sessenta e dois mil, trezentos e noventa e nove reais e oitenta centavos) em junho de 2023. Valor Atualizado: R$ 564.312,53 (quinhentos e sessenta e quatro mil,...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>564312.53</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e455857b-7e12-43ed-922b-55ad2a39d27b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7a054f23-ca9d-4af1-a2b0-708ad4f98adb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/214ec99d-b841-4e6e-b90a-48c912c01ad4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c4b6b4d-3894-451f-a7a4-62c5ec7ee884.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9027ab46-fa5b-4b07-aea8-d44abe70f744.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba326937-c47c-4820-9a31-1626caa7cee2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f8a507a-b38a-47fc-a3bf-95dca33c6c6a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Saturnino de Brito, 303]]></endereco>
+        <localidade><![CDATA[Marapé, Santos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11070-001]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
