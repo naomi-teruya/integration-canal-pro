@@ -7541,6 +7541,46 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3162643</ListingID>
+      <Title>Sobrado, A.T. 110m², A.C. 89m², 2 dorms, 1 vaga, Marapé</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3162643</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e455857b-7e12-43ed-922b-55ad2a39d27b.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/7a054f23-ca9d-4af1-a2b0-708ad4f98adb.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/214ec99d-b841-4e6e-b90a-48c912c01ad4.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8c4b6b4d-3894-451f-a7a4-62c5ec7ee884.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/9027ab46-fa5b-4b07-aea8-d44abe70f744.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/ba326937-c47c-4820-9a31-1626caa7cee2.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/1f8a507a-b38a-47fc-a3bf-95dca33c6c6a.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Sobrado, A.T. 110m², A.C. 89m², 2 dorms, 1 vaga, Marapé  Imóvel da matrícula n° 2.669, do 3° CRI de Santos/SP, a seguir descrito: O Apartamento n° 303, da Rua Saturnino de Brito, no pavimento térreo, digo, no pavimento superior, com entrada independente e pelo lado direito do prédio, contendo escada de acesso, alpendre, dois quartos, sala de jantar, cozinha e banheiro, dividindo de ambos os lados com as áreas laterais do edifício, pela frente com a área fronteira ao edifício, e pelos fundos com a área dos fundos do edifício, pertencendo ainda a este apartamento, uma garagem, um W.C. de criada e um tanque, tendo o apartamento a área construída de 89,05 mts2, pertencendo-lhe uma parte ideal de terreno correspondente a 50% do todo que mede 11,00 metros de frente para Rua Saturnino de Brito, por 20,00 metros da frente aos fundos, dividindo de um lado com o prédio n° 301, do outro lado com o prédio n° 307 e nos fundos com o prédio que faz frente para a Rua João Caetano n° 111. Cadastrado na Prefeitura Municipal sob n° 64.010.050.000 (Av. 20). Proprietário Registral: 50% Hyles Participações e empreendimentos (R 19) e 50% Edna Ferreira de Souza e Silva e Rivaldo Dias de Souza e Silva (R 11).      Obs.:  segundo laudo de avaliação, não houve acompanhamento da vistoria e assim, ela se deu pelo aspecto externo, considerando o estado de conservação e padrão regulares; a R. Saturnino de Brito é uma via de mão única, com baixo trânsito de veículos; acessibilidade/transporte coletivo: existem linhas de ônibus nas ruas adjacentes que fornecem acesso a diversos bairros de Santos; o imóvel está localizado em região heterogênea, zona urbana, com ocupação de imóveis com vocação residencial e pequeno comércio; melhoramentos públicos: rede de energia elétrica, água, telefone e esgoto; o terreno segundo consta em matrícula possui fração ideal de 50% da área de 220,00m², sendo 11,00 m de frente e fundos e 20,00 m nas laterais, sendo assim, a parte correspondente ao imóvel de 110,00 m²; trata-se de um sobrado residencial com área construída de 89,05 m².       Ônus e gravames:  de acordo com a matrícula atualizada consta na AV 12 CLÁUSULA DE INCOMUNICABILIDADE de 50% pertencente a proprietária Edna Ferreira de Souza e Silva; R 21 USUFRUTO de 50% do imóvel a favor de Marina Cid Ferreira. Conforme consulta aos Órgãos competentes em julho de 2023, não há débitos municipais inscritos em dívida ativa e o IPTU 2023 está sendo devidamente pago dentro do prazo de vencimento. Eventuais débitos de IPTU não serão de responsabilidade do arrematante.     Valor da Avaliação: R$ 562.399,80 (quinhentos e sessenta e dois mil, trezentos e noventa e nove reais e oitenta centavos) em junho de 2023. Valor Atualizado: R$ 564.312,53 (quinhentos e sessenta e quatro mil,...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">564312.53</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Santos</City>
+        <Address>R. Saturnino de Brito</Address>
+        <StreetNumber>303</StreetNumber>
+        <PostalCode>11070-001</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
