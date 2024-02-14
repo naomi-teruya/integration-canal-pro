@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1707499003353</dataModificacao>
+  <dataModificacao>1707938676853</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -9871,73 +9871,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[undefined, undefined]]></endereco>
         <localidade><![CDATA[undefined, Barretos, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14780-537]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3120998]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3120998]]></codigoReferencia>
-      <titulo><![CDATA[Sobrado, A.T. 180m², A.C. 153m², Jd. Cardinalli]]></titulo>
-      <descricao><![CDATA[Sobrado, A.T. 180m², A.C. 153m², Jd. Cardinalli  ''UNIDADE AUTÔNOMA", designada como ''Residência Assobradada'' nº 06, localizada no empreendimento denominado ''CONDOMÍNIO RESIDENCIAL VILLAGIO ETNA'', situado nesta cidade, município, comarca e circunscrição de São Carlos/SP., à Rua Pastor Cyrus Basset Dawsey, nº 220, contendo no Pavimento térreo, uma área construída de 98,41 metros quadrados, composta de garagem coberta, escada de acesso ao pavimento superior, sala de som/TV, sala de jantar/estar, lavabo, cozinha, área de serviço e varanda localizada nos fundos do terreno e no pavimento superior uma área construída de 52,22 metros quadrados, composta de uma suíte, dois dormitórios, escada de acesso ao pavimento inferior, circulação interna, banheiro social, dois terraços descobertos, totalizando a área construída privativa de 150,63 metros quadrados; área construída de uso comum de 2,91 metros quadrado, totalizando uma área construída de 153,54 metros quadrados. Esta construção ocupa uma área de 98,41 metros quadrados de terreno privativo e 28,72 metros quadrados de área de quintal (destes, 23,24 metros quadrados de área permeável). Este terreno é constituído pela unidade autônoma n. 06, situado na quadra 01, com frente para a via de circulação interna designada como Rua 01, onde mede 6,14 metros; 20,72 metros de frente aos fundos do lado direito de quem da via de circulação interna anteriormente mencionada olha para o imóvel, confrontando com a unidade autônoma nº 05; 20,69 metros da frente aos fundos do lado esquerdo de quem da referida via de circulação interna anteriormente mencionada olha para o imóvel, confrontando com a unidade autônoma nº 07; e, finalmente na largura dos fundos mede 6,14 metros confrontando com a Área ''D'' e com a Gleba C-2, fechando assim o perímetros e perfazendo a área total de 127,13 metros quadrados, cabendo-lhe ainda, uma participação no terreno de uso comum de 53,36 metros quadrados, perfazendo assim no total do terreno do condomínio, uma fração ideal de 180,49 metros quadrados, ou seja, uma fração ideal correspondente a 5,35%''. Imóvel este objeto da Matrícula n. 143.487 do CRI local, cadastrado na PMSC sob n. 04.220.110.001 (MP).      Ônus:  Av. 1 Indisponibilidade: foi determinada a indisponibilidade dos bens de Oda Construtora e Incorporadora São Carlos Ltda nos autos n. 0008352-34.2019.8.26.0566 do 3º Of. Cível de São Carlos/SP. Av.2 Indisponibilidade: foi determinada a indisponibilidade dos bens de Oda Construtora e Incorporadora São Carlos Ltda nos autos n. 0011225-53.2020.5.15.0008 da 1ª Vara do Trabalho de São Carlos/SP.      Débitos Municipais:  IPTU R$ 104,07, conforme consulta realizada em 14/11/2023.  Não consta nos autos informações sobre débitos de condomínio, energia, água ...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>324000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6e96a6bc-77b2-4874-b4f4-4e9ec978db3b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5ec47787-5db5-4503-abbd-c571ee0677c5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3f863821-d114-4300-a836-94f00afe81fb.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Pastor Cyrus Basset Dawsey, 220]]></endereco>
-        <localidade><![CDATA[Jardim Cardinalli, São Carlos, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13569-530]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
