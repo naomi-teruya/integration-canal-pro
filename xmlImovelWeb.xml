@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1707938676853</dataModificacao>
+  <dataModificacao>1708082207566</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14996,6 +14996,201 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Mestre Pessoa, 1000]]></endereco>
         <localidade><![CDATA[Centro, Bertioga, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[11250-273]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3194209]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3194209]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 111m², 2 vagas no Centro de Criciúma/SC]]></titulo>
+      <descricao><![CDATA[Apto. 111m², 2 vagas no Centro de Criciúma/SC  Apartamento - no Centro     Localização: Rua João Pessoa, 675, Ed. Bahamas Residence, apto. 704, Centro, Criciúma/SC, 88801-530     Apartamento  Área Privativa: 111m²  Área Comum: 50m²  Área Total: 161m²     Vaga nº 23  Área Privativa: 12m²  Área Comum: 19m²  Área Total: 31m²     Vaga nº 24  Área Privativa: 12m²  Área Comum: 19m²  Área Total: 31m²     Matrículas: nº 140.204, 140.234 e 140.235  RGI: 1°Oficial de Registro de Imóveis de Criciúma/SC  Inscrição Prefeitura: 1015379 - 0.33.08.0300.003.034 / 1015403 - 0.33.08.0300.003.058 e 1015404 - 0.33.08.0300.003.059     DOSSIÊ: 02.21072     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Fev/2024 a partir das 11h00 com Valor Mínimo de Venda de R$ 927.040,53     2ª Praça:  Abertura: 21/Fev/2024 a partir das 11h01  Fechamento: 22/Fev/2024 a partir das 15h00 com Valor Mínimo de Venda de R$ 839.516,11        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21072 Santander - Alienação Fiduciária - D.02.21072]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[111]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>927040.53</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc239c0b-9dfd-47b1-bdda-e2ee1e4edd70.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7db448dc-7457-48ed-b80f-132c3e83548e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad626ed0-f966-455e-9751-fbebd3bbc893.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua João Pessoa, 675]]></endereco>
+        <localidade><![CDATA[Centro, Criciúma, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[88801-530]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3194226]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3194226]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 38m², na República, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto. 38m², na República, São Paulo/SP  Apartamento - na República     Localização: Av. Ipiranga, 200, Ed. Copan, apto. 141, República, São Paulo/SP, 01046-010     Área Útil: 38m²  Área Construída: 48m²     Matrícula: nº 56.675  RGI: 5º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 006.064.2023-1     DOSSIÊ: 02.19570     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Fev/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 587.663,82     2ª Praça:  Abertura: 21/Fev/2024 a partir das 10h51  Fechamento: 22/Fev/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 289.128,06        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 51% de deságio sobre o valor de avaliação.  02.19570 Santander - Alienação Fiduciária - D.02.19570]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[38]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>587663.82</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/947d10e9-ff4a-41be-afdd-e2dde9c0c063.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d337db48-e8a6-4691-9fe4-823c420fbe03.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Ipiranga, 200]]></endereco>
+        <localidade><![CDATA[República, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01046-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3194151]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3194151]]></codigoReferencia>
+      <titulo><![CDATA[Casa 174m², Campos Eliseos, Ribeirão Preto/SP]]></titulo>
+      <descricao><![CDATA[Casa 174m², Campos Eliseos, Ribeirão Preto/SP  Casa - no Campos Eliseos     Localização: Rua Eduardo Leite, 778, Campos Eliseos, Ribeirão Preto/SP, 14080-680     Área Terreno: 174m²     Matrícula: nº 155.291  RGI: 1º Oficial de Registro de Imóveis de Ribeirão Preto/SP  Inscrição Prefeitura: 126277     DOSSIÊ: 02.21463     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Mar/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 313.187,58     2ª Praça:  Abertura: 21/Mar/2024 a partir das 09h31  Fechamento: 22/Mar/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 208.261,47        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 34% de deságio sobre o valor de avaliação.  02.21463 Santander - Alienação Fiduciária - D.02.21463]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[174]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>313187.58</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c8cfff9-126a-43a5-b010-45b90c58c847.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7539dd0c-5931-43d5-9d5d-4a1169389f61.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5f10a80-a9e2-4683-a5dd-17588ac4c316.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Eduardo Leite, 778]]></endereco>
+        <localidade><![CDATA[Campos Eliseos, Ribeirão Preto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14080-680]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
