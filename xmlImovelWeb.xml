@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1708346700998</dataModificacao>
+  <dataModificacao>1708346778185</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16256,6 +16256,198 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Alpinópolis nº 388, Nossa Senhora da Conceição]]></endereco>
         <localidade><![CDATA[Nossa Senhora da Conceição, Paulista, Pernambuco, Brasil]]></localidade>
         <codigoPostal><![CDATA[53425-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3198328]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3198328]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Goiânia / GO (30% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Goiânia / GO (30% abaixo da avaliação)  Endereço Completo  Rua Lago, 10, Condominio Do Lago Lote 43 Quadra 01, Condominio Do Lago, Goiânia, GO, CEP: 74461195   Características do Imóvel:    Descrição:  Casa, Em condomínio, Ocupado, 1 vaga(s) de garagem. Área(s): 466,27 m² de área terreno, 302,95 m² de área construída, 302,95 m² de área privativa. Matrícula(s): 248.837. Cartório: 1° CRI GOIANIA. Inscrição da Prefeitura: 460.019.0016.0004.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21104   Área Privativa:  302.95 m2  Área Terreno:  466.27 m2  Composição Interna/Vagas:  Suítes: 3, Lavabos: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Despensas: 1, Áreas de Serviço: 1, Varandas: 1   Matrícula:  248.837  Cartório de Registro:  1° CRI GOIANIA  Inscrição na Prefeitura:  460.019.0016.0004  IPTU Anual:  R$ 14.490,00  Condomínio Mensal:  R$ 834,00   Valor Avaliado:  R$ 1.979.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  302814 Santander Oportunidades]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[302.95]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1391040</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9246727-a082-4514-bf91-1084e2258662.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f065b20c-cf2f-4d66-9428-89be5695171b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/480f610e-c4c8-45c7-b890-36937dac6c1c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e7bb8cd0-49ae-43da-ba3c-d6650b05d443.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Lago, 10]]></endereco>
+        <localidade><![CDATA[Condominio Do Lago, Goiânia, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74461195]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3198327]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3198327]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, Itanhaem / SP (33% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, Itanhaem / SP (33% abaixo da avaliação)  Endereço Completo  Av Julinha, 570, Jardim Regina, Itanhaem, SP, CEP: 11740000   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado. Área(s): 144,47 m² de área construída, 144,47 m² de área privativa. Matrícula(s): 149.164. Cartório: CRI DE ITANHAÉM. Inscrição da Prefeitura: 028.024.008.0000.015875.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21216   Área Privativa:  144.47 m2   Matrícula:  149.164  Cartório de Registro:  CRI DE ITANHAÉM  Inscrição na Prefeitura:  028.024.008.0000.015875  IPTU Anual:  R$ 2.347,73   Valor Avaliado:  R$ 432.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  302815 Santander Oportunidades]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[144.47]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>289920</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3348a5bc-c16f-414f-8cd3-0d2a1d75ca39.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fbc26197-1fc6-4d20-98df-43a267225f8f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c9a2b234-dccc-45f2-80e5-49fb9d420a1f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e88e8720-ef4f-4c85-a9cc-49fce2416666.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d402b778-ecd1-434e-89d4-714e0255d848.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cbb70607-0326-4eab-983b-965a34e682ef.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/83944208-3265-4a2b-a0df-5ae7de19f4ee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aeed5e02-9350-4388-b1a7-ff4b3c5f9c8d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53bd181e-9409-47cb-966d-ffea3f19cd96.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/450b14a7-a4f2-4132-a77d-7c8b54afbb97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1bb40737-812c-40a3-a57d-8adbfca78897.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8b251ce5-3e47-4752-80ad-55e638d63843.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/df066b25-e75a-4d3c-9fe7-224faf84f4e3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0f6fe18f-5473-44a4-acac-9a1d896092f3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29c9b476-18b0-41cd-80b5-7c38844f9ad8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0e69efe-c88e-47fd-aec8-275da7c48d7c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b7c6690e-5207-4abb-9ece-65a52ef154d5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aa0d1a0b-c2ae-43c7-9411-08eb16186375.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a373bc20-ead2-4f18-b85f-ede04d8c5ca3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7e240ad-e09b-49de-b5b6-29150f38a61f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d1ba413-36ac-4e91-b2bb-0d5dd7136504.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/baad85d5-4989-46c7-8d70-a9990e4da038.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av Julinha, 570]]></endereco>
+        <localidade><![CDATA[Jardim Regina, Itanha, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11740000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
