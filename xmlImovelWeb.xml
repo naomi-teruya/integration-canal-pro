@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1708519456802</dataModificacao>
+  <dataModificacao>1708520206704</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16270,6 +16270,120 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Dionísio Murcovic, 129]]></endereco>
         <localidade><![CDATA[Parque dos Príncipes, Osasco, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[06030-370]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3176998]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3176998]]></codigoReferencia>
+      <titulo><![CDATA[Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG]]></titulo>
+      <descricao><![CDATA[Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG  Fazenda 40,1444HA, DESOCUPADA em Janaúba/MG. Imóvel acima, denominado gleba nº I, componente da gleba nº 119, da Fazenda Mosquito, município de Janaúba-MG, com os seguintes limites: começam no marco cravado à margem da Rede Ferroviária Federal (EFCB); daí segue rumo 58°30¿NO, e distância de 457 metros, limitando com Santos Barbosa, até outro marco; daí segue limitando com Mariano José da Silva até outro marco, numa distância de 240 metros; daí, voltando a esquerda, no rumo de 76º45¿SO, e distância de 320 metros, limitando com terras dos doadores e que estão sendo doadas aos filhos destes, até encontrar outro marco, daí, defletindo a esquerda, segue de rumo L, numa distância de 670 metros limitando ainda com os doadores até outro marco; daí, defletindo ainda a esquerda segue dividindo com os mesmos doares, numa distância de 490 metros, até outro marco; daí, defletindo a direita, segue ainda dividindo com os doadores, numa distância de 210 metros, até encontrar um marco cravado na margem da Rede Ferroviária Federal (EFCB) e por esta abaixo até o ponto inicial desta descrição. Imóvel devidamente matriculado sob o nº 12.317 do Cartório de Registro de Imóveis de Janaúba/MG. Contribuinte n° 406.104.001.953-0. NIRF nº 0.696.555-5.     Vocação: Gado, plantio, projeto fotovoltaico.  Localização: A 7km do centro de Janaúba, Terreno plano     Venda Condicional (valor de venda sob aprovação do vendedor).     - Imóvel DESOCUPADO.     Informações Relevantes:  1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista.  2 - Os débitos de ITR serão quitados pelo vendedor até a data do leilão.  3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").  4 - Percentual de desconto: 20% de deságio sobre o valor de avaliação.  5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc), não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  6 - Foi detectada uma diferença entre a área do imóvel rural declarada conforme documentação comprobatória de propriedade/posse/concessão [40,1444 hectares] e a área do imóvel rural identificada em representação gráfica [40,0108hectares]&nbsp;(A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções). Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602  Fazenda com 20% abaixo da Avaliação]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[40.1444]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>480000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00f77167-9576-45ae-966a-197d0733b7e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1a02c122-446f-4e86-a0d9-02d4a44c122e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9ebdc940-a09b-4094-8caa-7edd644b167a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dcea8ede-eb13-44f0-99eb-b9afbbace042.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6c35ea2f-01d6-4c57-8f68-ff7a909a0c34.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a163c98a-2933-41d0-af82-b13829047a69.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8a03fd5-2b63-41fe-89b5-7558f52ffa61.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/27ca53ca-31a8-4524-a501-77d4d678131c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/545866f4-82fe-43cd-accc-a532ce2a8e60.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6df27204-0761-4dfd-9057-950f238aebea.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/529629ed-1de3-4fec-b727-7b4b6fef2e98.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/28850712-b72e-4cfa-bb57-79d001c9068e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2428e654-abfa-4acb-b2ff-2ea867f35665.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cf170ee6-f113-43f1-a3f8-4fdadc87c25c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c87eb0a7-a26c-4424-86d6-b19d3f8cf970.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aaf6fc61-e546-4cfb-bc63-58e8ead96c47.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e6618053-68f1-449f-b14d-5e75c6079f34.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37efb479-a269-4891-8cd0-0df78ed8594b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4236786b-4075-4739-a905-7fb11e115be7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Zona Rural de Janaúba, 00]]></endereco>
+        <localidade><![CDATA[Zona Rural de Janaúba, Janaúba, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[39440-001]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
