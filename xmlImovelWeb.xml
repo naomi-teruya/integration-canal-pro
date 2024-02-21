@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1708518870088</dataModificacao>
+  <dataModificacao>1708519456802</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16210,6 +16210,66 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Daniel Zechin, 61]]></endereco>
         <localidade><![CDATA[loteamento Portal do Paraíso, Jundiaí, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13214-672]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3193370]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3193370]]></codigoReferencia>
+      <titulo><![CDATA[Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado  Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado     Localização: Rua Dionisio Murcovic, nº 129, Parque dos Príncipes, em Osasco/SP - CEP: 06030-370     área construída: 542,90m²  área total: 501,29m²     Matrícula: nº 16.971  RGI: 1º Oficial de Registro de Imóveis de Osasco/SP  Inscrição Prefeitura: 23244.21.18.0180.00.000.02     DOSSIÊ: 02.21196     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/mar/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 3.079.434,20     2ª Praça:  Abertura: 21/mar/2024 a partir das 10h31  Fechamento: 22/mar/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 1.395.827,84        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 55% de deságio sobre o valor de avaliação.  02.21196 Santander - Alienação Fiduciária - D.02.21196]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[501.29]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>3079434.2</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2088da14-371a-4da9-804b-a55357d88b02.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Dionísio Murcovic, 129]]></endereco>
+        <localidade><![CDATA[Parque dos Príncipes, Osasco, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06030-370]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
