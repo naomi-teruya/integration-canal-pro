@@ -8389,6 +8389,39 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3193370</ListingID>
+      <Title>Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3193370</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2088da14-371a-4da9-804b-a55357d88b02.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado  Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado     Localização: Rua Dionisio Murcovic, nº 129, Parque dos Príncipes, em Osasco/SP - CEP: 06030-370     área construída: 542,90m²  área total: 501,29m²     Matrícula: nº 16.971  RGI: 1º Oficial de Registro de Imóveis de Osasco/SP  Inscrição Prefeitura: 23244.21.18.0180.00.000.02     DOSSIÊ: 02.21196     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/mar/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 3.079.434,20     2ª Praça:  Abertura: 21/mar/2024 a partir das 10h31  Fechamento: 22/mar/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 1.395.827,84        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 55% de deságio sobre o valor de avaliação.  02.21196 Santander - Alienação Fiduciária - D.02.21196]]></Description>
+        <ListPrice currency="BRL">3079434.2</ListPrice>
+        <LivingArea unit="square metres">501.29</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Osasco</City>
+        <Address>Rua Dionísio Murcovic</Address>
+        <StreetNumber>129</StreetNumber>
+        <PostalCode>06030-370</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
