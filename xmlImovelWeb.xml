@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1709040880745</dataModificacao>
+  <dataModificacao>1709040921092</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15439,6 +15439,100 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Gastão Vidigal, 449]]></endereco>
         <localidade><![CDATA[Apartamento 12, Vila Sapucaí, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[SP]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3197487]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3197487]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 275m², A.C. 66m², 2 dorms, Pq. Resid. Alto Minho]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 275m², A.C. 66m², 2 dorms, Pq. Resid. Alto Minho  Um imóvel localizado na Rua Santa Terezinha, 16, Taquaral,SP, de propriedade do executado Onesio Pina.      Certidão de fls. 61:  dirigi-me ao endereço no dia 10 de outubro RUA SANTA TEREZINHA N 16, TAQUARAL e aí sendo procedi a estimativa do imóvel que possui 2 quartos, sala, cozinha, 2 banheiros e três cômodos nos fundos, conforme informações do executado.      Descrição da matrícula n. 5.869 do CRI de Pitangueiras/SP:  Um terreno urbano sem benfeitorias, situado no distrito de Taquaral, à rua Santa Terezinha - lado par, no loteamento denominado ''Parque Residencial Alto Minho'', constituído pelo lote n. 20, da quadra ''G'', medindo 11,00 metros de frente e fundos, por 25,00mts. de ambos os lados, encerrando a área de 275,00 metros quadrados, confrontando: pela frente com a citada via pública; pelo lado direito com o lote 21; do lado esquerdo com o lote 19; e, nos fundos com os lotes 04 e 05. Cadastrado junto à prefeitura, sob o n. 3.03.130.2000-6. Av.5 Edificação: edificou no imóvel objeto desta matrícula uma Casa Residencial, contendo diversos cômodos, com a área construída de 66,37m², construção essa do exercício de 1.999, que foi emplacada sob o n. 16 da Rua Santa Terezinha.     Valor da Avaliação em 10/10/2023: R$ 180.000,00 (Cento e oitenta mil reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em janeiro/2024: R$ 181.388,39 (Cento e oitenta e um mil, trezentos e oitenta e oito reais e trinta e nove centavos).  Caixa Econômica Federal PINA E SOUZA TRANSPORTES DE CARGAS LTDA, ONESIO PINA, APARECIDA DA SILVA DE SOUZA Onesio Pina Carlos Eduardo Cury 1ª Vara da Comarca de Pitangueiras/SP 1000810-36.2023.8.26.0459
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>181388.39</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7232e720-fa66-432f-8f02-c6d4af71957d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1fd2c0ea-e6e3-492b-a3f3-bbd7c26a52ba.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/30e9b23e-79e3-41ef-969d-36baaba6be50.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/96ef9c23-4435-4c2f-a3fd-eed77c1d0a29.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48f6a2c6-f319-43a9-9f5b-fbeb33fe20d5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/54d09635-b231-4960-a2e0-53e5a9b98ada.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42e0ba40-923c-4b11-862a-6c8be1071313.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e8eeeaf8-5e35-4c0c-b8cd-19a9e67e9724.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1ddf97f-d3e4-45bb-a5c2-6ab99c521133.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/62b8be66-5eec-488a-83b1-828176dd1f2a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/34dd16d3-0012-4aa2-8edc-1b744d1e27c3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/50473ade-21c1-453b-91e1-b55c6354c321.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Santa Terezinha, 16]]></endereco>
+        <localidade><![CDATA[Taquaral, Taquaral, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14765-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
