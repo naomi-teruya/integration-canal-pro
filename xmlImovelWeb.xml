@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1709040495064</dataModificacao>
+  <dataModificacao>1709040535587</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -6498,70 +6498,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida José Vicente de Paula, 292]]></endereco>
         <localidade><![CDATA[Jardim Primavera, Quirinópolis, Goiás, Brasil]]></localidade>
         <codigoPostal><![CDATA[75860-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3142219]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3142219]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 189m², Pq. Douradinho]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 189m², Pq. Douradinho  Imóvel matriculado no CRI local sob nº 95.944, sito à Rua Jorge Suquisaqui, 317, Residencial Parque Douradinho, CEP 13.568-658 - São Carlos - SP.      Descrição da Matrícula:  Um terreno (sem benfeitorias), situado nesta cidade, município, comarca e circunscrição de São Carlos-SP., constituído do Lote 677 da quadra 17, do loteamento denominado Parque Douradinho, com a seguinte descrição: tem frente para a Rua 12, onde mede 14,14 metros em curva de concordância, na confluência da Rua 12 com a Travessa 01; 23,00 metros da frente aos fundos, do lado direito de quem da Rua 12 olha o imóvel, confrontando com o lote 676; 14,00 metros do lado esquerdo confrontando com o alinhamento da Travessa 01; e 9,00 metros nos fundos, confrontando com o lote 678, encerrando uma área de 189,62m². Av. 1 (cadastro) imóvel cadastrado na prefeitura municipal sob n. 01.16.232.030.001.     *As construções/benfeitorias existentes não estão averbadas na matrícula do imóvel. Ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo..      Débitos Municipais:  IPTU 2023 R$ 216,92, conforme consulta realizada em 28/11/2023.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos     Valor da Avaliação estipulado em 31/01/2018: R$ 254.210,00 (duzentos e cinquenta e quatro mil, duzentos e dez reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em Novembro/2023: R$ 348.318,10 (trezentos e quarenta e oito mil, trezentos e dezoito reais e dez centavos).  J.C. da R. L.A.G.R L.A.G.R Ivan Pinto de Campos Junior 1ª Vara Fam e Sucessões de São Carlos/SP 0003988-82.2020.8.26.0566
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>174159.05</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/39795f70-5b57-47f7-9460-6b8d8141add9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/99c1606c-53c0-41d5-aab4-262452148263.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Jorge Suquisaqui, 317]]></endereco>
-        <localidade><![CDATA[Vila Nery, São Carlos, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13568-658]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
