@@ -7979,6 +7979,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3198462</ListingID>
+      <Title>Apartamento, AU 193,18m², AT 274,44m², Vila Sapucaí, Campos do Jordão/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3198462</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/51ce3d6c-9afe-4ad1-a1a2-250309cdd8e9.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/29545e29-7720-4de1-a6f6-30afcf109c73.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5ec8abd2-8c3b-4ebe-9dec-7e9e5039c1e4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento, AU 193,18m², AT 274,44m², Vila Sapucaí, Campos do Jordão/SP  APARTAMENTO No 12 (doze), localizado no 1o andar do Condomínio denominado EDIFICIO MONTE VERDE, contendo a área útil de 193,18 m2, área comum de 81,26 m2., área total construída de 274,44 m2, correspondendo-lhe à fração ideal de 16,666%, equivalente a 364,58 m2, no terreno designado como Lote "Y", situado na Vila Sapucai, em Capivari, com a área de 2.187,50 m2., com frente para Av. Marfim. A este apartamento fica vinculado a garagem box no 12, localizada no andar térreo do edifício.   Matrícula no 16.668 do CRI de Campos do Jordão/SP. Contribuinte: 03.900.974 Av-04 Avaliação: R$ 1.450.000,00 em dezembro de 2022 Avaliação Atualizada: R$ 1.505.845,00 em dezembro de 2023.  Débitos e Ônus:  Débitos da demanda: R$ 108.640,10 - em setembro de 2022, fls 63/64 - a ser atualizado.  IPTU: Em consulta ao site da Prefeitura localizamos débitos pendentes, que totalizam o montante de R$ 91.886,44, conforme extrato anexo.  Condomínio Edifício Monte Verde Fernando Zambrone Neto Executado Luis Antônio Perestrelo Fuster e Luciana Cristina de Almeida Lima 1ª Vara Cível da Comarca de Campos do Jordão/SP 0000671-34.2021.8.26.0116
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">1505845</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Campos do Jordão">Sem sigla</State>
+        <City>Vila Sapucaí</City>
+        <Address>Avenida Gastão Vidigal</Address>
+        <StreetNumber>449</StreetNumber>
+        <PostalCode>SP</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
