@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1709152636897</dataModificacao>
+  <dataModificacao>1709210472505</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15914,6 +15914,309 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rodovia João Cereser, S]]></endereco>
         <localidade><![CDATA[N, Lt. Pinheirinho, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[13214-470]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3207184]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3207184]]></codigoReferencia>
+      <titulo><![CDATA[Prédio, Ocupado, 477.04 m2, São Paulo / SP]]></titulo>
+      <descricao><![CDATA[Prédio, Ocupado, 477.04 m2, São Paulo / SP   Endereço Completo   Alameda Cleveland, 641, Campos Eliseos, São Paulo, SP, CEP: 01218000      Características do Imóvel:       Descrição:  Prédio, Padrão, Ocupado. Área(s): 477,04 m² de área total, 477,04 m² de área terreno, 1680 m² de área construída. Matrícula(s): 113.706. Cartório: 2 CRI DE SAO PAULO. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.    Tipo do Imóvel:  Prédio   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.16593      Área Total:  477.04 m2   Área Terreno:  477.04 m2   Composição Interna/Vagas:  Escritórios: 1, Banheiros: 1      Matrícula:  113.706   Cartório de Registro:  2 CRI DE SAO PAULO   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 61.815,00      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A (I) DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) COMPLETA REGULARIZACAO FISICA E/OU DOCUMENTAL DO IMOVEL PERANTE OS ORGAOS COMPETENTES, NOTADAMENTE, MAS NAO EXCLUSIVAMENTE NO REGISTRO DE IMOVEIS E NA PREFEITURA.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[477.04]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2190000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7fee29cd-8871-470d-9caf-3988a39c6e4e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b2b2d5a-b543-4d48-98e9-cd7cb4a635b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76f1d92e-2d9f-49a2-9ccb-6d8f61b7a267.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/07bf270c-1177-4cfb-9e3e-b49f762e93af.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Alameda Cleveland, 641]]></endereco>
+        <localidade><![CDATA[Campos Eliseos, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01218000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3207182]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3207182]]></codigoReferencia>
+      <titulo><![CDATA[Prédio, Desocupado, 270.0 m2, Campina Grande / PB]]></titulo>
+      <descricao><![CDATA[Prédio, Desocupado, 270.0 m2, Campina Grande / PB   Endereço Completo   Rua Vigario Calixto, 1554, Apto 202, 201, 102, 101, Terreo Lj, 02 Vaga De Garagem, Sandra Cavalcante, Campina Grande, PB, CEP: 58410600      Características do Imóvel:       Descrição:  Prédio, Padrão, Desocupado. Área(s): 270 m² de área total, 270 m² de área terreno, 750,52 m² de área construída. Matrícula(s): 22.616. Cartório: 1 CRI CAMPINA GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Prédio   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.17393      Área Total:  270.0 m2   Área Terreno:  270.0 m2   Composição Interna/Vagas:  Dormitórios: 6, Banheiros: 9, Salas: 6, Cozinhas: 6, Áreas de Serviço: 6      Matrícula:  22.616   Cartório de Registro:  1 CRI CAMPINA GRANDE   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 2.486,63      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* DESOCUPADO* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[270]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1290000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c103022a-b62f-412e-9700-4b3b6f658669.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/18f60917-e915-48cb-86f4-7b92accdf684.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6df09de9-1e79-418e-8448-103c5006e14a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Vigario Calixto, 1554]]></endereco>
+        <localidade><![CDATA[Sandra Cavalcante, Campina Grande, Paraíba, Brasil]]></localidade>
+        <codigoPostal><![CDATA[58410600]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3207186]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3207186]]></codigoReferencia>
+      <titulo><![CDATA[Prédio, Desocupado, Porto Alegre / RS]]></titulo>
+      <descricao><![CDATA[Prédio, Desocupado, Porto Alegre / RS   Endereço Completo   Rua Sete De Setembro, 1136, Centro Historico, Porto Alegre, RS, CEP: 90010191      Características do Imóvel:       Descrição:  Prédio, Padrão, Desocupado. Área(s): 673,74 m² de área terreno, 2700 m² de área útil. Matrícula(s): None,113.029. Cartório: CRI DO RIO GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.    Tipo do Imóvel:  Prédio   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.15350      Área Util:  2700.0 m2   Área Terreno:  673.74 m2   Composição Interna/Vagas:  Banheiros: 4, Salas: 6, Copas: 1      Matrícula:  None,113.029   Cartório de Registro:  CRI DO RIO GRANDE   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 91.584,60      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. DESOCUPADO 2. IMOVEL FOREIRO PRIVADO.VER ITEM 4.9, INCISO V DO EDITAL DE LEILAO 3. ACAO JUDICIAL - DECLARATORIA - PROC. 0158670-84.2017.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* ACAO JUDICIAL - CUMPRIMENTO DA SENTENÇA - PROC. 5015268-83.2019.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* 4. O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL. 5. OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[4]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[2700]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>5700000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8fd6abf2-bed5-43f4-b7ed-3abc651767ef.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6731e9d7-f6a8-4c3e-b52e-6e27b864a69b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b59c783b-4c48-4463-841e-5ae83d24d0cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f70f247-add6-4438-a1f9-102f94bc63f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/86504e22-ae64-4b61-9053-168cdcd4c8b4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bbbae275-8b2f-4e64-94e0-eb0724833ce0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23f2bf6d-fdda-40fe-b119-511122498a39.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94c88623-6140-4c5b-96e0-c909ff51546f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0e03a93f-f007-42e0-bda7-924e41fa812d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38769627-081b-43ad-b8b8-2c184cc236f8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dc07c998-b355-4db4-8c31-58661c889d0e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c0b3ea6-c0d6-426a-99c4-72542a5051ed.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7e82270f-0e27-41c4-a28b-ef828e81ce46.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70713aef-bd19-4d62-8e2f-4d1ce20a8cf0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Sete De Setembro, 1136]]></endereco>
+        <localidade><![CDATA[Centro Historico, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[90010191]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3207185]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3207185]]></codigoReferencia>
+      <titulo><![CDATA[Sala comercial, Ocupado, Belo Horizonte / MG]]></titulo>
+      <descricao><![CDATA[Sala comercial, Ocupado, Belo Horizonte / MG   Endereço Completo   Avenida Afonso Pena, 981, Pav. 3 03º Andar A, Centro, Belo Horizonte, MG, CEP: 30130907      Características do Imóvel:       Descrição:  Sala comercial, Sala comercial, Ocupado. Área(s): 1220 m² de área terreno, 598,85 m² de área construída. Matrícula(s): 1215. Cartório: 4ª CRI DE BELO HORIZONTE. Inscrição da Prefeitura: 0010340020161.    Tipo do Imóvel:  Sala comercial   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20029      Área Terreno:  1220.0 m2      Matrícula:  1215   Cartório de Registro:  4ª CRI DE BELO HORIZONTE   Inscrição na Prefeitura:  0010340020161   IPTU Anual:  R$ 9.276,52   Condomínio Mensal:  R$ 2.517,68         Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO 2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL. 3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[1220]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1639000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef862816-89fb-4e2e-92ff-465242eb0c8b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ced63138-0710-41d3-acfa-fc5cdb14ba69.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a7b39c0a-d41a-4ea0-b371-1e44171b85cb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/49c1cf13-a461-42d1-b12f-3e64e3ae8d62.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Afonso Pena, 981]]></endereco>
+        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[30130907]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
