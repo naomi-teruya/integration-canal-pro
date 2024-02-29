@@ -6584,11 +6584,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="São Paulo">Sem sigla</State>
-        <City>CEP: 04616-005</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
         <Address>Rua Pascal</Address>
         <StreetNumber>1751</StreetNumber>
-        <PostalCode>SP.</PostalCode>
+        <PostalCode>04616-005</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6620,11 +6620,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Campos do Jordão">Sem sigla</State>
-        <City>Vila Sapucaí</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Campos do Jordão</City>
         <Address>Avenida Gastão Vidigal</Address>
         <StreetNumber>449</StreetNumber>
-        <PostalCode>SP</PostalCode>
+        <PostalCode>12460-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
