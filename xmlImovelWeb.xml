@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1709231180674</dataModificacao>
+  <dataModificacao>1709232198206</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -14603,6 +14603,114 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Da Quitanda, 89]]></endereco>
         <localidade><![CDATA[Centro, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01012010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3202259]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3202259]]></codigoReferencia>
+      <titulo><![CDATA[Laje Comercial 463m² no Centro do Rio de Janeiro/RJ - DESOCUPADAS]]></titulo>
+      <descricao><![CDATA[Laje Comercial 463m² no Centro do Rio de Janeiro/RJ - DESOCUPADAS  Laje Comercial 463m² no Centro do Rio de Janeiro/RJ - 12 salas comerciais conjugadas, somando um total de 463,59m², e 83,24m² de área comum, localizadas na Rua Uruguaiana n°10, Centro do Rio de Janeiro/RJ . Matrículas nº 1638 / 1639 / 1640 / 1641 / 1642 / 1643 / 1645 / 1646 / 1647 / 1648 / 1649 / 1650. Inscrição Cadastral n°s 1411653-7 / 1411654-5 / 1411655-2 / 1411656-0 / 1411657-8 / 1411658-6 / 1411659-4 / 1411660-2 / 1411661-0 / 1411662-8 / 1411663-6 / 1411664-4     Imóvel Desocupado.     ==================     Laje Comercial bem localizada no Centro do Rio de Janeiro/RJ com 463,59m². Próximo a comércios e com facilidade de transporte público.     O imóvel será entregue livre de débitos de IPTU e Condomínio. Valor aproximando de IPTU anual R$ 45.086,00. Valor aproximado de Condomínio mensal R$ 12.000,00     Percentual de desconto: 43% de deságio sobre o valor de avaliação.     Informações Relevantes:  1 - Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora.  2 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  3 - CONDIÇÕES DE PAGAMENTO: À vista  4 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  5 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 4950-9602  6 - Caberá ao arrematante a realização da respectiva averiguação referente à área do imóvel, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes  1 Sold Imóveis - ANBIMA - Leilão]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[463]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>530000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd7ce66f-c95b-45ae-bf65-71d1a937eddf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1564dfab-d33a-413a-bf36-90e101c0fb5e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bcf05d89-6e01-429f-8c80-d453bf7c59d0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/509f1b49-fef7-408f-8a26-313481a018fc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7db5be5c-e48e-4431-a6c0-6c59434e73b8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6d18ab26-0235-4620-b860-11034468b8d3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d3060c0d-496c-4ef2-a908-07fd1763389a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2b43e877-f884-45e2-843d-f61e94751195.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/35f4b319-bee5-4aa5-943c-900d6cd3fab6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e31de266-cfb1-4a6a-88e9-b07a71c32cdf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f13af2d3-a1c5-43f8-a1b1-be71bdc568a7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cf7d5ca-ffea-406a-ad95-8a211fcf526c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3b25858-d6b2-4855-b663-c3c95684f8e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aebd0477-27da-439d-b3a8-25167b9c1053.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd153049-07a8-4054-8c2c-dd214b073010.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dfe1ae3c-1c71-456c-8390-dbb97dc80933.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc2592b5-8710-4043-8f44-1957db293bd7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Uruguaiana, 10]]></endereco>
+        <localidade><![CDATA[Centro, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[20050-090]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
