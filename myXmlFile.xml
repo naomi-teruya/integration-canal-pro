@@ -7618,6 +7618,41 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3158867</ListingID>
+      <Title>Apartamento, A.P. 51m², 2 dorms, 1 vaga, Res. Florada dos Ipês</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3158867</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/fda731c0-fc18-42b6-bdfd-91d9836082ab.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c2ff1c7c-d3e0-4731-ac79-f3d4dcceb9c4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apartamento, A.P. 51m², 2 dorms, 1 vaga, Res. Florada dos Ipês    Penhora da parte ideal correspondente a 100% do(s) imóvel(is)descrito(s) na(s) Matrícula(s) no 81.813, do Cartório de Registro de Imóveis de Barretos, Estado de São Paulo.        Descrição da Matrícula:  O APARTAMENTO Nº 09 (nove), localizado no 1º pavimento (térreo/garagem) do ''Residencial Florada dos Ipês'', situado na Avenida 47 nº 01679, nesta cidade de Barretos, composto por sala de tv/jantar, 2 (dois) dormitórios, circulação banheiro, cozinha e área de serviço, com 51,50m² (cinquenta e um metros quadrados e cinquenta centímetros quadrados) de área útil privativa, uma área de uso comum de 10,5695m² (dez metros quadrados e cinco mil e seiscentos e noventa e cinco décimos de milímetros quadrados) e uma área de 12,50m² (doze metros quadrados e cinquenta centímetros quadrados) referente a 1 (uma) vaga de garagem, descoberta e determinada pelo número da unidade autônoma/apartamento, perfazendo uma área total de 74,5695m² (setenta e quatro metros quadrados e cinco mil e seiscentos e noventa e cinco décimos de milímetros quadrados), correspondendo-lhe uma fração ideal no terreno de 4,1593% ou 87,6735m² (oitenta e sete metros quadrados e seis mil e setecentos e trinta e cinco décimos de milímetros quadrados), confrontando, de quem observa de dentro da unidade e de frente para a entrada da unidade, pela frente com hall, pelo lado direito com o hall de entrada, pelo lado esquerdo com o apartamento nº 08, e pelos fundos com a área de circulação externa, edificado num terreno que possui uma área total de 2.107,91m² (dois mil e cento e sete metros quadrados e noventa e um centímetros quadrados). Av.1 Cadastro: 1.33.037.0009.01.      Ônus:  Av.04 Penhora: imóvel penhorado nestes autos.      Débitos Municipais - IPTU:  2020 a 2022 R$ 1.644,62 e 2023 R$ 639,05, conforme informações obtidas em 04/12/2023 na Prefeitura Municipal de Barretos/SP através dos e-mails: divida@barretos.sp.gov.br e controle.receita@barretos.sp.gov.br.     Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.       Atenção:   O imóvel será levado a hasta pública em sua integralidade, reservando ao coproprietário e/ou ao cônjuge, alheios à execução, a preferência na arrematação do bem em igualdade de condições. Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente a sua quota-parte calculado sobre o valor da avaliação. Art. 843, §1º e §2º, CPC.     Valor da Avaliação em 03/03/2023: R$ 200.000,00 (duzentos mil reais). Valor da avaliação atualizado pela Tab...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">162849.87</ListPrice>
+        <LivingArea unit="square metres">51</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Barretos">Sem sigla</State>
+        <City>Res. Florada dos Ipês</City>
+        <Address>Avenida 47</Address>
+        <StreetNumber>01679</StreetNumber>
+        <PostalCode>SP</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
