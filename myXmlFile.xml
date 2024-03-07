@@ -7640,11 +7640,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Barretos">Sem sigla</State>
-        <City>Res. Florada dos Ipês</City>
+        <State abbreviation="SP">SãoPaulo</State>
+        <City>Barretos</City>
         <Address>Avenida 47</Address>
-        <StreetNumber>01679</StreetNumber>
-        <PostalCode>SP</PostalCode>
+        <StreetNumber>1679</StreetNumber>
+        <PostalCode>14781-316</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
