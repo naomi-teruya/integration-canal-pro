@@ -14477,7 +14477,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
+          <valor><![CDATA[864]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
@@ -14622,7 +14622,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <caracteristica>
           <id><![CDATA[CFT100]]></id>
           <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
+          <valor><![CDATA[330]]></valor>
           <idValor><![CDATA[M2]]></idValor>
         </caracteristica>
       </caracteristicas>
@@ -14772,8 +14772,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Avenida 47, 01679]]></endereco>
-        <localidade><![CDATA[Apto. 09, Res. Florada dos Ipês, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[SP]]></codigoPostal>
+        <localidade><![CDATA[Res. Florada dos Ipês, Barretos, São Paulo]]></localidade>
+        <codigoPostal><![CDATA[14781-316]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
