@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1709724514374</dataModificacao>
+  <dataModificacao>1709929551818</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15452,6 +15452,180 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Orlandina, 5212]]></endereco>
         <localidade><![CDATA[Bairro Castanheira, Porto Velho, Rondônia, Brasil]]></localidade>
         <codigoPostal><![CDATA[76811-358]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3218008]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3218008]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, 24995.79 m2, Macaé / RJ]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, 24995.79 m2, Macaé / RJ   Endereço Completo   Avenida Aluizio Da Silva Gomes, S/N, Granja Dos Cavaleiros, Macaé, RJ, CEP: 27930560      Características do Imóvel:       Descrição:  Lote, Padrão, Desocupado. Área(s): 24995,79 m² de área total, 24995,79 m² de área terreno. Matrícula(s): 42.001. Cartório: 2 CRI DE MACAE. Inscrição da Prefeitura: 01.6.139.1149.0001.   Tipo do Imóvel:  Lote   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.17363      Área Total:  24995.79 m2   Área Terreno:  24995.79 m2      Matrícula:  42.001   Cartório de Registro:  2 CRI DE MACAE   Inscrição na Prefeitura:  01.6.139.1149.0001   IPTU Anual:  R$ 66.518,31      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* DESOCUPADO* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   Santander Comercial - Terreno em Macaé/RJ]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[24995.79]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>15500000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eaa2bcf3-ba95-4be2-92a7-b3daa3544373.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3e95a72-fbe0-4447-9d9a-b8047f0911b9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/047bbd1d-e58a-4045-9276-28d3bc7ce376.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ba1800ec-786f-49d3-80d0-80cf7107c52c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aec93c5e-7766-47f6-ba1b-164fec6e02dd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/07f12eae-1461-4d1a-a341-baddbdd4f75f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d6e4bf18-f4ac-45c2-b9f4-0d183658c675.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2dda95b2-a8f6-43b9-af62-6b0b4ff9c63a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a9e47e2e-4b39-4b05-9eb3-73118b3850c7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/487336bc-4b68-4eae-8bfb-a3cafc14d0a8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Aluizio Da Silva Gomes, S]]></endereco>
+        <localidade><![CDATA[Granja Dos Cavaleiros, Macaé, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[27930560]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3218007]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3218007]]></codigoReferencia>
+      <titulo><![CDATA[Galpão, Ocupado, 6400.0 m2, Macaé / RJ]]></titulo>
+      <descricao><![CDATA[Galpão, Ocupado, 6400.0 m2, Macaé / RJ   Endereço Completo   Avenida Dos Bandeirantes, S/N, Lagomar, Macaé, RJ, CEP: 27966540      Características do Imóvel:       Descrição:  Galpão, Padrão, Ocupado, 10 vaga(s) de garagem. Área(s): 6400 m² de área total, 6400 m² de área terreno, 1528,87 m² de área construída. Matrícula(s): 1.136. Cartório: 3 CRI DE MACAE. Inscrição da Prefeitura: 02.2.004.0120.0001.   Tipo do Imóvel:  Galpão   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.12984      Área Total:  6400.0 m2   Área Terreno:  6400.0 m2   Composição Interna/Vagas:  Banheiros: 4, Vagas de Garagem: 10      Matrícula:  1.136   Cartório de Registro:  3 CRI DE MACAE   Inscrição na Prefeitura:  02.2.004.0120.0001   IPTU Anual:  R$ 803,33         Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* OCUPADO* O VENDEDOR JA INICIOU O PROCESSO PARA DESOCUPACAO - PROC. NO0012833-97.2019.8.19.0028 EM TRAMITE NA 2A VARA CIVEL DE MACAE/RJ.* FICARAO A CARGO DO ARREMATANTE: TODAS AS PROVIDENCIAS, RISCOS, CUSTAS E DESPESAS NECESSARIAS A, (I) DESOCUPACAO MEDIANTE A SUB-ROGACAO NA ACAO PROPOSTA PELO VENDEDOR CONFORME ITENS 4.14. 4.14.2 DO EDITAL, (II) ) COMPLETA REGULARIZACAO FISICA E/OU DOCUMENTAL DO IMOVEL PERANTE OS ORGAOS COMPETENTES, NOTADAMENTE, MAS NAO EXCLUSIVAMENTE NO REGISTRO DE IMOVEIS E NA PREFEITURA.* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   Santander Comercial - Galpão em Macaé-RJ]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[6400]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2950000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f2a53d64-7e83-442e-8d61-255f5473e3aa.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cdd08823-883a-49ed-a742-c7c81c61362f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b07dbdc-e283-413d-bc86-d538b2ccc23d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1f5631e-b615-4397-847a-cd84489b235d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b036e455-53e2-4474-a3b6-cba39b947591.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2edae70c-5685-4bbb-9d49-e5ee3e936e56.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/903c6fbd-25bc-48c9-9491-4c348172d3c9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5b9abb75-509d-45cb-99ce-314b1b17756e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2ee56280-ab69-477e-9913-9668652a392a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d181a9a5-9ac3-45a6-968f-f1b85ab4aab7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Dos Bandeirantes, S]]></endereco>
+        <localidade><![CDATA[Lagomar, Macaé, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[27966540]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
