@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1710775848354</dataModificacao>
+  <dataModificacao>1710787258278</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15079,6 +15079,82 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Avenida Coronel Albino, 2397]]></endereco>
         <localidade><![CDATA[bl. 1, Pq. São Judas Tadeu, Sem sigla, Brasil]]></localidade>
         <codigoPostal><![CDATA[SP]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3200025]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3200025]]></codigoReferencia>
+      <titulo><![CDATA[Apto. A.T.C.56 m², 1 vaga, Pirituba]]></titulo>
+      <descricao><![CDATA[Apto. A.T.C.56 m², 1 vaga, Pirituba  APARTAMENTO nº 604, localizado no 6º pavimento do Bloco 1 integrante do RESIDENCIAL MEDITERRÂNEO, situado na rua Guaipu, no 31º subdistrito Pirituba, contendo a área real privativa de 46,8845 m², com área real comum de 09,9994 m², área real total de 56,8838 m², correspondendo a fração ideal de 0,0121641%, cabendo-lhe o direito a UMA vaga de garagem/estacionamento descoberta, a qual faz parte da área comum.  Matrícula nº 139.277 do 16º Oficial de registro de imóveis da Capital. Consta da R.3 alienação fiduciária em favor do Banco Caixa Econômica Federal (consta saldo devedor no valor de R$ 63.546,16 atualizado até setembro de 2020). Consta da AV.4 penhora expedida no processo 0004740142018 do ofício cível do foro regional Nossa Senhora do Ó/SP. Consta da AV. 5 penhora expedida no processo 482 da 1ª vara da família e sucessões de Pres. Prudente/SP.        VALOR DA AVALIAÇÃO: R$ 280.000,00 (duzentos e oitenta mil reais).  L. C. N. d. S. V. R. d. S. NI 1ª Vara da Família e Sucessões de Pres Prudente/SP 1015533-35.2016.8.26.0482
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>280000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cdabc601-1660-48ed-90c3-b7785ac821f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38c1716d-4974-4d38-9c51-184f0e0c10c1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6258e2b3-b6a4-4d66-bbf1-4acbb4c9339c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/186ea27c-8a5d-4493-b0c2-0e594d55a04f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8b8c6b07-5a14-43fc-9da9-ad2e816b5f0a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/de52d9f4-05c9-4b61-b730-5124a9c1ae30.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Guaipu, 100]]></endereco>
+        <localidade><![CDATA[bl1, Pirituba, Sem sigla, Brasil]]></localidade>
+        <codigoPostal><![CDATA[SP.]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
