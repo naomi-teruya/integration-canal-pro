@@ -7818,6 +7818,45 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3200025</ListingID>
+      <Title>Apto. A.T.C.56 m², 1 vaga, Pirituba</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3200025</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/cdabc601-1660-48ed-90c3-b7785ac821f0.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/38c1716d-4974-4d38-9c51-184f0e0c10c1.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/6258e2b3-b6a4-4d66-bbf1-4acbb4c9339c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/186ea27c-8a5d-4493-b0c2-0e594d55a04f.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/8b8c6b07-5a14-43fc-9da9-ad2e816b5f0a.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/de52d9f4-05c9-4b61-b730-5124a9c1ae30.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. A.T.C.56 m², 1 vaga, Pirituba  APARTAMENTO nº 604, localizado no 6º pavimento do Bloco 1 integrante do RESIDENCIAL MEDITERRÂNEO, situado na rua Guaipu, no 31º subdistrito Pirituba, contendo a área real privativa de 46,8845 m², com área real comum de 09,9994 m², área real total de 56,8838 m², correspondendo a fração ideal de 0,0121641%, cabendo-lhe o direito a UMA vaga de garagem/estacionamento descoberta, a qual faz parte da área comum.  Matrícula nº 139.277 do 16º Oficial de registro de imóveis da Capital. Consta da R.3 alienação fiduciária em favor do Banco Caixa Econômica Federal (consta saldo devedor no valor de R$ 63.546,16 atualizado até setembro de 2020). Consta da AV.4 penhora expedida no processo 0004740142018 do ofício cível do foro regional Nossa Senhora do Ó/SP. Consta da AV. 5 penhora expedida no processo 482 da 1ª vara da família e sucessões de Pres. Prudente/SP.        VALOR DA AVALIAÇÃO: R$ 280.000,00 (duzentos e oitenta mil reais).  L. C. N. d. S. V. R. d. S. NI 1ª Vara da Família e Sucessões de Pres Prudente/SP 1015533-35.2016.8.26.0482
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">280000</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="São Paulo">Sem sigla</State>
+        <City>Pirituba</City>
+        <Address>Rua Guaipu</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>SP.</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
