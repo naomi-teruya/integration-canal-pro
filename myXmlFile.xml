@@ -7805,11 +7805,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Presidente Prudente">Sem sigla</State>
-        <City>Pq. São Judas Tadeu</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Presidente Prudente</City>
         <Address>Avenida Coronel Albino</Address>
         <StreetNumber>2397</StreetNumber>
-        <PostalCode>SP</PostalCode>
+        <PostalCode>19023-350</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7844,11 +7844,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="São Paulo">Sem sigla</State>
-        <City>Pirituba</City>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
         <Address>Rua Guaipu</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>SP.</PostalCode>
+        <PostalCode>02919-140</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
