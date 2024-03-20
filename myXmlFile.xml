@@ -3972,11 +3972,11 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Porto Alegre/RS">Sem sigla</State>
-        <City>Cascata</City>
-        <Address>Av. Professor Oscar Pereira 3997</Address>
-        <StreetNumber>4007</StreetNumber>
-        <PostalCode>91710-000 e 91720-120</PostalCode>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Porto Alegre</City>
+        <Address>Av. Professor Oscar Pereira</Address>
+        <StreetNumber>3997</StreetNumber>
+        <PostalCode>91710-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6103,7 +6103,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Prédio Comercial 1.169m² DESOCUPADO em Contagem/MG     Prédio Comercial 1.169m² DESOCUPADO em Contagem/MG. Urbano, constituído pelo lote nº 17 (dezessete), da quadra nº D-44, do Bairro Cidade Jardim Eldorado, neste município, com área de 360,00m², demais limites e confrontações de acordo com a planta respectiva. Imóvel devidamente matriculado sob o nº 117.130 do Cartório de Registro de Imóveis de Contagem/MG. Inscrição Imobiliária n° 020710113001.     Imóvel próximo à Comércios, Shopping e Posto de Gasolina.  (Mais informações no laudo anexo)     Venda Condicional (valor de venda sob aprovação do vendedor).     - Imóvel DESOCUPADO. Será entregue livre de pessoas e coisas (por exemplo, mas não se limitando a: mobília, equipamentos de ar condicionado, etc). Caso o vendedor entregue o imóvel com algum bem móvel em seu interior, caberá ao comprador dar-lhe o destino que julgar cabível.     Informações Relevantes:  1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista;  2 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").  4 - Percentual de desconto: 41% de deságio sobre o valor de avaliação.  5 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  6 - O prédio possui a construção estimada em 1.169m² não averbada na matrícula. (A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções). Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602  117130 Prédio Comercial - Desc. Até 26%]]></Description>
         <ListPrice currency="BRL">2950000</ListPrice>
-        <LivingArea unit="square metres">1.169</LivingArea>
+        <LivingArea unit="square metres">1169</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
       </Details>
@@ -7212,7 +7212,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Terreno 1.685m², Distrito Industrial II, Sananduva/RS  Terreno - no Distrito Industrial II     Localização: R. Severino Toniazzo, s/n, Distrito Industrial II, Sananduva/RS, 99840-000     Área Terreno: 1.685m²     Matrícula: nº 11.051  RGI: Oficial de Registro de Imóveis de Sananduva/RS  Inscrição Prefeitura: 19880-1     DOSSIÊ: 02.20828     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 663.695,22     2ª Praça:  Abertura: 20/Mar/2024 a partir das 11h41  Fechamento: 22/Mar/2024 a partir das 16h40 com Valor Mínimo de Venda de R$ 408.674,73         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 38% de deságio sobre o valor de avaliação.  02.20828 Santander - Alienação Fiduciária - D.02.20828]]></Description>
         <ListPrice currency="BRL">663695.22</ListPrice>
-        <LivingArea unit="square metres">1.685</LivingArea>
+        <LivingArea unit="square metres">1685</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
       </Details>
