@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711036923588</dataModificacao>
+  <dataModificacao>1711037132557</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -8357,78 +8357,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Geraldo de Souza Barbosa, 315]]></endereco>
         <localidade><![CDATA[José Maciel, Belo Jardim, Pernambuco, Brasil]]></localidade>
         <codigoPostal><![CDATA[55151-690]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3210019]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3210019]]></codigoReferencia>
-      <titulo><![CDATA[Apto 121m², 1 Vaga, Ocupado, em Garanhuns/PE]]></titulo>
-      <descricao><![CDATA[Apto 121m², 1 Vaga, Ocupado, em Garanhuns/PE     Apto 121m², 1 Vaga, Ocupado, em Garanhuns/PE     Localização: Rua Major Antônio Pedrosa, nº 335, Apto nº 302, Edifício Triunfo, Bairro Aloisio Pinto, Garanhuns/PE, - CEP: 55293-000     área de 121,18m² de construção, inclusive garagem     Matrícula:19.997 do 1º Oficial de Registro de Imóveis de Garanhuns/PE  Inscrição Prefeitura: 1.0059.012.02.0461.0008.1     DOSSIÊ:02.21579     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 15/03/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 307.000,00     2ª Praça:  Abertura: 15/03/2024 a partir das 10h01  Fechamento: 18/03/2024 a partir das 13h00 com Valor Mínimo de Venda de R$ 197.631,10     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 36% de deságio sobre o valor de avaliação.        02.21579 Santander - Alienação Fiduciária - D.02.21579]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>307000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d76ea60d-8ccb-4e0b-a940-c550e8323bf2.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/60cd11e7-a8b9-48a6-9b89-674a5d85d5e9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2902b84-665d-4d48-aafc-aa41f40b6172.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3a930d7b-0815-405d-b13d-ab6b5f7e684c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3878c221-3e8d-44ae-aeb5-c26d73a6f7dd.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Major Antônio Pedrosa, 335]]></endereco>
-        <localidade><![CDATA[Garanhuns, PE, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[55293-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
