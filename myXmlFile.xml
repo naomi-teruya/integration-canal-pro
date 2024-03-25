@@ -6026,6 +6026,45 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3221333</ListingID>
+      <Title>Terreno, A.T 252m², Village Damha Parahyba</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3221333</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/78befdf3-a8fd-4c06-a7e2-1300b35d0eae.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/051663cb-ed18-4825-b4b7-d31cf7e4ce80.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/edc4ada5-2247-479f-9539-bdd99f01a617.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/57c69075-ffa1-4fd8-acab-29e7cd7589e1.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/0b34c081-71b5-4fcc-ab5b-db565cd38a9e.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/b96179f1-e37e-4139-acea-f6a65fc38121.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Terreno, A.T 252m², Village Damha Parahyba  Matrícula 34.295 - CRI Alhandra/PB: Lote de terreno próprio sob nº 19 (dezenove) da quadra Q situado no loteamento denominado residencial Village Damha no município de conde/PB, faz frente para a Rua 23 onde mede 10,00m em curva de raio 1.414 m; pelo lado direito confronta com o lote 18 medindo 25,00m; pelo lado esquerdo confronta com o lote 20, medindo 25,00m; nos fundos confronta com o lote 15 medindo 10,18m.      Ônus:  Av. 10 Penhora: penhora do imóvel nestes autos. Av.11 (Penhora) Processo n. 0015407-79.2019.8.17.3090 da 3ª Vara Cível de Paulista-PE, Partes: Nelcimar Rogerio Alves Alexandre contra Conde Empreendimento Imobiliário Spe Ltda, Empreendimentos Imobiliários Damha Parahyba I Spe Ltda.      Débitos:   IPTU: R$ 512,64, conforme petição de fls. 570/582.  Condominiais: R$ 18.144,09 + R$ 7.688,49 conforme informações de fls. 571/573 e 581, de 21/02/2024.  *Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor médio das Avaliações em maio/2023: R$ 165.000,00 (cento e sessenta e cinco mil reais). Valor da avaliação atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em fevereiro/2024: R$ 168.023,36 (cento e sessenta e oito mil, vinte e três reais e trinta e seis centavos).  CARAGI PARTICIPAÇÕES LTDA EMPREENDIMENTOS IMOBILIÁRIOS DAMHA SÃO CARLOS IV SPE LTDA NI Augusto Fauvel de Moraes 2ª Vara Cível de São Carlos/SP 0001456-38.2020.8.26.0566
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">168023.36</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>0</Bedrooms>
+        <Bathrooms>0</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PB">Paraíba</State>
+        <City>Conde</City>
+        <Address>Rua 23</Address>
+        <StreetNumber>Lote 19</StreetNumber>
+        <PostalCode>58320-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
