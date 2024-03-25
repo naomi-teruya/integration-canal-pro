@@ -5990,6 +5990,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3221257</ListingID>
+      <Title>Casa, A.T. 1.045m², Alto Cafezal</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3221257</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a685391a-7342-4695-86b3-042a294e42d6.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9ef9e758-a4af-4f29-8478-c00004d8f662.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a3e64a35-e43e-4498-b5e2-cff8c76c0484.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, A.T. 1.045m², Alto Cafezal  Uma casa de alvenaria, sob o número 1.111, da rua Dr. Joaquim de Abreu Sampaio Vidal, e o seu respectivo terreno de forma irregular, dentro do seguinte roteiro, metragens e confrontações: ''medindo 18,40 metros de frente para a rua Dr. Joaquim de Abreu Sampaio Vidal, 58,85 metros de um lado, confrontando a direita com terrenos de Francisco Teruel Martins, ou sucessores, nos fundos medindo 1,50 metros, confrontando com Amadeu de Oliveira Goes, ou sucessores, de outro lado medindo 44,60 metros, confrontando à direita com DER, deste ponto segue descrevendo uma curva com o raio de 18,50 metros, numa distância de 24,95 metros, até encontrar, novamente o alinhamento da rua Dr. Joaquim de Abreu Sampaio Vidal'', encerrando uma área de 1.045,80 metros quadrados, mais ou menos. Matrícula nº 1.645 do 1º Cartório de Registro de Imóveis de Marília/SP. Avalio o imóvel acima descrito, com todas as benfeitorias, dependências, instalações e ampliações.      Ônus:  Av.05 Penhora: Imóvel penhorado nestes autos.      Débitos:  R$ 118.173,73, atualizados até 15/02/2024, conforme extrato de débitos juntados as fls. 427/433.     Valor da avaliação em 24/10/2018: R$ 1.500.000,00 (Um milhão e quinhentos mil reais). Valor da avaliação atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em FEV/2024: R$ 2.017.206,54 (dois milhões e dezessete mil e duzentos e seis reais e cinquenta e quatro centavos).     Existe Recurso de Agravo em Recurso Especial - 2108849-37.2020.8.26.0000 pendente de julgamento sobre o(s) imóvel(is) a ser(em) leiloado(s).  Fundação Padre Albino CLAUDIO CEZAR CIRINO, Fabiana Gonçalves Cirino Cláudio Cezar Cirino NI 2ª Vara Cível de Catanduva/SP 1008431-76.2015.8.26.0132
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">2017206.54</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Marília</City>
+        <Address>R. Dr. Joaquim de Abreu Sampaio Vidal</Address>
+        <StreetNumber>1111</StreetNumber>
+        <PostalCode>17504-072</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
