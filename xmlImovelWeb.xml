@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711392196615</dataModificacao>
+  <dataModificacao>1711392248781</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -11516,6 +11516,88 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 23, Lote 19]]></endereco>
         <localidade><![CDATA[Village Damha Parahyba, Conde, Paraíba, Brasil]]></localidade>
         <codigoPostal><![CDATA[58320-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3220513]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3220513]]></codigoReferencia>
+      <titulo><![CDATA[Sítio Rancho Fundo, A.T. 32,26,21has]]></titulo>
+      <descricao><![CDATA[Sítio Rancho Fundo, A.T. 32,26,21has  100% de uma propriedade agrícola com a área de trinta e dois hectares, vinte e seis ares e vinte e um centiares (32,26,21 has), de terras, no local denominado Fazenda ''Taquaruçu'', situada no distrito, município e comarca de Monte Aprazível, objeto da Matrícula 14.541 do CRI local.      O imóvel da matrícula n° 14.541, do CRI de Monte Aprazível/SP, a seguir descrito:  IMÓVEL: Uma propriedade agrícola com a área de trinta e dois hectares, vinte seis ares e vinte e um centiares (32,26,21 has.), de terras, no local denominado Fazenda ''TAQUARUÇU'', situada no distrito, município e comarca de Monte Aprazível, contendo pastos e cercas de arame, dentro das seguintes medidas geodésicas e confrontações:- ''o referido imóvel é delimitado por um polígono irregular cuja descrição inicia-se no ponto 72 e daí segue 723,60 metros com rumo 8° 13' NE até o ponto 73,&nbsp;confrontando por cerca com Eduardo Sanches Roxo; do ponto 73 segue 51,31 metros com rumo de 48º 53' NW até o ponto 74, confrontando pelo Córrego do Gambá com Nelson Cavalin; do ponto 74 segue 68,44 metros com rumo de 84° 31' SW até o ponto 75, confrontando pelo Córrego do Gamba com Nelson Cavalin; dai segue 81,41 metros com rumo de 80¿ 08¹ NW até o ponto B, confrontando por cerca com Vander Bassan Ruy; do ponto B segue 61,05 metros com rumo de 65° 20¹ NW até o ponto C, confrontando por cerca com Vander Bassan Ruy; do ponto C segue 108,60 metros com rumo de 19° 41' SW até o ponto D, confrontando por cerca com Vander Bassan Ruy; do ponto D segue 43,26 metros com rumo de 69° 03¹ NW até o ponto E confrontando por cerca com Vander Bassan Ruy; do ponto E segue 479,71 metros com rumo de 77¿ 23' NW até o ponto F, confrontando por cerca com Vander Bassan Ruy; do ponto F segue 239,45 metros com rumo de 11º 05¹ SW até o ponto G, confrontando por cerca com Vander Bassan Ruy; do ponto G segue 413,71 metros com rumo de 67° 15' SE até o ponto I, confrontando com Citrovita Agro Industrial Ltda; do ponto I segue 535,67 metros com rumo de 40° 13' SE até o ponto 72, onde teve início o levantamento''.&nbsp;AV.2/14.541 DENOMINAÇÃO: Conforme escritura pública objeto do R-1, é feita esta averbação para ficar constando que o imóvel objeto desta MATRICULA, doravante passará a denominar-se SÍTIO ''RANCHO FUNDO''. AV.16/14.541 (CÓDIGO DO IMÓVEL - CCIR 2003/2004/2005): Conforme requerimento formulado por Orlando Pinatti, com firma reconhecida, datado em Monte Aprazível-SP., aos 12 de julho de 2006, instruído com a cópia autêntica do Certificado de Cadastro de Imóvel Rural CCIR 2003/2004/2005, é feita esta averbação para constar que o imóvel objeto desta matrícula, possui o cadastro nº 638.200.027.227-4, com Módulo Fiscal de 30,0000 ha, nº de Módulos Fiscais 1,...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>3178461.34</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/47d01e8e-91fa-4aba-b736-85c5289c4978.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2e10da2e-d067-4162-828b-ae02df98f57b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edf8d3f4-5dfc-4f65-8a6f-135471da3480.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d73f48b-a11f-4d6b-9fcf-7b68690004e5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ee35f11d-179a-4041-9fda-d1df33cd490a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25e2c086-012e-4c06-b95e-415714b0b614.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48eb97e1-c0f8-48d9-be60-cd1264500f51.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/75afcd5f-0665-4a4b-942d-c285a4f40eee.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[undefined, undefined]]></endereco>
+        <localidade><![CDATA[undefined, Monte Aprazível, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15150-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
