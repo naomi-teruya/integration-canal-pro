@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711392096089</dataModificacao>
+  <dataModificacao>1711392145527</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -11440,6 +11440,82 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Dr. Joaquim de Abreu Sampaio Vidal, 1111]]></endereco>
         <localidade><![CDATA[Cavalieri, Marília, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[17504-072]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3221333]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3221333]]></codigoReferencia>
+      <titulo><![CDATA[Terreno, A.T 252m², Village Damha Parahyba]]></titulo>
+      <descricao><![CDATA[Terreno, A.T 252m², Village Damha Parahyba  Matrícula 34.295 - CRI Alhandra/PB: Lote de terreno próprio sob nº 19 (dezenove) da quadra Q situado no loteamento denominado residencial Village Damha no município de conde/PB, faz frente para a Rua 23 onde mede 10,00m em curva de raio 1.414 m; pelo lado direito confronta com o lote 18 medindo 25,00m; pelo lado esquerdo confronta com o lote 20, medindo 25,00m; nos fundos confronta com o lote 15 medindo 10,18m.      Ônus:  Av. 10 Penhora: penhora do imóvel nestes autos. Av.11 (Penhora) Processo n. 0015407-79.2019.8.17.3090 da 3ª Vara Cível de Paulista-PE, Partes: Nelcimar Rogerio Alves Alexandre contra Conde Empreendimento Imobiliário Spe Ltda, Empreendimentos Imobiliários Damha Parahyba I Spe Ltda.      Débitos:   IPTU: R$ 512,64, conforme petição de fls. 570/582.  Condominiais: R$ 18.144,09 + R$ 7.688,49 conforme informações de fls. 571/573 e 581, de 21/02/2024.  *Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor médio das Avaliações em maio/2023: R$ 165.000,00 (cento e sessenta e cinco mil reais). Valor da avaliação atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em fevereiro/2024: R$ 168.023,36 (cento e sessenta e oito mil, vinte e três reais e trinta e seis centavos).  CARAGI PARTICIPAÇÕES LTDA EMPREENDIMENTOS IMOBILIÁRIOS DAMHA SÃO CARLOS IV SPE LTDA NI Augusto Fauvel de Moraes 2ª Vara Cível de São Carlos/SP 0001456-38.2020.8.26.0566
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>168023.36</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/78befdf3-a8fd-4c06-a7e2-1300b35d0eae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/051663cb-ed18-4825-b4b7-d31cf7e4ce80.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/edc4ada5-2247-479f-9539-bdd99f01a617.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/57c69075-ffa1-4fd8-acab-29e7cd7589e1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0b34c081-71b5-4fcc-ab5b-db565cd38a9e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b96179f1-e37e-4139-acea-f6a65fc38121.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua 23, Lote 19]]></endereco>
+        <localidade><![CDATA[Village Damha Parahyba, Conde, Paraíba, Brasil]]></localidade>
+        <codigoPostal><![CDATA[58320-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
