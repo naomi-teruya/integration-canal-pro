@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711396609698</dataModificacao>
+  <dataModificacao>1711455000620</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -5154,69 +5154,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3188712]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3188712]]></codigoReferencia>
-      <titulo><![CDATA[Casa 398m² no Jardim Marajoara em São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Casa 398m² no Jardim Marajoara em São Paulo/SP  Casa 398m² no Jardim Marajoara em São Paulo/SP     Localização: Rua Engenheiro Cesar Silveira Grilo n° 206 - Jardim Marajoara - São Paulo/SP - CEP: 04664-080     Área privativa: 398,00m²  Área Total: 1.186,00m²     Matrícula: nº 215.279  RGI: 11° Cartório do Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 090.045.0011-1     Recai sobre o imóvel a ação n° 1073654-65.2021.8.26.0002 da 3ª Vara Cível - Foro Regional II - Santo Amaro, São Paulo/SP.     DOSSIÊ: 02.17276     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/mar/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 3.182.284,00     2ª Praça:  Abertura: 18/mar/2024 a partir das 09h31  Fechamento: 19/mar/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 851.728,65     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 73% de deságio sobre o valor de avaliação.     02.17276 Santander - Alienação Fiduciária - D.02.17276]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>3182284</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3db2893-614a-4ea5-8dbe-788a6258769d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d5870be-a3c2-4a90-a5e2-53e28256814d.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Engenheiro Cesar Silveira Grilo n° 206, Jardim Marajoara]]></endereco>
-        <localidade><![CDATA[Jardim Marajoara, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[04664-080]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3194151]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3194151]]></codigoReferencia>
       <titulo><![CDATA[Casa 174m², Campos Eliseos, Ribeirão Preto/SP]]></titulo>
@@ -7152,417 +7089,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3207184]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3207184]]></codigoReferencia>
-      <titulo><![CDATA[Prédio, Ocupado, 477.04 m2, São Paulo / SP]]></titulo>
-      <descricao><![CDATA[Prédio, Ocupado, 477.04 m2, São Paulo / SP   Endereço Completo   Alameda Cleveland, 641, Campos Eliseos, São Paulo, SP, CEP: 01218000      Características do Imóvel:       Descrição:  Prédio, Padrão, Ocupado. Área(s): 477,04 m² de área total, 477,04 m² de área terreno, 1680 m² de área construída. Matrícula(s): 113.706. Cartório: 2 CRI DE SAO PAULO. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.    Tipo do Imóvel:  Prédio   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.16593      Área Total:  477.04 m2   Área Terreno:  477.04 m2   Composição Interna/Vagas:  Escritórios: 1, Banheiros: 1      Matrícula:  113.706   Cartório de Registro:  2 CRI DE SAO PAULO   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 61.815,00      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* OCUPADO* FICARAO A CARGO DO ARREMATANTE: ASSUNCAO DOS RISCOS, PROVIDENCIAS E CUSTAS NECESSARIAS A (I) DESOCUPACAO CONFORME ITENS 4.14. 4.14.1 DO EDITAL, (II) COMPLETA REGULARIZACAO FISICA E/OU DOCUMENTAL DO IMOVEL PERANTE OS ORGAOS COMPETENTES, NOTADAMENTE, MAS NAO EXCLUSIVAMENTE NO REGISTRO DE IMOVEIS E NA PREFEITURA.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[477.04]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>2190000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7fee29cd-8871-470d-9caf-3988a39c6e4e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7b2b2d5a-b543-4d48-98e9-cd7cb4a635b8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76f1d92e-2d9f-49a2-9ccb-6d8f61b7a267.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/07bf270c-1177-4cfb-9e3e-b49f762e93af.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Alameda Cleveland, 641]]></endereco>
-        <localidade><![CDATA[Campos Eliseos, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[01218000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3207182]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3207182]]></codigoReferencia>
-      <titulo><![CDATA[Prédio, Desocupado, 270.0 m2, Campina Grande / PB]]></titulo>
-      <descricao><![CDATA[Prédio, Desocupado, 270.0 m2, Campina Grande / PB   Endereço Completo   Rua Vigario Calixto, 1554, Apto 202, 201, 102, 101, Terreo Lj, 02 Vaga De Garagem, Sandra Cavalcante, Campina Grande, PB, CEP: 58410600      Características do Imóvel:       Descrição:  Prédio, Padrão, Desocupado. Área(s): 270 m² de área total, 270 m² de área terreno, 750,52 m² de área construída. Matrícula(s): 22.616. Cartório: 1 CRI CAMPINA GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.   Tipo do Imóvel:  Prédio   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.17393      Área Total:  270.0 m2   Área Terreno:  270.0 m2   Composição Interna/Vagas:  Dormitórios: 6, Banheiros: 9, Salas: 6, Cozinhas: 6, Áreas de Serviço: 6      Matrícula:  22.616   Cartório de Registro:  1 CRI CAMPINA GRANDE   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 2.486,63      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1.:* DESOCUPADO* OS DEBITOS DE IPTU E CONDOMINIO SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[270]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1290000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c103022a-b62f-412e-9700-4b3b6f658669.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/18f60917-e915-48cb-86f4-7b92accdf684.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6df09de9-1e79-418e-8448-103c5006e14a.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Vigario Calixto, 1554]]></endereco>
-        <localidade><![CDATA[Sandra Cavalcante, Campina Grande, Paraíba, Brasil]]></localidade>
-        <codigoPostal><![CDATA[58410600]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3207186]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3207186]]></codigoReferencia>
-      <titulo><![CDATA[Prédio, Desocupado, Porto Alegre / RS]]></titulo>
-      <descricao><![CDATA[Prédio, Desocupado, Porto Alegre / RS   Endereço Completo   Rua Sete De Setembro, 1136, Centro Historico, Porto Alegre, RS, CEP: 90010191      Características do Imóvel:       Descrição:  Prédio, Padrão, Desocupado. Área(s): 673,74 m² de área terreno, 2700 m² de área útil. Matrícula(s): None,113.029. Cartório: CRI DO RIO GRANDE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.    Tipo do Imóvel:  Prédio   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.15350      Área Util:  2700.0 m2   Área Terreno:  673.74 m2   Composição Interna/Vagas:  Banheiros: 4, Salas: 6, Copas: 1      Matrícula:  None,113.029   Cartório de Registro:  CRI DO RIO GRANDE   Inscrição na Prefeitura:  VIDE INSCRICAO IMOBILIARIA   IPTU Anual:  R$ 91.584,60      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. DESOCUPADO 2. IMOVEL FOREIRO PRIVADO.VER ITEM 4.9, INCISO V DO EDITAL DE LEILAO 3. ACAO JUDICIAL - DECLARATORIA - PROC. 0158670-84.2017.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* ACAO JUDICIAL - CUMPRIMENTO DA SENTENÇA - PROC. 5015268-83.2019.8.21.0001 EM TRAMITE NA 6A VARA CIVEL DE PORTO ALEGRE/RS.* 4. O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL. 5. OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[4]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[2700]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>5700000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8fd6abf2-bed5-43f4-b7ed-3abc651767ef.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6731e9d7-f6a8-4c3e-b52e-6e27b864a69b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b59c783b-4c48-4463-841e-5ae83d24d0cd.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4f70f247-add6-4438-a1f9-102f94bc63f0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/86504e22-ae64-4b61-9053-168cdcd4c8b4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bbbae275-8b2f-4e64-94e0-eb0724833ce0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23f2bf6d-fdda-40fe-b119-511122498a39.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94c88623-6140-4c5b-96e0-c909ff51546f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0e03a93f-f007-42e0-bda7-924e41fa812d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38769627-081b-43ad-b8b8-2c184cc236f8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dc07c998-b355-4db4-8c31-58661c889d0e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c0b3ea6-c0d6-426a-99c4-72542a5051ed.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7e82270f-0e27-41c4-a28b-ef828e81ce46.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70713aef-bd19-4d62-8e2f-4d1ce20a8cf0.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Sete De Setembro, 1136]]></endereco>
-        <localidade><![CDATA[Centro Historico, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[90010191]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3207185]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3207185]]></codigoReferencia>
-      <titulo><![CDATA[Sala comercial, Ocupado, Belo Horizonte / MG]]></titulo>
-      <descricao><![CDATA[Sala comercial, Ocupado, Belo Horizonte / MG   Endereço Completo   Avenida Afonso Pena, 981, Pav. 3 03º Andar A, Centro, Belo Horizonte, MG, CEP: 30130907      Características do Imóvel:       Descrição:  Sala comercial, Sala comercial, Ocupado. Área(s): 1220 m² de área terreno, 598,85 m² de área construída. Matrícula(s): 1215. Cartório: 4ª CRI DE BELO HORIZONTE. Inscrição da Prefeitura: 0010340020161.    Tipo do Imóvel:  Sala comercial   Status da Ocupação:  Ocupado   Aceita Visitação:  Visitação indisponível   Dossiê:  02.20029      Área Terreno:  1220.0 m2      Matrícula:  1215   Cartório de Registro:  4ª CRI DE BELO HORIZONTE   Inscrição na Prefeitura:  0010340020161   IPTU Anual:  R$ 9.276,52   Condomínio Mensal:  R$ 2.517,68         Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. OCUPADO 2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL. 3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[1220]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1639000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef862816-89fb-4e2e-92ff-465242eb0c8b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ced63138-0710-41d3-acfa-fc5cdb14ba69.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a7b39c0a-d41a-4ea0-b371-1e44171b85cb.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/49c1cf13-a461-42d1-b12f-3e64e3ae8d62.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Afonso Pena, 981]]></endereco>
-        <localidade><![CDATA[Centro, Belo Horizonte, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[30130907]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3207183]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3207183]]></codigoReferencia>
-      <titulo><![CDATA[Ex-agência, Desocupado, São Paulo / SP]]></titulo>
-      <descricao><![CDATA[Ex-agência, Desocupado, São Paulo / SP   Endereço Completo   Rua Da Quitanda, 89/93, Centro, São Paulo, SP, CEP: 01012010      Características do Imóvel:       Descrição:  Ex-agência, Padrão, Desocupado. Matrícula(s): 17.980. Cartório: 4 CRI SAO PAULO. Inscrição da Prefeitura: 001.084.0008-5.   Tipo do Imóvel:  Ex-agência   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.19546         Matrícula:  17.980   Cartório de Registro:  4 CRI SAO PAULO   Inscrição na Prefeitura:  001.084.0008-5   IPTU Anual:  R$ 113.208,00      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes    1. DESOCUPADO 2. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento   246653 Santander Comerciais]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[4326.64]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>7200000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/232d051f-3d30-4d3b-98f9-2065a86c45ba.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/548db48c-dd68-4f73-ad6a-7dbcdd5d4878.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7fd36296-b4de-47b9-9cbc-38f858253bbc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0d7aa48-0a09-4052-9ff9-fcfceae95bd9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2d4347e8-9358-49bd-aa68-d1fd0eeb2c96.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e6ed6888-8192-4323-9bd0-1e6146676ccc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ded23e38-91ba-4d29-888e-6895bd0c92af.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1c56f4a-e52a-436f-80a2-782b919c2218.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/69729640-9c1c-4ad4-91ba-51e441419005.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c1e9bda-41f3-490d-89b2-3b287dd14d09.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c96e494-d38e-4716-93fe-acbce972bd75.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/85361542-d12f-4742-8559-ececca6d65ba.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9aca8517-c48a-40ee-9211-c14039a88a71.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8a638c6f-d78d-467a-b915-4280e6be6b90.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a5c0d046-53ca-4738-8580-8ef552e3d6d1.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9b1eda12-e7da-4a17-b2ab-aba8ca5e6998.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e772b416-1a6a-40b0-8795-41b9e2c66e97.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Da Quitanda, 89]]></endereco>
-        <localidade><![CDATA[Centro, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[01012010]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3202259]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3202259]]></codigoReferencia>
       <titulo><![CDATA[Laje Comercial 463m² no Centro do Rio de Janeiro/RJ - DESOCUPADAS]]></titulo>
@@ -8732,309 +8258,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Pinto Teles, 320]]></endereco>
         <localidade><![CDATA[Praça Seca, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[21341-270]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218189]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218189]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, Ocupado, Rio De Janeiro / RJ (33% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Apartamento, Ocupado, Rio De Janeiro / RJ (33% abaixo da avaliação)  Endereço Completo  R Teixeira Heizer, 1965, Bloco 7 Ap 812 - Condominio Frames - 2 Vagas, Recreio Dos Bandeirantes, Rio De Janeiro, RJ, CEP: 22790883   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 2 vaga(s) de garagem. Área(s): 175 m² de área construída, 175 m² de área privativa. Matrícula(s): 412.916. Cartório: 9° CRI DO RIO DE JANEIRO. Inscrição da Prefeitura: 30479299.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21207   Área Privativa:  175.0 m2  Composição Interna/Vagas:  Vagas de Garagem: 2   Matrícula:  412.916  Cartório de Registro:  9° CRI DO RIO DE JANEIRO  Inscrição na Prefeitura:  30479299  IPTU Anual:  R$ 3.245,70  Condomínio Mensal:  R$ 2.254,79   Valor Avaliado:  R$ 1.182.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.12. DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  316069 Santander - Oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[175]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>795840</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0c04f9ac-6ad3-4a3d-9ef9-c6e8d46c1e2f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7eda0da3-c899-407d-a4a1-73f108a38738.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dec85e82-add5-46a7-a282-a36a406033ef.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R Teixeira Heizer, 1965]]></endereco>
-        <localidade><![CDATA[Recreio Dos Bandeirantes, Rio De Janeiro, Rio de Janeiro, Brasil]]></localidade>
-        <codigoPostal><![CDATA[22790883]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218188]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218188]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (33% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (33% abaixo da avaliação)  Endereço Completo  Avenida Palmira Gobbi, 130, Apartamento 223, Bloco 1c, Humaitá Garden Park, Humaita, Porto Alegre, RS, CEP: 90250210   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado. Área(s): 86,93 m² de área terreno, 72,66 m² de área construída, 72,66 m² de área privativa, 14,27 m² de área comum. Matrícula(s): 30.225. Cartório: 4º CRI DE PORTO ALEGRE. Inscrição da Prefeitura: 6035558.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21225   Área Privativa:  72.66 m2  Área Terreno:  86.93 m2  Área Comum:  14.27 m2  Composição Interna/Vagas:  Dormitórios: 3, Banheiros: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1   Matrícula:  30.225  Cartório de Registro:  4º CRI DE PORTO ALEGRE  Inscrição na Prefeitura:  6035558  IPTU Anual:  R$ 501,55  Condomínio Mensal:  R$ 407,58   Valor Avaliado:  R$ 199.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.12. DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  316075 Santander - Oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[3]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[72.66]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>133056</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8cf8dfad-70a8-4635-9ac2-dd4841760867.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8e45057d-b35c-4482-8d8b-d4ee29207a27.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2292ca01-3be3-4cd7-9a8f-8059c8b6d88c.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Palmira Gobbi, 130]]></endereco>
-        <localidade><![CDATA[Humaita, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[90250210]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218190]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218190]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Quirinópolis / GO (30% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Quirinópolis / GO (30% abaixo da avaliação)  Endereço Completo  Rua Dos Buritis, 79, Parque Primavera, Quirinópolis, GO, CEP: 75860000   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 150 m² de área terreno, 106,91 m² de área construída. Matrícula(s): 27.254. Cartório: 1º CRI QUIRINÓPOLIS. Inscrição da Prefeitura: 01.04.00070.00405.01.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21511   Área Terreno:  150.0 m2  Composição Interna/Vagas:  Dormitórios: 2, Suítes: 1, Banheiros: 1, Vagas de Garagem: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1   Matrícula:  27.254  Cartório de Registro:  1º CRI QUIRINÓPOLIS  Inscrição na Prefeitura:  01.04.00070.00405.01  IPTU Anual:  R$ 285,78   Valor Avaliado:  R$ 244.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.12. DO EDITAL.  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  316071 Santander - Oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>171840</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b4ef51c9-0751-4191-b959-c6345b663c28.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6d1e4c5f-0e53-4f89-bb7a-9238e6d9f8d7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6672cec6-9398-4bbd-97f9-ad42e0d604d0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a3cdb210-430e-4fe6-a4e5-650c8cd6aa34.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a3584ae2-9e85-4512-bc36-ad4d3dda9ae6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0fd6e42a-769e-4aa6-b14f-24f0bac51184.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d85ff057-4aa5-4d3c-94cc-47c4db9f3d0f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a847a8da-55ea-4c72-8816-a7d2f08f73f5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/74ba6490-be47-4be2-8fc8-5f445be93472.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f61e354e-4e13-4b0d-b9f6-f9bf5dc55db2.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/22479e4c-f91d-423a-a52e-d9303a5602e5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7937fc47-7fac-407a-8c10-d4093cc9a2dc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/187bd336-c18a-4098-9aa5-90877bd6353d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/62df9642-fc86-4220-9440-002146d7cdd4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0340b13e-5544-40f7-b356-c9f5453eb36a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ab2b9df-1c42-4400-af85-fcab2b776b50.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Dos Buritis, 79]]></endereco>
-        <localidade><![CDATA[Parque Primavera, Quirinópolis, Goiás, Brasil]]></localidade>
-        <codigoPostal><![CDATA[75860000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218191]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218191]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Pelotas / RS (31% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Pelotas / RS (31% abaixo da avaliação)  Endereço Completo  Rua Alberto Pimentel, 296, Núcleo Residencial Dom Bosco, Areal, Pelotas, RS, CEP: 96077010   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado. Área(s): 196 m² de área terreno, 221,81 m² de área construída. Matrícula(s): 18.611. Cartório: 1º CRI DE PELOTAS. Inscrição da Prefeitura: 2317133.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21176   Área Terreno:  196.0 m2   Matrícula:  18.611  Cartório de Registro:  1º CRI DE PELOTAS  Inscrição na Prefeitura:  2317133  IPTU Anual:  R$ 3.630,00   Valor Avaliado:  R$ 580.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.12. DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  316074 Santander - Oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[196]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>398112</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bb2b5d1e-2302-4f91-b0ec-2e5227860d70.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/050e2753-71bb-43c5-87d3-bd4d6614b36e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/83d245da-13fb-4dcb-8630-051e14affe05.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Alberto Pimentel, 296]]></endereco>
-        <localidade><![CDATA[Areal, Pelotas, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[96077010]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -11516,6 +10739,357 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 23, Lote 19]]></endereco>
         <localidade><![CDATA[Village Damha Parahyba, Conde, Paraíba, Brasil]]></localidade>
         <codigoPostal><![CDATA[58320-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3221305]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3221305]]></codigoReferencia>
+      <titulo><![CDATA[Apto 48m², Ocupado, 1 Vaga no Bairro Cidade Ocian, Praia Grande/SP]]></titulo>
+      <descricao><![CDATA[Apto 48m², Ocupado, 1 Vaga no Bairro Cidade Ocian, Praia Grande/SP  Apto 48m², Ocupado, 1 Vaga no Bairro Cidade Ocian, Praia Grande/SP - Apartamento nº 23, localizado no segundo andar tipo do Condomínio Residencial Oceanic Praia Grande ¿ Torre 01, situado na Rua Comendador Otto Carlos Golanda, nº 400, no Bairro Ocian, nesta cidade de Praia Grande/SP, com a área privativa de 48,650m², área comum coberta total de 23,209m² já incluído o direito ao uso de 01 vaga na garagem coletiva do condomínio, perfazendo a área real total de 71,859m², correspondendo o coeficiente de proporcionalidade no terreno e nas demais coisas de uso comum equivalente a 0,4027872%, confronta pela frente com o hall, circulação do andar, caixa de escada e antecâmara, pelo lado direito com nº 22, pelo lado esquerdo com apartamento nº 24, e pelos fundos com área externa do condomínio.  Matrícula nº 201.804 do Cartório de Registro de Imóveis de Praia Grande/SP. Cadastrado na Prefeitura municipal sob o nº 2.05.33.001.112.1023-1  Imóvel Ocupado. Desocupação por conta do adquirente.  *Recai sobre o imóvel a existência de ação revisional em andamento (Processo 1012703-04.2022.8.26.0477 - Foro de Praia Grande - 2ª Vara Cível).  O imóvel será entregue livre de débitos de IPTU e Condomínio.               Valor aproximado de IPTU: R$ 205,00. Valor aproximado de Condomínio: R$ 350,00.                                                                                                                                                                                                                   Informações Relevantes:  1 - Condomínio e IPTU = Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora. 2 - Imóvel Ocupado. Desocupação por conta do adquirente 3 - Bens no estado que se encontram (imóveis vendidos em caráter Ad Corpus); 4 - CONDIÇÕES DE PAGAMENTO: À vista  5 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.           7- Recai sobre o imóvel a existência de ação revisional em andamento (Processo 1012703-04.2022.8.26.0477 - Foro de Praia Grande - 2ª Vara Cível)  Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 12% de deságio sobre o valor de avaliação.    Sold Imóveis - Cury 3º Leilão - 10.04.24 - 14h30]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[48]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>144804.68</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7f12944a-4160-4605-aab5-8a2bcf8ca752.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae63d0cb-1c74-43b2-ad35-20d5078eb4cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ac353913-f159-4792-b09f-d36b843e2066.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e34b0120-4fbc-427b-8448-9d629a2d706d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Comendador Otto Carlos Golanda, 400]]></endereco>
+        <localidade><![CDATA[Bairro Cidade Ocian, Praia Grande, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11704-450]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3221276]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3221276]]></codigoReferencia>
+      <titulo><![CDATA[Apto 53m² Ocupado, 1 vaga no Rancho Fundo em Nova Iguaçu/RJ]]></titulo>
+      <descricao><![CDATA[Apto 53m² Ocupado, 1 vaga no Rancho Fundo em Nova Iguaçu/RJ  Apto 53m² Ocupado, 1 vaga no Rancho Fundo em Nova Iguaçu/RJ - Fração ideal de 0,003540, da Estrada Deputado Darcilio Ayres Raunhetti, com entrada pelo nº 175, que ao todo mede: 52,48m de frente, 54,26m nos fundos onde confronta, parte com uma servidão existente, parte com a Rua Iguape e finalmente parte com Sebastião Mendes ou sucessores, 198,10m á direita em dois lances, o 1º de 89,70m confrontando com dois lances, o 1º 89,70m confrontando com Maria da Silva Almeida e o 2º de 102,40m confrontando com uma remanescente da área descrita da transmitente ou sucessores, e 200m a esquerda, confrontando com terra dos espólios de Casemiro Pinto e Alexandre Jose com área total de 10.000,00m², situado neste municipio de Nova Iguaçu/RJ. Conforme Av.01, o imóvel corresponde ao Apartamento nº 1408 do Bloco 1 da Estrada Deputado Darcilio Ayres Raunheitti, com entrada pelo nº 175, rancho Novo, Nova Iguaçu/RJ. Conforme Av.03, o empreendimento denominado Residencial Dez Nova Iguaçu. Conforme Av.05, o imóvel possui a área construída de 53,07m². Matrícula nº 54880 do Registro de Imóveis da 1ª Circunscrição de Nova Iguaçu/RJ. Cadastrado na Prefeitura municipal sob o nº 919403-7.  Imóvel Ocupado. Desocupação por conta do adquirente.  O Empreendimento conta com: Praça do Luau, Churrasqueira, Espaço de jogos, Playground, Ducha, Chute a Gol, Praça Central, Playbaby, Rendario.  Localização: Próximo ao Parque Raul Seixa, Escolas, Atacadão, Carrefour, Poupatempo, Shopping, Estação de Metô.  O imóvel será entregue livre de débitos de IPTU e Condomínio.               Valor aproximado de IPTU: R$ 145,00. Valor aproximado de Condomínio: R$ 500,00.                                                                                                                                                                                                                   Informações Relevantes:  1 - Condomínio e IPTU = Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora. 2 - Imóvel Ocupado. Desocupação por conta do adquirente 3 - Bens no estado que se encontram (imóveis vendidos em caráter Ad Corpus); 4 - CONDIÇÕES DE PAGAMENTO: À vista  5 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.            Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 25% de deságio sobre o valor de avaliação.   Sold Imóveis - Cury 3º Leilão - 10.04.24 - 14h30]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[53]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>138152.45</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/28632736-9d06-4288-8c02-4114f43b2817.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7a50cd4c-336f-4e31-af5f-d781fab7490a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b87abab8-8c21-45db-b5cd-65a86df38854.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/168637f2-ee79-4ba9-824b-315b050b37bb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6dda96ff-87d3-4712-b121-5712a581a40d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada Deputado Darcilio Ayres Raunhetti, undefined]]></endereco>
+        <localidade><![CDATA[Rancho Novo, Nova Iguaçu, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[26011-810]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3221317]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3221317]]></codigoReferencia>
+      <titulo><![CDATA[Apto 79m², Ocupado, Chácara Agrindus no Taboão da Serra/SP]]></titulo>
+      <descricao><![CDATA[Apto 79m², Ocupado, Chácara Agrindus no Taboão da Serra/SP  Apto 79m², Ocupado, Chácara Agrindus no Taboão da Serra/SP - Apartamento nº 152, localizado no 15º andar da Torre 01, do Condomínio Residencial Cenário Taboão, situado na Rua Francisco Andugar Espinosa, nº 18, na cidade de Taboão da Serra/SP, contendo: área privativa total de 79,70m², área de uso comum de 80,23m², com a área real total de 159,93m² e coeficiente de proporcionalidade de 0,003825220; correspondendo ao mesmo duas vagas cobertas na garagem coletiva, localizadas no 1º/2º subsolo e sujeitas a manobrista. Matrícula nº 24.687 do Cartório de Registro de Imóveis e Anexos da Comarca de Taboão da Serra/SP. Cadastrado na Prefeitura municipal sob o nº 36.23264.24.27.0003.01.120.3.     Imóvel Ocupado. Desocupação por conta do adquirente.     O Empreendimento conta com: Piscina, Sauna, Churrasqueira, Espaço Gourmet, Academia, Quadra espotiva, Playground, Salão de Festas     Localização: Próximo Chácara Agrindus, Praça Venezuela, Parque das Hortênsias, Shopping Taboão, Escolas e Hospitais.     O imóvel será entregue livre de débitos de IPTU e Condomínio.   Valor aproximado de IPTU: R$ 245,00. Valor aproximado de Condomínio: R$ 550,00.      Informações Relevantes:   1 - Condomínio e IPTU = Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora.  2 - Imóvel Ocupado. Desocupação por conta do adquirente  3 - Bens no estado que se encontram (imóveis vendidos em caráter Ad Corpus);  4 - CONDIÇÕES DE PAGAMENTO: À vista   5 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor)  6 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.      Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 15% de deságio sobre o valor de avaliação.  Sold Imóveis - Cury 3º Leilão - 10.04.24 - 14h30]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[79]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>327204</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/695ff88c-6e30-4004-b8d3-1ac97dea48df.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/783cb94b-8bf4-4e28-8c91-0320146806aa.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d4f676d-0fb4-4404-9fc6-0cc05f5ce67b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2f64cc0b-445a-4d3b-950f-dc32a55eb552.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dc3062ca-f737-487b-ace5-5eabad4a6ce3.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Francisco Andugar Espinosa, 18]]></endereco>
+        <localidade><![CDATA[Chácara Agrindus, Taboão da Serra, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06763-060]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3221304]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3221304]]></codigoReferencia>
+      <titulo><![CDATA[Apto 46m², Ocupado, 1 Vaga em Madureira, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Apto 46m², Ocupado, 1 Vaga em Madureira, Rio de Janeiro/RJ  Apto 46m², Ocupado, 1 Vaga em Madureira, Rio de Janeiro/RJ - Estrada do Barro Vermelho, nº 700, Apto 1203 do Bloco 01 e sua correspondente fração ideal de 0,0022665 do respectivo, designada por lote 1 de 2ª categoria do PAL 47.993, com direito a uma vaga de garagem, medindo em sua totalidade: 75,16m de frente para a Estrada do Barro Vermelho, mais 10,42m em curva subordinada um raio interno de 5,00m, concordando com o alinhamento da Rua Pão de Açúcar por onde mede 159,45m, mais 40,00m, mais 50,00m; 32,28m de fundos onde parte faz testada para a praça Carlos Toledo: 177,86m a direita em três segmentos de: 30,20m, mais 0,95m, mais 146,71m, confrontando pela lado direito com o nº 600 (lote 2 do PAL 47687), de propriedade de MRV Engenharia e Participações S/A e outros, pelo lado esquerdo com a Rua Pão de Açúcar e com a área destinada a escola do PAL 47993, doada ao município do Rio de Janeiro, e pelos fundos com a Praça Carlos Toledo. Conforme Av.02, O edifício possui o nº 484 da Estrada do Barro Vermelho. Matrícula nº 244.331 do 8º Serviço Registral de Imóveis do Rio de Janeiro/RJ. Cadastrado na Prefeitura municipal sob o nº 01 1203 ¿ 3.357.781-8.  Imóvel Ocupado. Desocupação por conta do adquirente.  O Empreendimento conta com: playground, piscina, churrasqueira, sala de ginástica, salão de jogos e brinquedoteca.  Localização: O empreendimento é próximo à estação de trem, ao Hipermercado Extra, ao Parque Madureira, a 2 shoppings, a uma unidade de pronto atendimento e à Estação de Trem e Metrô Colégio.  O imóvel será entregue livre de débitos de IPTU e Condomínio.               Valor aproximado de IPTU: R$ 202,00. Valor aproximado de Condomínio: R$ 650,00.                                                                                                                                                                         Informações Relevantes:  1 - Condomínio e IPTU = Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora. 2 - Imóvel Ocupado. Desocupação por conta do adquirente 3 - Bens no estado que se encontram (imóveis vendidos em caráter Ad Corpus); 4 - CONDIÇÕES DE PAGAMENTO: À vista  5 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor). 6 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.            Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Percentual de desconto: 35% de deságio sobre o valor de avaliação.  Dossie Sold Imóveis - Cury 3º Leilão - 10.04.24 - 14h30]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[46]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>87750.03</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c183faa3-da99-4dea-a8c6-a8865baead1c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ef48ea3-5cd0-4f2d-9d86-bd89b25bcf63.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0e8fb4bd-4f67-4852-b55a-7c9538dfd1bb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6993425c-888f-45d1-92c4-e63ba897f986.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/13951ba7-56c5-4300-bff7-e60f17c8bafc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada do Barro Vermelho, 484]]></endereco>
+        <localidade><![CDATA[Madureira, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21540-500]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3228825]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3228825]]></codigoReferencia>
+      <titulo><![CDATA[Casa 350m², Ocupada no Bairro Aparecida em Alvorada/RS]]></titulo>
+      <descricao><![CDATA[Casa 350m², Ocupada no Bairro Aparecida em Alvorada/RS  Casa 350m², Ocupada no Bairro Aparecida em Alvorada/RS - Um terreno com a área superficial de 350,00m², constituído do lote número 13, da quadra 11, formada pelas Ruas General Vitorino, Landell de Moura, Ponche Verde e Primeiro de Maio do loteamento denominado Jardim Alvorada, situado no distrito sede deste município de Alvorada/RS, zona urbana, medindo 10m00 de frente, por 35m00 de extensão da frente aos fundos, por ambos os lados, tendo nos fundos a mesma largura da frente, dividindo-se: pela frente, a SE, com a Rua Landell de Moura,; pelos fundos, a NO, com o lote 8; por um lado, a SO, com o lote número 14; e pelo outro lado, a NE, com o lote numero 12; distante 25m00 da esquina da Rua Ponche Verde. Conforme Av.07, passa a integrar o imóvel, um prédio de alvenaria com 42,35m², sito na Rua Landell de Moura, nº 132. Conforme Av.27, houve um aumento de alvenaria residencial de 88,43m², atribuídos ao prédio, que devido ao aumento, o prédio passa a ter a área total de 130,78m². Matrícula nº 4.286 do Cartório Oficio de Registro de Imóveis de Alvorada/RS. Cadastrado na Prefeitura Municipal sob n°: 22402.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.      O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/Abr/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 458.071,42.     2ª Praça:   Abertura: 03/Abr/2024 a partir das 09h01  Fechamento: 10/Abr/2024 a partir das 13h00 com Valor Mínimo de Venda de R$ 410.720,09.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[350]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>458071.42</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/de49c65c-8cf6-4ed6-b9f9-0a9e25f45cc9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0d8301b0-8ba2-49a9-84ad-2e01b49f4b93.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c1b022d-cea4-44d3-8fd6-a0d51c6aa4db.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Landell de Moura, 132]]></endereco>
+        <localidade><![CDATA[Aparecida, Alvorada, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[94853-320]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
