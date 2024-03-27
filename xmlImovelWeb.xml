@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711535889847</dataModificacao>
+  <dataModificacao>1711536060479</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -13416,6 +13416,108 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Guido Penariol, 290]]></endereco>
         <localidade><![CDATA[Jardim Alvorada, Jaboticabal, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14870-710]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3224011]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3224011]]></codigoReferencia>
+      <titulo><![CDATA[Casa, Ocupado, São João Del Rei / MG (30% abaixo da avaliação)]]></titulo>
+      <descricao><![CDATA[Casa, Ocupado, São João Del Rei / MG (30% abaixo da avaliação)  Endereço Completo  Rua Fidelis Guimarães, 192, 192 A, Fabricas, São João Del Rei, MG, CEP: 36301228   Características do Imóvel:    Descrição:  Casa, Em condomínio, Ocupado. Área(s): 136,2 m² de área terreno, 157,82 m² de área construída, 157,82 m² de área privativa. Matrícula(s): 63.767. Cartório: CRI DE SÃO JOÃO DEL REI. Inscrição da Prefeitura: 01.13.038.00198.002.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.20909   Área Privativa:  157.82 m2  Área Terreno:  136.2 m2  Composição Interna/Vagas:  Dormitórios: 3, Banheiros: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1, Varandas: 1   Matrícula:  63.767  Cartório de Registro:  CRI DE SÃO JOÃO DEL REI  Inscrição na Prefeitura:  01.13.038.00198.002  IPTU Anual:  R$ 394,84   Valor Avaliado:  R$ 320.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   a. OCUPADO  b. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME CLAUSULA 4.12. DO EDITAL.  c. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  321476 Santander Oportunidades]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[157.82]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>224640</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/46978da7-bc93-45aa-a2f6-0c9239bc5cd6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9397b3a1-a5c9-45d0-81c3-d01b75156f44.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d9f8b86-6c35-41ca-94f3-2b16aaa18168.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c7a0976-14b6-469e-9145-df95030a5f0b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/508f67a9-2118-45d1-b0dd-190b4492f036.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/149709f8-c9d0-41be-b3bd-cbffdb549710.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cdd06cdc-4ca6-48eb-8e36-b2ca44a52e1c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9f70a017-3836-4604-b21a-44f9d0495ac9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2a9676dd-885e-4883-8026-d99177455c9a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/161bce0b-6e5f-4b3b-8b04-4e3650b593d4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/957e92d4-ea0d-41f1-ae59-bbc30a48aa03.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00405be6-01e5-446b-a22f-474613de9aec.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f666c624-ff92-4e94-875a-89e0ff2d8d06.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fca0f5f0-ffe3-401c-ab0f-eb3f11720a60.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2707063c-a6bb-4052-bb5a-e2cb096312cb.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Fidelis Guimarães, 192, 192 A]]></endereco>
+        <localidade><![CDATA[Fábricas, São João Del Rei, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[36301228]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
