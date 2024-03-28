@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1711536135862</dataModificacao>
+  <dataModificacao>1711646824709</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -5154,411 +5154,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3194151]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3194151]]></codigoReferencia>
-      <titulo><![CDATA[Casa 174m², Campos Eliseos, Ribeirão Preto/SP]]></titulo>
-      <descricao><![CDATA[Casa 174m², Campos Eliseos, Ribeirão Preto/SP  Casa - no Campos Eliseos     Localização: Rua Eduardo Leite, 778, Campos Eliseos, Ribeirão Preto/SP, 14080-680     Área Terreno: 174m²     Matrícula: nº 155.291  RGI: 1º Oficial de Registro de Imóveis de Ribeirão Preto/SP  Inscrição Prefeitura: 126277     DOSSIÊ: 02.21463     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Mar/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 313.187,58     2ª Praça:  Abertura: 21/Mar/2024 a partir das 09h31  Fechamento: 22/Mar/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 208.261,47        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 34% de deságio sobre o valor de avaliação.  02.21463 Santander - Alienação Fiduciária - D.02.21463]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[174]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>313187.58</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c8cfff9-126a-43a5-b010-45b90c58c847.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7539dd0c-5931-43d5-9d5d-4a1169389f61.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5f10a80-a9e2-4683-a5dd-17588ac4c316.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Eduardo Leite, 778]]></endereco>
-        <localidade><![CDATA[Campos Eliseos, Ribeirão Preto, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[14080-680]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3193432]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3193432]]></codigoReferencia>
-      <titulo><![CDATA[Apto 43m² no Centro em Capão da Canoa/RS - Ocupado]]></titulo>
-      <descricao><![CDATA[Apto 43m² no Centro em Capão da Canoa/RS - Ocupado  Apto 43m² no Centro em Capão da Canoa/RS - Ocupado     Localização: Rua Sepé, nº 2.290, apto 504, no Centro em Capão da Canoa/RS - CEP: 95555-000     área útil: 43,30m²  área total: 57,31m²     Matrícula: nº 33.847  RGI: Cartório de Registro de Imóveis de Capão da Canoa/RS  Inscrição Prefeitura: 60209     DOSSIÊ: 02.21046     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/mar/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 300.000,00     2ª Praça:  Abertura: 21/mar/2024 a partir das 10h41  Fechamento: 22/mar/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 218.112,31        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 27% de deságio sobre o valor de avaliação.  02.21046 Santander - Alienação Fiduciária - D.02.21046]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>300000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5d2a326-70d5-427f-8117-3e6ec044fa08.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Sepé, 2.290]]></endereco>
-        <localidade><![CDATA[apto 504, no Centro  Capão da Canoa, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[95555-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3194865]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3194865]]></codigoReferencia>
-      <titulo><![CDATA[Apto. 48m², Jardim das Oliveiras, São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Apto. 48m², Jardim das Oliveiras, São Paulo/SP  Apartamento - no Jardim das Oliveiras     Localização: Rua Lagoa das Capivaras, 50, Apto. 37, Cond. Rossi Mais Clube Itaim, Jardim das Oliveiras, São Paulo/SP, 08111-150     Área Privativa: 48m²  Área Comum: 9m²     Matrícula: nº 186.842  RGI: 12º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 134.421.0030-4     DOSSIÊ: 02.21229     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Mar/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 443.013,41     2ª Praça:  Abertura: 21/Mar/2024 a partir das 09h51  Fechamento: 22/Mar/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 156.127,96        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 65% de deságio sobre o valor de avaliação.  02.21229 Santander - Alienação Fiduciária - D.02.21229]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[48]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>443013.41</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f592111a-4a0a-43a2-af16-ff68ed60b8d5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3f215dd-3a19-4e17-a597-dfad2b34791a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/463b8324-a0a5-4256-bc72-6d6651599f9d.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Lagoa das Capivaras, 50]]></endereco>
-        <localidade><![CDATA[Jardim das Oliveiras, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[08111-150]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3192856]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3192856]]></codigoReferencia>
-      <titulo><![CDATA[Apto  76m², Ocupado, em São Paulo/SP]]></titulo>
-      <descricao><![CDATA[Apto  76m², Ocupado, em São Paulo/SP  Apto 76m², Ocupado, em São Paulo/SP     Localização: Av. General Olímpio da Silveira, nº 386, Apto nº 52, Edificio Pacaembu, Barra Funda, em São Paulo/SP - CEP 01150-000     área total construída de 76,65m²  fração ideal no terreno de 0,016%.     Matrícula: n° 147.495 do 15º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 020.045.0032-8     DOSSIÊ: 02.20931     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 581.821,23     2ª Praça:  Abertura: 21/03/2024 a partir das 10h01  Fechamento: 22/03/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 210.000,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 64% de deságio sobre o valor de avaliação.  02.20931 Santander - Alienação Fiduciária - D.0220931]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>581821.23</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/971d44fd-8045-471a-a75f-5e45508aabd8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7960f2ad-cce8-46ce-888a-9907d8ebfee9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d114262-b1bc-4f0d-8d80-be6c240edfbc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b571389d-1b1c-483f-baa0-72659fd3e9f1.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/55c33d3b-a6fd-41b1-a8c5-574687029f1b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53a84659-6165-44c3-89ee-0e86fca4fd93.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Av. General Olímpio da Silveira, 386]]></endereco>
-        <localidade><![CDATA[Barra Funda, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[01150-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3193246]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3193246]]></codigoReferencia>
-      <titulo><![CDATA[Casa 46m², Ocupada, em Uberlândia/MG]]></titulo>
-      <descricao><![CDATA[Casa 46m², Ocupada, em Uberlândia/MG  Casa 46m², Ocupada, em Uberlândia/MG     Localização: Avenida dos Ferreiras, nº 475, Casa nº 190, Condomínio Terra Nova Uberlândia, Uberlândia/MG - CEP 38406-136     área privativa principal de 46,7200m²  área privativa acessória de 54,0800m²  área privativa total de 100,8000m²  área de uso comum de 43,0573m²  área real total de 143,8573m²  área de terreno de uso exclusivo- 100,8000m²  área de terreno de uso comum 100,5974m²  área de terreno total 201,3974m²     Matrícula: n° 148.669 do 1º Oficial de Registro de Imóveis de Uberlândia/MG  Inscrição Prefeitura: 00.02.0303.07.06.0001.0378     DOSSIÊ: 02.21221     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 229.571,31     2ª Praça:  Abertura: 21/03/2024 a partir das 10h11  Fechamento: 22/03/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 98.746,37        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 57% de deságio sobre o valor de avaliação.  .  02.21221 Santander - Alienação Fiduciária - D.021221]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>229571.31</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2e17442b-47e4-4850-af36-7cde6cca2c98.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2c8b37e-c448-41fa-af2c-c343a27c8c75.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94c2d42a-b265-43d4-89e7-9abccf60c13f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b5242761-7f8a-428b-9bce-d207528803a2.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida dos Ferreiras, 475]]></endereco>
-        <localidade><![CDATA[Condomínio Terra Nova Uberlândia, Uberlândia, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[38406-136]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3197296]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3197296]]></codigoReferencia>
-      <titulo><![CDATA[Casa 85m², Ocupado, em Mogi das Cruzes/SP]]></titulo>
-      <descricao><![CDATA[Casa 85m², Ocupado, em Mogi das Cruzes/SP  Casa 85m², Ocupado, em Mogi das Cruzes/SP     Localização: Rua Joaquim de Mello Freire Junior (Zozo), nº 25, Condomínio "Residencial Village Meliá", Vila Oliveira, Mogi das Cruzes/SP - CEP 08790-330     área real construída privativa de 85,52m²  área real construída comum de 2,99m²  área real construída total de 88,51m²  área real de terreno privativa de 102.16m²  área real de terreno comum de 60,40m²     Matrícula: nº 63.828 do 2º Oficial de Registro de Imóveis de Mogi das Cruzes/SP  Inscrição Prefeitura: 04.128.008.038-0     DOSSIÊ: 02.21213     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 575.734,90     2ª Praça:  Abertura: 21/03/2024 a partir das 09h41  Fechamento: 22/03/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 281.500,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 51% de deságio sobre o valor de avaliação.  02.21213 Santander - Alienação Fiduciária - D.02.21213]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>575734.9</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7018e03b-a8c7-461a-996b-fc78efd68869.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91e1c142-5b0c-475d-8916-4b1a76fd63dc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ff89cf3f-b88a-42f4-9eb4-b8135ae3c2f0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bc0f61e-9605-4991-a8e0-1dc590a3a9a2.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Joaquim de Mello Freire Junior (Zozo), 25]]></endereco>
-        <localidade><![CDATA[Vila Oliveira, Mogi das Cruzes, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[08790-330]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[2568273]]></codigoAnuncio>
       <codigoReferencia><![CDATA[2568273]]></codigoReferencia>
       <titulo><![CDATA[Casa Residencial/Comercial 372m² DESOCUPADA em São Paulo/SP]]></titulo>
@@ -5815,66 +5410,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <endereco><![CDATA[Av. Raimundo Pereira de Magalhães n° 2199, apto 168]]></endereco>
         <localidade><![CDATA[Pirituba, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[05145-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3193370]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3193370]]></codigoReferencia>
-      <titulo><![CDATA[Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado]]></titulo>
-      <descricao><![CDATA[Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado  Casa 501m² no Parque dos Principes em Osasco/SP - Ocupado     Localização: Rua Dionisio Murcovic, nº 129, Parque dos Príncipes, em Osasco/SP - CEP: 06030-370     área construída: 542,90m²  área total: 501,29m²     Matrícula: nº 16.971  RGI: 1º Oficial de Registro de Imóveis de Osasco/SP  Inscrição Prefeitura: 23244.21.18.0180.00.000.02     DOSSIÊ: 02.21196     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/mar/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 3.079.434,20     2ª Praça:  Abertura: 21/mar/2024 a partir das 10h31  Fechamento: 22/mar/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 1.395.827,84        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 55% de deságio sobre o valor de avaliação.  02.21196 Santander - Alienação Fiduciária - D.02.21196]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[501.29]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>3079434.2</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2088da14-371a-4da9-804b-a55357d88b02.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Dionísio Murcovic, 129]]></endereco>
-        <localidade><![CDATA[Parque dos Príncipes, Osasco, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[06030-370]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -7897,72 +7432,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3213477]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3213477]]></codigoReferencia>
-      <titulo><![CDATA[Apto. 48m², Ocupado, 1 vaga na Vila Virgínia em Itaquaquecetuba/SP]]></titulo>
-      <descricao><![CDATA[Apto. 48m², Ocupado, 1 vaga na Vila Virgínia em Itaquaquecetuba/SP  O apartamento nº 31, tipo R 3D do Bloco 12 no 3º pavimento do Conjunto Residencial Portal do Sol, com entrada pela Rua Cosmópolis, nº 120, Vila Virgínia, Município de Itaquaquecetuba, possuindo a área real privativa de 48,53m², área real de uso comum de 24,53693m², área real total construída de 73,06693m², correspondendo-lhe uma fração ideal de 0,002887% no terreno condominial, cabendo a este apartamento uma vaga de garagem, destinada a um automóvel, em local descoberto e indeterminado nas áreas de estacionamento do conjunto. Matrícula nº 10.570 do Oficial de Registro de Imóveis de Itaquaquecetuba/SP. Cadastrado na Prefeitura Municipal sob n° 44453-52-33-0001-12-013-1.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.      O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Mar/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 209.398,85.     2ª Praça:   Abertura: 21/Mar/2024 a partir das 09h01  Fechamento: 28/Mar/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 149.461,70.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 29% de deságio sobre o valor de avaliação.  10570 Creditas - Leilão de Alienação Fiduciária]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[48]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>209398.85</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6d39be45-c4e5-4d85-8674-7723036d130a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c08af95-1df6-4082-b21e-4778c0288d62.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f6c5ceb-3772-475a-a5ab-98a565672023.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Cosmópolis, 120]]></endereco>
-        <localidade><![CDATA[Vila Virgínia, Itaquaquecetuba, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[08576-230]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3218008]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3218008]]></codigoReferencia>
       <titulo><![CDATA[Lote, Desocupado, 24995.79 m2, Macaé / RJ]]></titulo>
@@ -8137,75 +7606,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3216249]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3216249]]></codigoReferencia>
-      <titulo><![CDATA[Casa 297m², Ocupada, Bairro Luiz Eduardo Magalhães, em Prado/BA]]></titulo>
-      <descricao><![CDATA[Casa 297m², Ocupada, Bairro Luiz Eduardo Magalhães, em Prado/BA  Casa 297m², Ocupada, Bairro Luiz Eduardo Magalhães, em Prado/BA     Localização: Avenida Angelita Mascarenhas, s/nº, lote nº17 , quadra 16, setor 03, Bairro Luiz Eduardo Magalhães, Prado/BA - CEP: 45980-000     área de terreno de 435,32m²  área total construída de 297,56m²     Matrícula: 21.516 do Oficial de Registro de Imóveis de Prado/BA,  Inscrição Prefeitura: 01.03.019.0329.001     DOSSIÊ: 02.20901     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 09h10 com Valor Mínimo de Venda de R$ 1.002.553,29     2ª Praça:  Abertura: 21/03/2024 a partir das 09h11  Fechamento: 22/03/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 502.500,00     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 50% de deságio sobre o valor de avaliação.      02.20901 Santander - Alienação Fiduciária - D.02.20901]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[297]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1002553.29</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d452ce3-e549-49c5-af1e-1aeb298f906e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b9a7e9d-9a68-4b34-a6f3-d13f3075946d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b3cd8591-5945-4920-af21-32312a48f602.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5160c300-9659-4878-9c47-48a2762a9b81.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Angelita Mascarenhas, s]]></endereco>
-        <localidade><![CDATA[setor 03, Bairro Luiz Eduardo Magalhães, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[45980-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3216071]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3216071]]></codigoReferencia>
       <titulo><![CDATA[Apto. 70m², Desocupado no Praça Seca, Rio de Janeiro/RJ]]></titulo>
@@ -8258,597 +7658,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Pinto Teles, 320]]></endereco>
         <localidade><![CDATA[Praça Seca, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[21341-270]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218814]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218814]]></codigoReferencia>
-      <titulo><![CDATA[Casa 207m², no Mata do Jacinto, Campo Grande/MS]]></titulo>
-      <descricao><![CDATA[Casa 207m², no Mata do Jacinto, Campo Grande/MS  Casa - no Mata do Jacinto     Localização: R. Marques de Herval, nº 2.237, Mata do Jacinto, Campo Grande/MS, 79033-560     Área Terreno: 207m²  Área Construída: 53m²  Descrição Interna: (sala de estar/jantar, hall de circulação, 03 quartos, 01 banheiro social, 01 cozinha e área de serviço)     Matrícula: nº 194.225  RGI: 1º Oficial de Registro de Imóveis de Campo Grande/MS  Inscrição Prefeitura: 03332520538     DOSSIÊ: 02.21195     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 267.707,80     2ª Praça:  Abertura: 20/Mar/2024 a partir das 10h11  Fechamento: 22/Mar/2024 a partir das 15h10 com Valor Mínimo de Venda de R$ 149.500,00     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 44% de deságio sobre o valor de avaliação.  02.21195 Santander - Alienação Fiduciária - D.02.21195]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[207]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>267707.8</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/72a72d1f-d151-4fbb-a571-2042b5dd52fa.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ae56f8f-8b2b-4dec-9f14-7129286b4f36.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a1d176d6-183e-4933-bb88-ac55ee250238.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Marques de Herval, 2.237]]></endereco>
-        <localidade><![CDATA[Mata do Jacinto, Campo Grande, Mato Grosso do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[79033-560]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218403]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218403]]></codigoReferencia>
-      <titulo><![CDATA[Apto. 59m², 1 vaga no Afonso Pena, São José dos Pinhais/PR]]></titulo>
-      <descricao><![CDATA[Apto. 59m², 1 vaga no Afonso Pena, São José dos Pinhais/PR  Apartamento e vaga - no Afonso Pena     Localização: R. Desembargador Ernani Almeida de Abreu, nº 353, Cond. Res. Etel II, Afonso Pena, São José dos Pinhais/PR, 83046-010     Apartamento  Área Privativa: 59m²     Matrícula: nº 97.711  RGI: 01º Oficial de Registro de Imóveis de São José dos Pinhais/PR  Inscrição Prefeitura: 05.057.0018.0003     Vaga  Área Privativa: 11m²     Matrícula: nº 97.725  RGI: 01º Oficial de Registro de Imóveis de São José dos Pinhais/PR  Inscrição Prefeitura: 05.057.0018.0017     DOSSIÊ: 02.21498     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 290.845,39     2ª Praça:  Abertura: 20/Mar/2024 a partir das 10h41  Fechamento: 22/Mar/2024 a partir das 15h40 com Valor Mínimo de Venda de R$ 285.388,70     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21498 Santander - Alienação Fiduciária - D.02.21498]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[59]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>290845.39</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fbea6113-eb76-4a1f-9576-084ade4b3574.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/84e70eca-3171-4ba7-814e-ec420d62f870.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23e8bd06-ea75-4a4b-b523-6a3b424a02c7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0b58801b-b9b2-44d6-9150-1d4e67e883a3.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Desembargador Ernani Almeida de Abreu, 353]]></endereco>
-        <localidade><![CDATA[Afonso Pena, São José dos Pinhais, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[83046-010]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219003]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219003]]></codigoReferencia>
-      <titulo><![CDATA[Casa 292m², XV de Novembro, Frutal/MG]]></titulo>
-      <descricao><![CDATA[Casa 292m², XV de Novembro, Frutal/MG  Casa - no XV de Novembro     Localização: R. Lincoln Campos, 15, XV de Novembro, Frutal/MG, 38200-192     Área Terreno: 292m²  Área Construção: 103m²     Matrícula: nº 58.591  RGI: Oficial de Registro de Imóveis de Frutal/MG  Inscrição Prefeitura: 01.090.00004.009.000     DOSSIÊ: 02.21356     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 292.528,06     2ª Praça:  Abertura: 20/Mar/2024 a partir das 10h31  Fechamento: 22/Mar/2024 a partir das 15h30 com Valor Mínimo de Venda de R$ 272.639,52        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21356 Santander - Alienação Fiduciária - D.02.21356]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[292]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>292528.06</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f8d32bbf-2c47-47df-98fe-d09b13b98b9e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb0d49e7-0559-4145-86fa-5b6ad1e63f75.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a140741d-bd6a-47a7-abcd-c12ec75a33d1.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Lincoln Campos, 15]]></endereco>
-        <localidade><![CDATA[XV de Novembro, Frutal, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[38200-192]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218784]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218784]]></codigoReferencia>
-      <titulo><![CDATA[Casa 170m², no São Paulo, Santa Helena de Goias/GO]]></titulo>
-      <descricao><![CDATA[Casa 170m², no São Paulo, Santa Helena de Goias/GO  Casa - no São Paulo     Localização: R. Luzia Arantes de Freitas, nº 82, Cond. Res. Sousa, São Paulo, Santa Helena de Goias/GO, 75920-000     Área Terreno: 170m²  Área Construída: 102m²  Descrição Interna: (01 garagem, 01 sala, 01 cozinha, 02 quartos, 01 banheiro, 01 circulação e 01 área de serviço)     Matrícula: nº 23.154  RGI: Oficial de Registro de Imóveis de Santa Helena de Goiás/GO  Inscrição Prefeitura: 677453     DOSSIÊ: 02.21279     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 276.768,90     2ª Praça:  Abertura: 20/Mar/2024 a partir das 10h21  Fechamento: 22/Mar/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 279.804,14     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21279 Santander - Alienação Fiduciária - D.02.21279]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[170]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>276768.9</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a19834d0-9a39-40f6-8cbf-9ea206e67ddf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a34d55b2-3a9e-4742-bcee-2c73ec9fb063.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Luzia Arantes de Freitas, 82]]></endereco>
-        <localidade><![CDATA[São Paulo, Santa Helena de Goias, Goiás, Brasil]]></localidade>
-        <codigoPostal><![CDATA[75920-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219103]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219103]]></codigoReferencia>
-      <titulo><![CDATA[Apto. 49m², 1 vaga no Jardim Primavera, Nova Odessa/SP]]></titulo>
-      <descricao><![CDATA[Apto. 49m², 1 vaga no Jardim Primavera, Nova Odessa/SP  Apartamento - no Jardim Primavera     Localização: Av. Rodolfo Kivitz, 1.250, Jardim Primavera, Nova Odessa/SP, 13380-530     Área Privativa: 49m²  Área Comum: 14m²  1 vaga     Matrícula: nº 18.101  RGI: Oficial de Registro de Imóveis de Nova Odessa/SP  Inscrição Prefeitura: 24.01125.0050.0723     DOSSIÊ: 02.21412     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 215.434,23     2ª Praça:  Abertura: 20/Mar/2024 a partir das 09h31  Fechamento: 22/Mar/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 190.759,89        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 11% de deságio sobre o valor de avaliação.  02.21412 Santander - Alienação Fiduciária - D.02.21412]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[49]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>215434.23</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8833b0ae-bd16-49f2-9be3-6f5ad1fdd63c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/519ed754-d34c-4617-90f1-5d64833e1d1a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe202e07-9392-4a80-9c60-d8bca51e6e0f.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Av. Rodolfo Kivitz, 1.250]]></endereco>
-        <localidade><![CDATA[Jardim Primavera, Nova Odessa, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13380-530]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219506]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219506]]></codigoReferencia>
-      <titulo><![CDATA[Casa 192m² na Vila Boa Esperança, Ourinhos/SP]]></titulo>
-      <descricao><![CDATA[Casa 192m² na Vila Boa Esperança, Ourinhos/SP  Casa - na Vila Boa Esperança     Localização: Rua Angelo Martins, nº 42, Vila Boa Esperança, Ourinhos/SP, 19913-330     Área de Terreno: 192m²  Área Construída: 180m² (conforme laudo)     Matrícula: nº 52.467  RGI: Cartório de Registro de Imóveis de Ourinhos/SP  Inscrição Prefeitura: 7.04.14.01.0029.0036.000     *Recai sobre o imóvel a ação nº 1001284-63.2023.8.26.0408.*     DOSSIÊ: 02.18705     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/Mar/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 490.141,97     2ª Praça:  Abertura: 22/Mar/2024 a partir das 09h51  Fechamento: 25/Mar/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 217.346,63        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 56% de deságio sobre o valor de avaliação.  02.18705 Santander - Alienação Fiduciária - D.02.18705]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[192]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>490141.97</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9d7ba014-bc9a-4d3e-a479-6006b37a861e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad4d034c-de14-42a3-91e9-c744d58ca100.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97eac349-9fd9-45ff-946c-4688222915cd.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Angelo Martins, 42]]></endereco>
-        <localidade><![CDATA[Vila Boa Esperança, Ourinhos, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[19913-330]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219306]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219306]]></codigoReferencia>
-      <titulo><![CDATA[Terreno 1.685m², Distrito Industrial II, Sananduva/RS]]></titulo>
-      <descricao><![CDATA[Terreno 1.685m², Distrito Industrial II, Sananduva/RS  Terreno - no Distrito Industrial II     Localização: R. Severino Toniazzo, s/n, Distrito Industrial II, Sananduva/RS, 99840-000     Área Terreno: 1.685m²     Matrícula: nº 11.051  RGI: Oficial de Registro de Imóveis de Sananduva/RS  Inscrição Prefeitura: 19880-1     DOSSIÊ: 02.20828     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 663.695,22     2ª Praça:  Abertura: 20/Mar/2024 a partir das 11h41  Fechamento: 22/Mar/2024 a partir das 16h40 com Valor Mínimo de Venda de R$ 408.674,73         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 38% de deságio sobre o valor de avaliação.  02.20828 Santander - Alienação Fiduciária - D.02.20828]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[1.685]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>663695.22</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4d049d2a-151c-423f-80e7-0da019194d05.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0f6d3a18-1e75-43af-9a4e-3d29a318a480.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/475c1414-87d9-4f29-bc13-1896663ce57e.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Severino Toniazzo, s]]></endereco>
-        <localidade><![CDATA[n, Distrito Industrial II, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[99840-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219311]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219311]]></codigoReferencia>
-      <titulo><![CDATA[Casa 250m², Moradias Atenas, Maringa/PR]]></titulo>
-      <descricao><![CDATA[Casa 250m², Moradias Atenas, Maringa/PR  Casa - no Moradias Atenas     Localização: R. Anisio Gonçalves de Oliveira, 85, Moradias Atenas, Maringa/PR, 87075-742     Área Terreno: 250m²  Área Construída: 59m²  Conforme Laudo: No IPTU consta a área construída de 126,96m². Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Matrícula: nº 26.164  RGI: 3º Oficial de Registro de Imóveis de Maringá/PR  Inscrição Prefeitura: 19344900     DOSSIÊ: 02.21127     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/Mar/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 249.492,31     2ª Praça:  Abertura: 20/Mar/2024 a partir das 10h01  Fechamento: 22/Mar/2024 a partir das 15h00 com Valor Mínimo de Venda de R$ 234.789,94        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21127 Santander - Alienação Fiduciária - D.02.21127]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[250]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>249492.31</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bec30d59-75f4-483b-8561-91c0bf3d578c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b73716ba-daa4-4c36-bb7e-e9222ba7381e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ff6fb3ca-c5fb-4b8c-b289-eeb4efe16038.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Anisio Gonçalves de Oliveira, 85]]></endereco>
-        <localidade><![CDATA[Moradias Atenas, Maringa, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[87075-742]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3217850]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3217850]]></codigoReferencia>
-      <titulo><![CDATA[Casa 97m², 1 Vaga, Ocupado, Ipitanga, em Lauro de Freitas/BA]]></titulo>
-      <descricao><![CDATA[Casa 97m², 1 Vaga, Ocupado, Ipitanga, em Lauro de Freitas/BA  Casa 97m², 1 Vaga, Ocupado, Ipitanga, em Lauro de Freitas/BA     Localização: Rua Marília Tereza dos Santos, nº 227, Casa 05, Ipitanga, Lauro de Freitas/BA - CEP: 42706-350     área construída de 97,20m²   fração ideal de 105,00m2, da qual 100,00m² são privativos e 5,00m² são comuns     Matrícula: 26.187 do Oficial de Registro de Imóveis de Lauro de Freitas/BA  Inscrição Prefeitura: 40117.00227.CS05     DOSSIÊ: 02.21204     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 09h20 com Valor Mínimo de Venda de R$ 492.432,80     2ª Praça:  Abertura: 21/03/2024 a partir das 09h21  Fechamento: 22/03/2024 a partir das 13h20 com Valor Mínimo de Venda de R$ 382.902,52     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 22% de deságio sobre o valor de avaliação.      02.21204 Santander - Alienação Fiduciária - D.02.21204]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[97]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>492432.8</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4bc80208-c3f5-4586-8a3d-adca1b158fdf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0cab840f-a294-4fde-b8f9-ec0438a0a807.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Marília Tereza dos Santos, 227]]></endereco>
-        <localidade><![CDATA[Ipitanga, Lauro de Freitas, Bahia, Brasil]]></localidade>
-        <codigoPostal><![CDATA[42706-350]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -9001,147 +7810,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3217917]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3217917]]></codigoReferencia>
-      <titulo><![CDATA[Casa 91m², Ocupado, Bairro Carlotas, Paracuru/CE]]></titulo>
-      <descricao><![CDATA[Casa 91m², Ocupado, Bairro Carlotas, Paracuru/CE  Casa 91m², Ocupado, Bairro Carlotas, Paracuru/CE     Localização: R-24, nº 300, parte do lote nº 23, da quadra Z, Bairro Carlotas, Paracuru/CE - CEP: 62680-000     área de terreno de 240,00 m²   área construída de 91,85m²     Matrícula: 5.942 do 2º Oficial de Registro de Imóveis de Paracuru/CE  Inscrição Prefeitura: 000111176     DOSSIÊ: 02.21551     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.      O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 11h40 com Valor Mínimo de Venda de R$ 226.674,70     2ª Praça:  Abertura: 21/03/2024 a partir das 11h41  Fechamento: 22/03/2024 a partir das 17h40 com Valor Mínimo de Venda de R$ 148.363,20     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 35% de deságio sobre o valor de avaliação.   02.21551 Santander - Alienação Fiduciária - D.02.21551]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[91]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>226674.7</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5608a96a-101f-48f7-8b39-fbb94da526af.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/51d23af4-e57d-4248-94ec-f36e62201183.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f3d5632a-02cf-4c60-94ef-7c03e022c362.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4301e03a-af1c-4312-966d-b5c28d26fe76.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R-24, 300]]></endereco>
-        <localidade><![CDATA[Bairro Carlotas, Paracuru, Ceará, Brasil]]></localidade>
-        <codigoPostal><![CDATA[62680-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3218004]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3218004]]></codigoReferencia>
-      <titulo><![CDATA[Apto 66m², 1 Vaga, Ocupado, Bairro do Esperança, Jacareí/SP]]></titulo>
-      <descricao><![CDATA[Apto 66m², 1 Vaga, Ocupado, Bairro do Esperança, Jacareí/SP  Apto 66m², 1 Vaga, Ocupado, Bairro do Esperança, Jacareí/SP     Localização: Avenida Lucas Nogueira Garcez, nº 2.000, Apto 24-A, Edifício Vega, Bloco A, Condomínio Residencial Stelarum Domus, Bairro do Esperança, Jacareí/SP - CEP: 12325-000     área real privativa coberta de 66,620m²  área comum coberta de 10,785m², totalizando a área edificada de 77,405m²  área comum descoberta de 48,541m²  área total de 125,946m²     Matrícula: 55.169 do Oficial de Registro de Imóveis de Jacareí/SP  Inscrição Prefeitura: 33242-52-46-1266-01-012     DOSSIÊ: 02.20107     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 12h00 com Valor Mínimo de Venda de R$ 281.821,10     2ª Praça:  Abertura: 21/03/2024 a partir das 12h01  Fechamento: 22/03/2024 a partir das 18h00 com Valor Mínimo de Venda de R$ 193.441,46     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.      02.20107 Santander - Alienação Fiduciária - D.02.20107]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[66]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>281821.1</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c262453e-1af8-49c8-9fdf-8e280658cf29.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8814f755-98fd-4924-b8af-727fdd8bbe65.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9afe0e5-150d-436e-a3f2-a4d8d09a2cce.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/156dafa0-5748-4544-9c29-dcde46397473.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a7ad782f-629c-4a63-a030-07f2bfc1994a.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Lucas Nogueira Garcez, 2.000]]></endereco>
-        <localidade><![CDATA[Bairro do Esperança, Jacareí, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[12325-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3218232]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3218232]]></codigoReferencia>
       <titulo><![CDATA[Apto 50m², 1 Vaga, Ocupado na Vila Augusta, Guarulhos/SP]]></titulo>
@@ -9191,75 +7859,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Santa Izabel, 329]]></endereco>
         <localidade><![CDATA[Vila Augusta, Guarulhos, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[07023-022]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3219834]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3219834]]></codigoReferencia>
-      <titulo><![CDATA[Apto 57m², 1 Vaga, Ocupado em Sumaré/SP]]></titulo>
-      <descricao><![CDATA[Apto 57m², 1 Vaga, Ocupado em Sumaré/SP  Apto 57m², 1 Vaga, Ocupado em Sumaré/SP     Localização: Av. Moises Gerson Cardozo, nº 475 - CEP: 13178-581     área privativa total 57,940m²  área de uso comum 61,640m²  área real total 119,580m²  1 Vaga     Matrícula: 175.916 do Oficial de Registro de Imóveis de Sumaré/SP  Inscrição Prefeitura: 2.260.1374.022.1.01     DOSSIÊ: 02.21282     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/03/2024 a partir das 11h50 com Valor Mínimo de Venda de R$ 300.909,89     2ª Praça:  Abertura: 21/03/2024 a partir das 11h51  Fechamento: 22/03/2024 a partir das 17h50 com Valor Mínimo de Venda de R$ 206.150,48        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.   02.21282 Santander - Alienação Fiduciária - D.02.21282]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[57]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>300909.89</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/82090dcb-c6a4-4d6b-a16e-b88a49dbfe51.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9c83b9d7-ba8e-4256-aaa2-ef6fe3eec0e2.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e1fac611-8a3f-40a6-846a-b88a9a5cfc2a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/043ec458-8522-480b-8e8e-7b9f4bed8689.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Av. Moises Gerson Cardozo, 475]]></endereco>
-        <localidade><![CDATA[Bloco A, Condomínio Viva Vista Solar, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[SP   13178-581]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13334,6 +11933,588 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Jorge Valim, 188]]></endereco>
         <localidade><![CDATA[Vila Ester (Zona Norte), São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[02536000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3233277]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3233277]]></codigoReferencia>
+      <titulo><![CDATA[Sobrado 94m², 1 Vaga, Ocupado, em Caraguatatuba/SP]]></titulo>
+      <descricao><![CDATA[Sobrado 94m², 1 Vaga, Ocupado, em Caraguatatuba/SP  Sobrado 94m², 1 Vaga, Ocupado, em Caraguatatuba/SP     Localização: Rua Quinze, n° 95, Sobrado nº 09, Condomínio Horizontal Tabagua, Portal da Tabatinga, Caraguatatuba/SP CEP: 11679-558     área privativa de 94,550m²  estacionamento 15,00m²  área comum 8,278m²  área total - 116,828m²  com direito a uma vaga de estacionamento     Matrículas: 42.369 Oficial de Registro de Imóveis de Caraguatatuba/SP  Inscrição Prefeitura: 08.300.040-6     DOSSIÊ: 02.21590     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/04/2024 a partir das 11h00 com Valor Mínimo de Venda de R$ 752.000,00     2ª Praça:  Abertura: 01/04/2024 a partir das 11h01  Fechamento: 02/04/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 607.550,02        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4- Recai sobre o imóvel ação nº 1003136-55.2023.8.26.0010.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 19% de deságio sobre o valor de avaliação.  02.21590 Santander - Alienação Fiduciária - D.02.21590]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[94]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>752000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/032a358b-5acf-4e75-a3ef-3860e05135a7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/45c4f93b-84d2-49aa-a348-516b580274d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3222401a-f3ad-484b-a91b-0e4d8d743561.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d8a48f0b-672f-4368-8631-4897966e1f88.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Quinze, 95]]></endereco>
+        <localidade><![CDATA[Portal da Tabatinga, Caraguatatuba, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11679-558]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3233411]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3233411]]></codigoReferencia>
+      <titulo><![CDATA[Apto 68m² 1 vaga no Ana Lucia em Sabará/MG - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 68m² 1 vaga no Ana Lucia em Sabará/MG - Ocupado  Apto 68m² 1 vaga no Ana Lucia em Sabará/MG - Ocupado     Localização: Rua Olimpos n° 34, Condomínio Padre Libério, Bairro Ana Lucia, em Sabará/MG - CEP: 34710-110     área útil: 68,15m²  área total: 134,45m²     Matrícula: nº 34.069  RGI: Oficial de Registro de Imóveis de Sabará/MG  Inscrição Prefeitura: 1001070336006     DOSSIÊ: 02.21607     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 10/abril/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 399.876,73     2ª Praça:  Abertura: 10/abril/2024 a partir das 09h31  Fechamento: 12/abril/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 176.500,00     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 56% de deságio sobre o valor de avaliação.  02.21607 Santander - Alienação Fiduciária - D.02.21607]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[68]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>399876.73</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ad4ce81-ecd7-4f77-bf39-c986429e8a1b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Olimpos, 34]]></endereco>
+        <localidade><![CDATA[Ana Lucia, Sabará, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[34710-110]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3233488]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3233488]]></codigoReferencia>
+      <titulo><![CDATA[Apto 75m² no Parque Amazonia em Goiânia/GO]]></titulo>
+      <descricao><![CDATA[Apto 75m² no Parque Amazonia em Goiânia/GO  Apto 75m² no Parque Amazonia em Goiânia/GO     Localização: Av. Antonio Fidelis Quadra 104 - apto 2504 - Parque Amazonia - Goiânia/GO CEP: 74840-090     Área Privativa: 75,25m²  Área total: 98,77m²  Com direito a uma vaga de garagem     Matrícula: nº 231.540  RGI: Registro de Imóveis da 1ª Circunscrição de Goiânia/GO  Inscrição Prefeitura: 32306903681482     DOSSIÊ: 02.17249     Recai sobre o imóvel ação nº 5027929-69.2022.8.09.0051     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 09/maio/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 411.276,06     2ª Praça:  Abertura: 09/maio/2024 a partir das 09h31  Fechamento: 10/maio/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 145.000,00        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 65% de deságio sobre o valor de avaliação.  02.17249 Santander - Alienação Fiduciária - D.02.17249]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[75]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>411276.06</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/63a757c5-0a8e-4009-a85d-7272d6d3985d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Antonio Fidelis, 104]]></endereco>
+        <localidade><![CDATA[Parque Amazonia, Goiânia, Goiás, Brasil]]></localidade>
+        <codigoPostal><![CDATA[74840-090]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3233590]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3233590]]></codigoReferencia>
+      <titulo><![CDATA[Apto 58m², 1 vaga, Ocupado  - Curitiba/PR]]></titulo>
+      <descricao><![CDATA[Apto 58m², 1 vaga, Ocupado  - Curitiba/PR  Apto 58m², 1 vaga, Ocupado - Curitiba/PR     Localização: Rua Eduardo Aguirre Calabresi nº 161, Apto. 501, Bloco 2, Condomínio Residencial Spazio Chelsea, Curitiba/PR CEP 80050-390     Área privativa: 58,789900m²  Área comum: 11,725472m²  Área total construída: 70,515372m²  Vaga de garagem: 12,000000m²     Matrícula: 49.363   RGI: do 3º Serviço de Registro de Imóveis de Curitiba/PR  Inscrição Prefeitura: 06.0.0028.0192.00-9     DOSSIÊ: 02.18175     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 02/05/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 575.276,97     2ª Praça:  Abertura: 02/05/2024 a partir das 09h41  Fechamento: 03/05/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 170.983,01     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.   4- Recai sobre o imóvel ação nº 0010419-13.2022.8.16.0188      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou telefone: (11) 4950-9602.     Percentual de desconto: 70% de deságio sobre o valor de avaliação.   02.18175 Santander - Alienação Fiduciária - D.02.18175]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[58]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>575276.97</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3b544435-9638-4a52-8454-d6ef9961fdcb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cbedfe66-9b59-4498-89be-f22ec1235ef8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f4f5e2a5-e7c5-4a47-9633-6648b6484acc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Eduardo Aguirre Calabresi, 161]]></endereco>
+        <localidade><![CDATA[São Francisco, Curitiba, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[80050-390]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3233701]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3233701]]></codigoReferencia>
+      <titulo><![CDATA[Casa 218m², Ocupada, Vila do Atlântico, em Lauro de Freitas/BA]]></titulo>
+      <descricao><![CDATA[Casa 218m², Ocupada, Vila do Atlântico, em Lauro de Freitas/BA  Casa 218m², Ocupada, Vila do Atlântico, em Lauro de Freitas/BA     Localização: Rua Praia de Cigarras, n°101, Vilas do Atlântico, em Lauro de Freitas/BA CEP: 42707-070     área de terreno 420,00m²  área total construída de 218,00m²     Matrículas: 52.505 do Oficial de Registro de Imóveis de Lauro de Freitas/BA  Inscrição Prefeitura: 44045.00101.0000     DOSSIÊ: 02.21660     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 05/04/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 1.061.404,92     2ª Praça:  Abertura: 05/04/2024 a partir das 10h51  Fechamento: 08/04/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 523.959,44        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 51% de deságio sobre o valor de avaliação.  02.21660 Santander - Alienação Fiduciária - D.02.21660]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[218]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1061404.92</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dae5aabf-a6a0-4fdc-a0ef-1d00022e916b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9b44a64-97bb-4776-afd6-f7079c237ad3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a984e3fd-6b2d-476c-ad86-7acf0744efd0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Praia de Cigarras, 101]]></endereco>
+        <localidade><![CDATA[Vilas do Atlântico, Lauro de Freitas, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42707-070]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3234162]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3234162]]></codigoReferencia>
+      <titulo><![CDATA[Casa 75m² no Parque Santo Antonio em Jacareí/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 75m² no Parque Santo Antonio em Jacareí/SP - Ocupado  Casa 75m² no Parque Santo Antonio em Jacareí/SP - Ocupado     Localização: Rua das Magnólias, nº 34, Parque Santo Antonio, em Jacareí/SP - CEP: 12309-610     área útil: 75,98m²  área total: 167,62m²     Matrícula: nº 50.942  RGI: Oficial de Registro de Imóveis de Jacareí/SP  Inscrição Prefeitura: 44132-53-63-0179-00000     DOSSIÊ: 02.21707     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/abril/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 378.076,16     2ª Praça:  Abertura: 11/abril/2024 a partir das 10h11  Fechamento: 12/abril/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 246.759,65     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 35% de deságio sobre o valor de avaliação.  02.21707 Santander - Alienação Fiduciária - D.02.21707]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[75]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>378076.16</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/364a0b25-caec-4112-9805-0ca75eb3cb70.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua das Magnólias, 34]]></endereco>
+        <localidade><![CDATA[Parque Santo Antonio, Jacareí, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12309-610]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3234348]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3234348]]></codigoReferencia>
+      <titulo><![CDATA[Apto 60m², 1 Vaga, Ocupado, em Osasco/SP]]></titulo>
+      <descricao><![CDATA[Apto 60m², 1 Vaga, Ocupado, em Osasco/SP  Apto 60m², 1 Vaga, Ocupado, em Osasco/SP     Localização: Avenida José Lourenço, nº 350, Apto º 133, Residencial Fatto Evidence Osasco, Chácara Jaguaribe, em Osasco/SP CEP: 06053-020     áreas: privativa coberta edificada de 60,000m²  área comum coberta edificada de 44,180m²  área total da área edificada de 104,180m²  área comum descoberta de 11,236m²  área total construída + descoberta de 115,416m²     Matrículas: 131.189 do 1º Oficial de Registro de Imóveis de Osasco/SP  Inscrição Prefeitura: 23241.62.60.0275.01.119.02     DOSSIÊ: 02.21408     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 05/04/2024 a partir das 09h20 com Valor Mínimo de Venda de R$ 631.029,47     2ª Praça:  Abertura: 05/04/2024 a partir das 09h21  Fechamento: 08/04/2024 a partir das 13h20 com Valor Mínimo de Venda de R$ 395.472,70        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.         Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 37% de deságio sobre o valor de avaliação.   02.21408 Santander - Alienação Fiduciária - D.02.21408]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[60]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>631029.47</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/20e9bda3-0723-46ef-9190-717e2c2d00f8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/135bb5cd-4958-4c34-a049-cf860075e3be.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b30cb13d-1cb9-4cfc-8bd4-1658e3388490.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e12c2318-9ec2-459d-9241-6e39fcc3fde7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida José Lourenço, 350]]></endereco>
+        <localidade><![CDATA[Chácara Jaguaribe, Osasco, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[06053-020]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3234074]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3234074]]></codigoReferencia>
+      <titulo><![CDATA[Apto 64m², 1 Vaga, Ocupado,  Santa Efigênia, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 64m², 1 Vaga, Ocupado,  Santa Efigênia, em São Paulo/SP  Apto 64m², 1 Vaga, Ocupado, Santa Efigênia, em São Paulo/SP     Localização: Avenida Tiradentes, nº 1508, Apto nº 74, Tipo/A, Torre II, CONDOMÍNIO RESIDENCIAL MÉRITO, Santa Efigênia, São Paulo/SP CEP: 01102-000     área privativa de 64,057m²  área comum coberta de 11,695m²  área comum descoberta de 26,054m²  área de vaga de garagem de 9,240m²  área comum total de 46,989m² (já incluída uma vaga), perfazendo a área total de 111,046m²     Matrículas: 87.877 do 5º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura:018.006.0289-8     DOSSIÊ: 02.21289     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 02/05/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 609.790,91     2ª Praça:  Abertura: 02/05/2024 a partir das 09h51  Fechamento: 03/05/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 212.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.         Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 65% de deságio sobre o valor de avaliação.   02.21289 Santander - Alienação Fiduciária - D.02.21289]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[64]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>609790.91</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/64463db1-35dd-4b99-bbec-199ddd375b31.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e603aaa6-29d7-4606-90cd-d14e1a21bef6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f2254539-5cda-4b14-abd2-462d21812cb9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Tiradentes, 1508]]></endereco>
+        <localidade><![CDATA[Santa Efigênia, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01102-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3234859]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3234859]]></codigoReferencia>
+      <titulo><![CDATA[Prédio, Desocupado, São Paulo / SP]]></titulo>
+      <descricao><![CDATA[Prédio, Desocupado, São Paulo / SP  Endereço Completo  Rua Santo Antonio, 292, 294 E 300, Bela Vista, São Paulo, SP, CEP: 01314000   Características do Imóvel:    Descrição:  Prédio, Padrão, Desocupado. Área(s): 350 de área terreno, 917 de área construída. Matrícula(s): 16.860. Cartório: 5 CRI SAO PAULO. Inscrição da Prefeitura: 006.033.0013-8.   Tipo do Imóvel:  Prédio  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  02.19247   Área Terreno:  350.0 m2   Matrícula:  16.860  Cartório de Registro:  5 CRI SAO PAULO  Inscrição na Prefeitura:  006.033.0013-8  IPTU Anual:  R$ 50.721,35     Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. DESOCUPADO  2. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento   Santander Comerciais]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[350]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2963000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b9d22c71-0814-4ecd-a776-7e026a03bae5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dfb67007-8b30-46c6-b83a-8943bc1965b5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ac58b0f4-23fe-4bdb-83e0-3c3d967f39ea.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Santo Antonio, 292, 294 e 300]]></endereco>
+        <localidade><![CDATA[Bela Vista, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01314000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
