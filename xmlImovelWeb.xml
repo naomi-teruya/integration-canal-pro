@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712239192168</dataModificacao>
+  <dataModificacao>1712239213029</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -5524,73 +5524,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <endereco><![CDATA[Rua Raguna Cabral, 160]]></endereco>
         <localidade><![CDATA[Vila Monumento, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01550-010]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3198462]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3198462]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, AU 193,18m², AT 274,44m², Vila Sapucaí, Campos do Jordão/SP]]></titulo>
-      <descricao><![CDATA[Apartamento, AU 193,18m², AT 274,44m², Vila Sapucaí, Campos do Jordão/SP  APARTAMENTO No 12 (doze), localizado no 1o andar do Condomínio denominado EDIFICIO MONTE VERDE, contendo a área útil de 193,18 m2, área comum de 81,26 m2., área total construída de 274,44 m2, correspondendo-lhe à fração ideal de 16,666%, equivalente a 364,58 m2, no terreno designado como Lote "Y", situado na Vila Sapucai, em Capivari, com a área de 2.187,50 m2., com frente para Av. Marfim. A este apartamento fica vinculado a garagem box no 12, localizada no andar térreo do edifício.   Matrícula no 16.668 do CRI de Campos do Jordão/SP. Contribuinte: 03.900.974 Av-04 Avaliação: R$ 1.450.000,00 em dezembro de 2022 Avaliação Atualizada: R$ 1.505.845,00 em dezembro de 2023.  Débitos e Ônus:  Débitos da demanda: R$ 108.640,10 - em setembro de 2022, fls 63/64 - a ser atualizado.  IPTU: Em consulta ao site da Prefeitura localizamos débitos pendentes, que totalizam o montante de R$ 91.886,44, conforme extrato anexo.  Condomínio Edifício Monte Verde Fernando Zambrone Neto Executado Luis Antônio Perestrelo Fuster e Luciana Cristina de Almeida Lima 1ª Vara Cível da Comarca de Campos do Jordão/SP 0000671-34.2021.8.26.0116
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1505845</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/51ce3d6c-9afe-4ad1-a1a2-250309cdd8e9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/29545e29-7720-4de1-a6f6-30afcf109c73.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5ec8abd2-8c3b-4ebe-9dec-7e9e5039c1e4.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Gastão Vidigal, 449]]></endereco>
-        <localidade><![CDATA[Apartamento 12, Vila Sapucaí, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[SP]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
