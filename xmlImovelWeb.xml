@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712241155353</dataModificacao>
+  <dataModificacao>1712241159201</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -13596,7 +13596,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua 14, 05]]></endereco>
-        <localidade><![CDATA[Loteamento Recanto I do Paranapanema, Paranapanema, São Paulo, Brasil]]></localidade>
+        <localidade><![CDATA[Recanto I do Paranapanema, Paranapanema, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[04027-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -13749,7 +13749,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Rua Colombia, 110]]></endereco>
-        <localidade><![CDATA[Jd. Silvestre(Guilhermina), Praia Grande, São Paulo, Brasil]]></localidade>
+        <localidade><![CDATA[Jd. Silvestre (Guilhermina), Praia Grande, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[11702-020]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
@@ -14318,7 +14318,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Rua Antônio Bento Peixoto, 218]]></endereco>
+        <endereco><![CDATA[Rua Antonio Bento Peixoto, 218]]></endereco>
         <localidade><![CDATA[Centro, Miguelópolis, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14530-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
