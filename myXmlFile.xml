@@ -6087,7 +6087,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Maringá</City>
         <Address>R. Anísio Gonçalves De Oliveira</Address>
         <StreetNumber>85</StreetNumber>
-        <PostalCode>87075-742</PostalCode>
+        <PostalCode>87075742</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6613,7 +6613,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Frutal</City>
         <Address>R Lincoln Campos</Address>
         <StreetNumber>15</StreetNumber>
-        <PostalCode>38200-192</PostalCode>
+        <PostalCode>38200192</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6659,7 +6659,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>São José</City>
         <Address>Av Salvador Di Bernardi</Address>
         <StreetNumber>150</StreetNumber>
-        <PostalCode>88101-260</PostalCode>
+        <PostalCode>88101260</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6907,7 +6907,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Caldas Novas</City>
         <Address>Rua Rc 24</Address>
         <StreetNumber>43</StreetNumber>
-        <PostalCode>75689-814</PostalCode>
+        <PostalCode>75689814</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7146,7 +7146,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Praia Grande</City>
         <Address>Rua Colombia</Address>
         <StreetNumber>110</StreetNumber>
-        <PostalCode>11.702-020</PostalCode>
+        <PostalCode>11702-020</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7214,7 +7214,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>São Paulo</City>
         <Address>Rua Teodureto Souto</Address>
         <StreetNumber>128</StreetNumber>
-        <PostalCode>01539-00</PostalCode>
+        <PostalCode>01539-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7309,6 +7309,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Avenida Júlio de Castilhos</Address>
         <StreetNumber>730 e 740</StreetNumber>
         <PostalCode>95010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3239185</ListingID>
+      <Title>Prédio residencial 90m², Ocupado, em Queimados/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3239185</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/37ba514b-b2a9-423d-9acf-d9b64d657e37.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/121c0d84-5bd9-40b0-b2b4-76e4f0ec5432.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d3dd307d-ba2c-4aa7-95a4-3d148b208b6e.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/66848473-3e86-4f9a-ba67-0ff3687c1ad3.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Prédio residencial 90m², Ocupado, em Queimados/RJ  Prédio residencial 90m², Ocupado, em Queimados/RJ     Localização: Rua Maritaca, nº 46, Vila Pacaembu, em Queimados/RJ - CEP 26383-250     área de terreno de 250,00m²   área construída 90,00m²      Matrícula: nº 3.454 do 3º Oficial de Registro de Imóveis de Queimados/RJ  Inscrição Prefeitura: 000     DOSSIÊ: 02.20867     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/04/2024 a partir das 09h10 com Valor Mínimo de Venda de R$ 563.823,54     2ª Praça:  Abertura: 11/04/2024 a partir das 09h11  Fechamento: 12/04/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 350.145,25        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4- Recai sobre o imóvel ação nº 0803790-78.2022.8.19.0067     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 38% de deságio sobre o valor de avaliação.     02.20867 Santander - Alienação Fiduciária - D.02.20867]]></Description>
+        <ListPrice currency="BRL">563823.54</ListPrice>
+        <LivingArea unit="square metres">90</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">Rio de Janeiro</State>
+        <City>Queimados</City>
+        <Address>Rua Maritaca</Address>
+        <StreetNumber>46</StreetNumber>
+        <PostalCode>26383-250</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3239265</ListingID>
+      <Title>Casa 66m², Ocupado, Centro, em Miguelópolis/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3239265</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/dc4e4505-3a8c-4845-8093-720982cf4195.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b29764b8-e233-4043-b3dd-2f4f6b2d452b.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d4fd7cbe-76d2-44ca-b7b5-735d3114c321.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/677bb163-f8dc-4fe1-86ed-52fbd4eb7606.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 66m², Ocupado, Centro, em Miguelópolis/SP  Casa 66m², Ocupado, Centro, em Miguelópolis/SP     Localização: Rua Antonio Bento Peixoto, nº 218, Centro, Miguelópolis/SP - CEP 14530-000     área de terreno de 277,50 m²   área construída de 66,71m²(100,00m² conforme IPTU)     Matrícula: nº 7.935 do Oficial de Registro de Imóveis de Miguelópolis/SP,  Inscrição Prefeitura: 198.210.021     DOSSIÊ: 02.21692     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 11/04/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 294.760,44     2ª Praça:  Abertura: 11/04/2024 a partir das 10h21  Fechamento: 12/04/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 171.195,83         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 42% de deságio sobre o valor de avaliação.  02.21692 Santander - Alienação Fiduciária - D.02.21692]]></Description>
+        <ListPrice currency="BRL">294760.44</ListPrice>
+        <LivingArea unit="square metres">66</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Miguelópolis</City>
+        <Address>Rua Antonio Bento Peixoto</Address>
+        <StreetNumber>218</StreetNumber>
+        <PostalCode>14530-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
