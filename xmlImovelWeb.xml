@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712239248854</dataModificacao>
+  <dataModificacao>1712239439240</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -8051,70 +8051,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Mato Grosso, 381]]></endereco>
         <localidade><![CDATA[Centro, Londrina, Paraná, Brasil]]></localidade>
         <codigoPostal><![CDATA[86010-180]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3181123]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3181123]]></codigoReferencia>
-      <titulo><![CDATA[Apto, A.T 78m², 3 dorms, 1 vaga, Pq. S. Judas Tadeu]]></titulo>
-      <descricao><![CDATA[Apto, A.T 78m², 3 dorms, 1 vaga, Pq. S. Judas Tadeu  Apartamento sob nº 102 (cento e dois), pavimento térreo, bloco 1 do Residencial San Sebastian, situado à rua Coronel Albino, 2397, do Parque São judas Tadeu, nesta cidade de Presidente Prudente, composto por três dormitórios, sala de estar/jantar, cozinha, área de serviço, banheiro e uma sacada, encerrando uma área privativa de 61,79 ms², com área de uso comum de 16,93 ms², totalizando 78,72 ms², correspondendo-lhe uma fração ideal de terreno de 68,89 ms², cabendo ao apartamento o direito à utilização de uma vaga na garagem coletiva do empreendimento.  Cadastro municipal nº 26.4.1.1208.00479-2  Matrícula nº 28.908 do 1º CRI de Pres. Prudente. Consta da AV.6 penhora expedida no processo 482 da 1ª vara cível de Pres. Prudente.  VALOR DA AVALIAÇÃO: R$ 179.389,96 (cento e setenta e nove mil trezentos e oitenta e nove reais e noventa e seis centavos)  Vanderleia Barbosa da Silva Jaquelina Rombi Filitto e Outro Jaquelina Rombi Filitto 1ª Vara Cível da Comarca de Presidente Prudente/SP 1014990-27.2019.8.26.0482
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>89694.98</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d2c87b26-a02f-4491-9fb1-18a2a9192504.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/08ce371b-c662-4876-b437-990649f7f8c0.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Coronel Albino, 2397]]></endereco>
-        <localidade><![CDATA[bl. 1, Pq. São Judas Tadeu, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[SP]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
