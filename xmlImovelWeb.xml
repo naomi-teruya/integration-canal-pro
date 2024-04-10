@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712665088990</dataModificacao>
+  <dataModificacao>1712758022059</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15497,6 +15497,76 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Anacleto Soldera, 683]]></endereco>
         <localidade><![CDATA[Jardim do Engenho, Sertãozinho, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14165-186]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3240265]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3240265]]></codigoReferencia>
+      <titulo><![CDATA[Terreno, A.T. 1.282m², Sumaré]]></titulo>
+      <descricao><![CDATA[Terreno, A.T. 1.282m², Sumaré   O imóvel da matrícula n° 34.351, do CRI de Rio do Sul/SC, a seguir descrito: O terreno situado no perímetro urbano desta cidade, Bairro Sumaré, na Rua Sem Denominação, contendo a área de 1.282,02m² (Um mil duzentos e oitenta e dois metros quadrados e dois decímetros quadrados), com as seguintes medidas e confrontações; fazendo frente com 6,19 metros, com o lado ímpar da referida Rua; fundos em 35,00 metros, com terras de Edith Fuchs; extremando do lado direito em 80,00 metros, com terras de Edith Fuchs e, do lado esquerdo em 03 linhas retas e quebradas, sendo a 1ª em 47,75 metros; a 2ª com 27,93 metros, ambas com terras de Eriberto Passing e a 3ª linha em 25,18 metros, com a Faixa da Marinha do Rio Itajaí do Sul. Cadastro Municipal: 8230 e Insc. Imob. nº: 01.06.020.0035.            Ônus e gravames: consoante matrícula atualizada, consta na AV.4 INDISPONIBILIDADE conforme ordem cadastrada na Central de Indisponibilidade de Bens, Protocolo número 202106.2415.01485371-IA-030, nos autos número 4863620184013606 do Tribunal: TRF 1ª Região nos autos 0000213-34.2016.5.23.0081, da Vara do Trabalho de Juína/MT. Nos termos da Certidão Negativa de Débitos obtida em 20/02/2024, o imóvel não possui débitos junto à Fazenda do Município de Rio do Sul/SC; eventuais débitos relativos ao IPTU serão sub-rogados no valor da arrematação.            Valor da Avaliação: R$ 600.000,00 (seiscentos mil reais) em novembro de 2023.        Massa Falida do Banco Santos S/A Rohden Industria Lignea Ltda e Pdr Corretora de Mercadorias S/s Ltda Apolinário Stuhler Réus: Ricardo Leal de Moraes (OAB 56486/RS) e Rosane Moretto Fagundes (OAB 125500/SP); Autor: Paulo de Tarso Ribeiro Kachan (OAB 138712/SP) 11ª Vara Cível do Foro Central da Capital/SP 0204150-90.2007.8.26.0100
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[1.282]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>600000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aeb3d96a-7cd6-4a5a-9d34-c2fb8907e3a8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a4ec92b7-4e58-4248-a81a-9c1fcdf7dad0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ecf31b7-4d39-4673-8a95-9a7a713a13d8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed24ee8c-8f09-4b88-9dbc-06f21d4840fb.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Leopoldo Fuchs, s/n]]></endereco>
+        <localidade><![CDATA[Sumaré, Rio do Sul, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[89163-020]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
