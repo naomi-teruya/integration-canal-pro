@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712758382606</dataModificacao>
+  <dataModificacao>1712758542783</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15643,6 +15643,115 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 23, 19]]></endereco>
         <localidade><![CDATA[Village Damha Parahyba, Conde, Paraíba, Brasil]]></localidade>
         <codigoPostal><![CDATA[58320-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3201436]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3201436]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel Rural, A.T. 46,51ha, Sítio Morungaba]]></titulo>
+      <descricao><![CDATA[Imóvel Rural, A.T. 46,51ha, Sítio Morungaba  Penhora do imóvel descrito na matrícula n.º 10.165 (fls. 352/360), do Cartório de Registro de Imóveis de São Carlos/SP, em nome de Henrique Hildebrand Júnior e Maria Judith Cazarim Hildebrand.      Descrição matrícula n. 10.165 do CRI de São Carlos/SP IMÓVEL:  Imóvel rural denominado Sítio Morungaba, situado no bairro do Monte Alto, com a área de 18 alqueires de terras, mais ou menos, ou sejam 43,56 ha., aproximadamente, contendo casa de moradia, de pedra e telhas comuns, uma outra de madeira, coberta de telhas, paiol, rancho, 7.000 cafeeiros, mais ou menos, entre produtivos e falhas, confrontando em sua integridade com a Estrada Chico Domingos, Irmãos Favaro, Angelo Bossolan e sucessores de Vitorio Bossolan, ou sucessores desses confrontantes. Imóvel registrado sob a matrícula n° 10.165, do CRI de São Carlos/SP. Av.02 (INSCRIÇÃO INCRA) Imóvel acima matriculado está cadastrado no INCRA sob o nº 618.160.002.615. área total 43,5ha., n° de módulos 2,93, módulo 14,8, fração mínima de parcelamento 13,0. Av.07 Protocolo n° 232.398 Pelo REQUERIMENTO datado de 25/Setembro/2.007, nos termos do artigo nº 213 inciso II, da Lei nº 6.015/73, regulamentado pela Lei n° 10.931/2.004, Certidão N° 370/07, expedida pela Prefeitura Municipal desta Comarca, extraída do processo n° 20.580/07, tendo o trabalho técnico elaborado pelo Técnico em Agrimensura: ANTONIO CARLOS CAZELA, CREA N° 064.017.777-3, ART.nº , e, MEMORIAL DESCRITIVO datado de 25/09/07, com anuência dos confrontantes, o perímetro completo e a área superficial deste IMOVEL, foram inovados, passando a ter o seguinte roteiro perimétrico: IMÓVEL RURAL denominado SÍTIO MORUNGABA, situado no bairro de MONTE ALTO, com área de 46,5195 hectares, - 2.995,23 metros, descrição: Inicia-se a descrição deste perímetro no ponto 01, distante 3.902,59 m do perímetro urbano de São Carlos, sendo 1.844,32 m pela Rodovia Dr. Paulo Lauro, 2.058,27 m por uma estrada municipal, situado no limite da faixa de dominio de uma estrada municipal afastado de 6,00 metros do eixo da mesma e na divisa com a ''Gleba 04'' (matricula 42.583 de propriedade de Oswaldo Porra, José Orivaldo Porra e Nair Josefa Dall'Antonia Porra, Antonio Petra Filho e Celia Aparecida Dall' Antonia Porra, Santina Bacchini Porra (usufrutuária); deste, segue confrontando som a ''Gleba D4'', com o seguinte azimute e distância: 121°29'59'' e 36,96 metros até o ponto 02, situado na divisa com a ''Gleba 3-A'' (matrícula nº 42.582) -de propriedade de Espólio de João Parra e Brígida Zuccolotto Porra; deste, seque confrontando com a ''Gleba 3-A'', com o seguinte azimute e distância: 122°29'49'' e 162,63 metros até o ponto 03, situado na divisa com a ''Gleba 02'' (matrícula nº 42.581) de propriedade Otá...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[465100.]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>9271416.98</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c7118220-075c-4e22-ac35-fab92bce05fa.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/13e3b755-6c43-401d-b5aa-1c3f40d534de.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb0e4f12-0a8f-419c-af34-e17dd0f02252.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a05fd13b-2ac5-4a4a-9a2f-12da991ec07c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/278226f9-6e15-49dd-898a-7fa322a3402e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48256d1d-4fe6-40f0-9399-fc29a4d97857.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/186ed581-012d-4fbe-b7f3-d92a6b84f24d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/419c64ab-d76d-4c48-a3cc-fdddfa4656eb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cb5147f-96b5-45f2-908d-b42e615c74f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/17322dc6-e73c-4d33-8342-63b4ffefcf53.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/60fb00c4-3117-473a-a756-602f28e838a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f0a8eadd-415d-4d57-8616-1b0f2b95bfe8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0efe8325-39cb-4855-9e4b-7b2c92ab291d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c5dca47c-4fdc-4456-95f0-174e0df5f7ee.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/65f7d777-3c8f-447b-b510-8e3e5612f9d9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/67ee6ccb-5b2b-4836-b239-6b45a33fc5f3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1c60943d-7639-4b49-9022-d4dcceba5ca6.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[,]]></endereco>
+        <localidade><![CDATA[, , , Brasil]]></localidade>
+        <codigoPostal />
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
