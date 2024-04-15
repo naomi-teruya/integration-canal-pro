@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1712781468391</dataModificacao>
+  <dataModificacao>1713210818943</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -10939,115 +10939,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Santo Antonio, 292, 294 e 300]]></endereco>
         <localidade><![CDATA[Bela Vista, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01314000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3199644]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3199644]]></codigoReferencia>
-      <titulo><![CDATA[Casa, A.T. 256m², A.C. 192m², Residencial Primavera]]></titulo>
-      <descricao><![CDATA[Casa, A.T. 256m², A.C. 192m², Residencial Primavera  Oficial de Registro de Imóveis de Pontal/SP. N° da matrícula 169.         IMÓVEL:  Um terreno sem benfeitorias, composto pelo lote nº 05 da Quadra n° 07 do loteamento RESIDENCIAL PRIMAVERA, situado nesta cidade e comarca de Pontal - SP com frente para a Rua Armínio Pupo, distante trinta e seis metros e quarenta e oito (36,48) centímetros do ponto inicial da linha curva, da confluência dessa rua com a Avenida Maria Lídia Neves Spínola, da quadra completada pela Rua 09 e terras da Case - Companhia Agrícola Sertãozinho, contendo duzentos e cinqüenta e seis metros e vinte e cinco (256,25m²) decímetros quadrados, medindo dez metros e vinte e cinco centímetros de frente e igual medida nos fundos, por vinte e cinco (25,00) metros da frente aos fundos em ambos os lados, confrontando em sua integralidade pela frente com a referida Rua Armínio Pupo; pelo lado direito de quem da rua olha para o imóvel, com o lote nº 04; pelo lado esquerdo com o lote nº 06 e, pelos fundos com terras da Case - Companhia Agrícola Sertãozinho. Cadastrado na Prefeitura Municipal de Pontal sob no 13.005.907.         RESTRIÇÕES URBANÍSTICAS:  impostas pela loteadora estão expressas no contrato padrão utilizado para a venda de lotes de acordo com a Lei nº 6.766/79 ¿ Lei do Parcelamento do Solo Urbano e demais leis em vigor. O loteamento destina-se exclusivamente a fins residenciais, não sendo permitidas atividades comerciais ou industriais; serão permitidas atividades profissionais de utilidade pública, especificamente as de: consultório médico, ambulatórios médicos, hospitais, pronto socorro, escolas e escritórios de profissionais liberais.         Laudo de Avaliação:  A certidão de matrícula faz referência somente ao terreno, cadastrado junto à prefeitura local sob o número 13.005.907, em cujo número de inscrição municipal 20.464, aponta na Certidão de Valor Venal, os dados de áreas correspondentes a 256,25 m2 para o terreno e construção com 192,50 m2, que conferem com nossa medição expedita local. Trata-se de terreno plano, de formato regular, sendo 10,25 metros de frente e fundos, com 25,00 metros em ambas as laterais. Sobre o terreno retro descrito encontra-se uma construção térrea destinada a escritório, achando-se ocupada por locação para uma empresa e utilizada como alojamento. E disposta em recepção, 06 salas, copa, 02 banheiros, além de edícula contendo área de descanso, lavanderia, banheiro e depósito.         ÔNUS  - AV-1/169 22 DE ABRIL DE 2010 Prot. 2291 (01/03/2010) (arrolamento de bens) Nos termos do Ofício nº 38/2010/DRF/RPOGAB/Assistência - SP expedido nos autos de arrolamento de bens e direitos, datado de 23 de fevereiro de 2010, em forma legal, lavrado pela Delegacia da Receita Federal...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[256]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>126584.45</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc892e91-5048-46b6-80e6-4bb7e6c7a7a1.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b0f51d47-80a3-4e5e-a6b8-983f31819017.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc0062d7-42dd-4871-a708-3742d4414c02.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/04061a48-04ed-45b7-a42b-3bc8765c7bb9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6913e7d7-d80f-4c71-935d-406a90841ef8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7b0c93d-66cb-48c5-a020-dc37195d5507.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5cd3df9f-f0fd-4b85-8758-7add6e0196a6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/73d6b19f-6bb5-4357-bfc9-569fe59d972b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cfa2673c-0f11-4c6f-9bba-5fc57f7c98f5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1f625d94-af38-4fe6-be83-f89a8a6eb6b5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bc634286-6245-4763-9ca2-c1b803d1909b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dace1edc-9809-4893-bd43-9688785dd01e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/46b0b277-920d-488c-96a3-f4d20098d0b8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53e9f7fa-efc4-4c14-8da2-24d8cb9e2907.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/246c4abf-7395-44f5-8e49-7dae0fb607ae.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42c5b15e-8ae2-4330-a7e5-df98abd060b5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7670b17-a4c4-4d15-85c1-30cadcad4093.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. Armínio Pupo, 60]]></endereco>
-        <localidade><![CDATA[Res. Primavera, Pontal, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[14180-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
