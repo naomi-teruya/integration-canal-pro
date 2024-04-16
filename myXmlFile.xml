@@ -8713,9 +8713,9 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">São Paulo</State>
         <City>São Carlos</City>
-        <Address />
-        <StreetNumber />
-        <PostalCode />
+        <Address>Avenida Francisco Pereira Lopes</Address>
+        <StreetNumber>1950</StreetNumber>
+        <PostalCode>13561-250</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
