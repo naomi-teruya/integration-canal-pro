@@ -3988,42 +3988,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3228979</ListingID>
-      <Title>Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3228979</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/87de44ad-2d6e-432f-a823-1d7512656949.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/66dd43b6-0c24-4d99-ba50-cf91cb634172.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/086f238c-fc22-4b49-b32a-a06834154e76.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/f094ea73-5335-49b0-b6ff-e4f647372cb6.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Apartment</PropertyType>
-        <Description><![CDATA[Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO  Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO     Localização: Av. JOAO PINHEIRO, S/N, QD.11 LT.143, BL- A, APT nº 304-A, Residencial Pinheiros, Vila Jayara, Anápolis/GO - CEP: 75064-356     área privativa coberta: 79,48m²  área privativa total: 101,56m²  box : 22,08m²  área comum total: 11,5590m²  área total: 120,9390m²     Matrícula: 58.859 do Cartório de Registro Geral de Imóveis Primeira Circunscrição de Anápolis/GO  Inscrição Prefeitura: 405.200.0060.010     DOSSIÊ: 02.20154     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/04/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 288.150,91     2ª Praça:  Abertura: 03/04/2024 a partir das 09h51  Fechamento: 05/04/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 247.817,12        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 14% de deságio sobre o valor de avaliação.  02.20154 Santander - Alienação Fiduciária - D.02.20154]]></Description>
-        <ListPrice currency="BRL">288150.91</ListPrice>
-        <LivingArea unit="square metres">79</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Anápolis/GO">Sem sigla</State>
-        <City>Vila Jayara</City>
-        <Address>Av. JOAO PINHEIRO</Address>
-        <StreetNumber>S</StreetNumber>
-        <PostalCode>75064-356</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3231144</ListingID>
       <Title>Apto 90m², Ocupado, 1 Vaga no Centro em Criciúma/SC.</Title>
       <TransactionType>For Sale</TransactionType>
@@ -8214,6 +8178,76 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua Fernando Pereira Goulart</Address>
         <StreetNumber>338</StreetNumber>
         <PostalCode>38705-382</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3250652</ListingID>
+      <Title>Terreno 170.670m² DESOCUPADO em Itapecirica da Serra/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3250652</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e209549e-611d-40e3-9f73-de705c0f8256.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/851c0bf1-2afc-4267-bd7e-df333a7bb50f.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/63118815-d065-45b9-8ab6-34f622b7a189.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b19c52df-3077-4769-a94c-88f1a5a1e370.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Terreno 170.670m² DESOCUPADO em Itapecirica da Serra/SP   Terreno 170.670m² DESOCUPADO em Itapecirica da Serra/SP - 3 terrenos com um total de 170.670,83m² com entrada pela Rua Antonio de Albuquerque, distante 150m da BR 116 - Rodovia Regis Bittencourt Km 297 sentido Curitiba. Matrículas 8.748 / 118.660 / 118.661 - Cartorio de Registro de Imóveis de Itapeciria da Serra/SP. N° de Contribuinte: 22123-61-01-0001-00-000.    Imóvel Desocupado      Imóvel com vocação para abrigar Industria e empresas devido a proximidade do Rodoanel e da Cidade de São Paulo.      O imóvel será entregue livre de débitos de IPTU.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Informações Relevantes:    1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");   2 - Imóvel Desocupado   3 - CONDIÇÕES DE PAGAMENTO: À vista (sem desconto) ou Financiado com instituição financeira indicada pelo arrematante mediante sinal mínimo de 10% (O valor mínimo pago a título de sinal está sujeito a alterações conforme valor do crédito aprovado pela instituição financeira) - Condições completas, vide Edital;   4 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor);   5 - Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.   6 - Caberá ao arrematante o levantamento e atualização de matricula quanto as edificações construidas nos terrenos.  62787 CCB - Terrenos e Prédio Comercial com Pagto]]></Description>
+        <ListPrice currency="BRL">2700000</ListPrice>
+        <LivingArea unit="square metres">170.670</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Itapecerica da Serra</City>
+        <Address>Rodovia Régis Bittencourt</Address>
+        <StreetNumber>Km 297</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3250654</ListingID>
+      <Title>Terreno 550.000m² DESOCUPADO em Belmonte/BA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3250654</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/998070e3-9f93-43da-ade3-4c436dcd85b1.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/47e65f10-c552-4b5e-98ac-bec819a7b923.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land Lot</PropertyType>
+        <Description><![CDATA[Terreno 550.000m² DESOCUPADO em Belmonte/BA  Terreno 550.000m² DESOCUPADO em Belmonte/BA - Uma área de terras suburbana medindo 55 ha, o correspondente a 550.000,00m² com suas confrontações melhor descritas na respectiva matrícula, desmembrada de área maior de 568 ha. Matrícula nº 4.716 do Ofício de Registro de Imóveis e Hipotecas da Comarca de Belmonte/BA. Inscrito na Prefeitura municipal de Belmonte/BA sob o nº 01.01.247.0001.001.     A gleba localiza-se na zona suburbana inserida na APA Santo Antonio, em área sem vegetação, topografia plana em região constituída de lado praia com o Empreendimento Portal do Descobrimento e do outro da rodovia sem uso.  O acesso ao local é feito através da Rodovia BA 001, sentido Belmonte a Cabrália seguir por 05 km, quando inicia o imóvel, lado direito da pista que se encontra em obras com a substituição da pavimentação asfáltica, com traçado curvilíneo/retilíneo.     O imóvel será entregue livre de débitos de IPTU.&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:&nbsp;  1 - Bens no estado que se encontram (imóveis vendidos em caráter ""Ad Corpus"");  2 - CONDIÇÕES DE PAGAMENTO: À vista (sem desconto) ou Financiado com instituição financeira indicada pelo arrematante mediante sinal mínimo de 10% (O valor mínimo pago a título de sinal está sujeito a alterações conforme valor do crédito aprovado pela instituição financeira) - Condições completas, vide Edital;  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor);  4 - 5 - Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.  62787 CCB - Terrenos e Prédio Comercial com Pagto]]></Description>
+        <ListPrice currency="BRL">750000</ListPrice>
+        <LivingArea unit="square metres">550.000</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="BA">Bahia</State>
+        <City>Belmonte</City>
+        <Address>Rodovia BA 001</Address>
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
