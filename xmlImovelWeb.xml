@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1713356457672</dataModificacao>
+  <dataModificacao>1713364292147</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -7447,75 +7447,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Álvaro Andrade, 358]]></endereco>
         <localidade><![CDATA[Portão, Curitiba, Paraná, Brasil]]></localidade>
         <codigoPostal><![CDATA[80610-240]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3228979]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3228979]]></codigoReferencia>
-      <titulo><![CDATA[Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO]]></titulo>
-      <descricao><![CDATA[Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO  Apto 79m², 1 Vaga, Ocupado, em Anápolis/GO     Localização: Av. JOAO PINHEIRO, S/N, QD.11 LT.143, BL- A, APT nº 304-A, Residencial Pinheiros, Vila Jayara, Anápolis/GO - CEP: 75064-356     área privativa coberta: 79,48m²  área privativa total: 101,56m²  box : 22,08m²  área comum total: 11,5590m²  área total: 120,9390m²     Matrícula: 58.859 do Cartório de Registro Geral de Imóveis Primeira Circunscrição de Anápolis/GO  Inscrição Prefeitura: 405.200.0060.010     DOSSIÊ: 02.20154     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 03/04/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 288.150,91     2ª Praça:  Abertura: 03/04/2024 a partir das 09h51  Fechamento: 05/04/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 247.817,12        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 14% de deságio sobre o valor de avaliação.  02.20154 Santander - Alienação Fiduciária - D.02.20154]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[79]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>288150.91</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/87de44ad-2d6e-432f-a823-1d7512656949.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/66dd43b6-0c24-4d99-ba50-cf91cb634172.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/086f238c-fc22-4b49-b32a-a06834154e76.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f094ea73-5335-49b0-b6ff-e4f647372cb6.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Av. JOAO PINHEIRO, S]]></endereco>
-        <localidade><![CDATA[Residencial Pinheiros, Vila Jayara, Sem sigla, Brasil]]></localidade>
-        <codigoPostal><![CDATA[75064-356]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
