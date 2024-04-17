@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1713364292147</dataModificacao>
+  <dataModificacao>1713364582018</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16027,6 +16027,78 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Fernando Pereira Goulart, 338]]></endereco>
         <localidade><![CDATA[Jardim Panoramico, Patos de Minas, Minas Gerais, Brasil]]></localidade>
         <codigoPostal><![CDATA[38705-382]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3250333]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3250333]]></codigoReferencia>
+      <titulo><![CDATA[Terreno Rural 250.000m² DESOCUPADO em Alcobaça/BA]]></titulo>
+      <descricao><![CDATA[Terreno Rural 250.000m² DESOCUPADO em Alcobaça/BA  Terreno Rural 250.000m² DESOCUPADO em Alcobaça/BA - Parte da propriedade rural denominada "Sitio Geny Pellicione", medindo 25ha , ou seja, 250.000,00m², situada na Zona Norte a 4km da sede, no município de Alcobaça/BA, com todas as benfeitorias, instalações e acessórios nela existentes, limitando-se por seus diversos lados com terras que são ou foram de Maria das Dores Nascimento Barros, Rômulo Sulz Gonçalves, Minas Caixa e Paulo de Tal. Matrícula nº 1.591 do Serviço Registral Imobiliário da Comarca de Alcobaça/BA. Cadastrada no INCRA sob o nº 304.050.147.125-1. CCIR nº 07500643056. Receita Federal nº 5.842.243-9.     O terreno localiza-se na zona rural em área parcialmente desmatada, com presença de capoeira, topografia plana à suave ondulada, em região constituída de chácaras de lazer, áreas livres e loteamentos residenciais.      O acesso ao local é feito através da BA 001, seguindo pela Estrada de Acesso Praia dos Quatis - Praia dos Corais - Alcobaça, com pavimentação em terra, com traçado curvilíneo/retilíneo.     O imóvel será entregue livre de débitos de IPTU/ITR.         Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter ""Ad Corpus"");  2 - Estimado aproveitamento de 80% do imóvel devido a mata nativa que cobre parte do terreno;  3 - CONDIÇÕES DE PAGAMENTO: À vista (sem desconto) ou Financiado com instituição financeira indicada pelo arrematante mediante sinal mínimo de 10% (O valor mínimo pago a título de sinal está sujeito a alterações conforme valor do crédito aprovado pela instituição financeira) - Condições completas, vide Edital;  4 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor);  5 - Para maiores informações, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel (11) 4950-9602.  62787 CCB - Terrenos e Prédio Comercial com Pagto]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[250.000]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>700000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eb710718-e567-4110-8f1e-5fc6d973c04c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6ac9dda0-37e9-4afb-8fde-c695d1d38933.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9d56fddc-abee-4716-9c8f-b77ad5a18b7d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7213b34b-2ef1-4781-97c6-0c95149e0c91.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3948b900-5380-4367-bdac-fbe9b4b4fc21.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada de Acesso Praia dos Quatis,]]></endereco>
+        <localidade><![CDATA[Praia dos Corais, Alcobaça, Bahia, Brasil]]></localidade>
+        <codigoPostal />
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
