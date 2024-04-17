@@ -8210,10 +8210,10 @@ Observação: essas são as características originais do imóvel, que podem ter
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">São Paulo</State>
-        <City>Itapecerica da Serra</City>
+        <City>São Paulo</City>
         <Address>Rodovia Régis Bittencourt</Address>
         <StreetNumber>Km 297</StreetNumber>
-        <PostalCode />
+        <PostalCode>06888-700</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -8246,7 +8246,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <State abbreviation="BA">Bahia</State>
         <City>Belmonte</City>
         <Address>Rodovia BA 001</Address>
-        <StreetNumber />
+        <StreetNumber>s/n</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
