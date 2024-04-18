@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1713447381958</dataModificacao>
+  <dataModificacao>1713447414818</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -16029,6 +16029,85 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Estrada de Acesso Praia dos Quatis,]]></endereco>
         <localidade><![CDATA[Praia dos Corais, Alcobaça, Bahia, Brasil]]></localidade>
         <codigoPostal />
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3232823]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3232823]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, A.T. 104m², 2 dorms (1 suíte), 1 vaga]]></titulo>
+      <descricao><![CDATA[Apartamento, A.T. 104m², 2 dorms (1 suíte), 1 vaga  O imóvel da matrícula n° 155.590, do CRI de São Carlos/SP, a seguir descrito:      IMÓVEL:  UNIDADE AUTÔNOMA designada como "Apartamento" nº 810, do Edifício Guarapari, localizada no 10° pavimento ou 8° andar tipo, do empreendimento denominado "EDIFÍCIO GUARAPARI E GUARATIBA", situado nesta cidade, município, comarca e circunscrição de São Carlos-SP., na Avenida Francisco Pereira Lopes, nº 1.950, composta de 02 dormitórios, sendo uma suíte, hall intimo, banheiro social, sala de estar/cozinha/área de serviço, possuindo 60,14 metros quadrados de área útil, 44,025 metros quadrados de área comum, perfazendo a área total de 104,165 metros quadrados, correspondendo a fração ideal de 0,7051% no terreno e demais coisas de uso comum. Esta unidade possui o direito de uso de apenas uma vaga de garagem, para estacionamento, em lugares individuais indeterminados na garagem coletiva do empreendimento. Av.1 - Este imóvel encontra-se cadastrado atualmente sob o n° 09.085.016.081.      Ônus:  Av.3 (Penhora) Imóvel penhorado nestes autos.     Débitos Municipais: IPTU 2024 - R$ 934,84 conforme informações obtidas em 20/02/2024 através do site da Prefeitura Municipal de São Carlos/SP.  Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Valor da Avaliação em 28/10/2023: R$ 296.000,00 (duzentos e noventa e seis mil reais), que será devidamente atualizado, pela Tabela Prática para cálculo de Atualização Monetária dos Débitos Judiciais (INPC), do Tribunal de Justiça do Estado de São Paulo, na data do início do 2º Pregão.  B. DO B. S/A. J. L. M. F., J. L. M., Z. M. M. DE L. M Jose Luiz Marrara e Zaira Maria Militao de Lima Marrara Paulo Roberto Joaquim dos Reis 2ª Vara Cível de São Carlos/SP 1013766-64.2017.8.26.0566
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[104]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>296000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed6f83c1-5389-4a15-9852-8e56398395ac.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fe11de16-5389-4525-9350-44315898ac91.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9486142c-4f07-4e01-b856-659b2abb57c7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7fa1747d-929b-422b-a260-b1de5b426653.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81792993-df7d-4f25-98bd-3c4157f46fa6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ff611223-f01b-49fd-8b0c-69f33b186fa5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/14b79f83-356f-4b6f-b2b7-b7a523e2ec68.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Francisco Pereira Lopes, 1950]]></endereco>
+        <localidade><![CDATA[Parque Arnold Schimidt, São Carlos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13561-250]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
