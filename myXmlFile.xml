@@ -7952,6 +7952,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3249094</ListingID>
+      <Title>Casa, 3 dorms, 1 garagem, Vila Rehder</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3249094</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/402fa169-e0ad-4d20-91cb-8d74b610f369.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/e2d8c4ad-cb54-4d60-9cf1-f7f687a43fe9.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/555d1543-57d0-4834-af56-a217d8a4bb29.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, 3 dorms, 1 garagem, Vila Rehder  1) IMÓVEL: UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 06 (seis), da Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP. DESCRIÇÃO: contém a área superficial de 487,62m² (quatrocentos e oitenta e sete metros e sessenta e dois decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,62m (quarenta metros e sessenta e dois centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 07 (sete); mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº 05 (cinco). CADASTRO: 01.03.108.0096.001. MATRÍCULA nº 8135 do Cartório de Registro de Imóveis e Anexos da Comarca de Aguaí/SP.     Ônus: Av.03 e Av. 05 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3001557-62.2013.8.26.0083, 3º Ofício Judicial de Mogi Guaçu/SP. Av.04 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 0000899-26.2012.8.26.0083, Ofício Judicial de Aguaí/SP. Av.06 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3002260-90.2013.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.09 e Av. 12 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1001093-67.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.10 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1000363-56.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.11 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1002009-04.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP.     2) IMÓVEL: UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 05 (cinco), Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP.   DESCRIÇÃO: contém a área superficial de 488,04m², (quatrocentos e oitenta e oito metros e quatro decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 06 (seis); mede 40,69m (quarenta metros e sessenta e nove centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº 04 (...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">1327647.79</ListPrice>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Aguaí</City>
+        <Address>R. João Paulo Braido da Silva</Address>
+        <StreetNumber>51</StreetNumber>
+        <PostalCode>13860-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
