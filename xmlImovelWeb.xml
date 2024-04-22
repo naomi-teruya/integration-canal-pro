@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1713818921774</dataModificacao>
+  <dataModificacao>1713819008571</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -15525,6 +15525,85 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. João Paulo Braido da Silva, 51]]></endereco>
         <localidade><![CDATA[Vila Rehder, Aguaí, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13860-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3249456]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3249456]]></codigoReferencia>
+      <titulo><![CDATA[Apto, A.T.C. 233m², 3 dorms, Itararé]]></titulo>
+      <descricao><![CDATA[Apto, A.T.C. 233m², 3 dorms, Itararé  O imóvel da matrícula n° 77.023, do CRI de São Vicente/SP, a seguir descrito: O APARTAMENTO N° 301, localizado no 3° andar ou 4° pavimento do EDIFÍCIO MARAHU, situado à Avenida Manoel da Nóbrega, neste Município e Comarca de São Vicente, deste Estado, apartamento esse situado na ala 1, confrontando na frente com a avenida principal, pelo lado direito com a área lateral do prédio, pelo lado esquerdo com o apartamento nº 302, da ala 2 e nos fundos com a garagem coberta do prédio. Possui a área total construída de 233,5027 m2, a área líquida de 170,8449 m2, a área comum igual a 62,6578 m2, uma fração ideal no terreno equivalente a 33,2765 m2 e coeficiente de - participação de 0,018584%. Contém living duplo, 3 dormitórios, 2 banheiros, cozinha, quarto de empregada, banho de empregada e área de serviço com tanque. Cadastrado pela Prefeitura Municipal de São Vicente sob o nº 16-00090-0071-00030-029.     Ônus e gravames: consta na Av. 5 PENHORA de 50% do imóvel, nos autos da Execução Civil (processo nº 1136975-47.2016.8.26.0100), em trâmite perante a 11ª Vara Cível do Foro Central da comarca de São Paulo/SP, movida pelo Banco Daycoval S/A; consta na Av. 6 PENHORA de 50% do imóvel, perante a Secretaria da 26ª Vara do Trabalho de São Paulo/SP, extraída dos aos autos de Execução Trabalhista (proc. nº. 0003251-15.2013.5.02.0026) em que figura como exequente Andria da Silva Menezes; consta na Av. 7 PENHORA de 50% do imóvel relativa aos autos da Execução Civil (processo n° 1030186-87.2017.8.26.0100), em trâmite perante a 45ª Vara Cível do Foro Central Cível da comarca de São Paulo/SP, no qual figura como exequente Banco Safra S/A; consta na AV. 8 PENHORA de 50% do imóvel desta matrícula originária da Execução Cível número de ordem 1007625-35.2018.8.26.0100, do Tribunal de Justiça do Estado de São Paulo, Comarca de São Paulo, da 40ª Vara Oficio Cível do Foro Central, na qual é exequente Banco Safra S.A.; consta na Av.9 INDISPONIBILIDADE decretada nos autos do processo nº 1001847-51.2016.5.02.0075 expedido pelo TST/TRT2 ¿ Secretaria do Juízo Auxiliar em Execução; consta na Av.10 e Av.18 INDISPONIBILIDADE decretada nos autos do processo nº 0002225-26.2015.5.02.0021 expedido pelo TST/TRT2 ¿ Secretaria do Juízo Auxiliar em Execução; consta na Av.11 PENHORA de fração superior à pertencente à executada, originária da Execução Trabalhista (proc. nº 1001845-2020.16.5.02.0063) perante a 63ª Vara do Trabalho da Capital de São Paulo, movida por Bruno Alves de Almeida; consta na Av.12 PENHORA referente aos autos da presente ação; consta na Av.13 PENHORA de fração superior à pertencente ao executado, originária da Execução Civil (proc. nº 1030222322017), perante o 43º Ofício Cível da Capital de São Paulo, movid...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[233]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>831185.79</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6635b44d-e652-4397-8a35-9cfa3aa3bb19.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/409fe407-b9f6-48e4-8fe3-9341aee728b6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d3428b04-edbe-4dd9-ad24-a65d12598b93.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/afc05de8-4e53-4583-9a1c-436c3bfacddf.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6c7e93a4-dea1-45de-9856-6c5f4cd15beb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2c4aa2e4-abcf-4042-a119-33af6259ac30.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/59f57a4a-00c1-4778-b1bd-2b5ff58a852b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Manoel da Nóbrega, 30]]></endereco>
+        <localidade><![CDATA[Itararé, São Vicente, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11320-201]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
