@@ -7916,6 +7916,42 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3249098</ListingID>
+      <Title>Casa, A.C. 75m², Centro</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3249098</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/9044cb87-9a84-459a-9ef8-c8f0ecd17891.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/3c3ab24d-64f0-4ebb-bbbb-8abfda5a7698.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/21f5ab37-2117-4309-8607-f0a5d5b08466.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa, A.C. 75m², Centro  IMÓVEL: CASA nº 583, com área construída de 75,60m² (setenta e cinco metros e sessenta decímetros quadrados), com frente para a Rua 13 de Maio, e seu respectivo terreno, situado nesta cidade, município e comarca de Aguaí/SP.  DESCRIÇÃO: mede 13,00m (treze metros) de frente para a Rua mencionada; mede 13,00m (treze metros) no fundo, confrontando com Concheta Franciosi; mede 33,030m (trinta e três metros e trinta centímetros) de um lado, confrontando com Laura e Iolanda Azevedo; mede 33,30m (trinta e três metros e trinta centímetros) por outro lado, confrontando com Elias Delgado. CADASTRO: 01.02.044.0165.001. MATRÍCULA nº 2.193 do Cartório de Registro de Imóveis e Anexos da Comarca de Aguaí/SP.     Ônus: R. 3 DOAÇÃO - Nua propriedade transmitida por doação a YARA SOUZA OLIVEIRA, MATEUS ADRIAN SOUZA OLIVEIRA e MANUELA SOUZA OLIVEIRA. Fraude à Execução reconhecida nos autos n. 1000837-85.2020.8.26.0083. R4. USUFRUTO VITALÍCIO - O doador GUTEMBERG ADRIANA DE OLIVEIRA reservou para si, o USUFRUTO VITALÍCIO sobre o imóvel. Av.05 e Av.07 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Ação Civil de Improbidade Administrativa, Processo nº 3001557-62.2013.8.26.0083, Oficio Judicial de Aguai/SP. Av.06 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 0000899-26.2012.8.26.0083, Ofício Judicial de Aguaí/SP. Av.08 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Ação de Responsabilidade por Ato de Improbidade Administrativa, Processo nº 3002260-90.2013.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.11 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1001093-67.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.12 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1000363-56.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.13 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1002009-04.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.16 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1001093-67.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP.     Débitos Municipais: ¿Sem débitos pendentes até a presente data¿, conforme consulta realizada em 07/02/2024, através do portal https://e-gov.betha.com.br/cdweb/03114-334/contribuinte/rel_cndimovel.faces  *Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.     Obs 1: Configurada a Fraude à Execução nos autos dos Embargos de Terceiros n. 1000837-85.2020.8.26.00...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">422433.39</ListPrice>
+        <LivingArea unit="square metres">75</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Aguaí</City>
+        <Address>R. Treze de Maio</Address>
+        <StreetNumber>583</StreetNumber>
+        <PostalCode>13860-444</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
