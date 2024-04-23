@@ -5922,7 +5922,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Entre Rios</City>
         <Address>Rodovia BA-099</Address>
         <StreetNumber>Km 90</StreetNumber>
-        <PostalCode>Entre Rios/BA não possui CEP específico</PostalCode>
+        <PostalCode>48180-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5958,8 +5958,8 @@ Observação: essas são as características originais do imóvel, que podem ter
         <State abbreviation="BA">Bahia</State>
         <City>Alcobaça</City>
         <Address>Estrada de Acesso Praia dos Quatis</Address>
-        <StreetNumber />
-        <PostalCode />
+        <StreetNumber>n/a</StreetNumber>
+        <PostalCode>45990-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6300,7 +6300,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Belmonte</City>
         <Address>Rodovia BA 001</Address>
         <StreetNumber>s/n</StreetNumber>
-        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
