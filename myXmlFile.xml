@@ -5992,9 +5992,9 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="BA">Bahia</State>
         <City>Camaçari</City>
-        <Address>Rodovia BA-530 Via Atlântica</Address>
+        <Address>Rodovia BA-530</Address>
         <StreetNumber>Km 8</StreetNumber>
-        <PostalCode>42843-770</PostalCode>
+        <PostalCode>42831-500</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6779,7 +6779,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Cruz Alta</City>
         <Address>Rua Doutor Couto</Address>
         <StreetNumber>216</StreetNumber>
-        <PostalCode>98000001</PostalCode>
+        <PostalCode>98050-250</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7012,8 +7012,8 @@ Observação: essas são as características originais do imóvel, que podem ter
         <State abbreviation="PE">Pernambuco</State>
         <City>Jatobá</City>
         <Address>Rua Nova</Address>
-        <StreetNumber>01</StreetNumber>
-        <PostalCode>56435-000</PostalCode>
+        <StreetNumber>1</StreetNumber>
+        <PostalCode>56470-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7124,8 +7124,8 @@ Observação: essas são as características originais do imóvel, que podem ter
         <State abbreviation="BA">Bahia</State>
         <City>Paulo Afonso</City>
         <Address>Avenida Dos Guararapes</Address>
-        <StreetNumber>08-A</StreetNumber>
-        <PostalCode>48602-216</PostalCode>
+        <StreetNumber>8</StreetNumber>
+        <PostalCode>48607-160</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
