@@ -9579,11 +9579,11 @@ Observação: essas são as características originais do imóvel, que podem ter
       </Details>
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="XX">Estado desconhecido</State>
-        <City>Cidade desconhecida</City>
-        <Address>Rua desconhecida</Address>
-        <StreetNumber>0</StreetNumber>
-        <PostalCode>00000-000</PostalCode>
+        <State abbreviation="PB">Paraíba</State>
+        <City>Monteiro</City>
+        <Address>Rua Jose Augusto Gomes</Address>
+        <StreetNumber>97</StreetNumber>
+        <PostalCode>58500-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
