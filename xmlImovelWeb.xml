@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715023447990</dataModificacao>
+  <dataModificacao>1715264818296</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -17322,6 +17322,76 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Orlando Silva, 78]]></endereco>
         <localidade><![CDATA[Novo Horizonte, Crato, Ceará, Brasil]]></localidade>
         <codigoPostal><![CDATA[63108-020]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3254154]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3254154]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 250m², Residencial Paraty]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 250m², Residencial Paraty  Um terreno urbano, de forma regular, indicado como lote 06, da quadra C, do loteamento ''RESIDENCIAL PARATY'', situado com frente para a Rua B, nesta cidade, distrito, município e comarca de Jaboticabal, com área de 250,00 metros quadrados (duzentos e cinquenta metros quadrados), medindo 10,00 metros (dez metros) de frente para a mencionada Rua B; do lado direito de quem da referida Rua B olha para o lote, mede 25,00 metros (vinte e cinco metros), confrontando com o lote n. 05; do lado esquerdo mede também 25,00 metros (vinte e cinco metros), confrontando com o lote n. 07, e finalmente na linha dos fundos mede 10,00 metros (dez metros), confrontando com o lote 15. Matrícula 32.952 do C.R.I de Jaboticabal.      Laudo de Avaliação, fls. 528/550 (abril/2020):  2.2 Edificações - Prédio Residencial: Construção térrea com 155,90 metros quadrados de área construída. Edificação composta por uma garagem ampla na parte da frente, sala, copa, cozinha, dois dormitórios, um compartimento sanitário, uma lavanderia e nos fundos, um depósito, uma pequena piscina, com 2,75 metros por 1,80 metros, em fibra de vidro e um canil. Cobertura em laje pré-moldada de concreto armado sob telhas cerâmicas apoiadas em estrutura de madeira, exceto o depósito, nos fundos, coberto com telhas de fibrocimento sobre estrutura de madeira. Revestimento em azulejos até o teto, na copa e no compartimento sanitário e pisos cerâmicos em todos os cômodos. As esquadrias são em aço, vidro e madeira.      Ônus:  Av. 2 Penhora: Imóvel penhorado nestes autos. Av.3 Penhora 50%: Execução Civil, Processo 0007684-83.2017.8.26.0291, 2ª Vara Cível de Jaboticabal, movida por JAN NICOLAU BAAKLINI.      Débitos Municipais:  IPTU - R$ 42.167,02 conforme informações obtidas em 28/02/2024 através do site da Prefeitura Municipal de Jaboticabal/SP.     Não consta nos autos informações sobre outros débitos pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos.      Obs. 1)  Imóvel havido pelo executado através de contrato particular de compromisso de venda e compra, tendo com vendedora a proprietária Infratécnica Engenharia e Construções Ltda, e com comprador, o executado Daniel Aparecido Sábio e s/m Camila Gonçalves;  2)  Infratécnica Engenharia e Construções Ltda, informou em 24/10/2017, que o lote se encontra quitado e liberado para lavratura da escritura pública;  3)  As construções/benfeitorias existentes não estão averbadas na matrícula do imóvel. Ficará o arrematante responsável pelas regularizações necessárias e custos envolvidos nesse processo.     Valor da Avaliação em abril de 2020: R$ 251.000,00 (duzentos e cinquenta e um mil reais). Valor da Avaliação atualizado pelo índice de corre...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[250]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>320402.46</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8167d366-1504-4006-bac2-ae57d5d313b1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38e0148a-224c-4549-ad6d-cdf4e48a83b6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5e2b8e0f-9b28-4067-a450-6b337afcb46a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e6f17f27-2a70-4a22-b544-22cf2a7225c5.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Guerino Capalbo, 70]]></endereco>
+        <localidade><![CDATA[Barreiro, Jaboticabal, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14882-242]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
