@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715283823551</dataModificacao>
+  <dataModificacao>1715283941905</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -19445,6 +19445,357 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Eudoro Lemos De Oliveira, 128]]></endereco>
         <localidade><![CDATA[Santana, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[02022030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3272178]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3272178]]></codigoReferencia>
+      <titulo><![CDATA[Sala Coml. nº 210, 1 Vaga, Ocupada, Barra da Tijuca, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Sala Coml. nº 210, 1 Vaga, Ocupada, Barra da Tijuca, Rio de Janeiro/RJ     Sala Coml. nº 210, 1 Vaga, Ocupada, Barra da Tijuca, Rio de Janeiro/RJ     Localização: Av. das Américas, nº 3555, Sala 210 do Bloco 01, 1 Vaga, Barra da Tijuca/RJ CEP 22631-003     Fração de 6/1388 do terreno     Matrícula nº 204.739 Cartório de Registro de Imóveis do 9º Oficio de Rio de Janeiro/RJ  Inscrição Prefeitura: 1985963-6     DOSSIÊ: 19239     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/06/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 914.915,97  2ª Praça:  Abertura: 21/06/2024 a partir das 09h31  Fechamento: 24/06/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 631.822,33        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 31% de deságio sobre o valor de avaliação.         02.19239 Santander - Alienação Fiduciária - D.02.19239]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[150]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>914915.97</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/62fa23f9-652b-4a8a-87bd-2f1d426e70f1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad72fe37-2784-469c-b399-b4c4fc649d8a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76e039f2-b4a0-454c-9fdd-1032711f93d4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bf8c8e21-92ec-4845-bcbf-4d9884e65cab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5bd7b024-2021-49e4-a0ae-f0c6e603e01e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. das Américas, 3555]]></endereco>
+        <localidade><![CDATA[Barra da Tijuca, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[22631-003]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3274729]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3274729]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 60m², Mutondo, São Gonçalo/RJ]]></titulo>
+      <descricao><![CDATA[Apto. 60m², Mutondo, São Gonçalo/RJ  Apartamento - no Mutondo     Localização: R. Doutor Alfredo Backer, 579, Cond. Res. Solar de Alcântara I, apto. 901, Mutondo, São Gonçalo/RJ, 24452-001     Área Privativa: 60m² (conforme laudo)     Matrícula: nº 15.494  RGI: 4º Oficial de Registro de Imóveis de São Gonçalo/RJ  Inscrição Prefeitura: 94464000     DOSSIÊ: 02.21512     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 01/Jul/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 520.000,00     2ª Praça:  Abertura: 01/Jul/2024 a partir das 09h31  Fechamento: 03/jul/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 211.158,40  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 59% de deságio sobre o valor de avaliação.  63841 Santander - Alienação Fiduciária - D.02.21512]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[60]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>520000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e921c992-6196-405c-b03e-6d436df5d658.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/78241d56-2e40-4f21-9451-bb3bedd743a0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/22149fbe-ad76-47c7-a2c7-793415211249.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Doutor Alfredo Backer, 579]]></endereco>
+        <localidade><![CDATA[Mutondo, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[24452-001]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3274635]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3274635]]></codigoReferencia>
+      <titulo><![CDATA[Casa 139m², Chá do Pilar, Pilar/AL]]></titulo>
+      <descricao><![CDATA[Casa 139m², Chá do Pilar, Pilar/AL     Casa - no Chá do Pilar     Localização: R. Eurico Maia, 82, Chá do Pilar, Pilar/AL, 57150-000     Área Construída: 78m²  Área Terreno: 139m²     Matrícula: nº 620  RGI: Oficial de Registro de Imóveis de Pilar/AL  Inscrição Prefeitura: 01020460023001     DOSSIÊ: 02.21998     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Mai/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 145.000,00     2ª Praça:  Abertura: 17/Mai/2024 a partir das 10h41  Fechamento: 20/Mai/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 129.898,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 10% de deságio sobre o valor de avaliação.  02.21998 Santander - Alienação Fiduciária - D.02.21998]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[139]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>145000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6759106a-478a-4076-816b-57c75579e323.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d74d5ce9-fad5-41b5-b1cb-911253d9ee3f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b52598d8-6221-4319-a7e0-00a1e5efa560.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Eurico Maia, 82]]></endereco>
+        <localidade><![CDATA[Chá do Pilar, Pilar, Alagoas, Brasil]]></localidade>
+        <codigoPostal><![CDATA[57150-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3265195]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3265195]]></codigoReferencia>
+      <titulo><![CDATA[Apto 56m², 1 Vaga, Ocupado, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 56m², 1 Vaga, Ocupado, em São Paulo/SP  Apto 56m², 1 Vaga, Ocupado, em São Paulo/SP     Localização: Avenida Nuno Marques Pereira, nº 110, Apto nº 13, bloco G, Condomínio Parque das Flores, Jardim Clarice, São Paulo/SP - CEP: 05863-900     área útil de 56,37m²  área comum de 51,811m²  uma vaga indeterminada  área total construída de 108,181m²     Matrícula: 263.795 do 11º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 166.257.0116-4     DOSSIÊ: 02.21862     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 09/05/2024 a partir das 11h20 com Valor Mínimo de Venda de R$ 274.163,54     2ª Praça:  Abertura: 09/05/2024 a partir das 11h21  Fechamento: 10/05/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 196.636,65        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 28% de deságio sobre o valor de avaliação.         02.21862 Santander - Alienação Fiduciária - D.02.21862]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[56]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>274163.54</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/36fba82e-2756-4335-9950-061a377f72ae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c8b9f181-7cef-4a56-b29f-30663eda42c9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb05a142-660e-425f-933b-058826bad5c6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6fe8ae42-6b92-4041-befa-e6ec69c9a628.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/641f2969-68d1-4ab1-94bb-714bc731432d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Nuno Marques Pereira, 110]]></endereco>
+        <localidade><![CDATA[Jardim Clarice, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[05863-900]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3274236]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3274236]]></codigoReferencia>
+      <titulo><![CDATA[Apto 58m², 1 Vaga, Ocupado, em Guarulhos/SP]]></titulo>
+      <descricao><![CDATA[Apto 58m², 1 Vaga, Ocupado, em Guarulhos/SP     Apto 58m², 1 Vaga, Ocupado, em Guarulhos/SP     Localização: Avenida Bartholomeu de Carlos, nº 230, Apto nº 13, torre 03, acesso pela Rua Dona Tecla, nº 230, Residencial "Parque Residence", Picanço, Guarulhos/SP - CEP: 7097420     área privativa de 58,4900m²  área comum de 48,5315m² já incluído o direito ao uso de 01 vaga de garagem  área total de 107,0215m²     Matrícula: 141.131 do 2º Oficial de Registro de Imóveis de Guarulhos/SP  Inscrição Prefeitura: 083.75.03.0586.03.008     DOSSIÊ: 02.21972     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 13/06/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 604.347,35     2ª Praça:  Abertura: 13/06/2024 a partir das 09h51  Fechamento: 14/06/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 207.717,03        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 66% de deságio sobre o valor de avaliação.   02.21972 Santander - Alienação Fiduciária - D.02.21972]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[58]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>604347.35</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/99c07268-2e00-4b1e-aeaa-cc92a08a0c36.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c4817196-612d-4f33-9f19-d77a335177c4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/40b7df51-e0a7-44e8-8394-8ba192e205be.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/57fc4aa2-06d3-496c-807e-d95d928e8db5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dffca82c-7ffe-4710-873e-b32b53b865d6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ccf8004d-127e-4fc5-b4ba-ad26bcd919a1.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Dona Tecla, 230]]></endereco>
+        <localidade><![CDATA[Picanço, Guarulhos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[07097-420]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
