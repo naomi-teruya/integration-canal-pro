@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715265021146</dataModificacao>
+  <dataModificacao>1715275399418</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2574055]]></codigoAnuncio>
@@ -17392,6 +17392,76 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Av. Francisco Pereira Lopes, 1950]]></endereco>
         <localidade><![CDATA[Parque Arnold Schimidt, São Carlos, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13561-250]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3276296]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3276296]]></codigoReferencia>
+      <titulo><![CDATA[Terreno, A.T. 204m², Residencial Mais Viver]]></titulo>
+      <descricao><![CDATA[Terreno, A.T. 204m², Residencial Mais Viver  Terreno, sem benfeitorias, constituído pelo Lote nº 23 da quadra 05, do loteamento denominado RESIDENCIAL MAIS VIVER SÃO JOSÉ DO RIO PRETO, que assim se descreve: Frente para a Rua Projetada 2, onde mede 10,50 metros, igual dimensão nos fundos, confrontando com o lote 5, do lado esquerdo de quem da citada rua olha para o imóvel mede 19,50 metros, confrontando com o lote 24, igual metragem do lado direito, confrontando com o lote 22, com a área de 204,75 metros quadrados, distante 45,22 metros da esquina da Avenida Projetada 3. Cadastro Municipal nº 261755000. Imóvel registrado sob a Matrícula nº 145.448 do 1º Oficio Judicial de Registro de Imóveis de São José do Rio Preto.      Ônus:  Av.04 Penhora: Imóvel penhorado nestes autos.      Débitos:  IPTU: R$ 2.532,82; Auto de Infração: R$ 764,37, conforme consulta realizada em 16/03/2024.     Valor da avaliação em 22/06/2022: R$ 67.000,00 (sessenta e sete mil reais). Valor da avaliação atualizado pelo índice de correção monetária do Tribunal de Justiça do Estado de São Paulo em MAR/2024: R$ 71.097,63 (setenta e um mil, noventa e sete reais e sessenta e três centavos).  251740 Fabio Bruno Pereira Api Spe 56 Planejamento e Desenvolvimento de Empreendimentos Imobiliários Ltda NI LUIZ SÉRGIO RIBEIRO CORRÊA JÚNIOR - OAB/SP 220.674 Vara do JEC de São José do Rio Preto/SP 0022755-75.2019.8.26.0576
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[204]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>56878.11</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/435c9d24-6698-406e-9e88-06d1d5bfed2d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/91b1c367-bfab-485c-9249-2891fa943f97.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/924f7b5c-74b1-44f2-8f16-3f18377a54f0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0a7bf5d7-1549-42aa-9cba-62bc9ccb622c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Anizio Rodrigues, 23]]></endereco>
+        <localidade><![CDATA[Residencial Mais Viver, São José do Rio Preto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15048-321]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
