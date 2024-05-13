@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715601527560</dataModificacao>
+  <dataModificacao>1715601793059</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2882221]]></codigoAnuncio>
@@ -12087,7 +12087,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Cardeal Dom Sebastião leme, 136]]></endereco>
         <localidade><![CDATA[Santa Teresa, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
-        <codigoPostal><![CDATA[20241001]]></codigoPostal>
+        <codigoPostal><![CDATA[20241-050]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12177,7 +12177,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Aurélia, 2159]]></endereco>
         <localidade><![CDATA[Vila Romana, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[05038-090]]></codigoPostal>
+        <codigoPostal><![CDATA[05046-005]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12240,7 +12240,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Avenida Presidente Vargas, 482]]></endereco>
         <localidade><![CDATA[Centro, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
-        <codigoPostal><![CDATA[20071-000]]></codigoPostal>
+        <codigoPostal><![CDATA[20071-001]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12309,7 +12309,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Pongai, 90]]></endereco>
         <localidade><![CDATA[Cidade Jardim, Catanduva, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[15805-060]]></codigoPostal>
+        <codigoPostal><![CDATA[15802-431]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12379,7 +12379,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         </imagens>
       </multimidia>
       <localizacao>
-        <endereco><![CDATA[Rua João Marques Ramos, 123]]></endereco>
+        <endereco><![CDATA[Rua das Margaridas, 123]]></endereco>
         <localidade><![CDATA[Residencial Reserva Tocantins, Itupeva, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13295-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
@@ -12645,7 +12645,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Cardeal Cagliroi, 90]]></endereco>
         <localidade><![CDATA[Lapa, São Paulo, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[05089-040]]></codigoPostal>
+        <codigoPostal><![CDATA[05009-010]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12714,7 +12714,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Biguaçu, 81]]></endereco>
         <localidade><![CDATA[Água Verde, Blumenau, Santa Catarina, Brasil]]></localidade>
-        <codigoPostal><![CDATA[89041-500]]></codigoPostal>
+        <codigoPostal><![CDATA[89011-630]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12806,8 +12806,8 @@ Observação: essas são as características originais do imóvel, que podem ter
       </multimidia>
       <localizacao>
         <endereco><![CDATA[Avenida Desembargador João Machado, 12]]></endereco>
-        <localidade><![CDATA[Alvorada, Manaus, Amazonas, Brasil]]></localidade>
-        <codigoPostal><![CDATA[69041-260]]></codigoPostal>
+        <localidade><![CDATA[Conjunto Residencial Rio Javari, Manaus, Amazonas, Brasil]]></localidade>
+        <codigoPostal><![CDATA[69048-363]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12894,7 +12894,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua Estrela Do Norte, 303]]></endereco>
         <localidade><![CDATA[Jardim das Avenidas, Araranguá, Santa Catarina, Brasil]]></localidade>
-        <codigoPostal><![CDATA[88901-560]]></codigoPostal>
+        <codigoPostal><![CDATA[88911-190]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -12963,7 +12963,256 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua da Encarnação, S/N]]></endereco>
         <localidade><![CDATA[Arembepe, Camaçari, Bahia, Brasil]]></localidade>
-        <codigoPostal><![CDATA[42835-000]]></codigoPostal>
+        <codigoPostal><![CDATA[42830-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3277596]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3277596]]></codigoReferencia>
+      <titulo><![CDATA[Apto 262m² 4 vagas em Jacarepaguá no Rio de Janeiro/RJ - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 262m² 4 vagas em Jacarepaguá no Rio de Janeiro/RJ - Ocupado     Apto 262m² 4 vagas em Jacarepaguá no Rio de Janeiro/RJ - Ocupado     Localização: Avenida Prefeito Dulcídio Cardoso nº 10.900, Jacarepaguá, no Rio de Janeiro/RJ - CEP: 22793-012     área útil: 262,00m²  4 vagas     Matrícula: nº 320.118  RGI: 9° Oficial de Registro de Imóveis de Rio de Janeiro/RJ  Inscrição Prefeitura: 1729542-9     DOSSIÊ: 02.21379     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/junho/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 4.533.116,26     2ª Praça:  Abertura: 21/junho/2024 a partir das 09h51  Fechamento: 24/junho/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 15.458.835,19        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  02.21379 Santander - Alienação Fiduciária - D.02.21379]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[262]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>4533116.26</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/078ce68a-b623-4c8e-aa9b-bc3440ad285b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Prefeito Dulcídio Cardoso, 10.900]]></endereco>
+        <localidade><![CDATA[Jacarepaguá, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[22793-012]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3278452]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3278452]]></codigoReferencia>
+      <titulo><![CDATA[Casa 76m², Jardim Daniel Martins Ferreira IV, Paranaíba/MS]]></titulo>
+      <descricao><![CDATA[Casa 76m², Jardim Daniel Martins Ferreira IV, Paranaíba/MS  Casa - no Jardim Daniel Martins Ferreira IV  Localização: R. Geraldo Nunes Ribeiro, 1730, Jardim Daniel Martins Ferreira IV, Paranaíba/MS, 79500-000  Área Construída: 76m² Descrição Interna: (01 Apartamento (01 Quarto e 01 Banheiro), 01 Quarto, 01 Banheiro, 01 Hall; 01 Sala e 01 Cozinha)  Matrícula: nº 28.840 RGI: 1º Oficial de Registro de Imóveis de Paranaíba/MS Inscrição Prefeitura: 4.2404.00.007.00  DOSSIÊ: 02.22003  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 23/Mai/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 195.171,14  2ª Praça: Abertura: 23/Mai/2024 a partir das 09h51 Fechamento: 24/Mai/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 141.976,05                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 27% de deságio sobre o valor de avaliação.  02.22003 Santander - Alienação Fiduciária - D.02.22003]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[76]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>195171.14</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad8a50bc-f894-48a5-90cc-33fa78b54381.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9c433757-c696-46f3-9e44-ab86293c7362.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Geraldo Nunes Ribeiro, 1730]]></endereco>
+        <localidade><![CDATA[Jardim Daniel Martins Ferreira IV, Paranaíba, Mato Grosso do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[79500-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3277674]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3277674]]></codigoReferencia>
+      <titulo><![CDATA[Apto 74m² 1 vaga no Bonfim em Camínas/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 74m² 1 vaga no Bonfim em Camínas/SP - Ocupado  Apto 74m² 1 vaga no Bonfim em Campinas/SP - Ocupado     Localização: Rua Rafael Sales, nº 145, apto 74, no Bonfim, em Campinas/SP - CEP: 13070-720     área útil: 74,65m²  área total: 97,32 m²     vaga  área útil: 10,12m²  área total: 19,80m²     Matrícula: nº 84.509 e 84.510  RGI: 2º Oficial de Registro de Imóveis de Campinas/SP  Inscrição Prefeitura: 3414.21.03.0228.01028 e 3414.21.03.0228.01098     DOSSIÊ: 02.21518     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.        O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 23/maio/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 432.000,00     2ª Praça:  Abertura: 23/maio/2024 a partir das 10h01  Fechamento: 24/maio/2024 a partir das 13h00 com Valor Mínimo de Venda de R$ 297.197,51        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.        Percentual de desconto: 31% de deságio sobre o valor de avaliação.     02.21518 Santander - Alienação Fiduciária - D.02.21518]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[74]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>432000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2b3130fe-e554-45c2-abdf-de3525c219d7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0982b1ed-4609-4051-9324-565be45ed9c7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/837514fc-bd53-440b-9a92-08159d47467b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Rafael Sales, 145]]></endereco>
+        <localidade><![CDATA[Bonfim, Campinas, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13070-720]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3278429]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3278429]]></codigoReferencia>
+      <titulo><![CDATA[Apto 90m² 2 vagas em Santana em São Paulo/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 90m² 2 vagas em Santana em São Paulo/SP - Ocupado  Apto 90m² 2 vagas em Santana em São Paulo/SP - Ocupado  Localização: Rua Capitão Manuel Novaes, nº 101, no 8º Subdistrito-Santana, em São Paulo/SP - CEP: 02017-030  área útil: 90,78m² área total: 158,82m² 2 vagas  Matrícula: nº 65.883, 65.884 e 65.885  RGI: 3º Oficial de Registro de Imóveis de São Paulo/SP Inscrição Prefeitura: 073.266.1340-0, 073.266.1398-2 e 073.266.1399-0  DOSSIÊ: 02.21131  Recai sobre os imóveis ação nº 1037464-77.2019.8.26.0001  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 21/junho/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 830.553,83  2ª Praça: Abertura: 21/junho/2024 a partir das 10h21 Fechamento: 24/junho/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 669.004,26                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante. 4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.   Percentual de desconto: 19% de deságio sobre o valor de avaliação.  02.21131 Santander - Alienação Fiduciária - D.02.21131]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[90]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>830553.83</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0dc4233e-2d9f-454b-8229-3202c49f2f0a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Capitão Manuel Novaes, 101]]></endereco>
+        <localidade><![CDATA[Santana, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[02017-030]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
