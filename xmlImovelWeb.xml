@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715601793059</dataModificacao>
+  <dataModificacao>1715633379393</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2882221]]></codigoAnuncio>
@@ -1080,76 +1080,6 @@ Para agendamento de visitação, informações e dúvidas por gentileza entre em
         <endereco><![CDATA[Rua Daniel Barreto dos Santos, 50]]></endereco>
         <localidade><![CDATA[Jacarepaguá, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[22783-560]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3240265]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3240265]]></codigoReferencia>
-      <titulo><![CDATA[Terreno, A.T. 1.282m², Sumaré]]></titulo>
-      <descricao><![CDATA[Terreno, A.T. 1.282m², Sumaré   O imóvel da matrícula n° 34.351, do CRI de Rio do Sul/SC, a seguir descrito: O terreno situado no perímetro urbano desta cidade, Bairro Sumaré, na Rua Sem Denominação, contendo a área de 1.282,02m² (Um mil duzentos e oitenta e dois metros quadrados e dois decímetros quadrados), com as seguintes medidas e confrontações; fazendo frente com 6,19 metros, com o lado ímpar da referida Rua; fundos em 35,00 metros, com terras de Edith Fuchs; extremando do lado direito em 80,00 metros, com terras de Edith Fuchs e, do lado esquerdo em 03 linhas retas e quebradas, sendo a 1ª em 47,75 metros; a 2ª com 27,93 metros, ambas com terras de Eriberto Passing e a 3ª linha em 25,18 metros, com a Faixa da Marinha do Rio Itajaí do Sul. Cadastro Municipal: 8230 e Insc. Imob. nº: 01.06.020.0035.            Ônus e gravames: consoante matrícula atualizada, consta na AV.4 INDISPONIBILIDADE conforme ordem cadastrada na Central de Indisponibilidade de Bens, Protocolo número 202106.2415.01485371-IA-030, nos autos número 4863620184013606 do Tribunal: TRF 1ª Região nos autos 0000213-34.2016.5.23.0081, da Vara do Trabalho de Juína/MT. Nos termos da Certidão Negativa de Débitos obtida em 20/02/2024, o imóvel não possui débitos junto à Fazenda do Município de Rio do Sul/SC; eventuais débitos relativos ao IPTU serão sub-rogados no valor da arrematação.            Valor da Avaliação: R$ 600.000,00 (seiscentos mil reais) em novembro de 2023.        Massa Falida do Banco Santos S/A Rohden Industria Lignea Ltda e Pdr Corretora de Mercadorias S/s Ltda Apolinário Stuhler Réus: Ricardo Leal de Moraes (OAB 56486/RS) e Rosane Moretto Fagundes (OAB 125500/SP); Autor: Paulo de Tarso Ribeiro Kachan (OAB 138712/SP) 11ª Vara Cível do Foro Central da Capital/SP 0204150-90.2007.8.26.0100
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1003]]></idTipo>
-        <idSubTipo><![CDATA[8]]></idSubTipo>
-        <tipo><![CDATA[Terreno]]></tipo>
-        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[0]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[0]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[1.282]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>600000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/aeb3d96a-7cd6-4a5a-9d34-c2fb8907e3a8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a4ec92b7-4e58-4248-a81a-9c1fcdf7dad0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0ecf31b7-4d39-4673-8a95-9a7a713a13d8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ed24ee8c-8f09-4b88-9dbc-06f21d4840fb.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Leopoldo Fuchs, s/n]]></endereco>
-        <localidade><![CDATA[Sumaré, Rio do Sul, Santa Catarina, Brasil]]></localidade>
-        <codigoPostal><![CDATA[89163-020]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -3697,73 +3627,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Estrada dos Bandeirantes, 15.001]]></endereco>
         <localidade><![CDATA[Vargem Pequena, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[22783-025]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3249094]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3249094]]></codigoReferencia>
-      <titulo><![CDATA[Casa, 3 dorms, 1 garagem, Vila Rehder]]></titulo>
-      <descricao><![CDATA[Casa, 3 dorms, 1 garagem, Vila Rehder  1) IMÓVEL: UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 06 (seis), da Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP. DESCRIÇÃO: contém a área superficial de 487,62m² (quatrocentos e oitenta e sete metros e sessenta e dois decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,62m (quarenta metros e sessenta e dois centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 07 (sete); mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº 05 (cinco). CADASTRO: 01.03.108.0096.001. MATRÍCULA nº 8135 do Cartório de Registro de Imóveis e Anexos da Comarca de Aguaí/SP.     Ônus: Av.03 e Av. 05 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3001557-62.2013.8.26.0083, 3º Ofício Judicial de Mogi Guaçu/SP. Av.04 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 0000899-26.2012.8.26.0083, Ofício Judicial de Aguaí/SP. Av.06 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3002260-90.2013.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.09 e Av. 12 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1001093-67.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.10 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1000363-56.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.11 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1002009-04.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP.     2) IMÓVEL: UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 05 (cinco), Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP.   DESCRIÇÃO: contém a área superficial de 488,04m², (quatrocentos e oitenta e oito metros e quatro decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 06 (seis); mede 40,69m (quarenta metros e sessenta e nove centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº 04 (...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[150]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>1327647.79</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/402fa169-e0ad-4d20-91cb-8d74b610f369.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2d8c4ad-cb54-4d60-9cf1-f7f687a43fe9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/555d1543-57d0-4834-af56-a217d8a4bb29.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[R. João Paulo Braido da Silva, 51]]></endereco>
-        <localidade><![CDATA[Vila Rehder, Aguaí, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[13860-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -7393,489 +7256,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Praca Doutor Luciano Esteves, 100]]></endereco>
         <localidade><![CDATA[Centro, Limeira, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[13480048]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3267020]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3267020]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Maceió / AL (34% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Maceió / AL (34% abaixo da avaliação)  Endereço Completo  Rua Castro Alves, 140, Poco, Maceió, AL, CEP: 57025460   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado. Área(s): 171 m² de área terreno, 112,5 m² de área construída, 112,5 m² de área privativa. Matrícula(s): 104.063. Cartório: 1° CRI MACEIO. Inscrição da Prefeitura: 91883.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21552   Área Privativa:  112.5 m2  Área Terreno:  171.0 m2   Matrícula:  104.063  Cartório de Registro:  1° CRI MACEIO  Inscrição na Prefeitura:  91883  IPTU Anual:  R$ 335,45   Valor Avaliado:  R$ 305.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335866 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[112.5]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>202560</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a278928c-8b8f-46c7-ae59-03280318c809.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3232aaa-5c1a-4bec-80ad-8b1b02b4ffe0.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/84f78897-61ab-4777-b72b-00b3d4179f07.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/876c8f95-f83a-43ff-9a74-c597f2190278.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d5b6cd34-64b9-401d-a555-8b317f6b1619.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cc6a94ca-57b0-451d-88cf-44ad29acc870.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Castro Alves, 140]]></endereco>
-        <localidade><![CDATA[Poco, Maceió, Alagoas, Brasil]]></localidade>
-        <codigoPostal><![CDATA[57025460]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3266976]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3266976]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Marumbi / PR (30% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Marumbi / PR (30% abaixo da avaliação)  Endereço Completo  Rua Luiz Valentim, 164, Unidade Residencial B, Condomínio Residencial Flórida, Loteamento Residencial Lino Pavesi, Marumbi, PR, CEP: 86910000   Características do Imóvel:    Descrição:  Casa, Em condomínio, Ocupado. Área(s): 50,08 m² de área construída, 49,35 m² de área privativa, 0,73 m² de área comum. Matrícula(s): 14.939. Cartório: 2º CRI DE JANDAIA DO SUL. Inscrição da Prefeitura: 01-03-005-005B-001.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21765   Área Privativa:  49.35 m2  Área Comum:  0.73 m2  Composição Interna/Vagas:  Dormitórios: 2, Banheiros: 1, Salas: 1, Cozinhas: 1, Áreas de Serviço: 1   Matrícula:  14.939  Cartório de Registro:  2º CRI DE JANDAIA DO SUL  Inscrição na Prefeitura:  01-03-005-005B-001  IPTU Anual:  R$ 106,96   Valor Avaliado:  R$ 136.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335869 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[49.35]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>95000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a7f1e52b-c994-46cb-b485-94fd40b800db.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f7a4ec36-eeeb-4384-9e6b-3e54584a535d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/22241338-0587-465a-8c12-640cdae3aa9b.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97a14b1d-875d-4bbb-98e5-d17117cc6036.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7de94d4e-f527-4bc5-9fb4-a7fbc48d83c3.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1ffc8ce2-0409-4a31-8b64-61a52bc5dd90.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/56ba643d-40e6-4a2e-9cc0-9f62208a102d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd55e79c-14e5-44f8-9178-c602beb069ef.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4b77bcee-03f0-4932-be78-ce6b04bccc25.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d38d618-c7cc-4490-a14c-bab4d3870b60.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/908916c7-4eb3-41c0-8661-23bb3ae72c06.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f382d9f3-be95-4b59-808c-f6af64cfa893.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7cbc9ae9-3f1a-4cfe-a8b8-20a96f6f1164.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5ca88ad4-0845-4af7-817e-fed2bb474555.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d57dc846-0b1c-4a3a-a8ee-d5122ebd6abc.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b790c9f8-9ef6-4ab5-ae5e-a40d2b04e5bb.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Luiz Valentim, 164]]></endereco>
-        <localidade><![CDATA[Marumbi, Marumbi, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[86910-000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3264860]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3264860]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Jacareí / SP (33% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Jacareí / SP (33% abaixo da avaliação)  Endereço Completo  Rua Das Magnolias, 34, Parque Santo Antonio, Jacareí, SP, CEP: 12309610   Características do Imóvel:    Descrição:  Casa, Padrão, Ocupado. Área(s): 167,62 m² de área terreno, 75,89 m² de área construída, 75,89 m² de área privativa. Matrícula(s): 50.942. Cartório: 1° CRI JACAREÍ. Inscrição da Prefeitura: 0.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21707   Área Privativa:  75.89 m2  Área Terreno:  167.62 m2   Matrícula:  50.942  Cartório de Registro:  1° CRI JACAREÍ  Inscrição na Prefeitura:  0  IPTU Anual:  R$ 495,81   Valor Avaliado:  R$ 323.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL  3. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335703 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[75.89]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>215000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76c65608-8108-4a55-ae4c-5d8aad7d328c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c9852e0-bf40-451e-b4ff-4e2c65c5216c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8a23b99b-5be2-4644-880f-0453c5bc2423.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Das Magnolias, 34]]></endereco>
-        <localidade><![CDATA[Parque Santo Antonio, Jacareí, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[12309610]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3266977]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3266977]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (34% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Apartamento, Ocupado, Porto Alegre / RS (34% abaixo da avaliação)  Endereço Completo  Avenida Teresópolis, 2550, Apartamento 412, Bloco B, Edifício Jardim Bandeirantes, Teresópolis, Porto Alegre, RS, CEP: 90870001   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado. Área(s): 46,37 m² de área construída, 46,37 m² de área privativa, 7,21 m² de área comum. Matrícula(s): 69.231. Cartório: 2 CRI DE PORTO ALEGRE. Inscrição da Prefeitura: 6796214.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21595   Área Privativa:  46.37 m2  Área Comum:  7.21 m2   Matrícula:  69.231  Cartório de Registro:  2 CRI DE PORTO ALEGRE  Inscrição na Prefeitura:  6796214  IPTU Anual:  R$ 1.060,00  Condomínio Mensal:  R$ 414,86   Valor Avaliado:  R$ 176.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335868 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[46.37]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>116256</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e577d39e-65dc-422a-a48f-50792dd2f5ab.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/03a14ae0-ed76-4721-b8bb-682b4c2be1a4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9f46579e-091a-48c1-bd9d-f94898f64fb8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/849e1c1b-d0af-460d-9f5f-fcc79876d65e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1f9ac53-bcfc-4845-a29f-6cb478154174.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3640ae83-dfc2-45fb-a3a4-b3bf38967391.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2ee8c3b5-caaa-4040-afd7-c978d036a07c.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Avenida Teresópolis, 2550]]></endereco>
-        <localidade><![CDATA[Teresópolis, Porto Alegre, Rio Grande do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[90870001]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3266978]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3266978]]></codigoReferencia>
-      <titulo><![CDATA[Apartamento, Ocupado, São Gonçalo / RJ (33% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Apartamento, Ocupado, São Gonçalo / RJ (33% abaixo da avaliação)  Endereço Completo  Estrada Da Paciencia, 2845, Condominio Residencial Reserva Park Apto 1202, Bloco 02, Maria Paula, São Gonçalo, RJ, CEP: 24756660   Características do Imóvel:    Descrição:  Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 87,4 m² de área construída, 87,4 m² de área privativa, 0,4 m² de área comum. Matrícula(s): 58.128. Cartório: 3º CRI DE SÃO GONÇALO. Inscrição da Prefeitura: 172.681.000.   Tipo do Imóvel:  Apartamento  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.20968   Área Privativa:  87.4 m2  Área Comum:  0.4 m2  Composição Interna/Vagas:  Vagas de Garagem: 1   Matrícula:  58.128  Cartório de Registro:  3º CRI DE SÃO GONÇALO  Inscrição na Prefeitura:  172.681.000  IPTU Anual:  R$ 706,40  Condomínio Mensal:  R$ 261,30   Valor Avaliado:  R$ 328.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335872 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[87.4]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>220800</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f6d407ba-6ce8-41db-a1b8-356d33e662ef.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/82d77cab-1e21-4bc5-8893-59ca1181337f.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8b272ec4-ea54-4264-bc26-13068b1c9df7.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9054794c-92ad-455b-a827-6913a44fc21a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0818242c-1ef5-4f3a-ab37-5f1ea25987a6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5df4bf8c-1744-492a-bc95-ba51376adb49.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6af4b0d6-2e23-46e5-bb5b-83a9f9106569.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3a6314ec-b026-43a9-b789-92ed926bba16.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc0d596d-cbe3-4f46-aedc-95a3716cb49c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/39a75fcd-572b-4963-a082-100499940f38.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Estrada Da Paciencia, 2845]]></endereco>
-        <localidade><![CDATA[Maria Paula, São Gonçalo, Rio de Janeiro, Brasil]]></localidade>
-        <codigoPostal><![CDATA[24756660]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3267022]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3267022]]></codigoReferencia>
-      <titulo><![CDATA[Casa, Ocupado, Três Lagoas / MS (32% abaixo da avaliação)]]></titulo>
-      <descricao><![CDATA[Casa, Ocupado, Três Lagoas / MS (32% abaixo da avaliação)  Endereço Completo  Rua Pedro Claudino Da Silva, 1406, Casa 1 Do Condominio Residencial Anna Giulia V, Jardim Flamboyant, Três Lagoas, MS, CEP: 79630370   Características do Imóvel:    Descrição:  Casa, Em condomínio, Ocupado, 2 vaga(s) de garagem. Área(s): 125,48 m² de área construída, 125,48 m² de área privativa, 2,98 m² de área comum. Matrícula(s): 541. Cartório: 2° CRI TRES LAGOAS. Inscrição da Prefeitura: 413005005600056.   Tipo do Imóvel:  Casa  Status da Ocupação:  Ocupado  Aceita Visitação:  Visitação indisponível  Dossiê:  02.21424   Área Privativa:  125.48 m2  Área Comum:  2.98 m2  Composição Interna/Vagas:  Dormitórios: 1, Suítes: 2, Banheiros: 1, Vagas de Garagem: 2, Salas: 1, Cozinhas: 2, Áreas de Serviço: 1   Matrícula:  541  Cartório de Registro:  2° CRI TRES LAGOAS  Inscrição na Prefeitura:  413005005600056  IPTU Anual:  R$ 607,75  Condomínio Mensal:  R$ 1,00   Valor Avaliado:  R$ 295.000,00  Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   1. OCUPADO  2. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS À DESOCUPAÇÃO CONFORME ITENS 4.14. 4.14.1 DO EDITAL.  3. OS DÉBITOS DE IPTU E CONDOMÍNIO SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO    Condições de Pagamento  À vista ou Financiamento em até 420 meses.  335873 Santander oportunidades]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[125.48]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>199872</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b321c85f-dc0e-4100-b839-bc11a4e3fc5a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/14970ce0-1820-46d9-9c76-881ade318442.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/23df519e-35b0-4fbb-bfc6-89575b116827.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9af27be1-8a08-44c5-8086-0855fc8409f8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a685613f-f643-4a21-9e5b-f1090d0a2d9b.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Pedro Claudino Da Silva, 1406]]></endereco>
-        <localidade><![CDATA[Jardim Flamboyant, Três Lagoas, Mato Grosso do Sul, Brasil]]></localidade>
-        <codigoPostal><![CDATA[79630-370]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13213,6 +12593,73 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Capitão Manuel Novaes, 101]]></endereco>
         <localidade><![CDATA[Santana, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[02017-030]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3249095]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3249095]]></codigoReferencia>
+      <titulo><![CDATA[Casa, 3 dorms, 1 garagem, Vila Rehder]]></titulo>
+      <descricao><![CDATA[Casa, 3 dorms, 1 garagem, Vila Rehder   1) IMÓVEL:  UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 06 (seis), da Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP. DESCRIÇÃO: contém a área superficial de 487,62m² (quatrocentos e oitenta e sete metros e sessenta e dois decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,62m (quarenta metros e sessenta e dois centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 07 (sete); mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº 05 (cinco). CADASTRO: 01.03.108.0096.001. MATRÍCULA nº 8135 do Cartório de Registro de Imóveis e Anexos da Comarca de Aguaí/SP.      Ônus:  Av.03 e Av. 05 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3001557-62.2013.8.26.0083, 3º Ofício Judicial de Mogi Guaçu/SP. Av.04 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 0000899-26.2012.8.26.0083, Ofício Judicial de Aguaí/SP. Av.06 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 3002260-90.2013.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.09 e Av. 12 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1001093-67.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.10 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1000363-56.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP. Av.11 Indisponibilidade: bens pertencentes a GUTEMBERG ADRIAN DE OLIVEIRA, Processo nº 1002009-04.2016.8.26.0083, Tribunal de Justiça de São Paulo Comarca de Aguaí/SP.      2) IMÓVEL:  UM TERRENO, em aberto e sem benfeitorias, identificado por Lote nº 05 (cinco), Quadra ''C'', desdobrado da Área ''C'', com frente para a Rua João Paulo Braido da Silva, em zona urbana, situado neste município e comarca de Aguaí/SP. DESCRIÇÃO: contém a área superficial de 488,04m², (quatrocentos e oitenta e oito metros e quatro decímetros quadrados); mede 12,00m (doze metros) de frente para a Rua João Paulo Braido da Silva; mede 12,00m (doze metros) no fundo, confrontando com o loteamento Jardim Novaguaí; mede 40,65m (quarenta metros e sessenta e cinco centímetros) do lado direito, de quem da rua olha para o imóvel, confrontando com o lote nº 06 (seis); mede 40,69m (quarenta metros e sessenta e nove centímetros) do lado esquerdo, no mesmo sentido, confrontando com o lote nº ...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[4]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[3]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[976]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>929353.46</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/402fa169-e0ad-4d20-91cb-8d74b610f369.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2d8c4ad-cb54-4d60-9cf1-f7f687a43fe9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/555d1543-57d0-4834-af56-a217d8a4bb29.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. João Paulo Braido da Silva, 51]]></endereco>
+        <localidade><![CDATA[Vila Rehder, Aguaí, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13860-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
