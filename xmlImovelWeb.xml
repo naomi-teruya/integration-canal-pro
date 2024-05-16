@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1715771197358</dataModificacao>
+  <dataModificacao>1715862519658</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2882221]]></codigoAnuncio>
@@ -3031,154 +3031,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Estrela Dione, 139]]></endereco>
         <localidade><![CDATA[Jardim Riacho das Pedras, Contagem, Minas Gerais, Brasil]]></localidade>
         <codigoPostal><![CDATA[32241-300]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3239058]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3239058]]></codigoReferencia>
-      <titulo><![CDATA[Chácara Tio Nilll, A.T. 50.534m², A.C. 1.100m², casa de 3 dorms, 1 suíte, 2 banheiros, piscina, 2 edículas, Porto]]></titulo>
-      <descricao><![CDATA[Chácara Tio Nilll, A.T. 50.534m², A.C. 1.100m², casa de 3 dorms, 1 suíte, 2 banheiros, piscina, 2 edículas, Porto  Imóvel matrícula n° 42.831, do CRI de Itapetininga/SP: Um terreno situado no Bairro do Porto Velho, no lugar denominado Porto, neste município, denominado Chácara Dany, com a área de 50.534,10 metros quadrados, compreendido dentro das seguintes divisas, medidas e confrontações: pela frente, em 141,00 metros, divide com uma Estrada Municipal; faz canto à direita e segue em 255,00 metros, dividindo com uma rua particular; do lado direito, de quem da frente olha para o imóvel, mede 235,50 metros e divide com Danúbio Monte Pires; de outro lado, oposto à este, esquerdo, em 150,00 metros, divide com Luiz Moraes Rosa; e nos fundos, em 162,70 metros, divide com o Rio Itapetininga. Av. 4, consta que o imóvel passou a denominar-se Chácara Tio Nilll. Av. 2, consta que o imóvel está cadastrado sob n° 12.25.043.0500.001.        Obs.: segundo laudo pericial de fls. 1187-1201, são benfeitorias do imóvel: entrada fundos: parte interna para descarrego de matérias; Casa da sede com entrada frontal para lazer: com sala de TV, 3 dormitórios (1 suíte), 2 banheiros (1 suíte), hall de entrada, corredor de circulação, cozinha, sala de jantar, varandas e 1 salão de jogos (churrasqueira), com aproximadamente 191m² de área edificada com acabamento total; piscina com vestiário parte dos fundos e sub solo da sede (composta de 2 banheiros, dispensa para produtos de limpeza e varanda, com aproximadamente 21,00 m² de área edificada com acabamento total; residência do caseiro I: com 2 quartos, sala, banheiro, cozinha e área coberta, acoplada a ela há 1 quarto de despejo, com aproximadamente 85,00 m² de área edificada; residência do caseiro II: com 3 quartos, sala, banheiro, cozinha e lavanderia, com aproximadamente 81,00 m² de área edificada; curral de porcos, com 90,00 m² de área edificada, com 1 cômodo destinado ao depósito de veneno, com 16,00 m² de área edificada; depósito para venenos, com aproximadamente 111,00 m² de área edificada; barracão para depósito de materiais e equipamentos da propriedade, com aproximadamente 155,00 m² de área edificada; 13 estufas usadas para plantio, com pequeno depósito de venenos, com aproximadamente, 350,00 m² de área edificada; partes elétricas: dentro das normas CPFL, com transformador dividindo, em conjunto com o vizinho, instalações hidráulicas servidas por poços d'águas com bombas de recalques; depósito de água para irrigação das estufas com bomba de recalque; local de saída beira rio com bomba recalque; campo de futebol; área cercada com mureta e alambrado destinada a galinheiro: cercas vivas (cedrinho) cobrindo quando todas as divisas do imóvel e nos fundos o Rio Itapetininga; o imóvel possui 3 ent...
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[50.534]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>828015.73</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/913148a2-4f50-48f5-b11f-781b3a25c2d6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a0122532-b872-481d-b26f-75a3ac732a3c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/356ba27a-51f7-4e74-8f4e-919ec4c785e3.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/01a487c2-ac8d-4311-8ef5-19c7d9e58d2d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bbb72605-0c33-4f20-af79-a793ad12af1c.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e7073cba-e352-4a25-9ad5-4e2c22095515.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/15d0b579-c702-4182-a461-d9e45af961ee.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ec60c53a-693c-4575-8be7-800c09df5ea6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/eecff503-7be0-476a-80da-31d6959cfd69.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bf06b1e3-7a3f-4557-9367-d2de774d508a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/534dd2dd-662f-446c-815a-a92ba70b53bb.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12ab5ff9-3ecc-471d-bf38-a283ad124d6e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f0491537-ba3f-4a0e-8423-454046e41002.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b14fdb26-9241-4df5-9b4e-269ff3951364.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa5bf54c-ea12-4508-a198-1742873853c5.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3052a25e-a537-4428-a81b-e4f2145dcfaf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acb52fc9-70eb-47e8-a0b0-2c018d2f5090.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ab03f2a-a4c4-47f3-85a4-93ade0e583ab.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ab9e258-b18e-4b62-b790-7b8d3432015e.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9d3efe69-e96f-4255-9a19-6bc4ebb3f259.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e99b1202-cb25-446f-9a45-30862c5fbc24.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/71d10ae2-713f-4287-ad27-8ce25b5b6ae8.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d8f348a1-abbd-44c5-94c0-41bcb54e2b3a.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c246e277-aac5-4145-8c6f-fbb2327eb689.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8ae2c363-eca4-43b3-bdb7-b12c4041a503.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2a4d5ff0-1ade-41e7-93e3-cd398a1316fa.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fb9b9cfa-4473-475f-b476-2a4e7e3e2641.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a1da972e-4aa9-42e8-ae74-9fdb8122b6f4.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ae4cd317-142b-4a03-ae42-aae8fecb9e18.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81c8f2c2-c885-4155-a274-baba3f311a5e.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Sitio de Recreio, s/nº]]></endereco>
-        <localidade><![CDATA[Porto, Itapetininga, São Paulo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[18204-140]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -17778,6 +17630,169 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Guimarães Rosa, 30]]></endereco>
         <localidade><![CDATA[Jardim das Primaveras, Araxá, Minas Gerais, Brasil]]></localidade>
         <codigoPostal><![CDATA[38182-416]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3282875]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3282875]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 321m², A.C. 158m², 3 dorms, 3 vagas, Centro]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 321m², A.C. 158m², 3 dorms, 3 vagas, Centro  Imóvel da matrícula n° 5.863, do CRI de Itapetininga/SP: o prédio n. 278 da Rua Jorge Ozi, desta cidade e 2° subdistrito, constituído de casa de morada, respectivo terreno e quintal, medindo tudo 10 m de frente, por 30 m da frente aos fundos, encerrando a área de 300,00 metros quadrados, confrontando de um lado com propriedade de José Graciliano Cleto; do lado oposto com Maria Carmela; e, aos fundos com propriedade de Casimiro Lopes de Almeida. Cadastro IPTU sob n° 01.06.020.0131.001 (Av. 8).  Obs.: segundo laudo pericial de fls. 347-392, o imóvel é composto de garagem para 03 veículos, sala de jantar, cozinha e copa, banheiro, 03 dormitórios, área de serviço composto por lavanderia, quarto e banheiro nos fundos do terreno.        Ônus e gravames: conforme Certidão Negativa de Débitos emitida pelo Órgão competente em 15/03/2024, não existem débitos municipais pendentes sobre o imóvel.  Ressalvamos que tendo em vista o falecimento de Antonio de Marmo Cirineu, eventuais arrematantes se sub-rogarão a essa posição jurídica, figurando como compromissários compradores, a ser futuramente regularizada, de modo que a obtenção do domínio e o acesso ao registro imobiliário estarão subordinados a providências futuras assim que encerrado o inventário.        Valor da Avaliação: R$ 437.000,00 (quatrocentos e trinta e sete mil reais) em agosto de 2020, e que será atualizada pelos índices adotados no TJSP até a data da praça. Valor de Avaliação Atualizado: R$ 564.046,56 (quinhentos e sessenta e quatro mil, quarenta e seis reais e cinquenta e seis centavos) até maio de 2024, segundo a tabela oficial aplicável nos cálculos judiciais do TJSP.  252189 Carlos Alberto de Campos Teixeira Machado e Outros Maria de Lourdes Carvalho Cyrineo e Outros NI Réus: MARINA POMPEU PIZA SAAD FERRAZZI OAB/SP 198.537; Autores: CRISTIANO ROBERTO TERRA GUIMARÃES ¿ OAB/SP 225.640 4ª Vara Cível da Comarca de Itapetininga/SP 1005074-60.2018.8.26.0269
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[321]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>564046.56</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6eaf8562-467e-4e5e-adf4-e19f07967b5e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25c56a63-a21a-4841-b029-623fed333ae1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/94c5dbb8-0ef1-4442-bc30-9ddca9437d8d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/027dc677-72d4-409f-b65d-3c8730095e38.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/406e89d6-0e84-41af-bb64-84aab3e81529.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f8a381f8-9ef2-4b90-bd5b-fb4ba1fc2a91.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3873e8c3-6625-4179-a23a-60a252492333.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2afa5449-c467-4688-a1f0-49a38e143756.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/acf14168-141e-4e41-949f-5428bf4deee8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ccc37374-04b5-4635-aa3a-408ba9127bc5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/769eaf40-2d7d-4b98-b920-2c2223b72a64.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9eab7da7-8d6f-41a3-bc3d-eb39270e9a21.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e0fd8afa-d0e6-40fe-87a6-2b96655839e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42378a12-afbb-4ebf-b990-24d74d187d0b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/36344c96-7fc1-4eba-9ea0-3952247175e8.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a464a142-5fd9-41da-89b9-c451eb7e1805.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/97a6ee32-dd38-40b5-95c7-9bcb6439e7cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0a598825-64a4-4e73-80e8-30ac667455c1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3a625a09-ae0a-4f7f-a7ab-4231dad99278.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9e1775f-463f-405f-9eb1-2d23961e768f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/78ba0443-0636-4d75-bc34-7fbed138345a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44127ee9-3b10-4d54-9ccb-e6d0986945de.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0411d405-664c-489e-a07d-104e6d66877f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/53e39c5d-9314-4124-b736-6aff388ac2ae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6ec2f69c-72e1-49b9-8a40-d5b8bf3935a2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37b7f8f9-f00d-4164-9bc0-96485a0d318b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1ea5d01d-d169-46b0-8b16-2198d56e5d46.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/115cd6a2-1585-40e7-b1ea-deb96643ee42.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/834301b8-9bf2-4d0f-8eb8-fde6025c907e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c3005638-b691-42f1-bb7e-2e280719fe5b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4d7d8895-4cad-4354-8062-8570ceb87d2a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4cd7d830-27bb-4615-bca7-57ac94f8e9ad.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/00127aee-6809-4786-b4de-db65792a313d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5be60d68-07df-499c-a681-0f2c64cd93ea.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bb417652-99b6-4210-bbb6-d9f3e9db1f12.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Jorge Ozi, 278]]></endereco>
+        <localidade><![CDATA[Centro, Itapetininga, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[18200-540]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
