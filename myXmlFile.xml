@@ -7939,50 +7939,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3280208</ListingID>
-      <Title>Fazenda, Desocupado, 277219.53 m2, Sorocaba / SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3280208</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c022ef9c-7b18-4b55-810b-85d626df9b6e.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ff288b08-7d9d-4591-9dbd-2dc646beaf76.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/e2bb8f78-ea09-4256-bbc1-5b5f0ca8e8de.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/7b87c411-f857-4b9f-b996-bbe08fb71b0f.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/e8232240-ef12-490b-b8f3-bf0fdbb13bee.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/1f524a0a-9fc2-4a32-a006-3cf8c04260a1.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/964dec7a-ec4c-40fd-9f30-319d17047ade.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/59e9a0cd-1c0c-4357-970e-26d3628cb3f0.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/cb4bbb9b-d921-45da-aa12-ef4a9795b64a.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/fbc1771d-6b49-4f3a-b15b-9b7ae243d40d.jpg</Item>
-        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/34d65475-06f2-4c0b-a1ca-c341380e0c89.jpg</Item>
-        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/6b1ed6f9-7f66-4116-9587-9e5a4dc828fd.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Commercial / Agricultural</PropertyType>
-        <Description><![CDATA[Fazenda, Desocupado, 277219.53 m2, Sorocaba / SP   Endereço Completo  Rodovia Presidente Castelo Branco, 1300, Regiao Norte, Sorocaba, SP, CEP: 18105-00   Características do Imóvel:    Descrição:  Fazenda, Padrão, Desocupado. Área(s): 277219,53 m² de área total, 16903,86 m² de área construída. Matrícula(s): 68.067,46.699, 19.342 ,68.067,19.342,46.699 . Cartório: 1º CRI DE SOROCABA. Inscrição da Prefeitura: 49.51.28.0242.00.000.   Tipo do Imóvel:  Fazenda  Status da Ocupação:  Desocupado  Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net  Dossiê:  13371   Área Total:  277219.53 m2   Matrícula:   68.067,46.699, 19.342 ,68.067,19.342,46.699   Cartório de Registro:  1º CRI DE SOROCABA  Inscrição na Prefeitura:  49.51.28.0242.00.000  IPTU Anual:  R$ 4.711,49   Venda Condicional:  Valor de venda sob aprovação do vendedor   Considerações Importantes   * DESOCUPADO * OS DÉBITOS DE IPTU E SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.    Condições de Pagamento    42336 Santander Comerciais - FAÇA SUA PROPOSTA]]></Description>
-        <ListPrice currency="BRL">13500000</ListPrice>
-        <LivingArea unit="square metres">277219.53</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="All">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">São Paulo</State>
-        <City>Sorocaba</City>
-        <Address>Rodovia Presidente Castelo Branco</Address>
-        <StreetNumber>1300</StreetNumber>
-        <PostalCode>18105-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3280294</ListingID>
       <Title>Terreno, Santa Cruz, Rio de Janeiro/RJ</Title>
       <TransactionType>For Sale</TransactionType>
@@ -9055,6 +9011,79 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Av. Manoel da Nóbrega</Address>
         <StreetNumber>30</StreetNumber>
         <PostalCode>11320-200</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3286593</ListingID>
+      <Title>Casa 200m², Vila Motta em Catanduva/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3286593</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/dfda5e79-de25-4d66-bb41-fec7139a1698.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/92111520-db14-4a07-be34-165905a15ead.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5b60cfac-e295-4462-8941-41055b123a2a.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/3a535ae0-112e-4501-9a6e-3654624c16eb.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/9713849a-f877-45d4-a2b2-df32a1dad88a.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/346f4735-485e-4a0e-9898-1e05799d8ea3.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 200m², Vila Motta em Catanduva/SP  Casa - na Vila Motta  Localização: Rua Curitiba, 1.133, Vila Motta, Catanduva/SP, 15804-055  Área Terreno: 200m² Área Construída: 78m²  Matrícula: nº 45.280 RGI: 2º Oficial de Registro de Imóveis de Catanduva/SP Inscrição Prefeitura: 72895010 e 35.60.83.0045.01.001  DOSSIÊ: 02.21233  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 31/Mai/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 300.000,00  2ª Praça: Abertura: 31/Mai/2024 a partir das 10h11 Fechamento: 03/Jun/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 273.893,53                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  02.21233 Santander - Alienação Fiduciária - D.02.21233]]></Description>
+        <ListPrice currency="BRL">300000</ListPrice>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Catanduva</City>
+        <Address>Rua Curitiba</Address>
+        <StreetNumber>1133</StreetNumber>
+        <PostalCode>15804-055</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3286587</ListingID>
+      <Title>Apto. 101m², 2 vagas no Barro Vermelho, Natal/RN</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3286587</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/de1e3975-0187-4c56-a07a-dfb12c696a47.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/0aaaeea6-c012-43b6-a2d2-18af90071f8a.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/846ee289-94fd-446e-a501-db9b3aa27fb4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 101m², 2 vagas no Barro Vermelho, Natal/RN     Apartamento - no Barro Vermelho     Localização: R. Iliria Tavares Galvão, 52, Res. Park View, apto. 301, Barro Vermelho, Natal/RN, 59022-460     Área Privativa: 101m²  Área de Uso Comum: 79m²  Descrição Interne: (sala estar/jantar, varanda 02 (dois) quartos sociais, bwc social, quarto suíte, bwc suíte, circulação, cozinha, área de serviço, dependência de empregada, bwc da dependência de empregada)  2 vagas     Matrícula: nº 36.665  RGI: Oficial de Registro de Imóveis de Natal/RN  Inscrição Prefeitura: 3.020.0171.03.0323.0042.4     DOSSIÊ: 02.21974     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 29/Mai/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 660.631,30     2ª Praça:  Abertura: 29/Mai/2024 a partir das 10h11  Fechamento: 31/Mai/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 346.098,58        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 48% de deságio sobre o valor de avaliação.  02.21974 Santander - Alienação Fiduciária - D.02.21974]]></Description>
+        <ListPrice currency="BRL">660631.3</ListPrice>
+        <LivingArea unit="square metres">101</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RN">Rio Grande do Norte</State>
+        <City>Natal</City>
+        <Address>R. Iliria Tavares Galvão</Address>
+        <StreetNumber>52</StreetNumber>
+        <PostalCode>59022-460</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
