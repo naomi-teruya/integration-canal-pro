@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1716497494430</dataModificacao>
+  <dataModificacao>1716808263026</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2882221]]></codigoAnuncio>
@@ -15045,6 +15045,138 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Dr. March, 329]]></endereco>
         <localidade><![CDATA[Barreto, Niterói, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[24110-650]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3290410]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3290410]]></codigoReferencia>
+      <titulo><![CDATA[Casa 394m², Jardim Regente, Indaiatuba/SP]]></titulo>
+      <descricao><![CDATA[Casa 394m², Jardim Regente, Indaiatuba/SP  Casa - no Jardim Regente     Localização: R. João Camillo Bueno, 108, Jardim Regente, Indaiatuba/SP, 13336345     Área Terreno: 394m²  Área Construída: 299m²     Matrícula: nº 279.777  RGI: Oficial de Registro de Imóveis de Indaiatuba/SP  Inscrição Prefeitura: 5128.3840.0-4     DOSSIÊ: 02.21900     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 05/Jun/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 1.359.183,35     2ª Praça:  Abertura: 05/Jun/2024 a partir das 09h51  Fechamento: 07/Jun/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 652.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 52% de deságio sobre o valor de avaliação.  02.21900 Santander - Alienação Fiduciária - D.02.21900]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[394]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1359183.35</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/20e1a57d-61fb-4dfe-87ec-4cf43ef2c77f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/224620aa-3940-487d-ab82-0fccb36a74e0.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8c86ad8d-c5cf-492e-bd84-2d9a5524961a.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. João Camillo Bueno, 108]]></endereco>
+        <localidade><![CDATA[Jardim Regente, Indaiatuba, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13336345]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3290454]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3290454]]></codigoReferencia>
+      <titulo><![CDATA[Casa 217m², Parque Res. Manoel Simão de Barros Levy, Limeira/SP]]></titulo>
+      <descricao><![CDATA[Casa 217m², Parque Res. Manoel Simão de Barros Levy, Limeira/SP  Casa - no Parque Res. Manoel Simão de Barros Levy     Localização: Rua José Medeiros, 28, Parque Residencial Manoel Simão de Barros Levy, Limeira/SP, 13481-585     Área Terreno: 217m²  Área Construída: 84m²  Conforme laudo, consta uma área construída de 39m² não averbada na matrícula (Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes).     Matrícula: nº 27.674  RGI: 2º Oficial de Registro de Imóveis de Limeira/SP  Inscrição Prefeitura: 2429-016-000     DOSSIÊ: 02.18669     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 05/Jul/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 500.469,17     2ª Praça:  Abertura: 05/Jul/2024 a partir das 10h01  Fechamento: 08/Jul/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 225.580,04     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 55% de deságio sobre o valor de avaliação.  02.18669 Santander - Alienação Fiduciária - D.02.18669]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[84]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>500469.17</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3c7ecfa4-cdab-4f43-91a8-81a634117cca.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ccea9d99-f979-4301-906b-864f73d4b2ca.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/42058162-bfd7-4fa4-bc88-3d0315078fe2.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Medeiros, 28]]></endereco>
+        <localidade><![CDATA[Centro, Limeira, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[13481-585]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
