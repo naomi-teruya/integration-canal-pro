@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1716908376835</dataModificacao>
+  <dataModificacao>1716908433758</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[2882221]]></codigoAnuncio>
@@ -14829,6 +14829,207 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R Joao Fragoso De Medeiros, 440]]></endereco>
         <localidade><![CDATA[Candeias, Jaboatao Guararapes, Pernambuco, Brasil]]></localidade>
         <codigoPostal><![CDATA[54430250]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3292884]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3292884]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 50m², vaga no Ronda, São José dos Campos/SP]]></titulo>
+      <descricao><![CDATA[Apto. 50m², vaga no Ronda, São José dos Campos/SP     Apartamento - no Ronda     Localização: Av. Presidente Juscelino Kubitscheck nº 5.430, apto. 66 - Tipo-A, Ed. Veleiro, Ronda, São José dos Campos/SP, 12215-380     Área Privativa: 50m²  Área Total: 81m²  Vaga de Garagem     Matrícula: nº 153.890  RGI: 1º Oficial de Registro de Imóveis de São José dos Campos/SP  Inscrição Prefeitura: 32.0086.0012.0052     DOSSIÊ: 02.22034     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 07/Jun/2024 a partir das 09h20 com Valor Mínimo de Venda de R$ 230.961,07     2ª Praça:  Abertura: 07/Jun/2024 a partir das 09h21  Fechamento: 10/Jun/2024 a partir das 13h20 com Valor Mínimo de Venda de R$ 123.500,00        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 47% de deságio sobre o valor de avaliação.     02.22034 Santander - Alienação Fiduciária - D.02.22034]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[50]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>230961.07</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/39b8b5fd-8401-49b5-a471-642911ff682a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1719de1c-bbb9-4816-ab4a-0168f44e2d19.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3e66a63f-6046-41cc-8a9d-f410dadb7fbd.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Presidente Juscelino Kubitscheck, 5.430]]></endereco>
+        <localidade><![CDATA[Ronda, São José dos Campos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12215-380]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3293048]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3293048]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 68m², vaga no Centro, Lauro de Freitas/BA]]></titulo>
+      <descricao><![CDATA[Apto. 68m², vaga no Centro, Lauro de Freitas/BA  Apartamento - no Centro  Localização: R. Pataro Machado, nº 310, apto. 305, Cond. Torres do Atlantico, Centro, Lauro de Freitas/BA, 42702-903  Área Privativa: 68m² Descrição Interna: (varanda, sala, hall, gabinete, quarto, sanitário social e cozinha) Vaga de Garagem  Matrícula: nº 42.480 RGI: Oficial de Registro de Imóveis de Lauro de Freitas/BA Inscrição Prefeitura: 4173500310D305  DOSSIÊ: 02.22026  Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.  1ª Praça: Fechamento: 07/Jun/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 364.125,44  2ª Praça: Abertura: 07/Jun/2024 a partir das 10h41 Fechamento: 10/Jun/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 239.581,65                                                                               Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus"); 2 - FORMA DE PAGAMENTO: À vista. 3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  Percentual de desconto: 34% de deságio sobre o valor de avaliação.  222026 Santander - Alienação Fiduciária - D.02.22026]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[68]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>364125.44</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/668eb52b-dc5f-4493-9867-bd710aacba88.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12bc2fcc-c21b-448b-b403-cb19a36c6507.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6655a326-42f2-4268-aff1-ab6a73593241.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2f4ccfcd-0730-4f06-981d-f972d02f7b04.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[R. Pataro Machado, 310]]></endereco>
+        <localidade><![CDATA[Centro, Lauro de Freitas, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[42702-903]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3292881]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3292881]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 158m², vaga no Bonfim Paulista/SP]]></titulo>
+      <descricao><![CDATA[Apto. 158m², vaga no Bonfim Paulista/SP  Apartamento - no Jardim Olhos D'Água II     Localização: Av. Deputado Sérgio Cardoso de Almeida, nº 2.035, apto. 603,&nbsp;Jardim Olhos D'Água II, Bonfim Paulista/SP, 14110-000     Área Privativa: 158m²  Área Total: 233m²  Vaga de Garagem     Matrícula: nº 202.084  RGI: 2º Oficial de Registro de Imóveis de Ribeirão Preto/SP  Inscrição Prefeitura: 381.401     DOSSIÊ: 02.22101     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     *Conforme Av.02 da matrícula, consta Indisponibilidade dos direitos de eventual aquisição (Processo nº 081) nos autos da ação determinada pelo Juízo da Vara do Trabalho de Guaxupé/MG.*     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 07/Jun/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 968.774,15     2ª Praça:  Abertura: 07/Jun/2024 a partir das 09h01  Fechamento: 10/Jun/2024 a partir das 13h00 com Valor Mínimo de Venda de R$ 915.422,99  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.  64399 Santander - Alienação Fiduciária - D.02.22101]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[158]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>968774.15</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d80ecf39-7b77-4162-a1c8-8692b8a97736.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/41fc39d2-c11e-4923-8c29-6d9d4f0a9ac3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb7ab3d0-b995-4583-b269-5471082792ef.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Deputado Sérgio Cardoso de Almeida, 2.035]]></endereco>
+        <localidade><![CDATA[Jardim Olhos D’Água II, Bonfim Paulista, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14110-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
