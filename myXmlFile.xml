@@ -7700,6 +7700,49 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Telephone>(11) 3150-4646</Telephone>
       </ContactInfo>
     </Listing>
+    <Listing xmlns="">
+      <ListingID>3295858</ListingID>
+      <Title>Casa c/ Terreno de 1.000m², Ocupada na Vila Pedras Brancas em Guaíba/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3295858</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/15918b37-c8d9-4d67-be42-a7a83c0fb167.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c76fbabb-6a65-45b1-9fec-bf1b1d106725.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b930a59e-1c8f-43ec-91b6-c3d9ec358fc0.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c57f21f7-01ab-49eb-b068-be436786068d.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/3ac56d86-4b63-4c0b-ab15-02f2e4668608.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/016979e5-03e3-4b64-81c6-7e85946f62a6.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/73972916-aa5f-4540-8e10-e4b28010f391.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/5ab846c9-b7ce-4f4b-98cf-4afb0a231cf8.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/3d0843ef-a8f8-4a52-9ac7-5bf9319b5692.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/76eb20a8-af16-448b-b182-18a00a727417.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/bb5085cb-1431-4be0-8523-992a1afbdda1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa c/ Terreno de 1.000m², Ocupada na Vila Pedras Brancas em Guaíba/RS   Casa c/ Terreno de 1.000m², Ocupada na Vila Pedras Brancas em Guaíba/RS - Um terreno situado no loteamento Vila Pedras Brancas, distrito da sede municipal, neste município de Guaíba, constituído do lote nº 26, da quadra nº 113, com a área de 1.000,00m², medindo 20,00m na frente ao sul, no alinhamento da Estrada Dr. Jose Carlos Ferreira, lado ímpar; 20,00m no fundo ao norte, na divisa com lote nº 11, por 50,00m de extensão da frente ao fundos, por ambos os lados, confrontando-se do lado leste com lote nº 25, e do oeste, com o lote nº 27, todos da mesma quadra. Localiza-se no quarteirão formado pelas Estradas Dr. Jose Caros Ferreira e D e Rua 09 e 31 e dista 140,00m, da esquina formanda pelas Estradas Dr. José Carlos Ferreira e Rua 31, que lhe fica do sul. Matrícula nº 35.253 do Cartório de Oficio de Registro de Imóveis de Guaíba/RS. Cadastrado na Prefeitura Municipal sob n° 00.0105.0058.0026.001.01.     Código do Imóvel: 11361.     Imóvel Ocupado, a desocupação correrá por conta do comprador.     O imóvel será entregue livre de quaisquer débitos de IPTU, exceto se o comprador for o ex-mutuário ou o atual ocupante do imóvel, caso em que, os débitos deverão ser pagos no mesmo prazo para pagamento à vista ou do sinal, conforme edital.     Valor aproximado do IPTU anual: R$ 233,82.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) - condições completas vide Edital.  3 - Conforme laudo, consta a área construída de 117,65m² e Conforme IPTU consta a área construída de 157,70m², não averbada na matrícula. Conforme laudo, o imóvel possui nº 1921 in locco. (A SOLD e a comitente vendedora não se responsabilizam por eventuais incorreções). Caberá ao comprador a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Valor de avaliação: R$ 195.000,00 - percentual de desconto:  50% de deságio sobre o valor de avaliação.      Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.   11361 Poupex - Descontos até 60% -Casas, Aptos e Terreno]]></Description>
+        <ListPrice currency="BRL">999999999999</ListPrice>
+        <LivingArea unit="square metres">1000</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Guaíba</City>
+        <Address>Estrada Dr. José Carlos Ferreira</Address>
+        <StreetNumber />
+        <PostalCode>92500-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
   </Listings>
 </ListingDataFeed>
 
