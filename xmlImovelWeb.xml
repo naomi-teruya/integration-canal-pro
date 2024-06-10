@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1717789574019</dataModificacao>
+  <dataModificacao>1718028816831</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3245945]]></codigoAnuncio>
@@ -14695,6 +14695,552 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua 21 de Dezembro, 428]]></endereco>
         <localidade><![CDATA[Nair Araújo, Feijó, Acre, Brasil]]></localidade>
         <codigoPostal><![CDATA[69960-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3303626]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3303626]]></codigoReferencia>
+      <titulo><![CDATA[Casa 400m², Nossa Senhora das Graças, Uberlândia/MG]]></titulo>
+      <descricao><![CDATA[Casa 400m², Nossa Senhora das Graças, Uberlândia/MG     Casa - no Nossa Senhora das Graças     Localização: Rua Piauí, nº 97, Nossa Senhora das Graças, Uberlândia/MG, 38402020     Área Construída: 172m²  Área Terreno: 400m²     Matrícula: nº 55.297  RGI: 2º Oficial de Registro de Imóveis de Uberlândia/MG  Inscrição Prefeitura: 00.01.0103.04.17.0023.0000     DOSSIÊ: 02.21966     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jun/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 602.427,27     2ª Praça:  Abertura: 19/Jun/2024 a partir das 10h11  Fechamento: 21/Jun/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 299.261,65        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 50% de deságio sobre o valor de avaliação.        02.21966 Santander - Alienação Fiduciária - D.02.21966]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[400]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>602427.27</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/32590e3a-f12f-4ea9-b64c-8ca31399e036.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/31b661cd-0dbd-4c3f-a962-a6279251037d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/939080e3-7c41-483c-a51d-17ccf91595dd.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Piauí, 97]]></endereco>
+        <localidade><![CDATA[Nossa Senhora das Graças, Uberlândia, Minas Gerais, Brasil]]></localidade>
+        <codigoPostal><![CDATA[38402020]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3303628]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3303628]]></codigoReferencia>
+      <titulo><![CDATA[Casa 252m², Jardim do Bosque, São José do Rio Preto/SP]]></titulo>
+      <descricao><![CDATA[Casa 252m², Jardim do Bosque, São José do Rio Preto/SP     Casa - no Jardim do Bosque     Localização: Rua Aureli José Nunes, nº 40, Jardim do Bosque, São José do Rio Preto/SP, CEP 15053025     Área Construída: 165m²  Área Terreno: 252m²     Matrícula: nº 50.346  RGI: 1º Oficial de Registro de Imóveis de São José do Rio Preto/SP  Inscrição Prefeitura: 0319332000     DOSSIÊ: 02.22084     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jun/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 467.601,72     2ª Praça:  Abertura: 19/Jun/2024 a partir das 10h31  Fechamento: 21/Jun/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 359.528,74        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 23% de deságio sobre o valor de avaliação.        02.22084 Santander - Alienação Fiduciária - D.02.22084]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[252]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>467601.72</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d585066a-eeb0-4159-853d-4a1582da02eb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c434f587-eaee-4974-9ba2-43a51cd41712.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/76a472d7-dfd5-4792-aba0-63bb0cd9360f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/08bf78cd-45fb-49a6-b29a-f706f83d4223.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d1aac4c9-acaa-4e16-abd5-1b04b6f61bea.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Aureli José Nunes, 40]]></endereco>
+        <localidade><![CDATA[Jardim do Bosque, São José do Rio Preto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[15053025]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3303632]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3303632]]></codigoReferencia>
+      <titulo><![CDATA[Casa 139m², Jardim Anzai, Suzano/SP]]></titulo>
+      <descricao><![CDATA[Casa 139m², Jardim Anzai, Suzano/SP     Casa - no Jardim Anzai     Localização: Rua Direita, nº 60, Jardim Anzai, Suzano/SP, 8665060     Área Construída: 86m²  Área Terreno: 139m²     Matrícula: nº 81.897  RGI: Oficial de Registro de Imóveis de Suzano/SP  Inscrição Prefeitura: 16.099.006     DOSSIÊ: 02.22005     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/Jun/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 451.573,36     2ª Praça:  Abertura: 19/Jun/2024 a partir das 10h21  Fechamento: 21/Jun/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 353.011,50        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 22% de deságio sobre o valor de avaliação.        02.22005 Santander - Alienação Fiduciária - D.02.22005]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[139]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>451573.36</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3bb23f9e-b548-4cae-88f3-2fa3df78d285.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dcb2659b-6aad-48a5-b03f-75f7004b7874.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5deb942c-e02e-4ee4-9236-1733177c5fb9.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/883dd800-c705-4a8a-9ce5-a3770f4f34b9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Direita, 60]]></endereco>
+        <localidade><![CDATA[Jardim Anzai, Suzano, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[8665060]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3305193]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3305193]]></codigoReferencia>
+      <titulo><![CDATA[Apto 60m², Ocupado, 1 Vaga no Jardim Dracena, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 60m², Ocupado, 1 Vaga no Jardim Dracena, São Paulo/SP  Apto 60m², Ocupado, 1 Vaga no Jardim Dracena, São Paulo/SP - O apartamento nº 31, localizado no 3º andar do Bloco B - Edifício Cedro, integrante do Empreendimento imobiliário denominado Condomínio Bosque do Butantã, situado a Rua Denis Chaudet, nº 250 e Rua Bartolomeu Bon, no 13º Subdistrito Butantã, com a área útil de 60,406m², a área comum de garagem (01 vaga descoberta e indeterminada, localizada no pavimento térreo do condomínio, sujeito ao auxilio de manobrista) de 9,329m² a área comum de 35,553m², e área total de 105,288m², correspondendo-lhe a fração ideal de 0,0035467, no terreno condominial. Matrícula nº 160.989 do 18º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n°: 159.308.0016-1.        Imóvel Ocupado, desocupação por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU e Condominio.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 345.000,00 - percentual de desconto: 32% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.        64788 Creditas 3º Leilão - Apto com Pagto em até 3 x]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[105]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>234985.7</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/517ea59d-c673-46e9-a223-06c79b90edda.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ec64285-673d-4366-b3b1-2f58372fad79.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2a7ddd50-2dec-4579-bc33-013f07cbb3b2.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1ff145cc-5123-4032-a928-db23db058e14.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Bartolomeo Bon, 300]]></endereco>
+        <localidade><![CDATA[Jardim Dracena, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[05534-040]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3305682]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3305682]]></codigoReferencia>
+      <titulo><![CDATA[Casa 68m², Desocupado Na Vila Brasilio Machado Em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Casa 68m², Desocupado Na Vila Brasilio Machado Em São Paulo/SP  Casa 68m², Desocupado na Vila Brasilio Machado em São Paulo/SP - Rua Apeu, lote 04, do jardim Previdência, na Saúde, 21º Subdistrito. Um terreno medindo 3,80m, de frente, considerando de quem da referida rua o olha, da frente aos fundos, pelo seu lado esquerdo mede 17,80m, onde confronta com o prédio nº 321, segundo a mesma orientação e também da frente aos fundos, pelo seu lado direito mede 18,04m onde confronta com o prédio nº 329 ambos da Rua Apeu, e nos fundos onde tem a mesma largura da frente, ou seja 3,80m, confronta com parte do lote 14, sobre o qual está edificado o prédio nº 567 da Rua João Mafra, encerrando uma área total de 68,09m². Conforme Av.01, foi construído um prédio sob nº 323, a Rua Apeu, com 66,50m² de área construída. Matrícula nº 113.873 do 14º Cartório de Registro de Imóveis de São Paulo/SP. Cadastrado na Prefeitura Municipal sob n° 049.262.0032-5.        Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU.     Informações Relevantes:     1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M ou Financiado com Sinal de 25% sobre o valor de arrematação - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).        Valor de avaliação: R$ 470.000,00 - percentual de desconto: 27% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  64804 Creditas 3º Leilão - Casa com Pagto Financiado]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[68]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>344396.9</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2b5d150c-e104-4050-8e7d-d39bd13e13dd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e2457434-05a3-4357-b41b-dbfbe68a937d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/34c0f9f5-3f0a-416a-baa3-6b05c507b518.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e8f1324d-d6b4-4e42-9b26-80a273743ec8.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Apeu, 323]]></endereco>
+        <localidade><![CDATA[Vila Brasilio Machado, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal />
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3305700]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3305700]]></codigoReferencia>
+      <titulo><![CDATA[Apto 140m², Ocupado no Renascença em São Luís/MA]]></titulo>
+      <descricao><![CDATA[Apto 140m², Ocupado no Renascença em São Luís/MA  Apto 140m², Ocupado no Renascença em São Luís/MA - Apartamento nº 304, do 3º andar do Edifício Cidade de Viana, situado em São Luís/MA, na Avenida Grande Oriente, no Bairro de São Francisco, com 140,93m² de área, com a fração ideal de 60,00m² ou 8,33% do terreno de domínio pleno que se acha encravado, constituído dos lotes nº 25 e 26 do loteamento Jardim Renascença, de forma retangular com 720,00m² de área, melhor descritor na matricula do imóvel. Conforme Av.11, o imóvel localiza-se no endereço: Avenida Grande Oriente, nº 10, Renascença. Matrícula nº 17.897 do 1º Cartório de Registro de Imóveis de São Luis/MA. Cadastrado na Prefeitura Municipal sob n°: 2208017600490120.     Imóvel Ocupado, desocupação por conta do arrematante.     O imóvel será entregue livre de quaisquer débitos de IPTU.  Valor aproximado de IPTU: R$ 350,00.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condições de Pagamento: À vista (sem desconto) ou Parcelado com Sinal de 21% sobre o valor de arrematação e o saldo em até 03 (três) parcelas sem juros + IGP-M - condições completas vide Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).     Valor de avaliação: R$ 230.000,00 - percentual de desconto: 19% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.  Creditas 3º Leilão - Apto com Pagto em até 3 x]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[140]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>185279.86</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/78c2fb75-3c7d-47a3-a763-926a30dd488a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6c8fa098-84ca-40e6-a649-034bab225084.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/626fa3ef-605d-4e85-9d44-baa4ac6da80a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cb2d0716-1533-4c54-a838-0176bc7559f0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Grande Oriente, 10]]></endereco>
+        <localidade><![CDATA[Renascença, São Luís, Maranhão, Brasil]]></localidade>
+        <codigoPostal><![CDATA[65075-150]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3305510]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3305510]]></codigoReferencia>
+      <titulo><![CDATA[Casa c/ Terreno de 230m², Ocupada no Jardim das Margaridas, Salvador/BA]]></titulo>
+      <descricao><![CDATA[Casa c/ Terreno de 230m², Ocupada no Jardim das Margaridas, Salvador/BA     Casa c/ Terreno de 230m², Ocupada no Jardim das Margaridas, Salvador/BA ¿ Lote de número 12 da Quadra B do Condomínio Floresta das Margaridas, medindo 10,00m de frente para a Alameda Beijaflor; 10,00m de fundo; 23,00m do lado esquerdo e 23,00m do lado direito, perfazendo uma área total de 230,00m², lote esse a ser desmembrada da maior porção da área com 31.653,00m², melhor descrito na matrícula do imóvel. Matrícula nº 122.887 do 2º Registro de Imóveis de Salvador/BA. Cadastrado na Prefeitura Municipal sob n° 555987-1.     Código do Imóvel: 11833     Imóvel Ocupado, a desocupação correrá por conta do comprador.  O imóvel será entregue livre de quaisquer débitos de IPTU, exceto se o comprador for o ex-mutuário ou o atual ocupante do imóvel, caso em que, os débitos deverão ser pagos no mesmo prazo para pagamento à vista ou do sinal, conforme edital.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) - condições completas vide Edital.        Valor de avaliação: R$ 370.000,00 - percentual de desconto: 20% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.           11833 Poupex-Casas a venda com valor abaixo da avaliação]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[230]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>296000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9a6a4910-b918-445f-8834-d4fe2772133b.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2315069e-8aea-4db8-b7d9-0fea3f459bcd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/49a428bc-d3b3-4160-9cc0-2e1c4b0fa46c.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Alameda Beija Flor, 12]]></endereco>
+        <localidade><![CDATA[Jardim das Margaridas, Salvador, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[41502-100]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3305509]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3305509]]></codigoReferencia>
+      <titulo><![CDATA[Casa c/ Terreno de 290m², Ocupada no Antares, Maceió/AL]]></titulo>
+      <descricao><![CDATA[Casa c/ Terreno de 290m², Ocupada no Antares, Maceió/AL     Casa c/ Terreno de 290m², Ocupada no Antares, Maceió/AL ¿ Lote de Terreno sob nº 16, da quadra E, componente do Loteamento Residencial Monte Bello, situado no bairro da Serraria, nesta cidade, medindo o referido lote de frente 10,00m, limitando-se com a Rua em Projeto D, fundo 10,00m, limitando-se com a Área de Preservação, do lado direito 29,00m, limitando-se com o lote nº 17 e lado esquerdo 29,00m, limitando-se com o lote nº 15. Área: 290,00m². Conforme Av.5 foi construída uma casa com 281,74m². Matrícula nº 94.399 do 1º Registro Geral de Imóveis de Maceió/AL. Cadastrado na Prefeitura Municipal sob n° 29627545.     Código do Imóvel: 11634     Imóvel Ocupado, a desocupação correrá por conta do comprador.  O imóvel será entregue livre de quaisquer débitos de IPTU e condomínio, exceto se o comprador for o ex-mutuário ou o atual ocupante do imóvel, caso em que, os débitos deverão ser pagos no mesmo prazo para pagamento à vista ou do sinal, conforme edital.        Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto) - condições completas vide Edital.     Valor de avaliação: R$ 689.000,00 - percentual de desconto: 20% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.        11634 Poupex-Casas a venda com valor abaixo da avaliação]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[290]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>551200</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3943d5ba-5d06-40ad-b71e-d1e9a376305c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3d99cefc-26b5-4f2f-bd3f-ab707f80b5fe.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5bbfcc1c-e233-4345-a6c9-270d8e22d5b0.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Dr. Juvino Lyra, 262]]></endereco>
+        <localidade><![CDATA[Antares, Maceió, Alagoas, Brasil]]></localidade>
+        <codigoPostal><![CDATA[57048-245]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
