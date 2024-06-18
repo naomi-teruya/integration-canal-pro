@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1718655737638</dataModificacao>
+  <dataModificacao>1718732978774</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3259307]]></codigoAnuncio>
@@ -8903,66 +8903,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3296138]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3296138]]></codigoReferencia>
-      <titulo><![CDATA[Apto 111m² 2 vagas no bairro Jardim Gisela em Toledo/PR - Ocupado]]></titulo>
-      <descricao><![CDATA[Apto 111m² 2 vagas no bairro Jardim Gisela em Toledo/PR - Ocupado     Apto 111m² 2 vagas no bairro Jardim Gisela em Toledo/PR - Ocupado     Localização: Rua Adoniran Barbosa, nº 133, apto 201, Edifício Ks Venetto, Bairro Jardim Gisela, em Toledo/PR - CEP: 85905-270     área útil: 111,40m²  área total: 144,388m²  2 vagas n° 10 e 5     Matrícula: nº 71.188   RGI: 1º Oficial de Registro de Imóveis de Toledo/PR  Inscrição Prefeitura: 65146     DOSSIÊ: 02.22042     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 12/junho/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 700.000,00     2ª Praça:  Abertura: 12/junho/2024 a partir das 10h11  Fechamento: 14/junho/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 453.545,01        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.        Percentual de desconto: 35% de deságio sobre o valor de avaliação.        02.22042 Santander - Alienação Fiduciária - D.02.22042]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[111]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>700000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e9d38e08-03ff-4432-887a-86b9883869f8.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Adoniran Barbosa, 133]]></endereco>
-        <localidade><![CDATA[Jardim Gisela, Toledo, Paraná, Brasil]]></localidade>
-        <codigoPostal><![CDATA[85905-270]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3296232]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3296232]]></codigoReferencia>
       <titulo><![CDATA[Casa 60m² no bairro Capelinha em Salvador/BA - Ocupado]]></titulo>
@@ -10188,72 +10128,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Alameda Barão de Limeira, 1.151]]></endereco>
         <localidade><![CDATA[Campos Elíseos, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[01202-002]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3299085]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3299085]]></codigoReferencia>
-      <titulo><![CDATA[Prédio comercial 269m², Ocupado, em Feijó/AC]]></titulo>
-      <descricao><![CDATA[Prédio comercial 269m², Ocupado, em Feijó/AC  Prédio comercial 269m², Ocupado, em Feijó/AC     Localização: Rua 21 de Dezembro, n° 428, Bairro Nair Araújo, Feijó/AC - CEP 69960-000     área de terreno de 412,30m²  área construída de 269,93m²     Matrícula: 2.693 do Oficial de Registro de Imóveis de Feijó/AC  Inscrição Prefeitura: 2286     DOSSIÊ: 02.22036     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 12/06/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 460.635,66     2ª Praça:  Abertura: 12/06/2024 a partir das 10h01  Fechamento: 14/06/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 377.223,16        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 18% de deságio sobre o valor de avaliação.   02.22036 Santander - Alienação Fiduciária - D.02.22036]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[269]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>460635.66</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/96bafc28-617a-4192-9462-206e861f29c6.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d66f78ab-69ea-4864-aae9-f48002d66b83.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d8eb2183-8063-47da-87ee-075f0078ba81.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua 21 de Dezembro, 428]]></endereco>
-        <localidade><![CDATA[Nair Araújo, Feijó, Acre, Brasil]]></localidade>
-        <codigoPostal><![CDATA[69960-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -13137,6 +13011,201 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Orzinda Lemes Montana, 280]]></endereco>
         <localidade><![CDATA[Jardim Europa, Uberlândia, Minas Gerais, Brasil]]></localidade>
         <codigoPostal><![CDATA[38414-580]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3312694]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3312694]]></codigoReferencia>
+      <titulo><![CDATA[Casa 981m², Setor HB Vicente Pires Trecho 3, Brasília/DF]]></titulo>
+      <descricao><![CDATA[Casa 981m², Setor HB Vicente Pires Trecho 3, Brasília/DF     Casa - no Setor HB Vicente Pires Trecho 3, Brasília/DF     Localização: Quadra 6, Conjunto 13, Lote 8, Setor HB Vicente Pires Trecho 3, Brasília/DF, 72001-539     Área Terreno: 982m²  Área Construída: 428m²     Matrícula: nº 353.601  RGI: 3º Oficial de Registro de Imóveis do Distrito Federal     DOSSIÊ: 02.21832     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 28/Jun/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 1.599.400,88     2ª Praça:  Abertura: 28/Jun/2024 a partir das 10h01  Fechamento: 01/Jul/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 1.656.845,33        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.           02.21832 Santander - Alienação Fiduciária - D.02.21832]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[982]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1599400.88</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/84a06f77-03c8-4468-84e9-14e89c3f7fab.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/14da6df2-f28d-4008-9763-b28fc3b66aae.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/22fa6947-34ee-4996-a7a9-e3cca1f67674.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[,]]></endereco>
+        <localidade><![CDATA[Vicente Pires, Brasília, Distrito Federal, Brasil]]></localidade>
+        <codigoPostal><![CDATA[72001-539]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3313803]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3313803]]></codigoReferencia>
+      <titulo><![CDATA[Apto 47m² no bairro Pau da Lima em Salvador/BA - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 47m² no bairro Pau da Lima em Salvador/BA - Ocupado  Apto 47m² no bairro Pau da Lima em Salvador/BA - Ocupado     Localização: Rua Colina Azul, nº 3631, apto 202, Bloco 04, Parque Residencial Colina Azul-II, Pau da Lima, em Salvador/BA - CEP: 41245-000     área útil: 47,60m²  área total: 52,51m²     Matrícula: nº 43.252  RGI: 2º Oficial de Registro de Imóveis de Salvador/BA  Inscrição Prefeitura: 342.507-0     DOSSIÊ: 02.22120     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 28/junho/2024 a partir das 10h30 com Valor Mínimo de Venda de R$ 121.724,62     2ª Praça:  Abertura: 28/junho/2024 a partir das 10h31  Fechamento: 01/julho/2024 a partir das 14h30 com Valor Mínimo de Venda de R$ 114.342,70        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 6% de deságio sobre o valor de avaliação.  02.22120 Santander - Alienação Fiduciária - D.02.22120]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[47]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>121724.62</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8992fc0b-214e-4d35-9bf3-2d98659e89a9.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Colina Azul, 3631]]></endereco>
+        <localidade><![CDATA[Pau da Lima, Salvador, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[41245-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3313795]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3313795]]></codigoReferencia>
+      <titulo><![CDATA[Casa 182m² no bairro Oficinas em Ponta Grossa/PR - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 182m² no bairro Oficinas em Ponta Grossa/PR - Ocupado  Casa 182m² no bairro Oficinas em Ponta Grossa/PR - Ocupado     Localização: Rua Basílio Parabocz, nº 284, Lote 05, quadra 14, Vila Pinheiro III, Bairro Oficinas, em Ponta Grossa/PR - CEP: 84035-566     área útil: 182,02m²  área total: 448,00m²     Matrícula: nº 17.038  RGI: 2º Oficial de Registro de Imóveis de Ponta Grossa/PR  Inscrição Prefeitura: 14.2.06.74.0276.001     DOSSIÊ: 02.16866     Recai sobre o imóvel ação 0010180-65.2021.8.16.0019.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 04/julho/2024 a partir das 10h10 com Valor Mínimo de Venda de R$ 625.521,69     2ª Praça:  Abertura: 04/julho/2024 a partir das 10h11  Fechamento: 05/julho/2024 a partir das 14h10 com Valor Mínimo de Venda de R$ 275.073,76        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 56% de deságio sobre o valor de avaliação.  02.16866 Santander - Alienação Fiduciária - D.02.16866]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[182]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>625521.69</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c4ac64c-f8ef-4fdc-9a7a-a01bb9efb308.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1be768f0-751a-424c-bc0e-d06f4ea0c487.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1d721e7e-fac4-43d3-9267-c9a7e6540905.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/703a21a5-f137-4a3d-802e-9cf981e745e2.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Basílio Parabocz, 284]]></endereco>
+        <localidade><![CDATA[Vila Pinheiro III, Ponta Grossa, Paraná, Brasil]]></localidade>
+        <codigoPostal><![CDATA[84035-566]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
