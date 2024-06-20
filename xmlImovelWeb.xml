@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1718881555470</dataModificacao>
+  <dataModificacao>1718882571124</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3259307]]></codigoAnuncio>
@@ -14238,6 +14238,147 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Av. Governador Roberto Silveira, 3.450]]></endereco>
         <localidade><![CDATA[Duas Pedras, Nova Friburgo, Rio de Janeiro, Brasil]]></localidade>
         <codigoPostal><![CDATA[28635-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3317053]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3317053]]></codigoReferencia>
+      <titulo><![CDATA[Casa 250m², Ocupada no Conjunto Habitacional Jardim Sabia em Senador Canedo/GO]]></titulo>
+      <descricao><![CDATA[Casa 250m², Ocupada no Conjunto Habitacional Jardim Sabia em Senador Canedo/GO  Casa 250m², Ocupada no Conjunto Habitacional Jardim Sabia em Senador Canedo/GO - Lote de terras urbanas de número 11, da quadra 3, situado a Rua ibisco, no Conjunto Habitacional Jardim Sabia, nesta cidade de Senador Canedo/GO, com a área de 250,00m², medindo: 10,00m de frente para a Rua Ibisco; 25,00m pelo lado direito, dividindo com o lote nº 12; 25,00m pelo lado esquerdo, dividindo com o lote nº 10; e, 10,00m de fundos, dividindo com o lote nº 41. Conforme Av.03, foi construído uma casa residencial com a área total construída de 50,05m². Matrícula nº 761 do Cartório de Registro de Imóveis de Senador Canedo/GO. Cadastrado na Prefeitura Municipal sob n° 1.170.000003.000011.000 ¿ cadastro 000007739.     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 10/Jul/2024 a partir das 09h00 com Valor Mínimo de Venda de R$ 401.566,20.     2ª Praça:  Abertura: 10/Jul/2024 a partir das 09h01  Fechamento: 16/Jul/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 252.346,35.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.&nbsp;&nbsp;&nbsp;     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 37% de deságio sobre o valor de avaliação.     65136 Creditas - Leilão de Alienação Fiduciária]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[250]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>401566.2</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/114519a3-71ce-461c-b57e-8d2540b155a3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3c1935eb-d3d8-41f8-9fa1-b96e324455a1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7d2728cc-d03b-456b-a0b8-ce0adc099fd4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/51b4d510-b251-4998-87ae-e02c4df24af1.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Ibisco, Lote 11]]></endereco>
+        <localidade><![CDATA[Conjunto Habitacional Jardim Sabia, Senador Canedo, Goiás, Brasil]]></localidade>
+        <codigoPostal />
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3317229]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3317229]]></codigoReferencia>
+      <titulo><![CDATA[Casa 362m², LOCADA, na Anchieta, Rio de Janeiro - RJ]]></titulo>
+      <descricao><![CDATA[Casa 362m², LOCADA, na Anchieta, Rio de Janeiro - RJ  Casa 362m², LOCADA, na Anchieta, Rio de Janeiro ¿ RJ ¿ Lote 33 da quadra 67 do PA 22.127, Circunscrição de Anchieta, medindo 7,50m pela Rua Jurubeba, lado ímpar, 14,62m na linha de fundos, em divisa com terras da Cia Suburbana de Administração ou sucessores, 26,90m pela direita, em divisa com o lote 32 e 29,20m pela esquerda, em divisa com o lote 34, melhor descrito na matrícula. Conforme Av.4 consta a construção de um prédio residencial com a área total de 362,17m². Matrícula do Imóvel nº 65.856 do 8º CRI do Rio de Janeiro/RJ. Inscrição Municipal nº 0482558-4.     Valor de IPTU anual: 2.457,06 aproximadamente     Imóvel próximo à Supermercados, academias e parques.     Venda Condicional (valor de venda sob aprovação do vendedor).     - Imóvel Locado:   Valor mensal R$ 1.200,00, reajustados anualmente, pelo índice IGP-M  Término do Contrato em 10/05/2024, podendo ser prorrogado por prazo indeterminado  A desocupação correrá por conta do arrematante.     Percentual de desconto: 46% de deságio sobre o valor de avaliação.      Informações Relevantes:   1 - CONDIÇÕES DE PAGAMENTO DO LEILÃO: À vista;  2 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.  3 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus").  4 - Avaliação sugerida, caberá ao interessado a responsabilidade pela averiguação utilizando os meios e métodos que julgar aplicáveis (ex: sites especializados em imóveis, corretores, imobiliárias, peritos, etc). não tendo a comitente vendedora, a SOLD e o Leiloeiro responsabilidade pelo valor indicado.  5 - Conforme Av.04 da matrícula, o imóvel possui a área construída de 362m². (A SOLD, O Leiloeiro e o comitente vendedor não se responsabilizam por eventuais incorreções). Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.     Para maiores informações, dúvidas relativas ao edital ou agendamento de visitas, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel. (11) 4950-9602.   65856 Casa 46% abaixo da avaliação]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[362]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>336000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1e3b0c98-db4e-4025-ae4b-4145cd9cf486.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1c413e8-242a-4f05-99cf-e90d49c9ffd6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ef922875-4892-40df-a17e-8f1e2f8dfe8d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cba9e7f3-3bd2-421e-86d2-143466504765.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5c2dfd2b-0518-4e3a-b999-66ad0dc14f4f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Jurubeba, 471]]></endereco>
+        <localidade><![CDATA[Anchieta, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21620-420]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
