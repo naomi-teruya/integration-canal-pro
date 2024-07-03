@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1720015039454</dataModificacao>
+  <dataModificacao>1720015233127</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3259307]]></codigoAnuncio>
@@ -9026,72 +9026,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </publicacao>
     </Imovel>
     <Imovel>
-      <codigoAnuncio><![CDATA[3310367]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3310367]]></codigoReferencia>
-      <titulo><![CDATA[Apto 82m², 1 Vaga, Ocupado, em Serra/ES]]></titulo>
-      <descricao><![CDATA[Apto 82m², 1 Vaga, Ocupado, em Serra/ES  Apto 82m², 1 Vaga, Ocupado, em Serra/ES     Localização: Rodovia Norte Sul, nº 4.905, Apto nº 501, Torre 03, Condomínio Residencial Reserva Verde, Santa Luzia, Serra/ES CEP: 29165-752     área privativa real de 82,82m²  área de uso comum real de 22,433m²  área coberta real de 10,35m²  área total real de 115,603m²     Matrícula: 84.417 do 1º Oficial de Registro de Imóveis de Serra/ES  Inscrição Prefeitura: 009.6.044.0709.135     DOSSIÊ: 02.22104     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 27/06/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 540.083,44     2ª Praça:  Abertura: 27/06/2024 a partir das 09h51  Fechamento: 28/06/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 495.167,92     Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão  5- Recai sobre o imóvel ação nº 5002391-54.2024.8.08.0048.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 8% de deságio sobre o valor de avaliação.      02.22104 Santander - Alienação Fiduciária - D.02.22104]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[82]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>540083.44</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b13c5fdc-052c-499b-a0a9-6d134315e573.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c515098d-baa7-4559-b8c0-9c1302622f1d.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1a70b932-afc1-4d67-a9f7-ee04f11f4e2b.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rodovia Norte Sul, 4.905]]></endereco>
-        <localidade><![CDATA[Santa Luzia, Serra, Espírito Santo, Brasil]]></localidade>
-        <codigoPostal><![CDATA[29165-752]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
       <codigoAnuncio><![CDATA[3311402]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3311402]]></codigoReferencia>
       <titulo><![CDATA[Casa 198m², Mato Dentro, Ubatuba/SP]]></titulo>
@@ -9219,69 +9153,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Dom Paulo Pedrosa, 845]]></endereco>
         <localidade><![CDATA[Real Parque, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[05687-001]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3312553]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3312553]]></codigoReferencia>
-      <titulo><![CDATA[Apto. 67m² e vaga no Jardim Europa, Uberlândia/MG]]></titulo>
-      <descricao><![CDATA[Apto. 67m² e vaga no Jardim Europa, Uberlândia/MG     Apartamento - no Jardim Europa     Localização: Rua Orzinda Lemes Montana, nº 280, Apto. 205, Cond. Res. Vertentes II, Jardim Europa, Uberlândia/MG, 38414-580     Área Privativa: 67m²  Área Comum: 6m²  1 vaga     Matrícula: nº 111.222  RGI: 2º Oficial de Registro de Imóveis de Uberlândia/MG     DOSSIÊ: 02.22125     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 27/Jun/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 191.000,00     2ª Praça:  Abertura: 27/Jun/2024 a partir das 09h41  Fechamento: 28/Jun/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 183.386,31        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.        222125 Santander - Alienação Fiduciária - D.02.22125]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[2]]></idTipo>
-        <idSubTipo><![CDATA[1]]></idSubTipo>
-        <tipo><![CDATA[Apartamento]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[67]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>191000</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2f8d354b-7a60-4969-961a-46b7a7929dff.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/70b74310-a86e-4559-bbb3-0ad433b34a14.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua Orzinda Lemes Montana, 280]]></endereco>
-        <localidade><![CDATA[Jardim Europa, Uberlândia, Minas Gerais, Brasil]]></localidade>
-        <codigoPostal><![CDATA[38414-580]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -17292,6 +17163,162 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua João Batista Mascarenhas de Moraes, 180]]></endereco>
         <localidade><![CDATA[Residencial Alvorada Quitauna, Osasco, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[06172-280]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3303061]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3303061]]></codigoReferencia>
+      <titulo><![CDATA[Lote, Desocupado, Taubaté / SP]]></titulo>
+      <descricao><![CDATA[Lote, Desocupado, Taubaté / SP   Endereço Completo   Rua Voluntario Benedito Sergio, 02701 E, Parque Sao Cristovao, Taubaté, SP, CEP: 12053000      Características do Imóvel:       Descrição:  Lote, Padrão, Desocupado. Área(s): 24627,21 m² de área terreno, 24627,21 m² de área útil. Matrícula(s): 24.606,None. Cartório: CRI DE TAUBATE. Inscrição da Prefeitura: VIDE INSCRICAO IMOBILIARIA.    Tipo do Imóvel:  Lote   Status da Ocupação:  Desocupado   Aceita Visitação:  Sim - Mediante disponibilidade de agendamento prévio através de imoveis.sac@superbid.net   Dossiê:  02.16637      Área Util:  24627.21 m2   Área Terreno:  24627.21 m2      Matrícula:  24.606,None   Cartório de Registro:  CRI DE TAUBATE   Inscrição na Prefeitura:   4.5.089.056.001    IPTU Anual:  R$ 9.200,00         Venda Condicional: Valor de venda sob aprovação do vendedor       Considerações Importantes    1.:* DESOCUPADO* ACAO JUDICIAL - ADJUDICACAO - PROC. NO 1002993-74.2017.8.26.0625 EM TRAMITE NA 02O VARA CIVIL DE CACAPAVA/SP.* O VENDEDOR RESPONDERA PELA EVICCAO DE DIREITOS NOS TERMOS DOS ITENS 4.10 A 4.12 DO EDITAL.* OS DEBITOS DE IPTU SERAO QUITADOS PELO VENDEDOR ATE A DATA DO LEILAO..       Condições de Pagamento   252001 Santander Comerciais - FAÇA SUA PROPOSTA]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[24627.21]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>5200000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/7939314d-25e1-42a0-92f8-122f706fbd18.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c1eb8c20-3753-4c84-aaea-6ce223655564.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/11390377-ab00-4961-8fe7-5ddf82bbf88e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/726bd422-3af7-417e-be33-1a052f787d69.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/25c7e641-4719-4479-a458-21dbeddac7e4.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5d1cdae8-c244-40b5-af38-bacc4a82d014.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/02aefa58-33f3-449e-9624-df8b18e92d6e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Voluntario Benedito Sergio, 02701]]></endereco>
+        <localidade><![CDATA[Parque Sao Cristovao, Taubaté, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12053000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3303051]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3303051]]></codigoReferencia>
+      <titulo><![CDATA[Lote, 629870.0 m2, Várzea Grande / MT]]></titulo>
+      <descricao><![CDATA[Lote, 629870.0 m2, Várzea Grande / MT   Endereço Completo   Estrada Da Fazendinha - Mirante Do Pari, S/N0, Passagem Da Conceição, Várzea Grande, MT, CEP: 78115000      Características do Imóvel:       Descrição:  Lote, Padrão, Ocupado. Área(s): 629870 m² de área total, 629870 m² de área terreno. Matrícula(s): 3.582,90,90.291. Cartório: 1 CRI DE VARZEA GRANDE.   Tipo do Imóvel:  Lote   Status da Ocupação:  Ocupado   Aceita Visitação:  Indisponível   Dossiê:  02.16173      Área Total:  629870.0 m2         Matrícula:  3.582,90,90.291   Cartório de Registro:  1 CRI DE VARZEA GRANDE      Venda Condicional:  Valor de venda sob aprovação do vendedor      Considerações Importantes   1. OCUPADO  2. AÇÃO JUDICIAL - REVISIONAL - PROC. Nº 1016245-36.2018.8.11.0041 EM TRÂMITE NA VARA CÍVEL DE VARZEA GRANDE/MT. AÇÃO JUDICIAL - REINTEGRAÇÃO DE POSSE - PROC. Nº 1013076-22.2022.8.11.0002 EM TRÂMITE NA VARA CÍVEL DE VARZEA GRANDE/MT   3. FICARÃO A CARGO DO ARREMATANTE: TODAS AS PROVIDÊNCIAS, RISCOS, CUSTAS E DESPESAS NECESSÁRIAS:(I) À DESOCUPAÇÃO CONFORME ITENS 4.12 DO EDITAL, (II) REGULARIZAÇÃO FÍSICA E/OU DOCUMENTAL DO IMÓVEL PERANTE OS ÓRGÃOS COMPETENTES (EX: REGISTRO DE IMÓVEIS, INCRA, PREFEITURA, RECEITA FEDERAL, ETC, (III) DECORRENTES DA AÇÃO JUDICIAL EM TRÂMITE.     4. O VENDEDOR RESPONDERÁ PELA EVICÇÃO DE DIREITOS NOS TERMOS DOS ITENS 4.08 A 4.10 DO EDITAL. 5. OS DÉBITOS DE IPTU SERÃO QUITADOS PELO VENDEDOR ATÉ A DATA DO LEILÃO.       Condições de Pagamento       Amplas condições de pagamento, consulte nossos especialistas : imoveis.sac@superbid.net   252001 Santander Comerciais - FAÇA SUA PROPOSTA]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[629870]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>12750000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2d798320-50ce-4e07-abfe-8e5e1f3d3a3f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/708420a3-5a97-43cf-b7f4-803dbc427a3c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f82b6f1e-3bf6-4d64-8a6e-a948e8acc969.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/10febddf-cddf-4710-a9d9-a0c1612a0ec7.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e700155c-a882-4577-a5ea-7e037380847d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dd27da39-2074-453e-a218-099ec303c03a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/916f44df-ed8a-4792-9505-3e9b013e9f3f.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Estrada Da Fazendinha - Mirante Do Pari, S/N0]]></endereco>
+        <localidade><![CDATA[Passagem Da Conceicao, Várzea Grande, Mato Grosso, Brasil]]></localidade>
+        <codigoPostal><![CDATA[78115000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
