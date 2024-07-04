@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1720015233127</dataModificacao>
+  <dataModificacao>1720106349129</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3259307]]></codigoAnuncio>
@@ -17319,6 +17319,292 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Estrada Da Fazendinha - Mirante Do Pari, S/N0]]></endereco>
         <localidade><![CDATA[Passagem Da Conceicao, Várzea Grande, Mato Grosso, Brasil]]></localidade>
         <codigoPostal><![CDATA[78115000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3319438]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3319438]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel Residencial, A.T. 140m², A.C. 77m², 2 dorms., 1 vaga, Sarapiranga]]></titulo>
+      <descricao><![CDATA[Imóvel Residencial, A.T. 140m², A.C. 77m², 2 dorms., 1 vaga, Sarapiranga  Imóvel registrado na Matrícula nº 87.016 do 1º Cartório de Registro de Imóveis de Jundiaí/SP a seguir descrito: um lote de terreno sob o número catorze (14), da Quadra "09" do loteamento denominado "Jardim Sarapiranga" situado nesta cidade e comarca, com a área de cento e quarenta metros quadrados (140,00m²), que assim se descreve: mede sete metros (7,00m) de frente confrontando com a rua Seis (06), sete metros (7,00m) de fundos, confrontando com o lote de número vinte e oito (28); vinte metros (20,00m) do lado direito, confrontando com o lote número treze (13); vinte metros (20,00m) do lado esquerdo, confrontando com o lote número quinze (15). Contribuinte: 68.068.0014 (Av.2).  Obs.: consoante laudo pericial de fls. 395-415, no local periciado, encontra-se edificado um imóvel padrão residencial horizontal baixo. O imóvel localiza-se de frente para a via pública, tem boa localização, a região do imóvel possui característica residencial e infraestrutura urbana. A proprietária não autorizou a entrada no imóvel para a devida vistoria, apenas descreveu todos os cômodos da área interna do imóvel: trata-se de edificação térrea com aproximadamente 13 anos de construção, padrão residencial horizontal baixo, contendo os seguintes cômodos e divisões: portão frontal fechado, contendo uma garagem coberta para veículo; 01(uma) sala; 01(um) lavabo; 01(uma) cozinha; 01(um) banheiro social; 02(dois) dormitórios; escada dando acesso a 01(um) dormitório no piso superior. Um quintal nos fundos. De acordo com ficha cadastral na Prefeitura Municipal de Jundiaí, o imóvel localiza-se à Rua Ana Mendes Pereira Nogueira, 266, Jardim Sarapiranga e possui 77m² de Área Construída.  Ônus e gravames: consoante matrícula atualizada, consta na AV.4 PENHORA referente aos autos da presente ação. Conforme consulta junto a Municipalidade, consta débito de IPTU e taxas no valor de R$ 859,59, atualizado até maio/2024, o qual sub-rogará no valor da arrematação.  Valor da Avaliação: R$ 342.400,00 (trezentos e quarenta e dois mil e quatrocentos reais) em janeiro de 2024.  Fundo de Investimento em Direitos Creditórios Não Padronizados NPL II Defanti Comercial Ltda; Maria Aparecida Assis Defanti; Cristian Defanti e Vivian Defanti Maria Aparecida Assis Defanti Neildes Araujo Aguiar Di Gesu (OAB 217897/SP) 4ª Vara Cível da Comarca de Jundiaí/SP 0005155-47.2011.8.26.0309
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[140]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>171200</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/12572f27-82a4-4be5-9fbb-8771d52bf86d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fc5f72e5-f7a9-431f-8af9-e3b3b7d48698.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c471a28f-0e6e-41e1-a193-ac7201009bcb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/37e25843-e386-44de-a548-23e1687d3ec7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua desconhecida, Número não informado]]></endereco>
+        <localidade><![CDATA[Bairro desconhecido, Cidade não identificada, Estado não identificado, Brasil]]></localidade>
+        <codigoPostal><![CDATA[CEP não identificado]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3325136]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3325136]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel Comercial, A.T. 300m², Jd. Sinha]]></titulo>
+      <descricao><![CDATA[Imóvel Comercial, A.T. 300m², Jd. Sinha  O imóvel da matrícula n° 1.572, do CRI de Itararé/SP, a seguir descrito: Uma área de terreno urbano, sem benfeitorias, medindo 10,00 metros de frente por 30,00 metros da frente aos fundos, situado nesta cidade de Itararé/SP, à Rua Tiradentes, dividindo ao NASCENTE com a referida Rua; ao POENTE, com Tatsuo Horigome; ao NORTE com Tatsuo Horigome; ao SUL com Aparecida Conceição Antunes. Cadastrado na Prefeitura local sob n° 066-106 (AV.5).  Obs.: segundo mandado cumprido positivo avaliação fls. 313, o imóvel localiza-se na R. Tiradentes, 767, Itararé/SP, e atualmente possui como benfeitorias um barracão em alvenaria cobertas com telhas galvanizadas, onde há um salão, uma edícula nos fundos, dois banheiros, e churrasqueira; possui duas portas de correr na parte frontal do imóvel, o qual aparentemente encontra-se em bom estado.  Ônus e gravames: conforme matrícula atualizada, consta na AV.13 PENHORA referente aos autos da presente ação. Conforme consulta realizada junto aos Órgãos competentes em abril/2024, sobre o imóvel recaem débitos de IPTU no valor de R$ 4.125,84 (quatro mil, cento e vinte e cinco reais e oitenta e quatro centavos), os quais sub-rogarão no preço da arrematação.   Valor da Avaliação: R$ 330.000,00 (trezentos e trinta mil reais) em novembro de 2023.  C.C.L.A.I., P.A. - S.C. G.C.E. e G.J.V. Executada Vinicius Antonio Fonseca Nogueira (OAB 288458/SP) 2ª Vara Judicial da Comarca de Itararé/SP 1002256-03.2021.8.26.0279
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[300]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>165000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4464187f-7fc4-49be-9ada-ebb3c571230d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/66fccb7d-17a1-4c6c-bbec-ad1be50a7978.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/03842ca8-effd-4f36-9287-56ead7bf9834.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/16bda727-9614-454c-bd1a-c69f40416456.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d424e3fb-a60f-4836-af1a-d224e7a3ac7e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Itararé,]]></endereco>
+        <localidade><![CDATA[, Itararé, São Paulo, Brasil]]></localidade>
+        <codigoPostal />
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3296059]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3296059]]></codigoReferencia>
+      <titulo><![CDATA[Casa, A.T. 154m²]]></titulo>
+      <descricao><![CDATA[Casa, A.T. 154m²  Imóvel objeto da MATRÍCULA Nº 23.080 DO CRI DE BARRETOS, a seguir descrito: Um prédio residencial de tijolos e telhas, com vários cômodos, instalações e dependências, sob nº 365 da Avenida 27, nesta cidade, com o respectivo terreno foreiro, fechado, parte da data n.1 , do quarteirão n° 118 de registro paroquial n. 809, medindo 7,00 metros de frente, por 22,00 metros de cada lado e da frente aos fundos, ou seja, 154,00m², confrontando pela frente com a Avenida 27, por um lado com Maria de Jesus Lisboa e Educandário Sagrado Coração, por outro lado co jeremias Machado e nos fundos com Geni Magalini ou sucessores.     Auto de Reavaliação, fls. 284: Um prédio residencial de tijolos e telhas, com vários cômodos, instalações e dependências, sob o nº 365 da avenida 27, nesta cidade, com o respectivo terreno foreiro, fechado, parte da data n.1, do quarteirão nº 118 de registro paroquial nº 809, medindo 7,00 metros de frente, por 22,00 metros de cada lado e da frete aos fundos, ou seja, 154,00 metros quadrados, confrontando pela frente com a avenida 27, por um lado com Maria de Jesus Lisboa e Educandário Sagrado Corações, por outro lado com Jeremias Machado e nos fundos com Geni Magalini ou sucessores. Objeto de matrícula nº 23.080 do Cartório de Registro de Imóveis de Barretos.     Ônus: R. 6 Hipoteca 50%: 50% do imóvel foi dado em Primeira e Especial Hipoteca em favor de WASHINGTON KANEYOSHI KUTINAKAMITI; Av.7 Penhora realizada no presente feito. Av. 8 Penhora: Execução - Processo 0002327-50.2019.8.26.0066, 3ª Vara Cível de Barretos, Partes:&nbsp;CENTRO UNIFICADO DE EDUCAÇÃO BARRETOS LTDA contra FRANCISCO DE ASSIS ANDRADE LOPES.     Débitos imobiliários (IPTU): Ano 2024: R$ 1.544,22; Ano: 2003 até 2023: R$ 60.900,05 conforme consulta realizada em 05/04/2024, pela Prefeitura Municipal de Barretos/SP, através do e-mail divida@barretos.sp.gov.br.     Valor da Avaliação em 23/11/2022: R$ 220.000,00 (duzentos e vinte mil reais). Valor da avaliação atualizado pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo em MAR/2024: R$ 233.795,57 (duzentos e trinta e três mil, setecentos e noventa e cinco reais e cinquenta e sete centavos).     Obs.: A cota parte do coproprietário do imóvel há de ser garantida, nos termos Art. 843. Tratando-se de penhora de bem indivisível, o equivalente à quota-parte do coproprietário ou do cônjuge alheio à execução recairá sobre o produto da alienação do bem. § 1º É reservada ao coproprietário ou ao cônjuge não executado a preferência na arrematação do bem em igualdade de condições. § 2º Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente à ...
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[154]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>140277.34</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c020d576-c3fd-420d-8c96-628584e970c3.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/79d8bacd-5243-4dc4-858f-840e8b0b65e1.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Vinte e Sete, 365]]></endereco>
+        <localidade><![CDATA[Centro, Barretos, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14780-340]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3319074]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3319074]]></codigoReferencia>
+      <titulo><![CDATA[Apartamento, A.T.64m², Ed. Belmont, Bairro Portão]]></titulo>
+      <descricao><![CDATA[Apartamento, A.T.64m², Ed. Belmont, Bairro Portão  O imóvel da matrícula n° 37183, 5ª Circunscrição do CRI de Curitiba/PR, a seguir descrito: Apartamento n° 25, localizado no 2 pavimento do EDIFÍCIO BELMONT, situado nesta cidade, à rua Antonio Pietruza nº 211, do tipo 2Q-2, com a área privativa real de 53,27 m2., área de uso comum real de 11,23 m2., totalizando 64,50 m2., de área real global, correspondendo-lhe a fração ideal do solo de 0,008182. Dito Edifício foi construído sobre o lote de terreno sob nº 14 da planta Alberto Pietruza, situado no distrito do Portão, medindo 20,00m. de frente para a atual rua Antonio Pietruza, por 53,00m. de extensão da frente fundos em ambos os lados e 20,00m., na linha dos fundos, de forma retangular, com a área total de 1.060,00m2., confrontando pela lateral direita de quem da rua olha o imóvel, com o lote fiscal nº 12.000, pela lateral esquerda com o lote fiscal nº 17.000 e na linha de fundos com o lote fiscal n° 4.000. Indicação Fiscal: 63.032.013.012-2. Inscrição Imobiliária: 27.0.0017.0414.00-8. Proprietária registral: Solene Tomaz Rosa (R.14).  Obs.: segundo certidão de depositário fls. 439, o Oficial deixou de intimar a executada Solene Tomaz Rosa, que o porteiro sr. Oscar, informou que o apto 25 encontra-se desocupado a mais de 02 anos, não sabendo informar seu atual endereço.  Ônus e gravames: consoante pesquisa realizada nos Órgãos competentes, o imóvel possui Débitos Municipais pendentes no valor de R$ 1.250,19 (em aberto) e R$ 649,85 (parcelado normal), atualizados até maio de 2024, os quais serão sub-rogados no valor da arrematação. Não consta nos autos informações sobre eventuais débitos de condomínio pendentes sobre o imóvel, tampouco foi possível a pesquisa, competindo ao interessado a busca dos mesmos; sendo de responsabilidade do arrematante o pagamento de possíveis débitos condominiais pendentes.  Valor da Avaliação: R$ 300.000,00 (trezentos mil reais) em outubro de 2023.  D.R.P. e R.S.P. P. S.T.R. Depositário Público 67828N-PR DENILSON RAUL PORFIRIO e 62488N-PR RENATA DA SILVA PAIVA PORFIRIO 2ª Vara Desc. de Curitiba - Vara de Família 0000085-21.2018.8.16.0038
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[64]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>150000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5550263d-e380-41b0-9df5-6892d4e5e40a.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8498ab42-2626-44bd-a68c-f8345881be75.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/81d0f38d-8cd3-4f59-be50-723dcc3bba5e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/6b38af1a-088c-4ad4-b8e0-7a0b2b7f6d13.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3ee82d2c-2523-48f4-a9d0-066a66b7d524.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/89db27dd-7486-44d3-a0c1-f6585c7a6972.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/034f79b7-0533-4bde-8ec0-28dc323cc0b7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua não encontrada, Número não encontrado]]></endereco>
+        <localidade><![CDATA[Bairro não encontrado, Cidade não encontrada, Estado não encontrado, Brasil]]></localidade>
+        <codigoPostal><![CDATA[CEP não encontrado]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
