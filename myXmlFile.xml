@@ -13667,7 +13667,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">São Paulo</State>
-        <City>Sertãozinho</City>
+        <City>Sertãzinho</City>
         <Address>Rua Anacleto Soldera</Address>
         <StreetNumber>683</StreetNumber>
         <PostalCode>14165186</PostalCode>
@@ -13975,7 +13975,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Jaboticabal</City>
         <Address>Rua Monteiro Lobato</Address>
         <StreetNumber>1331</StreetNumber>
-        <PostalCode>14870850</PostalCode>
+        <PostalCode>14870-850</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -14032,7 +14032,7 @@ Observação: essas são as características originais do imóvel, que podem ter
       <Location displayAddress="All">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PA">Pará</State>
-        <City>Baião</City>
+        <City>Bela-Flor</City>
         <Address>Rua Manoel Peleja</Address>
         <StreetNumber>48</StreetNumber>
         <PostalCode>68465000</PostalCode>
@@ -14178,9 +14178,46 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="GO">Goiás</State>
         <City>Santa Helena De Goiás</City>
-        <Address>Rua João Batista De Paiva</Address>
+        <Address>Rua João Batista De Paiva (Antiga Rua Rolinha)</Address>
         <StreetNumber>186</StreetNumber>
         <PostalCode>75920000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3327278</ListingID>
+      <Title>Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3327278</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f96a9142-58a7-496a-9387-208aa5a6c385.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/791669c9-141b-4e0c-a41c-0a13064599cf.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/812419e4-fcc6-441f-b99f-3db82860adc9.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c9307112-1739-4355-bc85-2d2d98ff1f44.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão  Imóvel da matrícula 7.791, CRI de Guaratinguetá/SP, a seguir descrito: Uma casa de morada e respectivo terreno, situado nesta cidade, à rua Benedito dos Reis, número cento e trinta e nove-139-, medindo o respectivo terreno dez metros de frente para a rua acima mencionada, igual largura na linha dos fundos, onde confronta com propriedade de Geralda Ricciulli Zago sucessora de Miguel Ricciulli, por trinta e quatro metros e cinquenta centímetros da frente aos fundos, do lado direito de quem olha da rua Benedito dos Reis para o imóvel, onde confronta com propriedade de José Roberto Fortunato e José Hayrton dos Santos sucessores de Miguel Ricciulli e do lado esquerdo trinta e um metros e cinquenta centímetros, onde confronta com propriedade de José Hayrton dos Santos, sucessor de Miguel Ricciulli, encerrando a área de trezentos e trinta metros quadrados. Cadastro Municipal: 02.018.022.00 (Av.3).      Obs.: Conforme laudo de avaliação fls. 234-237 e 242-245, trata-se de imóvel residencial em um pavimento, contem 03 dormitórios (suíte), sala, copa, cozinha, 03 banheiros, quintal, lavanderia, edícula com dependência para empregado, 02 vagas na garagem, encontra-se em bom estado de conservação, acabamento de boa qualidade, aparentemente passou por reformas recentes, apenas aparentando a necessidade de pintura externa.      Ônus e gravames: De acordo com matrícula atualizada, consta na AV.13 PENHORA oriunda dos autos da presente ação. Conforme consulta realizada junto aos Órgãos competentes, sobre o imóvel recaem débitos de IPTU no valor de R$ 2.687,44, atualizados até maio de 2024, que sub-rogarão no preço da arrematação.     Valor da Avaliação: R$ 729.833,33 (setecentos e vinte e nove mil, oitocentos e trinta e três reais e trinta e três centavos) em dezembro de 2023, e que será atualizada pelos índices adotados no TJSP até a data da praça.  Michael Benedict Kadri Espólio de Deusdedit de Andrade Ribeiro na pessoa do inventariante Robson de Andrade Ribeiro; Simone Aparecida de Campos Silva Simone Aparecida de Campos Silva Luis Rogerio Costa Prado Valle 2ª Vara Judicial da Comarca de Aparecida/SP 1000082-66.2019.8.26.0028
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">729833.33</ListPrice>
+        <LivingArea unit="square metres">330 m²</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Guaratinguetá</City>
+        <Address />
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -14215,9 +14252,46 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">São Paulo</State>
         <City>Guaratinguetá</City>
-        <Address>Rua Doutor Martiniano</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>12500-120</PostalCode>
+        <Address>Rua Visconde de Guaratinguetá</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>12500-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3327278</ListingID>
+      <Title>Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3327278</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f96a9142-58a7-496a-9387-208aa5a6c385.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/791669c9-141b-4e0c-a41c-0a13064599cf.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/812419e4-fcc6-441f-b99f-3db82860adc9.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c9307112-1739-4355-bc85-2d2d98ff1f44.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão  Imóvel da matrícula 7.791, CRI de Guaratinguetá/SP, a seguir descrito: Uma casa de morada e respectivo terreno, situado nesta cidade, à rua Benedito dos Reis, número cento e trinta e nove-139-, medindo o respectivo terreno dez metros de frente para a rua acima mencionada, igual largura na linha dos fundos, onde confronta com propriedade de Geralda Ricciulli Zago sucessora de Miguel Ricciulli, por trinta e quatro metros e cinquenta centímetros da frente aos fundos, do lado direito de quem olha da rua Benedito dos Reis para o imóvel, onde confronta com propriedade de José Roberto Fortunato e José Hayrton dos Santos sucessores de Miguel Ricciulli e do lado esquerdo trinta e um metros e cinquenta centímetros, onde confronta com propriedade de José Hayrton dos Santos, sucessor de Miguel Ricciulli, encerrando a área de trezentos e trinta metros quadrados. Cadastro Municipal: 02.018.022.00 (Av.3).      Obs.: Conforme laudo de avaliação fls. 234-237 e 242-245, trata-se de imóvel residencial em um pavimento, contem 03 dormitórios (suíte), sala, copa, cozinha, 03 banheiros, quintal, lavanderia, edícula com dependência para empregado, 02 vagas na garagem, encontra-se em bom estado de conservação, acabamento de boa qualidade, aparentemente passou por reformas recentes, apenas aparentando a necessidade de pintura externa.      Ônus e gravames: De acordo com matrícula atualizada, consta na AV.13 PENHORA oriunda dos autos da presente ação. Conforme consulta realizada junto aos Órgãos competentes, sobre o imóvel recaem débitos de IPTU no valor de R$ 2.687,44, atualizados até maio de 2024, que sub-rogarão no preço da arrematação.     Valor da Avaliação: R$ 729.833,33 (setecentos e vinte e nove mil, oitocentos e trinta e três reais e trinta e três centavos) em dezembro de 2023, e que será atualizada pelos índices adotados no TJSP até a data da praça.  Michael Benedict Kadri Espólio de Deusdedit de Andrade Ribeiro na pessoa do inventariante Robson de Andrade Ribeiro; Simone Aparecida de Campos Silva Simone Aparecida de Campos Silva Luis Rogerio Costa Prado Valle 2ª Vara Judicial da Comarca de Aparecida/SP 1000082-66.2019.8.26.0028
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></Description>
+        <ListPrice currency="BRL">729833.33</ListPrice>
+        <LivingArea unit="square metres">330</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>Guaratinguetá</City>
+        <Address />
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
