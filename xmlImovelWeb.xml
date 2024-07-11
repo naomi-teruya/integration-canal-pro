@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1720696816992</dataModificacao>
+  <dataModificacao>1720696920898</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3276296]]></codigoAnuncio>
@@ -29467,6 +29467,204 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Joao Serrano, 248]]></endereco>
         <localidade><![CDATA[Parque Bitaru, São Vicente, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[11330390]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3334097]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3334097]]></codigoReferencia>
+      <titulo><![CDATA[Casa 140m², Gloria, Joinville/SC]]></titulo>
+      <descricao><![CDATA[Casa 140m², Gloria, Joinville/SC     Casa - no Glória     Localização: Rua Alberto Ponick, 179, Casa 01, Glória, Joinville/SC, 89216-368     Área Terreno: 197m²  Área Construída: 140m²     Matrícula: nº 57.086  RGI: 2º Oficial de Registro de Imóveis de Joinville/SC  Inscrição Prefeitura: 09.20.20.42.7243.0002     DOSSIÊ: 02.21069     *Recai sobre o imóvel a ação nº 5032457-37.2023.8.24.0038.*     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/Jul/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 915.797,01     2ª Praça:  Abertura: 22/Jul/2024 a partir das 10h51  Fechamento: 24/Jul/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 892.673,86     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.      02.21069 Santander - Alienação Fiduciária - D.02.21069]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[140]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>915797.01</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/69a6970d-6c32-4e8e-8fc8-5605a1864004.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/df2b3ea4-c24b-4a01-803e-ab7a6bca78fd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8f3eab11-f5a0-4665-9818-33bfaa9c9360.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Alberto Ponick, 179]]></endereco>
+        <localidade><![CDATA[Glória, Joinville, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[89216-368]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3335900]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3335900]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 24m², Guarujá, Parobe/RS]]></titulo>
+      <descricao><![CDATA[Apto. 24m², Guarujá, Parobe/RS  Apartamento - no Guarujá     Localização: Rua Erno Oscar Ludwig, nº 146, Residencial Visão, Guarujá, Parobe/RS, 95630-000     Área Privativa: 24m²     Matrícula: nº 4.295  RGI: Oficial de Registro de Imóveis de Parobé/RS  Inscrição Prefeitura: 11682014169     DOSSIÊ: 02.22059     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/Jul/2024 a partir das 11h20 com Valor Mínimo de Venda de R$ 100.000,00     2ª Praça:  Abertura: 22/Jul/2024 a partir das 11h21  Fechamento: 24/Jul/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 74.230,74  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 26% de deságio sobre o valor de avaliação.   222.059 Santander - Alienação Fiduciária - D.02.22059]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[24]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>100000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/43685c69-91cb-4a42-bab5-dfd1a2127414.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8cb496a5-3761-4ae4-9539-6a372ca93dbc.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/a8867647-1a16-4ae9-904c-49af3331773d.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Erno Oscar Ludwig, 146]]></endereco>
+        <localidade><![CDATA[Guarujá, Parobé, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[95630-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3334057]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3334057]]></codigoReferencia>
+      <titulo><![CDATA[Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP  Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP     Localização: Avenida Tiradentes, nº 1.508, Apto nº 74, Tipo A, Torre II, do Condomínio Residencial Mérito, 5° Subdistrito - Santa Efigênia, em São Paulo/SP CEP: 01102-000     área privativa de 64,057m²  área comum coberta de 11,695m²  área comum descoberta de 26,054m²  área de vaga de garagem de 9,240m², área comum total de 46,989m² (já incluída uma vaga indeterminada área total de 111,046m²     Matrículas: 87.877 do 5º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 018.006.0289-8     DOSSIÊ: 02.21289     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 30/08/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 614.243,94     2ª Praça:  Abertura: 30/08/2024 a partir das 09h41  Fechamento: 02/09/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 212.500,00     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 65% de deságio sobre o valor de avaliação.   02.21289 Santander - Alienação Fiduciária - D.02.21289]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[64]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>614243.94</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1c8b40a8-d314-42d2-b0f4-59e33f136385.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4cd83a94-403c-444d-8a0c-5e7a22b55f00.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ca33b47e-f3ca-473d-8285-1dfe9da272cc.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Avenida Tiradentes, 1508]]></endereco>
+        <localidade><![CDATA[Santa Efigênia, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[01102-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
