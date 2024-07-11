@@ -13937,7 +13937,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Cuiabá</City>
         <Address>Avenida Jose Rodrigues Do Prado</Address>
         <StreetNumber>41</StreetNumber>
-        <PostalCode>78000-000</PostalCode>
+        <PostalCode>78000000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -13975,7 +13975,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <City>Candeias</City>
         <Address>Rua Professor Silvio Rabelo</Address>
         <StreetNumber>1.080</StreetNumber>
-        <PostalCode>54440-290</PostalCode>
+        <PostalCode>54440290</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -14009,7 +14009,7 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">Paraná</State>
         <City>Alto Paraná</City>
-        <Address>Rua Itália</Address>
+        <Address>Rua Italia</Address>
         <StreetNumber>3165</StreetNumber>
         <PostalCode>87750-000</PostalCode>
       </Location>
@@ -14343,6 +14343,111 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua Joao Serrano</Address>
         <StreetNumber>248</StreetNumber>
         <PostalCode>11330390</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3334097</ListingID>
+      <Title>Casa 140m², Gloria, Joinville/SC</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3334097</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/69a6970d-6c32-4e8e-8fc8-5605a1864004.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/df2b3ea4-c24b-4a01-803e-ab7a6bca78fd.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/8f3eab11-f5a0-4665-9818-33bfaa9c9360.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 140m², Gloria, Joinville/SC     Casa - no Glória     Localização: Rua Alberto Ponick, 179, Casa 01, Glória, Joinville/SC, 89216-368     Área Terreno: 197m²  Área Construída: 140m²     Matrícula: nº 57.086  RGI: 2º Oficial de Registro de Imóveis de Joinville/SC  Inscrição Prefeitura: 09.20.20.42.7243.0002     DOSSIÊ: 02.21069     *Recai sobre o imóvel a ação nº 5032457-37.2023.8.24.0038.*     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/Jul/2024 a partir das 10h50 com Valor Mínimo de Venda de R$ 915.797,01     2ª Praça:  Abertura: 22/Jul/2024 a partir das 10h51  Fechamento: 24/Jul/2024 a partir das 14h50 com Valor Mínimo de Venda de R$ 892.673,86     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.      02.21069 Santander - Alienação Fiduciária - D.02.21069]]></Description>
+        <ListPrice currency="BRL">915797.01</ListPrice>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">Santa Catarina</State>
+        <City>Joinville</City>
+        <Address>Rua Alberto Ponick</Address>
+        <StreetNumber>179</StreetNumber>
+        <PostalCode>89216-368</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3335900</ListingID>
+      <Title>Apto. 24m², Guarujá, Parobe/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3335900</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/43685c69-91cb-4a42-bab5-dfd1a2127414.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8cb496a5-3761-4ae4-9539-6a372ca93dbc.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a8867647-1a16-4ae9-904c-49af3331773d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto. 24m², Guarujá, Parobe/RS  Apartamento - no Guarujá     Localização: Rua Erno Oscar Ludwig, nº 146, Residencial Visão, Guarujá, Parobe/RS, 95630-000     Área Privativa: 24m²     Matrícula: nº 4.295  RGI: Oficial de Registro de Imóveis de Parobé/RS  Inscrição Prefeitura: 11682014169     DOSSIÊ: 02.22059     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 22/Jul/2024 a partir das 11h20 com Valor Mínimo de Venda de R$ 100.000,00     2ª Praça:  Abertura: 22/Jul/2024 a partir das 11h21  Fechamento: 24/Jul/2024 a partir das 15h20 com Valor Mínimo de Venda de R$ 74.230,74  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 26% de deságio sobre o valor de avaliação.   222.059 Santander - Alienação Fiduciária - D.02.22059]]></Description>
+        <ListPrice currency="BRL">100000</ListPrice>
+        <LivingArea unit="square metres">24</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">Rio Grande do Sul</State>
+        <City>Parobé</City>
+        <Address>Rua Erno Oscar Ludwig</Address>
+        <StreetNumber>146</StreetNumber>
+        <PostalCode>95630-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3334057</ListingID>
+      <Title>Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3334057</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/1c8b40a8-d314-42d2-b0f4-59e33f136385.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4cd83a94-403c-444d-8a0c-5e7a22b55f00.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/ca33b47e-f3ca-473d-8285-1dfe9da272cc.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description><![CDATA[Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP  Apto 64m², 1 Vaga, Ocupado, em São Paulo/SP     Localização: Avenida Tiradentes, nº 1.508, Apto nº 74, Tipo A, Torre II, do Condomínio Residencial Mérito, 5° Subdistrito - Santa Efigênia, em São Paulo/SP CEP: 01102-000     área privativa de 64,057m²  área comum coberta de 11,695m²  área comum descoberta de 26,054m²  área de vaga de garagem de 9,240m², área comum total de 46,989m² (já incluída uma vaga indeterminada área total de 111,046m²     Matrículas: 87.877 do 5º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 018.006.0289-8     DOSSIÊ: 02.21289     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 30/08/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 614.243,94     2ª Praça:  Abertura: 30/08/2024 a partir das 09h41  Fechamento: 02/09/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 212.500,00     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net ou Tel: (11) 4950-9602.     Percentual de desconto: 65% de deságio sobre o valor de avaliação.   02.21289 Santander - Alienação Fiduciária - D.02.21289]]></Description>
+        <ListPrice currency="BRL">614243.94</ListPrice>
+        <LivingArea unit="square metres">64</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">São Paulo</State>
+        <City>São Paulo</City>
+        <Address>Avenida Tiradentes</Address>
+        <StreetNumber>1.508</StreetNumber>
+        <PostalCode>01102-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
