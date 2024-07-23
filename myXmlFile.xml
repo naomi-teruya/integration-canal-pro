@@ -4211,43 +4211,6 @@ Observação: essas são as características originais do imóvel, que podem ter
       </ContactInfo>
     </Listing>
     <Listing xmlns="">
-      <ListingID>3312268</ListingID>
-      <Title>Terreno com 89,1033HA Ocupado na Fazenda Salto Grande em Braunas/MG</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3312268</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c4dbcfc8-8d7d-4902-a820-e5e58a130240.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/9d42c287-59da-43be-9076-e6602bed50e9.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d0e4f8ba-9ab8-4861-bcb6-ce98fe49145b.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8a61f230-a247-45b7-8d57-73e9b00fdd70.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/bf4dcd90-7d1a-487a-b07d-76a5b879768e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Land Lot</PropertyType>
-        <Description><![CDATA[Terreno com 89,1033HA Ocupado na Fazenda Salto Grande em Braunas/MG   Terreno com 89,1033HA Ocupado na Fazenda Salto Grande em Bráunas/MG      Localização: Rodovia MG 779, Vila Residencial Usina Salto Grande denominado Fazenda Salto Grande - Gleba 01, Braúna/MG         Matrícula: nº 20816   Valor ITR anual: aproximadamente R$ 38,00      Imóvel ocupado, a desocupação correrá por conta do adquirente   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Informações Relevantes:    1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");   2 - FORMA DE PAGAMENTO: À vista ou Financiado conforme condições do Edital.   3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor)   4 - Os débitos de IPTU/ITR e condomínio (se o caso) serão quitados pelo vendedor conforme disposto em Edital   5 - O imóvel possui 03 (três) invasões com benfeitorias próprias, sendo que aproximadamente 2.500m² está ocupado por duas famílias e aproximadamente 5.000m² ocupado por uma terceira família.   6 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Porto Estrela/Ipatinga 1, com área de 2,2271ha.   7 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Porto Estrela/Itabira, com área de 1,6999ha.   8 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Salto Grande/Guanhães, com área de 1,0492ha.   9 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Salto Grande/Guanhães, com área de 0,1292ha.   10 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Salto Grande/Ipatinga 2, com área de 0,4868ha.   11 - Dentro do perímetro desse imóvel existe uma faixa de servidão referente à LT Salto Grande/Ipatinga 2, com área de 0,5674ha.   12 - Existe Área de Reserva Legal de 44,0736ha e Área de Preservação Permanente de 10,5533ha, ambas registradas na matrícula do imóvel.   13 - Quando da transferência de titularidade do bem, todas as servidões serão averbadas na matrícula do imóvel em favor da Cemig ou da empresa do Grupo Cemig detentora dos direitos de servidão   14 - O comprador não terá, em qualquer hipótese, direito à restituição do preço ou qualquer indenização por prejuízos relacionados à aquisição do imóvel licitado   15 - Os custos de lavratura da Escritura, registro, certidão e ITBI, são de aproximadamente no valor de R$ 41.500,00, que deverão ser pagos pelo ARREMATANTE junto com o valor de arrematação.      Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  64986 CEMIG - Imóveis Residenciais, Comerciais e Terreno]]></Description>
-        <ListPrice currency="BRL">940000</ListPrice>
-        <LivingArea unit="square metres">891033 m²</LivingArea>
-        <Bedrooms>0</Bedrooms>
-        <Bathrooms>0</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MG">Minas Gerais</State>
-        <City>Braúna</City>
-        <Address>Rodovia MG 779</Address>
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing xmlns="">
       <ListingID>3324343</ListingID>
       <Title>Casa 49m², Nova Cidade, Macaé/RJ</Title>
       <TransactionType>For Sale</TransactionType>
@@ -11880,6 +11843,39 @@ Observação: essas são as características originais do imóvel, que podem ter
         <Address>Rua Antonio Milena</Address>
         <StreetNumber>875</StreetNumber>
         <PostalCode>14080-560</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing xmlns="">
+      <ListingID>3340344</ListingID>
+      <Title>Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3340344</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ce2e2fd2-0606-4e04-859a-f6fe74098674.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado  Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado     Localização:&nbsp;Rua Projetada I,&nbsp;nº 50, Bairro Centro, em Cabeceiras do Piauí/PI - CEP: 64105-000     área útil: 55,35m²  área total: 127,50m²     Matrícula: nº 280  RGI: Oficial de Registro de Imóveis de Cabeceiras do Piauí/PI  Inscrição Prefeitura: 000001073     DOSSIÊ: 02.22436     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.        O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 25/julho/2024 a partir das 09h10 com Valor Mínimo de Venda de R$ 127.000,00     2ª Praça:  Abertura: 25/julho/2024 a partir das 09h11  Fechamento: 26/julho/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 114.357,74  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  &nbsp;  Percentual de desconto: 10% de deságio sobre o valor de avaliação.   02.22436 Santander - Alienação Fiduciária - D.02.22436]]></Description>
+        <ListPrice currency="BRL">127000</ListPrice>
+        <LivingArea unit="square metres">127</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PI">Piauí</State>
+        <City>Cabeceiras do Piauí</City>
+        <Address>Rua Projetada I</Address>
+        <StreetNumber>50</StreetNumber>
+        <PostalCode>64105-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
