@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1721648940147</dataModificacao>
+  <dataModificacao>1721734155948</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3276296]]></codigoAnuncio>
@@ -24613,6 +24613,66 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Antonio Milena, 875]]></endereco>
         <localidade><![CDATA[Campos Elíseos, Ribeirão Preto, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[14080-560]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3340344]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3340344]]></codigoReferencia>
+      <titulo><![CDATA[Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado  Casa 127m² no bairro Centro em Cabeceiras do Piauí/PI - Ocupado     Localização:&nbsp;Rua Projetada I,&nbsp;nº 50, Bairro Centro, em Cabeceiras do Piauí/PI - CEP: 64105-000     área útil: 55,35m²  área total: 127,50m²     Matrícula: nº 280  RGI: Oficial de Registro de Imóveis de Cabeceiras do Piauí/PI  Inscrição Prefeitura: 000001073     DOSSIÊ: 02.22436     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.        O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 25/julho/2024 a partir das 09h10 com Valor Mínimo de Venda de R$ 127.000,00     2ª Praça:  Abertura: 25/julho/2024 a partir das 09h11  Fechamento: 26/julho/2024 a partir das 13h10 com Valor Mínimo de Venda de R$ 114.357,74  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  &nbsp;  Percentual de desconto: 10% de deságio sobre o valor de avaliação.   02.22436 Santander - Alienação Fiduciária - D.02.22436]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[127]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>127000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ce2e2fd2-0606-4e04-859a-f6fe74098674.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Projetada I, 50]]></endereco>
+        <localidade><![CDATA[Centro, Cabeceiras do Piauí, Piauí, Brasil]]></localidade>
+        <codigoPostal><![CDATA[64105-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
