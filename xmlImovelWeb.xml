@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1723502284384</dataModificacao>
+  <dataModificacao>1723548568840</dataModificacao>
   <Imoveis>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3327278]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3327278]]></codigoReferencia>
-      <titulo><![CDATA[Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão]]></titulo>
-      <descricao><![CDATA[Imóvel Residencial, A.T. 330m², A.C. 315m², 3 dorms., Edícula, 2 vagas, Campo do Galvão  Imóvel da matrícula 7.791, CRI de Guaratinguetá/SP, a seguir descrito: Uma casa de morada e respectivo terreno, situado nesta cidade, à rua Benedito dos Reis, número cento e trinta e nove-139-, medindo o respectivo terreno dez metros de frente para a rua acima mencionada, igual largura na linha dos fundos, onde confronta com propriedade de Geralda Ricciulli Zago sucessora de Miguel Ricciulli, por trinta e quatro metros e cinquenta centímetros da frente aos fundos, do lado direito de quem olha da rua Benedito dos Reis para o imóvel, onde confronta com propriedade de José Roberto Fortunato e José Hayrton dos Santos sucessores de Miguel Ricciulli e do lado esquerdo trinta e um metros e cinquenta centímetros, onde confronta com propriedade de José Hayrton dos Santos, sucessor de Miguel Ricciulli, encerrando a área de trezentos e trinta metros quadrados. Cadastro Municipal: 02.018.022.00 (Av.3).      Obs.: Conforme laudo de avaliação fls. 234-237 e 242-245, trata-se de imóvel residencial em um pavimento, contem 03 dormitórios (suíte), sala, copa, cozinha, 03 banheiros, quintal, lavanderia, edícula com dependência para empregado, 02 vagas na garagem, encontra-se em bom estado de conservação, acabamento de boa qualidade, aparentemente passou por reformas recentes, apenas aparentando a necessidade de pintura externa.      Ônus e gravames: De acordo com matrícula atualizada, consta na AV.13 PENHORA oriunda dos autos da presente ação. Conforme consulta realizada junto aos Órgãos competentes, sobre o imóvel recaem débitos de IPTU no valor de R$ 2.687,44, atualizados até maio de 2024, que sub-rogarão no preço da arrematação.     Valor da Avaliação: R$ 729.833,33 (setecentos e vinte e nove mil, oitocentos e trinta e três reais e trinta e três centavos) em dezembro de 2023, e que será atualizada pelos índices adotados no TJSP até a data da praça.  Michael Benedict Kadri Espólio de Deusdedit de Andrade Ribeiro na pessoa do inventariante Robson de Andrade Ribeiro; Simone Aparecida de Campos Silva Simone Aparecida de Campos Silva Luis Rogerio Costa Prado Valle 2ª Vara Judicial da Comarca de Aparecida/SP 1000082-66.2019.8.26.0028
-Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[330]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>729833.33</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f96a9142-58a7-496a-9387-208aa5a6c385.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/791669c9-141b-4e0c-a41c-0a13064599cf.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/812419e4-fcc6-441f-b99f-3db82860adc9.jpg]]></urlImagem>
-          </imagem>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c9307112-1739-4355-bc85-2d2d98ff1f44.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[,]]></endereco>
-        <localidade><![CDATA[, Guaratinguetá, São Paulo, Brasil]]></localidade>
-        <codigoPostal />
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
     <Imovel>
       <codigoAnuncio><![CDATA[3327278]]></codigoAnuncio>
       <codigoReferencia><![CDATA[3327278]]></codigoReferencia>
@@ -1398,6 +1328,640 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Adelino De Almeida Castilho, 211]]></endereco>
         <localidade><![CDATA[Tatuapé, São Paulo, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[03073050]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3365320]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3365320]]></codigoReferencia>
+      <titulo><![CDATA[Imóvel Comercial 4.000m², Desocupado em Campo Ere/SC]]></titulo>
+      <descricao><![CDATA[Imóvel Comercial 4.000m², Desocupado em Campo Ere/SC  Imóvel Comercial 4.000m², Desocupado em Campo Ere/SC - Lotes urbanos nº 05, 07, 09 e 11, da quadra 29, com as respectivas áreas 800m², 800m², 1200m², 1200m², perfazendo em conjunto a área superficial total de 4.000m², situado a Travessa 02, esquina com a Rua Coração de Jesus, no Bloco B, da Fazenda Saudades, nesta cidade e comarca de Campo Erê, confrontado em conjunto: ao Norte, com a Rua Coração de Jesus, com 60 metros; ao Sul com os lotes Urbanos nºs 02 e 03, com 60 metros; ao leste com parte do lote urbano nº 02, 10,00 metros, e com o lote urbano nº 13, com 60,00 metros, e ao Oeste com a Travessa nº 02, com 70,00 metros. Conforme Av.02, foi construído um Silo em alvenaria com 800m². Conforme Av.11, foi construído um barracão em alvenaria exclusivamente para deposito com área de 369m². Matrícula nº 3675 do Cartório de Oficio de Registro de Imóveis de Campo Erê/SC. Cadastrado na Prefeitura Municipal sob n°s 1687-0 / 1689-0 / 1691-0 / 1693-0.     Imóvel Desocupado.     O imóvel será entregue livre de quaisquer débitos de IPTU.     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - Condição de Pagamento: À vista (sem desconto), com Sinal de 10% e o restante após a baixa da averbação 52 - vide informações completas no edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  4 - Existe mais áreas construída não averbadas na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes. A SOLD, O Leiloeiro e a comitente vendedora não se responsabilizam por eventuais incorreções.  5 - Endereço atual do imóvel não averbado na Matrícula. Caberá ao arrematante a realização da respectiva averiguação, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes.  6 - Ação mencionada na matricula Av.52, será responsabilidade do vendedor a baixa da averbação.     Valor de avaliação: R$ 3.890.000,00 - percentual de desconto: 23% de deságio sobre o valor de avaliação.     Para maiores informações e/ou dúvidas relativas ao edital por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - (11) 4950-9602.   CHS - Imóvel Comercial em SC]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[4000]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>3000000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c17d4858-ac0f-4dcf-9852-c023418cad71.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/9bffa69a-2083-430a-8155-d1d1b5afbcf1.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e170b72e-abdc-41bc-814e-5f923a690f01.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0e8b3904-40d1-483a-b5d2-3697bdea3207.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/879a4c08-775b-475d-89f8-3ba221999844.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/558f76f5-b2d3-454e-bb45-1b7fdce3265e.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f8ec6d80-0370-4ed3-9b0b-88f2cc381a63.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3846e582-f2e4-40ba-b9b6-cb7103007754.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/5202ca70-8e2b-49bc-af0e-2de2a1298b01.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b896b992-b7f1-4958-b34a-ad23f684b7cd.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/95f69636-dcbe-4e8f-a614-cb39adbaec60.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cbbd8c5a-8dec-452b-bcef-f9cab8e085df.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/162164aa-e411-475f-a936-0756ccb77b21.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/10c61656-2c37-4a5b-b41e-da30b671fba5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/4c407b2f-6f17-46fa-afba-9abc587a3898.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/1ba75693-db61-4f49-a420-8db42408a09f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ad2d5e4b-508d-4fea-bee0-bbc88f49f10d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/48b9a7f9-4d90-4c50-9cff-7d0131f9a236.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Dionisio Cerqueira, 5, 7, 9 e 11]]></endereco>
+        <localidade><![CDATA[Centro, Campo Ere, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[89638-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3364800]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3364800]]></codigoReferencia>
+      <titulo><![CDATA[Casa 138m², Ocupado, em Juara/MT]]></titulo>
+      <descricao><![CDATA[Casa 138m², Ocupado, em Juara/MT  Casa 138m², Ocupado, em Juara/MT     Localização: Rua José Pedro Dias, Lote 05-A, Quadra 164, Centro, em Juara/MT - CEP: 78575-000     área de terreno de 210,00m²  área construída de 138,82m²     Matrícula nº: 16.658 do 1º Oficial de Registro de Imóveis de Juara/MT  Inscrição Prefeitura: 001.03.16401.05-A.001     DOSSIÊ: 02.22604     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 23/08/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 655.820,55     2ª Praça:  Abertura: 23/08/2024 a partir das 09h31  Fechamento: 26/08/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 351.016,16     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 46% de deságio sobre o valor de avaliação.   02.22604 Santander - Alienação Fiduciária - D.02.22604]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[138]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>655820.55</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/cad5a54c-233b-4791-bd58-6eafb532e0a2.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Pedro Dias, 170-S]]></endereco>
+        <localidade><![CDATA[Centro, Juara, Mato Grosso, Brasil]]></localidade>
+        <codigoPostal><![CDATA[78575-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3364802]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3364802]]></codigoReferencia>
+      <titulo><![CDATA[Apto 108m², 1 vaga, Ocupado, Bairro Tapajós, em Indaial/SC]]></titulo>
+      <descricao><![CDATA[Apto 108m², 1 vaga, Ocupado, Bairro Tapajós, em Indaial/SC  Apto 108m², 1 vaga, Ocupado, Bairro Tapajós, em Indaial/SC     Localização: Rua Porto Alegre, n° 46, apto nº 401, Edifício Residencial Floratta, Bairro Tapajós, Indaial/SC - CEP: 89080-193     área privativa de 108,96m²  área de uso comum de 30,65m²  área total construída de 139,61m²     Vaga  área privativa de 25,00m²  área de uso comum de 5,50m²  área total construída de 30,50m²     Matrículas nºs: 34.425 e 34.388 do Oficial de Registro de Imóveis de Indaial/SC,  Inscrição Prefeitura: nºs 01.02.003.0318.013 e 01.02.003.0318.033     DOSSIÊ: 02.22213     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/08/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 521.355,56     2ª Praça:  Abertura: 21/08/2024 a partir das 10h21  Fechamento: 23/08/2024 a partir das 14h20 com Valor Mínimo de Venda de R$ 431.247,67     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 17% de deságio sobre o valor de avaliação.   02.22213 Santander - Alienação Fiduciária - D.02.22213]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[108]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>521355.56</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c6da9ec2-55e8-4091-a432-9567359a3698.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/dbd11ccf-f972-4697-b66d-cdcad38d4b74.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Porto Alegre, 46]]></endereco>
+        <localidade><![CDATA[Tapajós, Indaial, Santa Catarina, Brasil]]></localidade>
+        <codigoPostal><![CDATA[89080-193]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3364798]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3364798]]></codigoReferencia>
+      <titulo><![CDATA[Casa 174m², Ocupado, em Taubaté/SP]]></titulo>
+      <descricao><![CDATA[Casa 174m², Ocupado, em Taubaté/SP  Casa 174m², Ocupado, em Taubaté/SP     Localização: Rua José Clemente Pereira, nº 148, Vila Santa Isabel, Taubaté/SP - CEP: 12050-530     área de terreno de 180,00m²  área construída de 174,00m²(conforme laudo)     Matrícula nº: 26.042 do Oficial de Registro de Imóveis de Taubaté/SP  Inscrição Prefeitura: 4.2.009.080.001     DOSSIÊ: 02.22451     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 02/10/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 845.497,66     2ª Praça:  Abertura: 02/10/2024 a partir das 09h51  Fechamento: 04/10/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 672.166,96     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 21% de deságio sobre o valor de avaliação.   02.22451 Santander - Alienação Fiduciária - D.02.22451]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[174]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>845497.66</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e3ae4e17-6573-49c2-95c1-ec29f6b8db09.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/64af381b-57cd-47a5-adf8-d3237212e02d.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44af9e8a-d5ec-4cae-b081-1108b0c8eea5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1f9c5d9-331c-4394-bf13-9b1835065d9e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua José Clemente Pereira, 148]]></endereco>
+        <localidade><![CDATA[Vila Santa Isabel, Taubaté, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[12050-530]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3363552]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3363552]]></codigoReferencia>
+      <titulo><![CDATA[Casa 95m² na Lagoa no Rio Grande/RS - Ocupado]]></titulo>
+      <descricao><![CDATA[Casa 95m² na Lagoa no Rio Grande/RS - Ocupado  Casa 95m² na Lagoa no Rio Grande/RS - Ocupado     Localização: Rua Visconde de Rio Branco, nº 969, bairro Lagoa, Rio Grande/RS, CEP: 96211-011     Área Construída: 95,39m²  Área Total: 216m²     Matrícula: nº 41.003  RGI: Cartório de Registro de Imóveis do Rio Grande/RS  Inscrição Prefeitura: 222258     Recai sobre o imóvel as ações nºs 5025895-75.2022.8.21.0023, 5021767-75.2023.8.21.0023 e 5025116-86.2023.8.21.0023     DOSSIÊ: 02.20406     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 17/Set/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 457.420,63.     2ª Praça:  Abertura: 17/Set/2024 a partir das 09h51  Fechamento: 19/Set/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 172.613,23     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 62% de deságio sobre o valor de avaliação.   02.20406 Santander - Alienação Fiduciária - D.02.20406]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[95]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>457420.63</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/bd3ff7d4-03ad-4f9d-8320-bd06a8d328ad.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Visconde de Rio Branco, 969]]></endereco>
+        <localidade><![CDATA[Lagoa, Rio Grande, Rio Grande do Sul, Brasil]]></localidade>
+        <codigoPostal><![CDATA[96211-011]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3363788]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3363788]]></codigoReferencia>
+      <titulo><![CDATA[Casa 145m², Ocupada em Ilha de Itamaracá/PE]]></titulo>
+      <descricao><![CDATA[Casa 145m², Ocupada em Ilha de Itamaracá/PE  Casa 145m², Ocupada em Ilha de Itamaracá/PE     Localização: Rua Senador Paulo Pessoa Guerra, n° 406, lote nº 12, Quadra D, Baixa Verde, Ilha de Itamaracá/PE - CEP: 53900-000     área de terreno de 300,00m²  área construída de 145,00m²     Matrícula: nº 29 do Oficial de Registro de Imóveis de Ilha de Itamaracá/PE  Inscrição Prefeitura: 1.4025.070.03.0340.000     DOSSIÊ: 02.22590     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 20/08/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 348.287,40     2ª Praça:  Abertura: 20/08/2024 a partir das 09h41  Fechamento: 22/08/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 254.378,21     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 17% de deságio sobre o valor de avaliação.   02.22590 Santander - Alienação Fiduciária - D.02.22590]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[145]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>348287.4</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/449b6a6b-5aa9-4e57-ae17-224a5ffca2f5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/fa29d6d5-55a3-4ed3-a0d9-d632a828bf55.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b1149a19-b7eb-44b4-845c-1eb19656d1a6.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0fb68d57-f1e8-4828-9a9d-2a9856447c88.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Senador Paulo Pessoa Guerra, 406]]></endereco>
+        <localidade><![CDATA[Baixa Verde, Ilha de Itamaracá, Pernambuco, Brasil]]></localidade>
+        <codigoPostal><![CDATA[53900-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3363476]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3363476]]></codigoReferencia>
+      <titulo><![CDATA[Apto 24m², 1 Vaga, Ocupado, em Guapurá, Itanhaém/SP]]></titulo>
+      <descricao><![CDATA[Apto 24m², 1 Vaga, Ocupado, em Guapurá, Itanhaém/SP  Apto 24m², 1 Vaga, Ocupado, em Guapurá, Itanhaém/SP     Localização: Rua Sineval Caviquioli, n° 72, Apto nº 13, Bloco 1, Conjunto Residencial Cores do Mar Turquesa, Bairro Guapurá em Itanhaém/SP - CEP: 11740-000     área privativa de 24,150m²  área comum de 37,844m²  área total de 61,994m²     Matrícula nº: 241.342 do Oficial de Registro de Imóveis de Itanhaém/SP  Inscrição Prefeitura: 097.010.001.0009.139746     DOSSIÊ: 02.22403     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.  O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 19/08/2024 a partir das 11h30 com Valor Mínimo de Venda de R$ 115.285,07     2ª Praça:  Abertura: 19/08/2024 a partir das 11h31  Fechamento: 21/08/2024 a partir das 15h30 com Valor Mínimo de Venda de R$ 117.774,22     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.   02.22403 Santander - Alienação Fiduciária - D.02.22403]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[24]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>115285.07</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/21691501-e294-4857-9d07-bae6d5ef29ff.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c07e7472-b243-4e6c-b20b-998c71e6989c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/2cfa0e3f-5ccf-4165-8fb7-a7d471b6d354.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Sineval Caviquioli, 72]]></endereco>
+        <localidade><![CDATA[Guapurá, Itanhaém, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11740-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3367207]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3367207]]></codigoReferencia>
+      <titulo><![CDATA[Salas Comerciais, 158m², (4 salas unificadas), em Salvado/BA]]></titulo>
+      <descricao><![CDATA[Salas Comerciais, 158m², (4 salas unificadas), em Salvado/BA  Salas Comerciais, 158m² (4 salas unificadas), em Salvador/BA     Localização: Rua da Grecia, 165, Salas 407,408,409 e 410, Edificio Serra da Raiz, Comércio - Salvador/BA - CEP 40010-010     Matrículas nºs: 10.700 / 10.701 / 10.702 / 10.703 do 4º Oficio de Registro de Imóveis da BA     Imóvel em Desocupação - Será entregue Desocupado     Prédio Próximo a comércios e com facilidade de transporte público.     O imóvel será entregue livre de débitos de IPTU e Condomínio. Valor aproximando de IPTU anual das salas R$ 5.300,00. Valor aproximado de Condomínio mensal das salas R$ 2.900,00     Informações Relevantes:  1 - Eventuais débitos existentes até a data do leilão (inclusive) serão de responsabilidade da comitente vendedora.  2 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  3 - CONDIÇÕES DE PAGAMENTO: À vista  4 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor).  5 - Para maiores informações e visita, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel : 4950-9602  6 - Caberá ao arrematante a realização da respectiva averiguação referente à área do imóvel, bem como regularização e quaisquer custos envolvidos para tal, junto aos órgãos competentes     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.   SULNORTE
+H Dantas Sold Imóveis - Salas Comerciais, em Salvado/BA]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[158]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>240000</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/77b48699-1998-4ed4-ae3f-2dfd46c1c754.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/b8997551-931c-4611-9915-b44faef98aba.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d02b7c8c-3a1f-488e-877b-22b2366b8015.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/0a1666d0-5671-4875-8799-88c45ee4181e.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua da Grecia, 165]]></endereco>
+        <localidade><![CDATA[Comércio, Salvador, Bahia, Brasil]]></localidade>
+        <codigoPostal><![CDATA[40010-010]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3368106]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3368106]]></codigoReferencia>
+      <titulo><![CDATA[Apto. 68m², 1 vaga no Brás, São Paulo/SP]]></titulo>
+      <descricao><![CDATA[Apto. 68m², 1 vaga no Brás, São Paulo/SP     Apartamento - Brás     Localização: Rua Piratininga, 201, Brás, São Paulo/SP, 03042-001     Área Privativa: 68m²  Área Comum: 47m²  1 vaga     Matrícula: nº 147.439  RGI: 3º Oficial de Registro de Imóveis de São Paulo/SP  Inscrição Prefeitura: 003.015.0382-6     DOSSIÊ: 02.22040     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 21/Ago/2024 a partir das 10h00 com Valor Mínimo de Venda de R$ 505.114,00     2ª Praça:  Abertura: 21/Ago/2024 a partir das 10h01  Fechamento: 23/Ago/2024 a partir das 14h00 com Valor Mínimo de Venda de R$ 257.694,62        Informações Relevantes:   1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 49% de deságio sobre o valor de avaliação.  02.22040 Santander - Alienação Fiduciária - D.02.22040]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[68]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>505114</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/11733db6-6715-4d20-9a7e-a5d37615f3a5.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f9132bb5-3635-4425-8534-4efce363fb7c.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8a075e9f-c1b2-4e12-9220-7d865ea1cb18.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Piratininga, 201]]></endereco>
+        <localidade><![CDATA[Brás, São Paulo, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[03042-001]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
