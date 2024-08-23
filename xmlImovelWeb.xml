@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1724343306103</dataModificacao>
+  <dataModificacao>1724430084424</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[3327278]]></codigoAnuncio>
@@ -3346,66 +3346,6 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[Rua Guaranis, 09]]></endereco>
         <localidade><![CDATA[Portal dos Dourados, Paulicéia, São Paulo, Brasil]]></localidade>
         <codigoPostal><![CDATA[17990000]]></codigoPostal>
-        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
-      </localizacao>
-      <publicador>
-        <codigoImobiliaria>47235565</codigoImobiliaria>
-        <emailUsuario>nahteruya@superbid.net</emailUsuario>
-        <emailContato>imoveis.sac@superbid.net</emailContato>
-        <nomeContato>Sold Leilões</nomeContato>
-        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
-      </publicador>
-      <publicacao>
-        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
-      </publicacao>
-    </Imovel>
-    <Imovel>
-      <codigoAnuncio><![CDATA[3359433]]></codigoAnuncio>
-      <codigoReferencia><![CDATA[3359433]]></codigoReferencia>
-      <titulo><![CDATA[Casa 121m² no bairro Parque das Laranjeiras em Rio Verde/GO - Ocupado]]></titulo>
-      <descricao><![CDATA[Casa 121m² no bairro Parque das Laranjeiras em Rio Verde/GO - Ocupado  Casa 121m² no bairro Parque das Laranjeiras em Rio Verde/GO - Ocupado     Localização: Rua dos Xerentes, Quadra 14, Lote 32B, Parque das Laranjeiras - Prolongamento, em Rio Verde/GO - CEP: 75908048     área útil: 121,90m²  área total: 201,32m²     Matrícula: nº 48.488  RGI: Oficial de Registro de Imóveis de Rio Verde/GO  Inscrição Prefeitura: 1.21.112.0475.1.19.001     DOSSIÊ: 02.22586     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 16/ago/2024 a partir das 10h20 com Valor Mínimo de Venda de R$ 308.547,26     2ª Praça:  Abertura: 16/ago/2024 a partir das 10h21  Fechamento: 19/ago/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 184.117,69     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 40% de deságio sobre o valor de avaliação.   02.22586 Santander - Alienação Fiduciária - D.02.22586]]></descricao>
-      <tipoPropriedade>
-        <idTipo><![CDATA[1]]></idTipo>
-        <idSubTipo><![CDATA[5]]></idSubTipo>
-        <tipo><![CDATA[Casa]]></tipo>
-        <subTipo><![CDATA[Padrão]]></subTipo>
-      </tipoPropriedade>
-      <caracteristicas>
-        <caracteristica>
-          <id><![CDATA[CFT3]]></id>
-          <nome><![CDATA[BANHEIRO]]></nome>
-          <valor><![CDATA[1]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT2]]></id>
-          <nome><![CDATA[QUARTO]]></nome>
-          <valor><![CDATA[2]]></valor>
-        </caracteristica>
-        <caracteristica>
-          <id><![CDATA[CFT100]]></id>
-          <nome><![CDATA[AREA_TOTAL]]></nome>
-          <valor><![CDATA[121]]></valor>
-          <idValor><![CDATA[M2]]></idValor>
-        </caracteristica>
-      </caracteristicas>
-      <precos>
-        <preco>
-          <quantidade>308547.26</quantidade>
-          <moeda><![CDATA[BRL]]></moeda>
-          <operacao><![CDATA[VENTA]]></operacao>
-        </preco>
-      </precos>
-      <multimidia>
-        <imagens>
-          <imagem>
-            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/d4ddf67c-ddcf-46f7-bace-0616319e857e.jpg]]></urlImagem>
-          </imagem>
-        </imagens>
-      </multimidia>
-      <localizacao>
-        <endereco><![CDATA[Rua dos Xerentes, Quadra 14, Lote 32B]]></endereco>
-        <localidade><![CDATA[Parque das Laranjeiras - Prolongamento, Rio Verde, Goiás, Brasil]]></localidade>
-        <codigoPostal><![CDATA[75908048]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
@@ -15814,6 +15754,198 @@ Observação: essas são as características originais do imóvel, que podem ter
         <endereco><![CDATA[R. Dr. Mário Augusto Teixeira de Freitas, 391]]></endereco>
         <localidade><![CDATA[Massaranduba, Salvador, Bahia, Brasil]]></localidade>
         <codigoPostal><![CDATA[40435-570]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3378234]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3378234]]></codigoReferencia>
+      <titulo><![CDATA[Casa 390m², Alto da Boa Vista, Ribeirão Preto/SP]]></titulo>
+      <descricao><![CDATA[Casa 390m², Alto da Boa Vista, Ribeirão Preto/SP  Casa - no Alto da Boa Vista     Localização: Av. Vereador Manir Calil, nº 1.084, Alto da Boa Vista, Ribeirão Preto/SP, 14025-170     Área Terreno: 390m²  Área Construída: 292m²     Matrícula: nº 29.366  RGI: 1º Oficial de Registro de Imóveis de Ribeirão Preto/SP  Inscrição Prefeitura: 11178     DOSSIÊ: 02.21324     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 18/Out/2024 a partir das 09h40 com Valor Mínimo de Venda de R$ 1.080.486,32     2ª Praça:  Abertura: 18/Out/2024 a partir das 09h41  Fechamento: 21/Out/2024 a partir das 13h40 com Valor Mínimo de Venda de R$ 415.000,00     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 62% de deságio sobre o valor de avaliação.  02.21324 Santander - Alienação Fiduciária - D.02.21324]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1]]></idTipo>
+        <idSubTipo><![CDATA[5]]></idSubTipo>
+        <tipo><![CDATA[Casa]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[390]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>1080486.32</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/8e0d4a14-432f-4413-81e2-06fa6cf28cdb.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/805584b2-1d78-41fd-8c64-b8965179fdfe.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/f0a1377a-fd00-4e40-9076-5eac1627d3a7.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Av. Vereador Manir Calil, 1084]]></endereco>
+        <localidade><![CDATA[Alto da Boa Vista, Ribeirão Preto, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[14025-170]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3378232]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3378232]]></codigoReferencia>
+      <titulo><![CDATA[Casa 216m², 1 vaga no Jardim Sulacap, Rio de Janeiro/RJ]]></titulo>
+      <descricao><![CDATA[Casa 216m², 1 vaga no Jardim Sulacap, Rio de Janeiro/RJ  Casa - no Jardim Sulacap     Localização: Rua Artur Neiva, 200, apto. 102, Jardim Sulacap, Rio de Janeiro/RJ, 21741-260     Área Privativa: 216m² (Conforme laudo)     Matrícula: nº 205.517  RGI: 8º Oficial de Registro de Imóveis de Rio de Janeiro/RJ  Inscrição Prefeitura: 1414198-0 CL 098004     DOSSIÊ: 02.21956     *Recai sobre o imóvel ação nº 0912118-72.2023.8.19.0001*     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 05/Set/2024 a partir das 09h50 com Valor Mínimo de Venda de R$ 2.222.110,40     2ª Praça:  Abertura: 05/Set/2024 a partir das 09h51  Fechamento: 06/Set/2024 a partir das 13h50 com Valor Mínimo de Venda de R$ 1.393.839,55     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net - Tel: (11) 4950-9602.     Percentual de desconto: 37% de deságio sobre o valor de avaliação.  02.21956 Santander - Alienação Fiduciária - D.02.21956]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[216]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>2222110.4</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/3978c066-048f-4d4e-9586-b0d4d2b5a1af.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/455706d0-ffc0-4def-92db-e981599417df.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c0382681-5d27-4d23-9b05-f20b0deead58.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Artur Neiva, 200]]></endereco>
+        <localidade><![CDATA[Jardim Sulacap, Rio de Janeiro, Rio de Janeiro, Brasil]]></localidade>
+        <codigoPostal><![CDATA[21741-260]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[3377819]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[3377819]]></codigoReferencia>
+      <titulo><![CDATA[Apto 76m² 1 vaga no bairro Canto do Forte em Praia Grande/SP - Ocupado]]></titulo>
+      <descricao><![CDATA[Apto 76m² 1 vaga no bairro Canto do Forte em Praia Grande/SP - Ocupado  Apto 76m² 1 vaga no bairro Canto do Forte em Praia Grande/SP - Ocupado     Localização: Rua Xixová, nº 217, apto 56, Condomínio Residencial Annunciação Roza Gonçalves Faria, Parque Abdenour, na Praia Grande/SP - CEP: 11700430     área útil: 76,4546m²  área total: 104,0578m²  1 vaga     Matrícula: nº 186.512  RGI: Oficial de Registro de Imóveis de Praia Grande/SP  Inscrição Prefeitura: 201010020090056     DOSSIÊ: 02.22504     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 30/agosto/2024 a partir das 10h40 com Valor Mínimo de Venda de R$ 457.371,38     2ª Praça:  Abertura: 30/agosto/2024 a partir das 10h41  Fechamento: 02/setembro/2024 a partir das 14h40 com Valor Mínimo de Venda de R$ 304.707,82     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 33% de deságio sobre o valor de avaliação.   02.22504 Santander - Alienação Fiduciária - D.02.22504]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[2]]></idTipo>
+        <idSubTipo><![CDATA[1]]></idSubTipo>
+        <tipo><![CDATA[Apartamento]]></tipo>
+        <subTipo><![CDATA[Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[1]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[2]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[76]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>457371.38</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/ebc08dd0-d738-471a-a74c-fa459eb10abe.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua Xixová, 217]]></endereco>
+        <localidade><![CDATA[Parque Abdenour, Praia Grande, São Paulo, Brasil]]></localidade>
+        <codigoPostal><![CDATA[11700430]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
       <publicador>
